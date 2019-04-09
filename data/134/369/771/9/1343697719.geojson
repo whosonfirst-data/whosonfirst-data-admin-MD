@@ -1,0 +1,74 @@
+{
+  "id": 1343697719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.22399,46.93761,28.22399,46.93761",
+    "geom:latitude":46.93761,
+    "geom:longitude":28.22399,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Drojdieni",
+    "gn:country_code":"MD",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618368,
+    "gn:latitude":46.93761,
+    "gn:longitude":28.22399,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Drojdieni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043e\u0436\u0434\u0438\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Drozhdiyeny",
+        "Drozhden\u2019",
+        "Drozhdiyany",
+        "Drojdieni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618368
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7b1f31d6d9a264e6503f073d56842937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343697719,
+            "region_id":85686387
+        }
+    ],
+    "wof:id":1343697719,
+    "wof:lastmodified":1537664366,
+    "wof:name":"Drojdieni",
+    "wof:parent_id":85686387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.22399,
+    46.93761,
+    28.22399,
+    46.93761
+],
+  "geometry": {"coordinates":[28.22399,46.93761],"type":"Point"}
+}

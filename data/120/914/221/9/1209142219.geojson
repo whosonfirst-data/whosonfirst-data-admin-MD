@@ -1,0 +1,68 @@
+{
+  "id": 1209142219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.67317,46.69357,28.67317,46.69357",
+    "geom:latitude":46.69357,
+    "geom:longitude":28.67317,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Fetita",
+    "gn:country_code":"MD",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618336,
+    "gn:latitude":46.69357,
+    "gn:longitude":28.67317,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Feti\u0163a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0442\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Fetitsa",
+        "Feti\u0163a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618336
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"38b78614c1360bb2e79fc00ccd5cfe0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209142219
+        }
+    ],
+    "wof:id":1209142219,
+    "wof:lastmodified":1537664364,
+    "wof:name":"Fetita",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67317,
+    46.69357,
+    28.67317,
+    46.69357
+],
+  "geometry": {"coordinates":[28.67317,46.69357],"type":"Point"}
+}

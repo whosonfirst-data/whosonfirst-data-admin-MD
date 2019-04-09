@@ -1,0 +1,118 @@
+{
+  "id": 101863663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.095215,46.590744,29.095215,46.590744",
+    "geom:latitude":46.590744,
+    "geom:longitude":29.095215,
+    "iso:country":"MD",
+    "lbl:latitude":46.590744,
+    "lbl:longitude":29.095215,
+    "mps:latitude":46.590744,
+    "mps:longitude":29.095215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Baimaclia"
+    ],
+    "name:eng_x_preferred":[
+        "Baymakliya"
+    ],
+    "name:fre_x_preferred":[
+        "Baimaclia"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10db\u10d0\u10d9\u10da\u10d8\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Baimaclia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10db\u10d0\u10d9\u10da\u10d8\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Baimaclia"
+    ],
+    "name:rum_x_preferred":[
+        "Baimaclia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0439\u043c\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0439\u043c\u0430\u043a\u043b\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Baimaclia"
+    ],
+    "name:unk_x_variant":[
+        "Baymakliya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103u\u015feni",
+    "qs:a1_alt":"Causeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Baimaclia",
+    "qs:loc_alt":"Baimaclia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a46aa2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618586,
+        "gp:id":480043,
+        "qs:id":6,
+        "wd:id":"Q2437990",
+        "wk:page":"Baimaclia, C\u0103u\u0219eni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"58f3b12d91d1a4e597a9acd0012efd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863663,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":101863663,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815555,
+    "wof:name":"Baimaclia",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.095215,
+    46.590744,
+    29.095215,
+    46.590744
+],
+  "geometry": {"coordinates":[29.095215,46.590744],"type":"Point"}
+}

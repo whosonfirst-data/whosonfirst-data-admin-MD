@@ -1,0 +1,119 @@
+{
+  "id": 101860347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.791921,48.364247,26.791921,48.364247",
+    "geom:latitude":48.364247,
+    "geom:longitude":26.791921,
+    "iso:country":"MD",
+    "lbl:latitude":48.364247,
+    "lbl:longitude":26.791921,
+    "mps:latitude":48.364247,
+    "mps:longitude":26.791921,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Medveja"
+    ],
+    "name:eng_x_preferred":[
+        "Medvezha"
+    ],
+    "name:eng_x_variant":[
+        "Medvezha-Mare",
+        "Medveja"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d4\u10d3\u10d5\u10d4\u10df\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Medveja"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d3\u10d5\u10d4\u10df\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Medveja"
+    ],
+    "name:rum_x_preferred":[
+        "Medveja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Medveja"
+    ],
+    "name:unk_x_variant":[
+        "Medvezha"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Briceni",
+    "qs:a1_alt":"Briceni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Medveja",
+    "qs:loc_alt":"Medveja",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a503d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617827,
+        "gp:id":480907,
+        "qs:id":8,
+        "wd:id":"Q2437649",
+        "wk:page":"Medveja, Moldova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a44891fcd0efbc0a970e00609a4c331e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860347,
+            "region_id":85686497
+        }
+    ],
+    "wof:id":101860347,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815553,
+    "wof:name":"Medveja",
+    "wof:parent_id":85686497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.791921,
+    48.364247,
+    26.791921,
+    48.364247
+],
+  "geometry": {"coordinates":[26.791921,48.364247],"type":"Point"}
+}

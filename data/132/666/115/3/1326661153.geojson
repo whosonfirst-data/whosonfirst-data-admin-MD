@@ -1,0 +1,72 @@
+{
+  "id": 1326661153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93386,48.11605,27.93386,48.11605",
+    "geom:latitude":48.11605,
+    "geom:longitude":27.93386,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Holosnita Noua",
+    "gn:country_code":"MD",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829551,
+    "gn:latitude":48.11605,
+    "gn:longitude":27.93386,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Holo\u015fni\u0163a Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0413\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Goloshnitsa",
+        "Holo\u015fni\u0163a Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829551
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a81b5dff83445e328519befe8f321c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1326661153,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":1326661153,
+    "wof:lastmodified":1537664383,
+    "wof:name":"Holosnita Noua",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93386,
+    48.11605,
+    27.93386,
+    48.11605
+],
+  "geometry": {"coordinates":[27.93386,48.11605],"type":"Point"}
+}

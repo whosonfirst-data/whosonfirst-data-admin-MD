@@ -1,0 +1,92 @@
+{
+  "id": 101863733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.493067,47.046574,28.493067,47.046574",
+    "geom:latitude":47.046574,
+    "geom:longitude":28.493067,
+    "geonames:id":"618245,864913",
+    "iso:country":"MD",
+    "lbl:latitude":47.046574,
+    "lbl:longitude":28.493067,
+    "mps:latitude":47.046574,
+    "mps:longitude":28.493067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Horodca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10e0\u10dd\u10d3\u10d9\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Horodca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0440\u043e\u0434\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u043a\u0430"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ialoveni",
+    "qs:a1_alt":"Ialoveni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Horodca",
+    "qs:loc_alt":"Horodca",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":480705,
+        "qs:id":2,
+        "wd:id":"Q768278"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c3e23495bd8cb8aaa224607e3d1edc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863733,
+            "region_id":85686385
+        }
+    ],
+    "wof:id":101863733,
+    "wof:lastmodified":1544747157,
+    "wof:name":"Horodca",
+    "wof:parent_id":85686385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.493067,
+    47.046574,
+    28.493067,
+    47.046574
+],
+  "geometry": {"coordinates":[28.493067,47.046574],"type":"Point"}
+}

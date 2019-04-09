@@ -1,0 +1,73 @@
+{
+  "id": 1209858061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.50147,47.96116,27.50147,47.96116",
+    "geom:latitude":47.96116,
+    "geom:longitude":27.50147,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Balanu Nou",
+    "gn:country_code":"MD",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829852,
+    "gn:latitude":47.96116,
+    "gn:longitude":27.50147,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"B\u0103lanu Nou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0411\u0430\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Novyy Balan",
+        "Balanul Nou",
+        "B\u0103lanu Nou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829852
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f20ca19d2f621ad8ef20c90dc9c0125c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1209858061,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1209858061,
+    "wof:lastmodified":1537664391,
+    "wof:name":"Balanu Nou",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50147,
+    47.96116,
+    27.50147,
+    47.96116
+],
+  "geometry": {"coordinates":[27.50147,47.96116],"type":"Point"}
+}

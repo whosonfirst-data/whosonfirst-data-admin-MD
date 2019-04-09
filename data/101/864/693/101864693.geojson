@@ -1,0 +1,115 @@
+{
+  "id": 101864693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.661516,46.365399,28.661516,46.365399",
+    "geom:latitude":46.365399,
+    "geom:longitude":28.661516,
+    "gn:population":1800,
+    "iso:country":"MD",
+    "lbl:latitude":46.365399,
+    "lbl:longitude":28.661516,
+    "mps:latitude":46.365399,
+    "mps:longitude":28.661516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Budzhak"
+    ],
+    "name:gag_x_preferred":[
+        "Bucak"
+    ],
+    "name:ita_x_preferred":[
+        "Bugeac"
+    ],
+    "name:ron_x_preferred":[
+        "Bugeac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0436\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u043c\u0440\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0436\u0430\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Bugeac"
+    ],
+    "name:unk_x_variant":[
+        "Budzhak"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bugeac",
+    "qs:loc_alt":"Bugeac",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a480aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618491,
+        "gp:id":480177,
+        "qs:id":215315,
+        "qs_pg:id":215315,
+        "wd:id":"Q2639058",
+        "wk:page":"Bugeac, G\u0103g\u0103uzia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3bd19181eea57c96e6f7066f47aaf8a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864693,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101864693,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747657,
+    "wof:name":"Bugeac",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:population":1800,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.661516,
+    46.365399,
+    28.661516,
+    46.365399
+],
+  "geometry": {"coordinates":[28.661516,46.365399],"type":"Point"}
+}

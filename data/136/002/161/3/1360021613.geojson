@@ -1,0 +1,85 @@
+{
+  "id": 1360021613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18359,47.58786,29.18359,47.58786",
+    "geom:latitude":47.58786,
+    "geom:longitude":29.18359,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Sevcenco",
+    "gn:country_code":"MD",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":694174,
+    "gn:latitude":47.58786,
+    "gn:longitude":29.18359,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eevcenco",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "\u015eevcenco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Shevchenko",
+        "Shevchenovka",
+        "Shevchenko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":694174
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1b000a6216e74c5e60a03da2fbf9b733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1360021613,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1360021613,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1360021613,
+    "wof:lastmodified":1537664380,
+    "wof:name":"Sevcenco",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18359,
+    47.58786,
+    29.18359,
+    47.58786
+],
+  "geometry": {"coordinates":[29.18359,47.58786],"type":"Point"}
+}

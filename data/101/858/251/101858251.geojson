@@ -1,0 +1,108 @@
+{
+  "id": 101858251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.612176,47.914795,27.612176,47.914795",
+    "geom:latitude":47.914795,
+    "geom:longitude":27.612176,
+    "iso:country":"MD",
+    "lbl:latitude":47.914795,
+    "lbl:longitude":27.612176,
+    "mps:latitude":47.914795,
+    "mps:longitude":27.612176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "R\u0103c\u0103ria"
+    ],
+    "name:eng_x_preferred":[
+        "R\u0103c\u0103ria"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d4\u10d9\u10d4\u10e0\u10d8\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0103c\u0103ria"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103c\u0103ria"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103c\u0103ria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044d\u043a\u044d\u0440\u0438\u044f"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0430\u043a\u0430\u0440\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043a\u0435\u0440\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Rakariya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"R\u0103c\u0103ria",
+    "qs:loc_alt":"Racaria",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617530,
+        "gp:id":481167,
+        "qs:id":3,
+        "wd:id":"Q2448395",
+        "wk:page":"R\u0103c\u0103ria"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e195a43761c24c36e8b603793b594032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858251,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101858251,
+    "wof:lastmodified":1544744312,
+    "wof:name":"R\u0103c\u0103ria",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.612176,
+    47.914795,
+    27.612176,
+    47.914795
+],
+  "geometry": {"coordinates":[27.612176,47.914795],"type":"Point"}
+}

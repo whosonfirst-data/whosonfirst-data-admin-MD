@@ -1,0 +1,76 @@
+{
+  "id": 1276695617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98229,48.29843,27.98229,48.29843",
+    "geom:latitude":48.29843,
+    "geom:longitude":27.98229,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Tatarauca Veche",
+    "gn:country_code":"MD",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617349,
+    "gn:latitude":48.29843,
+    "gn:longitude":27.98229,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"T\u0103t\u0103r\u0103uca Veche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u0422\u0430\u0442\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "T\u0103t\u0103ru\u015fii-Vechi",
+        "Tatarushi-Vek\u2019",
+        "Staraya Tatarevka",
+        "Staraya Tatarovka",
+        "T\u0103t\u0103r\u0103uca Veche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617349,
+        "wk:page":"T%C4%83t%C4%83r%C4%83uca_Veche"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c71381d9ab9d33c22e6f6b745e213de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276695617,
+            "region_id":85686501
+        }
+    ],
+    "wof:id":1276695617,
+    "wof:lastmodified":1537664315,
+    "wof:name":"Tatarauca Veche",
+    "wof:parent_id":85686501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98229000000001,
+    48.29843,
+    27.98229000000001,
+    48.29843
+],
+  "geometry": {"coordinates":[27.98229000000001,48.29843],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326566995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98743,47.97718,27.98743,47.97718",
+    "geom:latitude":47.97718,
+    "geom:longitude":27.98743,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Popestii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829856,
+    "gn:latitude":47.97718,
+    "gn:longitude":27.98743,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pope\u015ftii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041f\u043e\u043f\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Popeshti",
+        "Pope\u015ftii Noi",
+        "Novyye Popeshty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829856
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c47873d79c3db400167aef542ca04fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1326566995,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":1326566995,
+    "wof:lastmodified":1537664392,
+    "wof:name":"Popestii Noi",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98743,
+    47.97718,
+    27.98743,
+    47.97718
+],
+  "geometry": {"coordinates":[27.98743,47.97718],"type":"Point"}
+}

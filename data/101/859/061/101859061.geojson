@@ -1,0 +1,125 @@
+{
+  "id": 101859061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.277696,46.82748,28.277696,46.82748",
+    "geom:latitude":46.82748,
+    "geom:longitude":28.277696,
+    "iso:country":"MD",
+    "lbl:latitude":46.82748,
+    "lbl:longitude":28.277696,
+    "mps:latitude":46.82748,
+    "mps:longitude":28.277696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Crasnoarmeiscoe"
+    ],
+    "name:eng_x_preferred":[
+        "Krasnoarmeyskoye"
+    ],
+    "name:eng_x_variant":[
+        "Krasnoarmeysk",
+        "Princhipele Karol",
+        "Principele Carol",
+        "Crasnoarmeiscoe"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10e1\u10dc\u10dd\u10d0\u10e0\u10db\u10d4\u10d8\u10e1\u10d9\u10dd\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "Crasnoarmeiscoe"
+    ],
+    "name:ron_x_preferred":[
+        "Crasnoarmeiscoe"
+    ],
+    "name:rum_x_preferred":[
+        "Crasnoarmeiscoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0435\u0439\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0430\u0440\u043c\u0454\u0439\u0441\u043a\u043e\u0454"
+    ],
+    "name:und_x_colloquial":[
+        "Geamaena",
+        "Geamana"
+    ],
+    "name:und_x_preferred":[
+        "Crasnoarmeiscoe"
+    ],
+    "name:und_x_variant":[
+        "Geam\u00e6na"
+    ],
+    "name:unk_x_variant":[
+        "Princhipele Karol"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*H\u00eence\u015fti",
+    "qs:a1_alt":"Hincesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Crasnoarmeiscoe",
+    "qs:loc_alt":"Crasnoarmeiscoe",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b0e8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617976,
+        "gp:id":480433,
+        "wd:id":"Q1985926",
+        "wk:page":"Crasnoarmeiscoe"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8c8e1c6379958c68a6aaca49a5cf44e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101859061,
+            "region_id":85686377
+        }
+    ],
+    "wof:id":101859061,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815551,
+    "wof:name":"Crasnoarmeiscoe",
+    "wof:parent_id":85686377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.277696,
+    46.82748,
+    28.277696,
+    46.82748
+],
+  "geometry": {"coordinates":[28.277696,46.82748],"type":"Point"}
+}

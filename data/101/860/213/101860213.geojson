@@ -1,0 +1,79 @@
+{
+  "id": 101860213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.812586,48.113006,27.812586,48.113006",
+    "geom:latitude":48.113006,
+    "geom:longitude":27.812586,
+    "geonames:id":"618370,618371",
+    "iso:country":"MD",
+    "lbl:latitude":48.113006,
+    "lbl:longitude":27.812586,
+    "mps:latitude":48.113006,
+    "mps:longitude":27.812586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Moldova",
+    "qs:a1":"*Drocia",
+    "qs:a1_alt":"Drochia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Drochia",
+    "qs:loc_alt":"Drochia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":48.114167,
+    "wd:longitude":27.808333,
+    "wd:wordcount":318,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":480509,
+        "qs:id":9,
+        "wd:id":"Q2006112"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e63863f1bd4523a091133db11a29111e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860213,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":101860213,
+    "wof:lastmodified":1544745320,
+    "wof:name":"Drochia",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.812586,
+    48.113006,
+    27.812586,
+    48.113006
+],
+  "geometry": {"coordinates":[27.812586,48.113006],"type":"Point"}
+}

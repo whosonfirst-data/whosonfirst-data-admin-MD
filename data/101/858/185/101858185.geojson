@@ -1,0 +1,96 @@
+{
+  "id": 101858185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.349725,47.456218,28.349725,47.456218",
+    "geom:latitude":47.456218,
+    "geom:longitude":28.349725,
+    "iso:country":"MD",
+    "lbl:latitude":47.456218,
+    "lbl:longitude":28.349725,
+    "mps:latitude":47.456218,
+    "mps:longitude":28.349725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bud\u0103i"
+    ],
+    "name:ron_x_preferred":[
+        "Bud\u0103i"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u044d\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0434\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Budei"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Telene\u015fti",
+    "qs:a1_alt":"Telenesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bud\u0103i",
+    "qs:loc_alt":"Budai",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618493,
+        "gp:id":480172,
+        "qs:id":2,
+        "wd:id":"Q2450547",
+        "wk:page":"Bud\u0103i, Telene\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"640f39a2c6f097af79c8147f84fecf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858185,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":101858185,
+    "wof:lastmodified":1544744279,
+    "wof:name":"Bud\u0103i",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.349725,
+    47.456218,
+    28.349725,
+    47.456218
+],
+  "geometry": {"coordinates":[28.349725,47.456218],"type":"Point"}
+}

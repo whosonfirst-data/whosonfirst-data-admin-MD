@@ -1,0 +1,114 @@
+{
+  "id": 101858071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.193321,47.284935,28.193321,47.284935",
+    "geom:latitude":47.284935,
+    "geom:longitude":28.193321,
+    "iso:country":"MD",
+    "lbl:latitude":47.284935,
+    "lbl:longitude":28.193321,
+    "mps:latitude":47.284935,
+    "mps:longitude":28.193321,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sipoteny"
+    ],
+    "name:eng_x_variant":[
+        "Shipoten'",
+        "Shipoteni",
+        "Sipotyany"
+    ],
+    "name:ita_x_preferred":[
+        "Sipoteni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10de\u10dd\u10e2\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Sipoteni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043f\u043e\u0442\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0438\u043f\u043e\u0442\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043f\u043e\u0442\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Sipoteni"
+    ],
+    "name:unk_x_variant":[
+        "Shipoten\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103l\u0103ra\u015fi",
+    "qs:a1_alt":"Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sipoteni",
+    "qs:loc_alt":"Sipoteni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a548fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617408,
+        "gp:id":481306,
+        "qs:id":7,
+        "wd:id":"Q2455526",
+        "wk:page":"Sipoteni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d527b99c2254dda74fe73f57c8013296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858071,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":101858071,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744221,
+    "wof:name":"Sipoteni",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.193321,
+    47.284935,
+    28.193321,
+    47.284935
+],
+  "geometry": {"coordinates":[28.193321,47.284935],"type":"Point"}
+}

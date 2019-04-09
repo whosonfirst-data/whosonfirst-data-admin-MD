@@ -1,0 +1,107 @@
+{
+  "id": 101858269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.206652,47.841335,28.206652,47.841335",
+    "geom:latitude":47.841335,
+    "geom:longitude":28.206652,
+    "iso:country":"MD",
+    "lbl:latitude":47.841335,
+    "lbl:longitude":28.206652,
+    "mps:latitude":47.841335,
+    "mps:longitude":28.206652,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Prezhila"
+    ],
+    "name:eng_x_variant":[
+        "Prazhila",
+        "Prazhilo"
+    ],
+    "name:ita_x_preferred":[
+        "Prajila"
+    ],
+    "name:ron_x_preferred":[
+        "Prajila"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0436\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u0436\u0438\u043b\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Prajila"
+    ],
+    "name:unk_x_variant":[
+        "Prazhila"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Flore\u015fti",
+    "qs:a1_alt":"Floresti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Prajila",
+    "qs:loc_alt":"Prajila",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a52c62-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617556,
+        "gp:id":481149,
+        "qs:id":5,
+        "wd:id":"Q1985013",
+        "wk:page":"Prajila"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"569cff984addeb6d76170d4bb1561c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858269,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":101858269,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744321,
+    "wof:name":"Prajila",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.206652,
+    47.841335,
+    28.206652,
+    47.841335
+],
+  "geometry": {"coordinates":[28.206652,47.841335],"type":"Point"}
+}

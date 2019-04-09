@@ -1,0 +1,72 @@
+{
+  "id": 1327472079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56384,48.1081,27.56384,48.1081",
+    "geom:latitude":48.1081,
+    "geom:longitude":27.56384,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Caraiman",
+    "gn:country_code":"MD",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829548,
+    "gn:latitude":48.1081,
+    "gn:longitude":27.56384,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Caraiman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0439\u043c\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Karayman",
+        "Caraiman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829548
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"59ea86c4b9e0fc1fa0a5973b8da5599a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327472079,
+            "region_id":85686505
+        }
+    ],
+    "wof:id":1327472079,
+    "wof:lastmodified":1537664382,
+    "wof:name":"Caraiman",
+    "wof:parent_id":85686505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56384000000001,
+    48.1081,
+    27.56384000000001,
+    48.1081
+],
+  "geometry": {"coordinates":[27.56384000000001,48.1081],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310443989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.52514,47.98602,27.52514,47.98602",
+    "geom:latitude":47.98602,
+    "geom:longitude":27.52514,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Armanca",
+    "gn:country_code":"MD",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863762,
+    "gn:latitude":47.98602,
+    "gn:longitude":27.52514,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Armanca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043c\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Armanka",
+        "Armanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863762
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4c785071847b238bdb8b02eb1d93c02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310443989,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1310443989,
+    "wof:lastmodified":1537664403,
+    "wof:name":"Armanca",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52514,
+    47.98602,
+    27.52514,
+    47.98602
+],
+  "geometry": {"coordinates":[27.52514,47.98602],"type":"Point"}
+}

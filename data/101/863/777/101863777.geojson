@@ -1,0 +1,151 @@
+{
+  "id": 101863777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.305479,46.883709,29.305479,46.883709",
+    "geom:latitude":46.883709,
+    "geom:longitude":29.305479,
+    "iso:country":"MD",
+    "lbl:latitude":46.883709,
+    "lbl:longitude":29.305479,
+    "mps:latitude":46.883709,
+    "mps:longitude":29.305479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:dan_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:dut_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:eng_x_preferred":[
+        "Bul'boka"
+    ],
+    "name:eng_x_variant":[
+        "Bol'boki",
+        "Bul'boaka",
+        "Bul'boki",
+        "Bulboaca"
+    ],
+    "name:fre_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10da\u10d1\u10dd\u10d0\u10d9\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:ita_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10da\u10d1\u10dd\u10d0\u10d9\u10d0"
+    ],
+    "name:nno_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:nob_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:pol_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:por_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:ron_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:rum_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u044c\u0431\u043e\u0430\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:swe_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u0431\u043e\u0430\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Bulboaca"
+    ],
+    "name:unk_x_variant":[
+        "Bul\u2019boaka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Anenii Noi",
+    "qs:a1_alt":"Anenii Noi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bulboaca",
+    "qs:loc_alt":"Bulboaca",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":16,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a48172-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618486,
+        "gp:id":480182,
+        "wd:id":"Q2436854",
+        "wk:page":"Bulboaca, Anenii Noi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"07fbe0732d7b5fdf5abc4dd6620ab16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863777,
+            "region_id":85686395
+        }
+    ],
+    "wof:id":101863777,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815555,
+    "wof:name":"Bulboaca",
+    "wof:parent_id":85686395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.305479,
+    46.883709,
+    29.305479,
+    46.883709
+],
+  "geometry": {"coordinates":[29.305479,46.883709],"type":"Point"}
+}

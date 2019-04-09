@@ -1,0 +1,65 @@
+{
+  "id": 1310440435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.47333,45.76917,28.47333,45.76917",
+    "geom:latitude":45.76917,
+    "geom:longitude":28.47333,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Netush",
+    "gn:country_code":"MD",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864985,
+    "gn:latitude":45.76917,
+    "gn:longitude":28.47333,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Netush",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864985
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"597b58772086ee541ca3c34eb58b5699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310440435,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":1310440435,
+    "wof:lastmodified":1537010117,
+    "wof:name":"Netush",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47333,
+    45.76917,
+    28.47333,
+    45.76917
+],
+  "geometry": {"coordinates":[28.47333,45.76917],"type":"Point"}
+}

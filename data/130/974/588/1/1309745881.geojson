@@ -1,0 +1,73 @@
+{
+  "id": 1309745881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1415,47.57993,28.1415,47.57993",
+    "geom:latitude":47.57993,
+    "geom:longitude":28.1415,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Brejeni",
+    "gn:country_code":"MD",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618514,
+    "gn:latitude":47.57993,
+    "gn:longitude":28.1415,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Brejeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0436\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Brezhen\u2019",
+        "Brezheny",
+        "Brejeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618514
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e4d3e009fe20f88f057cccf7316abd4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1309745881,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1309745881,
+    "wof:lastmodified":1537664372,
+    "wof:name":"Brejeni",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1415,
+    47.57993,
+    28.1415,
+    47.57993
+],
+  "geometry": {"coordinates":[28.1415,47.57993],"type":"Point"}
+}

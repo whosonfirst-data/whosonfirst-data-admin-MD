@@ -1,0 +1,99 @@
+{
+  "id": 101858065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.349657,47.302753,28.349657,47.302753",
+    "geom:latitude":47.302753,
+    "geom:longitude":28.349657,
+    "iso:country":"MD",
+    "lbl:latitude":47.302753,
+    "lbl:longitude":28.349657,
+    "mps:latitude":47.302753,
+    "mps:longitude":28.349657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "R\u0103ciula"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10e9\u10e3\u10da\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103ciula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044d\u0447\u0443\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0420\u0435\u0447\u0443\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0447\u0443\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Rechula"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103l\u0103ra\u015fi",
+    "qs:a1_alt":"Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"R\u0103ciula",
+    "qs:loc_alt":"Raciula",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617518,
+        "gp:id":481168,
+        "qs:id":7,
+        "wd:id":"Q2453765",
+        "wk:page":"R\u0103ciula"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d9a40e5e7d7ef2069177b92864ba287b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858065,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":101858065,
+    "wof:lastmodified":1544744219,
+    "wof:name":"R\u0103ciula",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.349657,
+    47.302753,
+    28.349657,
+    47.302753
+],
+  "geometry": {"coordinates":[28.349657,47.302753],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277110559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.43498,46.50843,28.43498,46.50843",
+    "geom:latitude":46.50843,
+    "geom:longitude":28.43498,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Cazangic",
+    "gn:country_code":"MD",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618111,
+    "gn:latitude":46.50843,
+    "gn:longitude":28.43498,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cazangic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u0436\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kazanzhik",
+        "Cazangic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618111,
+        "wk:page":"Cazangic"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b8e1d753ad22550afe7df9eb3bf71f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1277110559,
+            "region_id":85686355
+        }
+    ],
+    "wof:id":1277110559,
+    "wof:lastmodified":1537664355,
+    "wof:name":"Cazangic",
+    "wof:parent_id":85686355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43498,
+    46.50843,
+    28.43498,
+    46.50843
+],
+  "geometry": {"coordinates":[28.43498,46.50843],"type":"Point"}
+}

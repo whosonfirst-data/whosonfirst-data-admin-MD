@@ -1,0 +1,72 @@
+{
+  "id": 1209749833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97958,47.12206,28.97958,47.12206",
+    "geom:latitude":47.12206,
+    "geom:longitude":28.97958,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Chetroasa",
+    "gn:country_code":"MD",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829804,
+    "gn:latitude":47.12206,
+    "gn:longitude":28.97958,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Chetroasa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0442\u0440\u043e\u0441\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ketrosy",
+        "Chetroasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829804
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"23d88ad3e7eefc51030c70e0a3365c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1209749833,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":1209749833,
+    "wof:lastmodified":1537664390,
+    "wof:name":"Chetroasa",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97958,
+    47.12206,
+    28.97958,
+    47.12206
+],
+  "geometry": {"coordinates":[28.97958,47.12206],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 1276694043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12962,47.28766,29.12962,47.28766",
+    "geom:latitude":47.28766,
+    "geom:longitude":29.12962,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Corjova",
+    "gn:country_code":"MD",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618014,
+    "gn:latitude":47.28766,
+    "gn:longitude":29.12962,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Corjova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u043e\u0432\u0430"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10df\u10dd\u10d5\u10d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u043e\u0432\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korzhevo",
+        "Corjova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686427,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618014,
+        "wk:page":"Corjova%2C_Dub%C4%83sari"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"53510e5b767912db69e5150d14c4be69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1276694043,
+            "region_id":85686427
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1276694043,
+            "region_id":85686427
+        }
+    ],
+    "wof:id":1276694043,
+    "wof:lastmodified":1537664350,
+    "wof:name":"Corjova",
+    "wof:parent_id":85686427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12962000000001,
+    47.28766,
+    29.12962000000001,
+    47.28766
+],
+  "geometry": {"coordinates":[29.12962000000001,47.28766],"type":"Point"}
+}

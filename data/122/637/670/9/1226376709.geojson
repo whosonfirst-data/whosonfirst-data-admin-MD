@@ -1,0 +1,76 @@
+{
+  "id": 1226376709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71315,47.3709,27.71315,47.3709",
+    "geom:latitude":47.3709,
+    "geom:longitude":27.71315,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Buciumeni",
+    "gn:country_code":"MD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618500,
+    "gn:latitude":47.3709,
+    "gn:longitude":27.71315,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Buciumeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0447\u0443\u043c\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Buchiumeni",
+        "Buchumeny",
+        "Buchumen\u2019",
+        "Buchumyany",
+        "Buciumeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618500,
+        "wk:page":"Buciumeni%2C_Ungheni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"962dc0e3132de871012f8949671edb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226376709,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1226376709,
+    "wof:lastmodified":1537664371,
+    "wof:name":"Buciumeni",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71315,
+    47.3709,
+    27.71315,
+    47.3709
+],
+  "geometry": {"coordinates":[27.71315,47.3709],"type":"Point"}
+}

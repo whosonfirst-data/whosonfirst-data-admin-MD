@@ -1,0 +1,75 @@
+{
+  "id": 1276159037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33317,46.72954,29.33317,46.72954",
+    "geom:latitude":46.72954,
+    "geom:longitude":29.33317,
+    "gn:admin1_code":"67.0",
+    "gn:asciiname":"Ursoaia Noua",
+    "gn:country_code":"MD",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617717,
+    "gn:latitude":46.72954,
+    "gn:longitude":29.33317,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Ursoaia Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0423\u0440\u0441\u043e\u0430\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "Ursoaya-Noua"
+    ],
+    "name:und_x_variant":[
+        "Novaya Ursoaya",
+        "Ursoaia Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617717
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2cbe392724b0a619e1e8c79dac6139d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276159037,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":1276159037,
+    "wof:lastmodified":1537664335,
+    "wof:name":"Ursoaia Noua",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33317000000001,
+    46.72954,
+    29.33317000000001,
+    46.72954
+],
+  "geometry": {"coordinates":[29.33317000000001,46.72954],"type":"Point"}
+}

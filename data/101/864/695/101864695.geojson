@@ -1,0 +1,149 @@
+{
+  "id": 101864695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.820339,46.362495,28.820339,46.362495",
+    "geom:latitude":46.362495,
+    "geom:longitude":28.820339,
+    "iso:country":"MD",
+    "lbl:latitude":46.362495,
+    "lbl:longitude":28.820339,
+    "mps:latitude":46.362495,
+    "mps:longitude":28.820339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u043e\u043a \u041c\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:dut_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:eng_x_preferred":[
+        "Cioc Meidan"
+    ],
+    "name:eng_x_variant":[
+        "Chok-Maydan",
+        "Chok-Meydan",
+        "Cioc-Maidan"
+    ],
+    "name:fre_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:gag_x_preferred":[
+        "\u00c7ok Maydan"
+    ],
+    "name:ger_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:ita_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:nno_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:nob_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:pol_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:por_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:ron_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:rum_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043a-\u041c\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:swe_x_preferred":[
+        "Cioc-Maidan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043a-\u041c\u0430\u0439\u0434\u0430\u043d"
+    ],
+    "name:und_x_preferred":[
+        "Cioc Maidan"
+    ],
+    "name:unk_x_variant":[
+        "Chok-Meydan"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cioc-Maidan",
+    "qs:loc_alt":"Cioc-Maidan",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a49a72-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618422,
+        "gp:id":480313,
+        "qs:id":8,
+        "wd:id":"Q2639022"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"45c7868239af62c1383f3a2303921b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864695,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101864695,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747658,
+    "wof:name":"Cioc-Maidan",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.820339,
+    46.362495,
+    28.820339,
+    46.362495
+],
+  "geometry": {"coordinates":[28.820339,46.362495],"type":"Point"}
+}

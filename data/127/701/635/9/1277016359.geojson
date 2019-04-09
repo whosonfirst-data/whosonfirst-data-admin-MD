@@ -1,0 +1,72 @@
+{
+  "id": 1277016359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.28981,47.62248,28.28981,47.62248",
+    "geom:latitude":47.62248,
+    "geom:longitude":28.28981,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Sestaci",
+    "gn:country_code":"MD",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831191,
+    "gn:latitude":47.62248,
+    "gn:longitude":28.28981,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eestaci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0441\u0442\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shestaki",
+        "\u015eestaci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831191
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"da9736ee0ad961f92ea4068f8391af2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1277016359,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1277016359,
+    "wof:lastmodified":1537664401,
+    "wof:name":"Sestaci",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28981,
+    47.62248,
+    28.28981,
+    47.62248
+],
+  "geometry": {"coordinates":[28.28981,47.62248],"type":"Point"}
+}

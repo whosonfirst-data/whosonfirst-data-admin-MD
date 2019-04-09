@@ -1,0 +1,107 @@
+{
+  "id": 101864785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.938931,46.985737,28.938931,46.985737",
+    "geom:latitude":46.985737,
+    "geom:longitude":28.938931,
+    "iso:country":"MD",
+    "lbl:latitude":46.985737,
+    "lbl:longitude":28.938931,
+    "mps:latitude":46.985737,
+    "mps:longitude":28.938931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bubuyechi"
+    ],
+    "name:eng_x_variant":[
+        "Bubueci",
+        "Bubuyech'"
+    ],
+    "name:ita_x_preferred":[
+        "Bubuieci"
+    ],
+    "name:ron_x_preferred":[
+        "Bubuieci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0431\u0443\u0435\u0447\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0431\u0443\u0454\u0447"
+    ],
+    "name:und_x_preferred":[
+        "Bubuieci"
+    ],
+    "name:unk_x_variant":[
+        "Bubuyechi"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*mun.Chi\u015fin\u0103u",
+    "qs:a1_alt":"Chisinau",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bubuieci",
+    "qs:loc_alt":"Bubuieci",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a47ede-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618501,
+        "gp:id":480166,
+        "qs:id":2,
+        "wd:id":"Q2387758",
+        "wk:page":"Bubuieci"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"17414324f9dd5bb1e9bb0dd5db0e498c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864785,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":101864785,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747705,
+    "wof:name":"Bubuieci",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.938931,
+    46.985737,
+    28.938931,
+    46.985737
+],
+  "geometry": {"coordinates":[28.938931,46.985737],"type":"Point"}
+}

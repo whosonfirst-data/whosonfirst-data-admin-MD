@@ -1,0 +1,113 @@
+{
+  "id": 101864915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.643029,47.641018,28.643029,47.641018",
+    "geom:latitude":47.641018,
+    "geom:longitude":28.643029,
+    "iso:country":"MD",
+    "lbl:latitude":47.641018,
+    "lbl:longitude":28.643029,
+    "mps:latitude":47.641018,
+    "mps:longitude":28.643029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Skortseny"
+    ],
+    "name:eng_x_variant":[
+        "Skortsen'",
+        "Skortseni"
+    ],
+    "name:ita_x_preferred":[
+        "Scor\u021beni"
+    ],
+    "name:ron_x_preferred":[
+        "Scor\u021beni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0446\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043a\u043e\u0440\u0446\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0446\u0435\u043d\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Scorteni"
+    ],
+    "name:und_x_preferred":[
+        "Scor\u0163eni"
+    ],
+    "name:unk_x_variant":[
+        "Skortseny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Telene\u015fti",
+    "qs:a1_alt":"Telenesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Scor\u0163eni",
+    "qs:loc_alt":"Scorteni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a542ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617398,
+        "gp:id":481271,
+        "qs:id":4,
+        "wd:id":"Q2450737",
+        "wk:page":"Scor\u021beni, Telene\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"702b3f9c6cc3569b948dce65ccf505fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864915,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":101864915,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747773,
+    "wof:name":"Scor\u0163eni",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.643029,
+    47.641018,
+    28.643029,
+    47.641018
+],
+  "geometry": {"coordinates":[28.643029,47.641018],"type":"Point"}
+}

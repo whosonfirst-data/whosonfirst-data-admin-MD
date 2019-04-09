@@ -1,0 +1,125 @@
+{
+  "id": 101864789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8131,46.976141,28.8131,46.976141",
+    "geom:latitude":46.976141,
+    "geom:longitude":28.8131,
+    "iso:country":"MD",
+    "lbl:latitude":46.976141,
+    "lbl:longitude":28.8131,
+    "mps:latitude":46.976141,
+    "mps:longitude":28.8131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_variant":[
+        "\u041a\u043e\u0434\u0440\u0443"
+    ],
+    "name:cbk_zam_x_preferred":[
+        "Codru"
+    ],
+    "name:eng_x_preferred":[
+        "Kodru"
+    ],
+    "name:ita_x_preferred":[
+        "Codru"
+    ],
+    "name:lit_x_preferred":[
+        "Kodru"
+    ],
+    "name:pol_x_preferred":[
+        "Codru"
+    ],
+    "name:ron_x_preferred":[
+        "Codru"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0434\u0440\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043a\u0438\u043d\u043e\u0441\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Codru"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0434\u0440\u0443"
+    ],
+    "name:und_x_preferred":[
+        "Codru"
+    ],
+    "name:unk_x_variant":[
+        "Schinoasa"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*mun.Chi\u015fin\u0103u",
+    "qs:a1_alt":"Chisinau",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Codru",
+    "qs:loc_alt":"Codru",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":46.975278,
+    "wd:longitude":28.819444,
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4a3a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618054,
+        "gp:id":480358,
+        "qs:id":468150,
+        "qs_pg:id":468150,
+        "wd:id":"Q642008",
+        "wk:page":"Codru, Moldova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"49b9b7792d0ce5866bc7288948538669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864789,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":101864789,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747707,
+    "wof:name":"Codru",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8131,
+    46.976141,
+    28.8131,
+    46.976141
+],
+  "geometry": {"coordinates":[28.8131,46.976141],"type":"Point"}
+}

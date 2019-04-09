@@ -1,0 +1,68 @@
+{
+  "id": 1209243877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79929,48.06434,27.79929,48.06434",
+    "geom:latitude":48.06434,
+    "geom:longitude":27.79929,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Surii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829543,
+    "gn:latitude":48.06434,
+    "gn:longitude":27.79929,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eurii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0428\u0443\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Shury",
+        "\u015eurii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829543
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"420d9367051c22212282e7815ed253e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209243877
+        }
+    ],
+    "wof:id":1209243877,
+    "wof:lastmodified":1537664382,
+    "wof:name":"Surii Noi",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79929000000001,
+    48.06434,
+    27.79929000000001,
+    48.06434
+],
+  "geometry": {"coordinates":[27.79929000000001,48.06434],"type":"Point"}
+}

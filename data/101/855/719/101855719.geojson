@@ -1,0 +1,121 @@
+{
+  "id": 101855719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.168503,46.007542,28.168503,46.007542",
+    "geom:latitude":46.007542,
+    "geom:longitude":28.168503,
+    "iso:country":"MD",
+    "lbl:latitude":46.007542,
+    "lbl:longitude":28.168503,
+    "mps:latitude":46.007542,
+    "mps:longitude":28.168503,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zerneshty"
+    ],
+    "name:eng_x_variant":[
+        "Zerneshti",
+        "Zirneshty",
+        "Zyrneshty"
+    ],
+    "name:ita_x_preferred":[
+        "Z\u00eerne\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10e0\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Z\u00eerne\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u044b\u0440\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u044b\u0440\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0438\u0440\u043d\u0435\u0448\u0442\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Zarnesti",
+        "Zirnesti"
+    ],
+    "name:und_x_preferred":[
+        "Z\u00eerne\u015fti"
+    ],
+    "name:und_x_variant":[
+        "Z\u0103rne\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Zirneshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Z\u00eerne\u015fti",
+    "qs:loc_alt":"Zirnesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a58b30-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617029,
+        "gp:id":481634,
+        "qs:id":9,
+        "wd:id":"Q2437490",
+        "wk:page":"Z\u00eerne\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d3acb4f5be84093894fefd710760190b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101855719,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101855719,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743039,
+    "wof:name":"Z\u00eerne\u015fti",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.168503,
+    46.007542,
+    28.168503,
+    46.007542
+],
+  "geometry": {"coordinates":[28.168503,46.007542],"type":"Point"}
+}

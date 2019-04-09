@@ -1,0 +1,109 @@
+{
+  "id": 101856847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41567,46.010632,28.41567,46.010632",
+    "geom:latitude":46.010632,
+    "geom:longitude":28.41567,
+    "iso:country":"MD",
+    "lbl:latitude":46.010632,
+    "lbl:longitude":28.41567,
+    "mps:latitude":46.010632,
+    "mps:longitude":28.41567,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tarakliya"
+    ],
+    "name:ita_x_preferred":[
+        "Taraclia de Salcie"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d0\u10d9\u10da\u10d8\u10d0-\u10d3\u10d4-\u10e1\u10d0\u10da\u10e9\u10d8\u10d4"
+    ],
+    "name:ron_x_preferred":[
+        "Taraclia de Salcie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f \u0434\u0435 \u0421\u0430\u043b\u0447\u0438\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f-\u0434\u0435-\u0421\u0430\u043b\u0447\u0438\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0456\u044f-\u0434\u0435-\u0421\u0430\u043b\u0447\u0456\u0454"
+    ],
+    "name:und_x_preferred":[
+        "Taraclia"
+    ],
+    "name:unk_x_variant":[
+        "Tarakliya de Salche"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taraclia de Salcie",
+    "qs:loc_alt":"Taraclia de Salcie",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a589d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617265,
+        "gp:id":22528292,
+        "qs:id":5,
+        "wd:id":"Q568801",
+        "wk:page":"Taraclia de Salcie"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"9195a9dfe234a626477ee06e1107f59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856847,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101856847,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743591,
+    "wof:name":"Taraclia de Salcie",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41567,
+    46.010632,
+    28.41567,
+    46.010632
+],
+  "geometry": {"coordinates":[28.41567,46.010632],"type":"Point"}
+}

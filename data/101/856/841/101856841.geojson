@@ -1,0 +1,106 @@
+{
+  "id": 101856841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.373505,45.913845,28.373505,45.913845",
+    "geom:latitude":45.913845,
+    "geom:longitude":28.373505,
+    "iso:country":"MD",
+    "lbl:latitude":45.913845,
+    "lbl:longitude":28.373505,
+    "mps:latitude":45.913845,
+    "mps:longitude":28.373505,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Moscovei"
+    ],
+    "name:ita_x_preferred":[
+        "Moscovei"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e1\u10d9\u10dd\u10d5\u10d4\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Moscovei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u043e\u0432\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0441\u043a\u043e\u0432\u0435\u0439"
+    ],
+    "name:und_x_preferred":[
+        "Moskovey-Chikur"
+    ],
+    "name:unk_x_variant":[
+        "Moskovey"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Moscovei",
+    "qs:loc_alt":"Moscovei",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":95,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a50f34-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617784,
+        "gp:id":480971,
+        "qs:id":5,
+        "wd:id":"Q1774970",
+        "wk:page":"Moscovei"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"50c0d5153d12334b2c95700c6a2566a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856841,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101856841,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743589,
+    "wof:name":"Moscovei",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.373505,
+    45.913845,
+    28.373505,
+    45.913845
+],
+  "geometry": {"coordinates":[28.373505,45.913845],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209351433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55255,46.62899,28.55255,46.62899",
+    "geom:latitude":46.62899,
+    "geom:longitude":28.55255,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Tomaiul Nou",
+    "gn:country_code":"MD",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617707,
+    "gn:latitude":46.62899,
+    "gn:longitude":28.55255,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tomaiul Nou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0422\u043e\u043c\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Tomoy",
+        "Novyy Tomay",
+        "Tomai",
+        "Novo-Tomay",
+        "Novo-Tomoy",
+        "Tomaiul Nou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617707,
+        "wk:page":"Tomaiul_Nou"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4ecc2d99ad8dd908295aecde4b2e4f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209351433
+        }
+    ],
+    "wof:id":1209351433,
+    "wof:lastmodified":1537664334,
+    "wof:name":"Tomaiul Nou",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55255,
+    46.62899,
+    28.55255,
+    46.62899
+],
+  "geometry": {"coordinates":[28.55255,46.62899],"type":"Point"}
+}

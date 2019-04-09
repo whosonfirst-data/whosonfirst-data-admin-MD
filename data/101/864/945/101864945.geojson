@@ -1,0 +1,106 @@
+{
+  "id": 101864945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.018288,47.562836,29.018288,47.562836",
+    "geom:latitude":47.562836,
+    "geom:longitude":29.018288,
+    "iso:country":"MD",
+    "lbl:latitude":47.562836,
+    "lbl:longitude":29.018288,
+    "mps:latitude":47.562836,
+    "mps:longitude":29.018288,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lalovo"
+    ],
+    "name:ita_x_preferred":[
+        "Lalova"
+    ],
+    "name:ron_x_preferred":[
+        "Lalova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043b\u043e\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Lalova"
+    ],
+    "name:unk_x_variant":[
+        "Lalovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0644\u0648\u0648\u0627"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Rezina",
+    "qs:a1_alt":"Rezina",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lalova",
+    "qs:loc_alt":"Lalova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f44a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617923,
+        "gp:id":480817,
+        "qs:id":8,
+        "wd:id":"Q2446794",
+        "wk:page":"Lalova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fffb1fce40bcd629c763c09a6e6c2a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864945,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":101864945,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747788,
+    "wof:name":"Lalova",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.018288,
+    47.562836,
+    29.018288,
+    47.562836
+],
+  "geometry": {"coordinates":[29.018288,47.562836],"type":"Point"}
+}

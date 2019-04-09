@@ -1,0 +1,73 @@
+{
+  "id": 1259618333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.50408,47.53923,28.50408,47.53923",
+    "geom:latitude":47.53923,
+    "geom:longitude":28.50408,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Ratus",
+    "gn:country_code":"MD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":824115,
+    "gn:latitude":47.53923,
+    "gn:longitude":28.50408,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ratu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u0443\u0448"
+    ],
+    "name:und_x_variant":[
+        "Ratush",
+        "Ratu\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":824115,
+        "wk:page":"Ratu%C8%99"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f6b14aaf6df9d55435b0a91654aa7468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259618333,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1259618333,
+    "wof:lastmodified":1537664380,
+    "wof:name":"Ratus",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.50408,
+    47.53923,
+    28.50408,
+    47.53923
+],
+  "geometry": {"coordinates":[28.50408,47.53923],"type":"Point"}
+}

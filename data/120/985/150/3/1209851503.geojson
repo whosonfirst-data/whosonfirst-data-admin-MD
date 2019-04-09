@@ -1,0 +1,70 @@
+{
+  "id": 1209851503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.05444,47.1075,29.05444,47.1075",
+    "geom:latitude":47.1075,
+    "geom:longitude":29.05444,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Syruchan",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617276,
+    "gn:latitude":47.1075,
+    "gn:longitude":29.05444,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Syruchan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imeniye Syruchan",
+        "Surucheny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617276
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1eddf2f863ae307b22f1b39202bbbe60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1209851503,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":1209851503,
+    "wof:lastmodified":1537664310,
+    "wof:name":"Syruchan",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05444,
+    47.1075,
+    29.05444,
+    47.1075
+],
+  "geometry": {"coordinates":[29.05444,47.1075],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259513773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81557,47.90698,28.81557,47.90698",
+    "geom:latitude":47.90698,
+    "geom:longitude":28.81557,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Socola",
+    "gn:country_code":"MD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617375,
+    "gn:latitude":47.90698,
+    "gn:longitude":28.81557,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Socola",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Sokol",
+        "Socola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617375
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"42bbcbdc912d20720c9b7a09fa20b76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259513773,
+            "region_id":85686473
+        }
+    ],
+    "wof:id":1259513773,
+    "wof:lastmodified":1537664317,
+    "wof:name":"Socola",
+    "wof:parent_id":85686473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81557,
+    47.90698,
+    28.81557,
+    47.90698
+],
+  "geometry": {"coordinates":[28.81557,47.90698],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193047319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95917,46.47667,28.95917,46.47667",
+    "geom:latitude":46.47667,
+    "geom:longitude":28.95917,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Schinoasa-Sat",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617402,
+    "gn:latitude":46.47667,
+    "gn:longitude":28.95917,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Schinoasa-Sat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skinosa",
+        "Skinosa Sat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617402
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f2a211fd88fc5147f1a39d4147ed359b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1193047319,
+            "region_id":85686351
+        }
+    ],
+    "wof:id":1193047319,
+    "wof:lastmodified":1537664318,
+    "wof:name":"Schinoasa-Sat",
+    "wof:parent_id":85686351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95917,
+    46.47667,
+    28.95917,
+    46.47667
+],
+  "geometry": {"coordinates":[28.95917,46.47667],"type":"Point"}
+}

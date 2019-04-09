@@ -1,0 +1,72 @@
+{
+  "id": 1225980527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41671,47.62363,27.41671,47.62363",
+    "geom:latitude":47.62363,
+    "geom:longitude":27.41671,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Moara Domneasca",
+    "gn:country_code":"MD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829864,
+    "gn:latitude":47.62363,
+    "gn:longitude":27.41671,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Moara Domneasc\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0430\u0440\u0430-\u0414\u043e\u043c\u043d\u044f\u0441\u043a\u044d"
+    ],
+    "name:und_x_variant":[
+        "Moara-Domnyaske",
+        "Moara Domneasc\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829864
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"cfe61192640e5bdae67c4a9362369ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1225980527,
+            "region_id":85686445
+        }
+    ],
+    "wof:id":1225980527,
+    "wof:lastmodified":1537664392,
+    "wof:name":"Moara Domneasca",
+    "wof:parent_id":85686445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41671,
+    47.62363,
+    27.41671,
+    47.62363
+],
+  "geometry": {"coordinates":[27.41671,47.62363],"type":"Point"}
+}

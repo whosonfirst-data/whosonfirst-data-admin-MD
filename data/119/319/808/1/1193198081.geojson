@@ -1,0 +1,75 @@
+{
+  "id": 1193198081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26303,47.95369,27.26303,47.95369",
+    "geom:latitude":47.95369,
+    "geom:longitude":27.26303,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Horodiste",
+    "gn:country_code":"MD",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618247,
+    "gn:latitude":47.95369,
+    "gn:longitude":27.26303,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Horodi\u015fte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0438\u0448\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gorodishte",
+        "Gorodishche",
+        "Horodi\u015ftea",
+        "Horodi\u015fte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618247,
+        "wk:page":"Horodi%C8%99te%2C_R%C3%AE%C8%99cani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"71f435c578fd6c777856c26f1ff2e46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1193198081,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1193198081,
+    "wof:lastmodified":1537664360,
+    "wof:name":"Horodiste",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26303,
+    47.95369,
+    27.26303,
+    47.95369
+],
+  "geometry": {"coordinates":[27.26303,47.95369],"type":"Point"}
+}

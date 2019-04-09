@@ -1,0 +1,74 @@
+{
+  "id": 1226680153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62523,46.91943,28.62523,46.91943",
+    "geom:latitude":46.91943,
+    "geom:longitude":28.62523,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Rusestii Vechi",
+    "gn:country_code":"MD",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617323,
+    "gn:latitude":46.91943,
+    "gn:longitude":28.62523,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ruse\u015ftii Vechi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0420\u0443\u0441\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Ruseshti-Vek\u2019",
+        "Staryye Ruseshty",
+        "Velikiye Ruseshty",
+        "Ruse\u015ftii Vechi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617323
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b2bf75716721e877d934a077e4ef8953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226680153,
+            "region_id":85686385
+        }
+    ],
+    "wof:id":1226680153,
+    "wof:lastmodified":1537664313,
+    "wof:name":"Rusestii Vechi",
+    "wof:parent_id":85686385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62523,
+    46.91943,
+    28.62523,
+    46.91943
+],
+  "geometry": {"coordinates":[28.62523,46.91943],"type":"Point"}
+}

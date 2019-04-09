@@ -1,0 +1,70 @@
+{
+  "id": 1242814897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55556,46.63833,28.55556,46.63833",
+    "geom:latitude":46.63833,
+    "geom:longitude":28.55556,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Fund Saratsika",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618318,
+    "gn:latitude":46.63833,
+    "gn:longitude":28.55556,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Fund Saratsika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundul-S\u0103r\u0103tichei",
+        "Fundu S\u0103ratichei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618318
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2799eebc84f8fb25a43565ad423fa3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1242814897,
+            "region_id":85686355
+        }
+    ],
+    "wof:id":1242814897,
+    "wof:lastmodified":1537664363,
+    "wof:name":"Fund Saratsika",
+    "wof:parent_id":85686355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55556,
+    46.63833,
+    28.55556,
+    46.63833
+],
+  "geometry": {"coordinates":[28.55556,46.63833],"type":"Point"}
+}

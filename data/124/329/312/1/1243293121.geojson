@@ -1,0 +1,74 @@
+{
+  "id": 1243293121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.49824,47.68507,28.49824,47.68507",
+    "geom:latitude":47.68507,
+    "geom:longitude":28.49824,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Ordasei",
+    "gn:country_code":"MD",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617640,
+    "gn:latitude":47.68507,
+    "gn:longitude":28.49824,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Ord\u0103\u015fei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0434\u0430\u0448\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Ordeshei",
+        "Ordashey",
+        "Ord\u0103\u015fei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617640,
+        "wk:page":"Ord%C4%83%C5%9Fei"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a95a2d0d9428960e6aab543cf59b4daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243293121,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1243293121,
+    "wof:lastmodified":1537664329,
+    "wof:name":"Ordasei",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.49824000000001,
+    47.68507,
+    28.49824000000001,
+    47.68507
+],
+  "geometry": {"coordinates":[28.49824000000001,47.68507],"type":"Point"}
+}

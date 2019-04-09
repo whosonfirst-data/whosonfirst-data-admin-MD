@@ -1,0 +1,72 @@
+{
+  "id": 1226373167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68746,47.27991,28.68746,47.27991",
+    "geom:latitude":47.27991,
+    "geom:longitude":28.68746,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Camencea",
+    "gn:country_code":"MD",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618151,
+    "gn:latitude":47.27991,
+    "gn:longitude":28.68746,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Camencea",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kamencha",
+        "Camencea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618151
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"bf8e664b71ab0a38f1e157cf61cfdaf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226373167,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1226373167,
+    "wof:lastmodified":1537664356,
+    "wof:name":"Camencea",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68746,
+    47.27991,
+    28.68746,
+    47.27991
+],
+  "geometry": {"coordinates":[28.68746,47.27991],"type":"Point"}
+}

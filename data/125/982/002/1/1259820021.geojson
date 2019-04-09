@@ -1,0 +1,72 @@
+{
+  "id": 1259820021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09648,48.20897,28.09648,48.20897",
+    "geom:latitude":48.20897,
+    "geom:longitude":28.09648,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Grigorauca",
+    "gn:country_code":"MD",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829705,
+    "gn:latitude":48.20897,
+    "gn:longitude":28.09648,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Grigor\u0103uca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u0433\u043e\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Grigorovka",
+        "Grigor\u0103uca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829705
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c94f8c9eda177bcd5bebb9fa69e633c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259820021,
+            "region_id":85686501
+        }
+    ],
+    "wof:id":1259820021,
+    "wof:lastmodified":1537664388,
+    "wof:name":"Grigorauca",
+    "wof:parent_id":85686501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09648,
+    48.20897,
+    28.09648,
+    48.20897
+],
+  "geometry": {"coordinates":[28.09648,48.20897],"type":"Point"}
+}

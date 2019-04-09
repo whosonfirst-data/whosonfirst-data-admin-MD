@@ -1,0 +1,76 @@
+{
+  "id": 1310441341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88013,48.15687,27.88013,48.15687",
+    "geom:latitude":48.15687,
+    "geom:longitude":27.88013,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Iliciovca",
+    "gn:country_code":"MD",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829561,
+    "gn:latitude":48.15687,
+    "gn:longitude":27.88013,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Iliciovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Il\u2019ichevka"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u043b\u044c\u0438\u0447\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Il\u2019ich\u00ebvka",
+        "Iliciovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829561,
+        "wk:page":"Iliciovca"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1109d5646575b5f6d2ca4bfc623183d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310441341,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":1310441341,
+    "wof:lastmodified":1537664383,
+    "wof:name":"Iliciovca",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88013,
+    48.15687,
+    27.88013,
+    48.15687
+],
+  "geometry": {"coordinates":[27.88013,48.15687],"type":"Point"}
+}

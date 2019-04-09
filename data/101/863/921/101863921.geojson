@@ -1,0 +1,115 @@
+{
+  "id": 101863921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.090523,47.34478,29.090523,47.34478",
+    "geom:latitude":47.34478,
+    "geom:longitude":29.090523,
+    "iso:country":"MD",
+    "lbl:latitude":47.34478,
+    "lbl:longitude":29.090523,
+    "mps:latitude":47.34478,
+    "mps:longitude":29.090523,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Molovata Nou\u0103"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10da\u10dd\u10d5\u10d0\u10e2\u10d0-\u10dc\u10dd\u10e3\u10d4"
+    ],
+    "name:ron_x_preferred":[
+        "Molovata Nou\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0432\u0430\u0442\u0430 \u041d\u043e\u0443\u044d"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u0430\u044f \u041c\u043e\u043b\u043e\u0432\u0430\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043b\u043e\u0432\u0430\u0442\u0430-\u041d\u043e\u0443\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Malovatoye"
+    ],
+    "name:unk_x_variant":[
+        "Malovata"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Dub\u0103sari",
+    "qs:a1_alt":"Dubasari",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Molovata Nou\u0103",
+    "qs:loc_alt":"Molovata Noua",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686427,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4ffc6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617855,
+        "gp:id":480884,
+        "qs:id":1,
+        "wd:id":"Q2439042",
+        "wk:page":"Molovata Nou\u0103"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"10a56abbebbb4504eeae3cd33b68059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101863921,
+            "region_id":85686427
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101863921,
+            "region_id":85686427
+        }
+    ],
+    "wof:id":101863921,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747255,
+    "wof:name":"Molovata Nou\u0103",
+    "wof:parent_id":85686427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.090523,
+    47.34478,
+    29.090523,
+    47.34478
+],
+  "geometry": {"coordinates":[29.090523,47.34478],"type":"Point"}
+}

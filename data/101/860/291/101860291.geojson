@@ -1,0 +1,109 @@
+{
+  "id": 101860291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.404446,48.153046,27.404446,48.153046",
+    "geom:latitude":48.153046,
+    "geom:longitude":27.404446,
+    "iso:country":"MD",
+    "lbl:latitude":48.153046,
+    "lbl:longitude":27.404446,
+    "mps:latitude":48.153046,
+    "mps:longitude":27.404446,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Parkova"
+    ],
+    "name:eng_x_variant":[
+        "Parkovo"
+    ],
+    "name:ita_x_preferred":[
+        "Parcova"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e0\u10d9\u10dd\u10d5\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Parcova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Parcova"
+    ],
+    "name:unk_x_variant":[
+        "Parkova"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Edine\u0163",
+    "qs:a1_alt":"Edinet",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Parcova",
+    "qs:loc_alt":"Parcova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a51d8a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617626,
+        "gp:id":481067,
+        "qs:id":2,
+        "wd:id":"Q2440353",
+        "wk:page":"Parcova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"90e2f5bdf4c556a44dfac564616d61bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860291,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":101860291,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745360,
+    "wof:name":"Parcova",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.404446,
+    48.153046,
+    27.404446,
+    48.153046
+],
+  "geometry": {"coordinates":[27.404446,48.153046],"type":"Point"}
+}

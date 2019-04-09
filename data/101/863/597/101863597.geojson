@@ -1,0 +1,103 @@
+{
+  "id": 101863597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.91029,46.615803,28.91029,46.615803",
+    "geom:latitude":46.615803,
+    "geom:longitude":28.91029,
+    "iso:country":"MD",
+    "lbl:latitude":46.615803,
+    "lbl:longitude":28.91029,
+    "mps:latitude":46.615803,
+    "mps:longitude":28.91029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Satu-Nou"
+    ],
+    "name:ita_x_preferred":[
+        "Satul Nou"
+    ],
+    "name:ron_x_preferred":[
+        "Satul Nou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0442\u0443\u043b \u041d\u043e\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0442\u0443\u043b-\u041d\u043e\u0443"
+    ],
+    "name:und_x_preferred":[
+        "Satul Nou"
+    ],
+    "name:unk_x_variant":[
+        "Satu-Nou"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cimi\u015flia",
+    "qs:a1_alt":"Cimislia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Satul Nou",
+    "qs:loc_alt":"Satul Nou",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a54170-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617452,
+        "gp:id":481265,
+        "qs:id":1,
+        "wd:id":"Q1982920",
+        "wk:page":"Satul Nou"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4ad5df243abe319c69feeeb8c4e69f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863597,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":101863597,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747086,
+    "wof:name":"Satul Nou",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91029,
+    46.615803,
+    28.91029,
+    46.615803
+],
+  "geometry": {"coordinates":[28.91029,46.615803],"type":"Point"}
+}

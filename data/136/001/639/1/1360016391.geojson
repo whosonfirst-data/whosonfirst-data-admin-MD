@@ -1,0 +1,72 @@
+{
+  "id": 1360016391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17209,47.30737,28.17209,47.30737",
+    "geom:latitude":47.30737,
+    "geom:longitude":28.17209,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Tochile",
+    "gn:country_code":"MD",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829773,
+    "gn:latitude":47.30737,
+    "gn:longitude":28.17209,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tochile",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043a\u0438\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tokila",
+        "Tochile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829773
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"12edc2f33a1ba5f3d57acef355958da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360016391,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":1360016391,
+    "wof:lastmodified":1537664390,
+    "wof:name":"Tochile",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17209,
+    47.30737,
+    28.17209,
+    47.30737
+],
+  "geometry": {"coordinates":[28.17209,47.30737],"type":"Point"}
+}

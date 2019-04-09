@@ -1,0 +1,96 @@
+{
+  "id": 101863999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.44486,47.458134,28.44486,47.458134",
+    "geom:latitude":47.458134,
+    "geom:longitude":28.44486,
+    "iso:country":"MD",
+    "lbl:latitude":47.458134,
+    "lbl:longitude":28.44486,
+    "mps:latitude":47.458134,
+    "mps:longitude":28.44486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "V\u0103sieni"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103sieni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u0441\u0438\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u0441\u0438\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0456\u0454\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Vasiyeny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Telene\u015fti",
+    "qs:a1_alt":"Telenesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"V\u0103sieni",
+    "qs:loc_alt":"Vasieni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617140,
+        "gp:id":481565,
+        "qs:id":9,
+        "wd:id":"Q1991577",
+        "wk:page":"V\u0103sieni, Telene\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0c2b4c5f34c07c717620f0a3ab0727a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863999,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":101863999,
+    "wof:lastmodified":1544747296,
+    "wof:name":"V\u0103sieni",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.44486,
+    47.458134,
+    28.44486,
+    47.458134
+],
+  "geometry": {"coordinates":[28.44486,47.458134],"type":"Point"}
+}

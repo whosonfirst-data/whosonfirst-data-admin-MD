@@ -1,0 +1,73 @@
+{
+  "id": 1310037045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.822,47.14487,27.822,47.14487",
+    "geom:latitude":47.14487,
+    "geom:longitude":27.822,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Buzduganii de Jos",
+    "gn:country_code":"MD",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617751,
+    "gn:latitude":47.14487,
+    "gn:longitude":27.822,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Buzduganii de Jos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0438\u0435 \u0411\u0443\u0437\u0434\u0443\u0433\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Nizhniye Buzdugany",
+        "Buzdugani De Zhos",
+        "Buzduganii de Jos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617751
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"729f207b79b73e81597e5b41eda651fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310037045,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1310037045,
+    "wof:lastmodified":1537664338,
+    "wof:name":"Buzduganii de Jos",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.822,
+    47.14487,
+    27.822,
+    47.14487
+],
+  "geometry": {"coordinates":[27.822,47.14487],"type":"Point"}
+}

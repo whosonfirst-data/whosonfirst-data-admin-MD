@@ -1,0 +1,75 @@
+{
+  "id": 1327468823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48992,46.09982,28.48992,46.09982",
+    "geom:latitude":46.09982,
+    "geom:longitude":28.48992,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Chioselia Mare",
+    "gn:country_code":"MD",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618539,
+    "gn:latitude":46.09982,
+    "gn:longitude":28.48992,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Chioselia Mare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041a\u0438\u0441\u0435\u043b\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Kiseliya-Mary",
+        "Bol\u2019shaya Kisiliya",
+        "Bol\u2019shaya Kiseliya",
+        "Chioselia Mare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618539,
+        "wk:page":"Chioselia_Mare"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3923d76f9b006ac141d61bb1e5b8f764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327468823,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":1327468823,
+    "wof:lastmodified":1537664372,
+    "wof:name":"Chioselia Mare",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48992,
+    46.09982,
+    28.48992,
+    46.09982
+],
+  "geometry": {"coordinates":[28.48992,46.09982],"type":"Point"}
+}

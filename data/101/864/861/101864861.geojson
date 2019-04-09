@@ -1,0 +1,144 @@
+{
+  "id": 101864861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.647632,46.885369,29.647632,46.885369",
+    "geom:latitude":46.885369,
+    "geom:longitude":29.647632,
+    "iso:country":"MD",
+    "lbl:latitude":46.885369,
+    "lbl:longitude":29.647632,
+    "mps:latitude":46.885369,
+    "mps:longitude":29.647632,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:dan_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:dut_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:eng_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:fre_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:ger_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:ita_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:nno_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:nob_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:pol_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:por_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:ron_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:rum_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0438\u0436\u043d\u0438\u0439 \u0425\u0443\u0442\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:swe_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:tur_x_preferred":[
+        "Blijnii Hutor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0438\u0436\u043d\u0456\u0439 \u0425\u0443\u0442\u0456\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Klotova Balka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Blijnii Hutor",
+    "qs:loc_alt":"Blijnii Hutor",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618556,
+        "gp:id":480108,
+        "wd:id":"Q953060",
+        "wk:page":"Blijnii Hutor"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0b25801b96a8fbb29abd72cdb37daf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864861,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864861,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864861,
+    "wof:lastmodified":1544747745,
+    "wof:name":"Blijnii Hutor",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.647632,
+    46.885369,
+    29.647632,
+    46.885369
+],
+  "geometry": {"coordinates":[29.647632,46.885369],"type":"Point"}
+}

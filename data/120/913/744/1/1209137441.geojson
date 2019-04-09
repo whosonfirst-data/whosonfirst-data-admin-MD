@@ -1,0 +1,68 @@
+{
+  "id": 1209137441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2314,46.7015,28.2314,46.7015",
+    "geom:latitude":46.7015,
+    "geom:longitude":28.2314,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Marchet",
+    "gn:country_code":"MD",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829646,
+    "gn:latitude":46.7015,
+    "gn:longitude":28.2314,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Marchet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0435\u0442"
+    ],
+    "name:und_x_variant":[
+        "Market",
+        "Marchet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829646
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8b7bb51e54f0cc72256d45b90956c768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209137441
+        }
+    ],
+    "wof:id":1209137441,
+    "wof:lastmodified":1537664386,
+    "wof:name":"Marchet",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2314,
+    46.7015,
+    28.2314,
+    46.7015
+],
+  "geometry": {"coordinates":[28.2314,46.7015],"type":"Point"}
+}

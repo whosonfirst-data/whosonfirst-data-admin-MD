@@ -1,0 +1,70 @@
+{
+  "id": 1243502909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41722,47.88778,27.41722,47.88778",
+    "geom:latitude":47.88778,
+    "geom:longitude":27.41722,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ivanesti",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":863759,
+    "gn:latitude":47.88778,
+    "gn:longitude":27.41722,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Iv\u0103ne\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ivaneshty",
+        "Iv\u0103ne\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":863759
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"327b0450140505b82f306b7935a287b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243502909,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1243502909,
+    "wof:lastmodified":1537664403,
+    "wof:name":"Ivanesti",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41722,
+    47.88778,
+    27.41722,
+    47.88778
+],
+  "geometry": {"coordinates":[27.41722,47.88778],"type":"Point"}
+}

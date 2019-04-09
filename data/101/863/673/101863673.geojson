@@ -1,0 +1,96 @@
+{
+  "id": 101863673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.116302,46.569622,29.116302,46.569622",
+    "geom:latitude":46.569622,
+    "geom:longitude":29.116302,
+    "iso:country":"MD",
+    "lbl:latitude":46.569622,
+    "lbl:longitude":29.116302,
+    "mps:latitude":46.569622,
+    "mps:longitude":29.116302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Taraclia"
+    ],
+    "name:unk_x_variant":[
+        "Tarakliya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103u\u015feni",
+    "qs:a1_alt":"Causeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Taraclia",
+    "qs:loc_alt":"Taraclia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":45.9,
+    "wd:longitude":28.668889,
+    "wd:population":14900,
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a55ae8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617269,
+        "gp:id":481422,
+        "wd:id":"Q2006121"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fc9d9e49c8ae54a89771fbf6a5738e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863673,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":101863673,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747126,
+    "wof:name":"Taraclia",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:population":14900,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.116302,
+    46.569622,
+    29.116302,
+    46.569622
+],
+  "geometry": {"coordinates":[29.116302,46.569622],"type":"Point"}
+}

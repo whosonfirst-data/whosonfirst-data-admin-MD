@@ -1,0 +1,145 @@
+{
+  "id": 101863609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.872164,46.382351,29.872164,46.382351",
+    "geom:latitude":46.382351,
+    "geom:longitude":29.872164,
+    "iso:country":"MD",
+    "lbl:latitude":46.382351,
+    "lbl:longitude":29.872164,
+    "mps:latitude":46.382351,
+    "mps:longitude":29.872164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:dan_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:dut_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:eng_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:fre_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d4\u10de\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:ita_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10de\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:nob_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:pol_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:por_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:rum_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u043b\u0430\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:swe_x_preferred":[
+        "C\u0103plani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043f\u043b\u0430\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Kaplany"
+    ],
+    "name:unk_x_variant":[
+        "Kaplani"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*\u015etefan Vod\u0103",
+    "qs:a1_alt":"Stefan Voda",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"C\u0103plani",
+    "qs:loc_alt":"Caplani",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f080-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618140,
+        "gp:id":480777,
+        "qs:id":1,
+        "wd:id":"Q1991116",
+        "wk:page":"C\u0103plani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"df728c64149293064eb074c2b4376703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863609,
+            "region_id":85686365
+        }
+    ],
+    "wof:id":101863609,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747093,
+    "wof:name":"C\u0103plani",
+    "wof:parent_id":85686365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.872164,
+    46.382351,
+    29.872164,
+    46.382351
+],
+  "geometry": {"coordinates":[29.872164,46.382351],"type":"Point"}
+}

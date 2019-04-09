@@ -1,0 +1,72 @@
+{
+  "id": 1309748001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55649,47.614,28.55649,47.614",
+    "geom:latitude":47.614,
+    "geom:longitude":28.55649,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Dobrusa",
+    "gn:country_code":"MD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831051,
+    "gn:latitude":47.614,
+    "gn:longitude":28.55649,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dobru\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0443\u0448\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dobrushka",
+        "Dobru\u015fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831051
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"bbb3d3416f92147d5723cef8ce4210f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1309748001,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1309748001,
+    "wof:lastmodified":1537664399,
+    "wof:name":"Dobrusa",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55649,
+    47.614,
+    28.55649,
+    47.614
+],
+  "geometry": {"coordinates":[28.55649,47.614],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260010853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46864,46.58295,28.46864,46.58295",
+    "geom:latitude":46.58295,
+    "geom:longitude":28.46864,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Vozneseni",
+    "gn:country_code":"MD",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617097,
+    "gn:latitude":46.58295,
+    "gn:longitude":28.46864,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Vozneseni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Vozneseny",
+        "Vosni\u015feni",
+        "Voznesenskaya",
+        "Vozneseni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617097,
+        "wk:page":"Vozneseni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"77f0f2fce0b377c32b837def2cca24bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1260010853,
+            "region_id":85686355
+        }
+    ],
+    "wof:id":1260010853,
+    "wof:lastmodified":1537664302,
+    "wof:name":"Vozneseni",
+    "wof:parent_id":85686355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46864,
+    46.58295,
+    28.46864,
+    46.58295
+],
+  "geometry": {"coordinates":[28.46864,46.58295],"type":"Point"}
+}

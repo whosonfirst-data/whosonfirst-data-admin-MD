@@ -1,0 +1,119 @@
+{
+  "id": 101858259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.779192,47.8815,27.779192,47.8815",
+    "geom:latitude":47.8815,
+    "geom:longitude":27.779192,
+    "iso:country":"MD",
+    "lbl:latitude":47.8815,
+    "lbl:longitude":27.779192,
+    "mps:latitude":47.8815,
+    "mps:longitude":27.779192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Grinautsi"
+    ],
+    "name:eng_x_variant":[
+        "Grinauts'",
+        "Grinautsy"
+    ],
+    "name:ita_x_preferred":[
+        "Grin\u0103u\u021bi"
+    ],
+    "name:ron_x_preferred":[
+        "Grin\u0103u\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0438\u043d\u044d\u0443\u0446\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0438\u043d\u0430\u0443\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0456\u043d\u0435\u0443\u0446\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Granaut",
+        "Grinauti"
+    ],
+    "name:und_x_preferred":[
+        "Grin\u0103u\u0163i"
+    ],
+    "name:und_x_variant":[
+        "Gr\u00e2n\u0103u\u0163"
+    ],
+    "name:unk_x_variant":[
+        "Grinautsi"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Grin\u0103u\u0163i",
+    "qs:loc_alt":"Grinauti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4d820-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618227,
+        "gp:id":480639,
+        "qs:id":1095922,
+        "qs_pg:id":1095922,
+        "wd:id":"Q2448347",
+        "wk:page":"Grin\u0103u\u021bi, R\u00ee\u0219cani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1a8b593ab396eaab59299ab0d56d611e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858259,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101858259,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744317,
+    "wof:name":"Grin\u0103u\u0163i",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.779192,
+    47.8815,
+    27.779192,
+    47.8815
+],
+  "geometry": {"coordinates":[27.779192,47.8815],"type":"Point"}
+}

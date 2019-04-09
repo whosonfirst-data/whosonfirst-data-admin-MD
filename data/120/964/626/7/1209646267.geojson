@@ -1,0 +1,70 @@
+{
+  "id": 1209646267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05826,48.28925,28.05826,48.28925",
+    "geom:latitude":48.28925,
+    "geom:longitude":28.05826,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Oclanda",
+    "gn:country_code":"MD",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617661,
+    "gn:latitude":48.28925,
+    "gn:longitude":28.05826,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Oclanda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043b\u0430\u043d\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Oklando",
+        "Oklanda",
+        "Oclanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617661,
+        "wk:page":"Oclanda"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"10abed37a4a6ec849b5d00adb55ea1cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209646267
+        }
+    ],
+    "wof:id":1209646267,
+    "wof:lastmodified":1537664330,
+    "wof:name":"Oclanda",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05826,
+    48.28925,
+    28.05826,
+    48.28925
+],
+  "geometry": {"coordinates":[28.05826,48.28925],"type":"Point"}
+}

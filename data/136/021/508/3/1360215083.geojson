@@ -1,0 +1,74 @@
+{
+  "id": 1360215083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88979,47.6976,27.88979,47.6976",
+    "geom:latitude":47.6976,
+    "geom:longitude":27.88979,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Natalievca",
+    "gn:country_code":"MD",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617770,
+    "gn:latitude":47.6976,
+    "gn:longitude":27.88979,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Natalievca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0442\u0430\u043b\u044c\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Natal\u2019ino",
+        "Natal\u2019yevka",
+        "Natalievca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617770,
+        "wk:page":"Natalievca"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"db626b79a7b5b7f3c36edd1f55696c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360215083,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":1360215083,
+    "wof:lastmodified":1537664339,
+    "wof:name":"Natalievca",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88979,
+    47.6976,
+    27.88979,
+    47.6976
+],
+  "geometry": {"coordinates":[27.88979,47.6976],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343792477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97434,46.81272,28.97434,46.81272",
+    "geom:latitude":46.81272,
+    "geom:longitude":28.97434,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Budai",
+    "gn:country_code":"MD",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618494,
+    "gn:latitude":46.81272,
+    "gn:longitude":28.97434,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bud\u0103i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Budei",
+        "Budey",
+        "Bude",
+        "Bud\u0103i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618494
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0bee20a2dfb5635a0b5e4c21a7f14f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343792477,
+            "region_id":85686385
+        }
+    ],
+    "wof:id":1343792477,
+    "wof:lastmodified":1537664370,
+    "wof:name":"Budai",
+    "wof:parent_id":85686385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97434,
+    46.81272,
+    28.97434,
+    46.81272
+],
+  "geometry": {"coordinates":[28.97434,46.81272],"type":"Point"}
+}

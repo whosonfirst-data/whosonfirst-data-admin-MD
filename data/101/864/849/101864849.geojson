@@ -1,0 +1,144 @@
+{
+  "id": 101864849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.458191,46.964218,29.458191,46.964218",
+    "geom:latitude":46.964218,
+    "geom:longitude":29.458191,
+    "iso:country":"MD",
+    "lbl:latitude":46.964218,
+    "lbl:longitude":29.458191,
+    "mps:latitude":46.964218,
+    "mps:longitude":29.458191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:dan_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:dut_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:eng_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:fre_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:ger_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:ita_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:nno_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:nob_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:pol_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:por_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:ron_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:rum_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:swe_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:tur_x_preferred":[
+        "Crasnogorca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u0456\u0440\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Krasnogorka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Crasnogorca",
+    "qs:loc_alt":"Crasnogorca",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617975,
+        "gp:id":480435,
+        "wd:id":"Q1995639",
+        "wk:page":"Crasnogorca"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fbf31f99ef94043288135bf5adc689d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864849,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864849,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864849,
+    "wof:lastmodified":1544747739,
+    "wof:name":"Crasnogorca",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.458191,
+    46.964218,
+    29.458191,
+    46.964218
+],
+  "geometry": {"coordinates":[29.458191,46.964218],"type":"Point"}
+}

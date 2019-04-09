@@ -1,0 +1,135 @@
+{
+  "id": 101864891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.570236,46.8358,29.570236,46.8358",
+    "geom:latitude":46.8358,
+    "geom:longitude":29.570236,
+    "gn:population":2200,
+    "iso:country":"MD",
+    "lbl:latitude":46.8358,
+    "lbl:longitude":29.570236,
+    "mps:latitude":46.8358,
+    "mps:longitude":29.570236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041d\u043e\u0432\u0430\u0446\u0456\u0440\u0430\u0441\u043f\u0430\u043b\u044c\u0441\u043a\u0456"
+    ],
+    "name:dut_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:eng_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:fre_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:ita_x_preferred":[
+        "Tiraspol Nou"
+    ],
+    "name:pol_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:ron_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:rum_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0442\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u0459\u0443\u043b \u041d\u043e\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0442\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Zakrepostnaya Slobodka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Tiraspolul Nou",
+    "qs:loc_alt":"Tiraspolul Nou",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":46.8319,
+    "wd:longitude":29.5767,
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617053,
+        "gp:id":481471,
+        "qs:id":126257,
+        "qs_pg:id":126257,
+        "wd:id":"Q2708449",
+        "wk:page":"Tiraspolul Nou"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8969561a96973d0df8623c93c98813ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864891,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864891,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864891,
+    "wof:lastmodified":1553815556,
+    "wof:name":"Tiraspolul Nou",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:population":2200,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.570236,
+    46.8358,
+    29.570236,
+    46.8358
+],
+  "geometry": {"coordinates":[29.570236,46.8358],"type":"Point"}
+}

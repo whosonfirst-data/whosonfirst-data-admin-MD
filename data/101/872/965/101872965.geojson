@@ -1,0 +1,158 @@
+{
+  "id": 101872965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.984898,47.918243,27.984898,47.918243",
+    "geom:latitude":47.918243,
+    "geom:longitude":27.984898,
+    "iso:country":"MD",
+    "lbl:latitude":47.918243,
+    "lbl:longitude":27.984898,
+    "mps:latitude":47.918243,
+    "mps:longitude":27.984898,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:dan_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:dut_x_preferred":[
+        "H\u0103sn\u0103\u015fenii Mari"
+    ],
+    "name:eng_x_preferred":[
+        "Bol'shiye Asnasheny"
+    ],
+    "name:eng_x_variant":[
+        "Asnashany",
+        "Bol'shiye Asnashany",
+        "Gasnasheny",
+        "Khesnesheni",
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:fre_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10d4\u10e1\u10dc\u10d4\u10e8\u10d4\u10dc\u10d8\u10d8-\u10db\u10d0\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:ita_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d4\u10e1\u10dc\u10d4\u10e8\u10d4\u10dc\u10d8-\u10db\u10d0\u10e0\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:nob_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:pol_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:por_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:ron_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:rum_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044d\u0441\u043d\u044d\u0448\u0435\u043d\u0438\u0439 \u041c\u0430\u0440\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u0410\u0441\u043d\u0430\u0448\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:swe_x_preferred":[
+        "H\u0103sn\u0103\u0219enii Mari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0441\u043d\u0435\u0448\u0435\u043d\u0456\u0439-\u041c\u0430\u0440\u0456"
+    ],
+    "name:und_x_colloquial":[
+        "Hasnasenii Mari"
+    ],
+    "name:und_x_preferred":[
+        "H\u0103sn\u0103\u015fenii Mari"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shiye Asnasheny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Drocia",
+    "qs:a1_alt":"Drochia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"H\u0103sn\u0103\u015fenii Mari",
+    "qs:loc_alt":"Hasnasenii Mari",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4dd34-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618537,
+        "gp:id":480666,
+        "wd:id":"Q2439871",
+        "wk:page":"H\u0103sn\u0103\u0219enii Mari"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"83168faf57bc637e309d0b70d3dd0e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101872965,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":101872965,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544751410,
+    "wof:name":"H\u0103sn\u0103\u015fenii Mari",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.984898,
+    47.918243,
+    27.984898,
+    47.918243
+],
+  "geometry": {"coordinates":[27.984898,47.918243],"type":"Point"}
+}

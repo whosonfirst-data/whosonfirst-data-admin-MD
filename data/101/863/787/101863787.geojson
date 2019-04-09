@@ -1,0 +1,110 @@
+{
+  "id": 101863787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.178926,46.969956,29.178926,46.969956",
+    "geom:latitude":46.969956,
+    "geom:longitude":29.178926,
+    "iso:country":"MD",
+    "lbl:latitude":46.969956,
+    "lbl:longitude":29.178926,
+    "mps:latitude":46.969956,
+    "mps:longitude":29.178926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Staraya Kobusska"
+    ],
+    "name:eng_x_variant":[
+        "Kobuska Veke",
+        "Staraya Kobuska"
+    ],
+    "name:ita_x_preferred":[
+        "Cobusca Veche"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d1\u10e3\u10e1\u10d9\u10d0-\u10d5\u10d4\u10d9\u10d4"
+    ],
+    "name:ron_x_preferred":[
+        "Cobusca Veche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u041a\u043e\u0431\u0443\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0443\u0441\u043a\u0430-\u0412\u0435\u043a\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Cobusca Veche"
+    ],
+    "name:unk_x_variant":[
+        "Staraya Kobuska"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Anenii Noi",
+    "qs:a1_alt":"Anenii Noi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cobusca Veche",
+    "qs:loc_alt":"Cobusca Veche",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4a274-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617353,
+        "gp:id":480352,
+        "qs:id":9,
+        "wd:id":"Q2436797",
+        "wk:page":"Cobusca Veche"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f1b6b5986a991fa2b3968351e350b9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863787,
+            "region_id":85686395
+        }
+    ],
+    "wof:id":101863787,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747185,
+    "wof:name":"Cobusca Veche",
+    "wof:parent_id":85686395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.178926,
+    46.969956,
+    29.178926,
+    46.969956
+],
+  "geometry": {"coordinates":[29.178926,46.969956],"type":"Point"}
+}

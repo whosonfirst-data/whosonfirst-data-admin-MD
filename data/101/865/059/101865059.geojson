@@ -1,0 +1,102 @@
+{
+  "id": 101865059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.029774,47.53703,29.029774,47.53703",
+    "geom:latitude":47.53703,
+    "geom:longitude":29.029774,
+    "iso:country":"MD",
+    "lbl:latitude":47.53703,
+    "lbl:longitude":29.029774,
+    "mps:latitude":47.53703,
+    "mps:longitude":29.029774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Butuceni"
+    ],
+    "name:ron_x_preferred":[
+        "Butuceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0443\u0447\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0443\u0447\u0430\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Butuchany"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Butuceni",
+    "qs:loc_alt":"Butuceni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618467,
+        "gp:id":480202,
+        "wd:id":"Q2457180",
+        "wk:page":"Butuceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8b0747efd4de61fc024545f6e346a951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865059,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865059,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865059,
+    "wof:lastmodified":1544747848,
+    "wof:name":"Butuceni",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.029774,
+    47.53703,
+    29.029774,
+    47.53703
+],
+  "geometry": {"coordinates":[29.029774,47.53703],"type":"Point"}
+}

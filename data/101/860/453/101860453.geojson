@@ -1,0 +1,112 @@
+{
+  "id": 101860453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.425587,48.325264,27.425587,48.325264",
+    "geom:latitude":48.325264,
+    "geom:longitude":27.425587,
+    "iso:country":"MD",
+    "lbl:latitude":48.325264,
+    "lbl:longitude":27.425587,
+    "mps:latitude":48.325264,
+    "mps:longitude":27.425587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mikhalashany"
+    ],
+    "name:eng_x_variant":[
+        "Mikhalashen'"
+    ],
+    "name:ita_x_preferred":[
+        "Mih\u0103l\u0103\u0219eni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10f0\u10d4\u10da\u10d4\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Mih\u0103l\u0103\u0219eni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u0430\u0448\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0445\u0430\u043b\u0430\u0448\u0435\u043d\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Mihalaseni"
+    ],
+    "name:und_x_preferred":[
+        "Mih\u0103l\u0103\u015feni"
+    ],
+    "name:unk_x_variant":[
+        "Mikhalashen\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ocni\u0163a",
+    "qs:a1_alt":"Ocnita",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mih\u0103l\u0103\u015feni",
+    "qs:loc_alt":"Mihalaseni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a507d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617813,
+        "gp:id":480929,
+        "qs:id":3,
+        "wd:id":"Q787017",
+        "wk:page":"Mih\u0103l\u0103\u0219eni, Ocni\u021ba"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7dc7a151b2bc0ff309425ab38c791e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860453,
+            "region_id":85686511
+        }
+    ],
+    "wof:id":101860453,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745445,
+    "wof:name":"Mih\u0103l\u0103\u015feni",
+    "wof:parent_id":85686511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.425587,
+    48.325264,
+    27.425587,
+    48.325264
+],
+  "geometry": {"coordinates":[27.425587,48.325264],"type":"Point"}
+}

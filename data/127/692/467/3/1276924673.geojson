@@ -1,0 +1,74 @@
+{
+  "id": 1276924673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51452,48.03095,27.51452,48.03095",
+    "geom:latitude":48.03095,
+    "geom:longitude":27.51452,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Stiubeieni",
+    "gn:country_code":"MD",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617412,
+    "gn:latitude":48.03095,
+    "gn:longitude":27.51452,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015etiubeieni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0442\u044e\u0431\u0435\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "\u015etiubeiani",
+        "Shtyubiyen\u2019",
+        "Shtyubeyany",
+        "\u015etiubeieni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617412
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4ec0e8f376c8640bb49db62ae06f81a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276924673,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1276924673,
+    "wof:lastmodified":1537664318,
+    "wof:name":"Stiubeieni",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51452,
+    48.03095,
+    27.51452,
+    48.03095
+],
+  "geometry": {"coordinates":[27.51452,48.03095],"type":"Point"}
+}

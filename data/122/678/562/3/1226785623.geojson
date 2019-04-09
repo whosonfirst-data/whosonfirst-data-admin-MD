@@ -1,0 +1,72 @@
+{
+  "id": 1226785623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.26354,47.31877,28.26354,47.31877",
+    "geom:latitude":47.31877,
+    "geom:longitude":28.26354,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Mindra",
+    "gn:country_code":"MD",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617779,
+    "gn:latitude":47.31877,
+    "gn:longitude":28.26354,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"M\u00eendra",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u043d\u0434\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Myndra",
+        "M\u00eendra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617779
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"742b60b0eda49b23dd5e15db339bbf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226785623,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":1226785623,
+    "wof:lastmodified":1537664339,
+    "wof:name":"Mindra",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.26354000000001,
+    47.31877,
+    28.26354000000001,
+    47.31877
+],
+  "geometry": {"coordinates":[28.26354000000001,47.31877],"type":"Point"}
+}

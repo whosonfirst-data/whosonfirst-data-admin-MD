@@ -1,0 +1,108 @@
+{
+  "id": 101865045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.000948,47.666474,29.000948,47.666474",
+    "geom:latitude":47.666474,
+    "geom:longitude":29.000948,
+    "iso:country":"MD",
+    "lbl:latitude":47.666474,
+    "lbl:longitude":29.000948,
+    "mps:latitude":47.666474,
+    "mps:longitude":29.000948,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ofatin\u021bi"
+    ],
+    "name:ita_x_preferred":[
+        "Ofatin\u021bi"
+    ],
+    "name:por_x_preferred":[
+        "Vikhvatinets"
+    ],
+    "name:ron_x_preferred":[
+        "Ofatin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0445\u0432\u0430\u0442\u0438\u043d\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0445\u0432\u0430\u0442\u0438\u043d\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Vykhvatintsy"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ofatin\u0163i",
+    "qs:loc_alt":"Ofatinti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617091,
+        "gp:id":481037,
+        "wd:id":"Q370804",
+        "wk:page":"Ofatin\u021bi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a70c49e958803d2e8c782aecd7e1d81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865045,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865045,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865045,
+    "wof:lastmodified":1544747841,
+    "wof:name":"Ofatin\u0163i",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.000948,
+    47.666474,
+    29.000948,
+    47.666474
+],
+  "geometry": {"coordinates":[29.000948,47.666474],"type":"Point"}
+}

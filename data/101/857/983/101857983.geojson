@@ -1,0 +1,113 @@
+{
+  "id": 101857983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.057495,47.131912,28.057495,47.131912",
+    "geom:latitude":47.131912,
+    "geom:longitude":28.057495,
+    "iso:country":"MD",
+    "lbl:latitude":47.131912,
+    "lbl:longitude":28.057495,
+    "mps:latitude":47.131912,
+    "mps:longitude":28.057495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Boldureshty"
+    ],
+    "name:eng_x_variant":[
+        "Balaneshty",
+        "Boldureshti"
+    ],
+    "name:ita_x_preferred":[
+        "Boldure\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Boldure\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0434\u0443\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u043b\u0434\u0443\u0440\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043b\u0434\u0443\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Bolduresti"
+    ],
+    "name:und_x_preferred":[
+        "Boldure\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Boldureshti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Nisporeni",
+    "qs:a1_alt":"Nisporeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Boldure\u015fti",
+    "qs:loc_alt":"Bolduresti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a47844-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618543,
+        "gp:id":480126,
+        "qs:id":4,
+        "wd:id":"Q2445169",
+        "wk:page":"Boldure\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b3b193074be9ead5f38459270885e0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101857983,
+            "region_id":85686387
+        }
+    ],
+    "wof:id":101857983,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744179,
+    "wof:name":"Boldure\u015fti",
+    "wof:parent_id":85686387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.057495,
+    47.131912,
+    28.057495,
+    47.131912
+],
+  "geometry": {"coordinates":[28.057495,47.131912],"type":"Point"}
+}

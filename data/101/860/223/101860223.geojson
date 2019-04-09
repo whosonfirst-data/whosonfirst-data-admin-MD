@@ -1,0 +1,157 @@
+{
+  "id": 101860223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.018942,48.09182,28.018942,48.09182",
+    "geom:latitude":48.09182,
+    "geom:longitude":28.018942,
+    "iso:country":"MD",
+    "lbl:latitude":48.09182,
+    "lbl:longitude":28.018942,
+    "mps:latitude":48.09182,
+    "mps:longitude":28.018942,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:dan_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:dut_x_preferred":[
+        "Pope\u015ftii de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Verkhniye Popeshty"
+    ],
+    "name:eng_x_variant":[
+        "Popeshti-De-Sus",
+        "Popeshty",
+        "Pope\u0219tii de Sus"
+    ],
+    "name:fre_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8\u10d8-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:ita_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:nob_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:pol_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:por_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:ron_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0435\u0448\u0442\u0438\u0439 \u0434\u0435 \u0421\u0443\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:swe_x_preferred":[
+        "Pope\u0219tii de Sus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:und_x_colloquial":[
+        "Popesti",
+        "Popestii de Sus"
+    ],
+    "name:und_x_preferred":[
+        "Pope\u015ftii de Sus"
+    ],
+    "name:und_x_variant":[
+        "Pope\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Popeshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Drocia",
+    "qs:a1_alt":"Drochia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pope\u015ftii de Sus",
+    "qs:loc_alt":"Popestii de Sus",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a52b90-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617569,
+        "gp:id":481140,
+        "qs:id":5,
+        "wd:id":"Q2439824",
+        "wk:page":"Pope\u0219tii de Sus"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a48519f4bc4499b3eaad1d7eb29e3b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860223,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":101860223,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745326,
+    "wof:name":"Pope\u015ftii de Sus",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.018942,
+    48.09182,
+    28.018942,
+    48.09182
+],
+  "geometry": {"coordinates":[28.018942,48.09182],"type":"Point"}
+}

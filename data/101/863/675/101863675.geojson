@@ -1,0 +1,125 @@
+{
+  "id": 101863675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.142489,46.647964,29.142489,46.647964",
+    "geom:latitude":46.647964,
+    "geom:longitude":29.142489,
+    "iso:country":"MD",
+    "lbl:latitude":46.647964,
+    "lbl:longitude":29.142489,
+    "mps:latitude":46.647964,
+    "mps:longitude":29.142489,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "C\u00eern\u0103\u0163enii Noi"
+    ],
+    "name:eng_x_preferred":[
+        "Novyye Kyrnatseny"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10dc\u10d4\u10ea\u10d4\u10dc\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00eern\u0103\u021benii Noi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10dc\u10d4\u10ea\u10d4\u10dc\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "C\u00eern\u0103\u021benii Noi"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00eern\u0103\u021benii Noi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041a\u044b\u0440\u043d\u0430\u0446\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0440\u043d\u0435\u0446\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
+    ],
+    "name:ukr_x_variant":[
+        "Kyrnatseniy-Noy"
+    ],
+    "name:und_x_colloquial":[
+        "Carnatenii Noi",
+        "Cirnatenii Noi"
+    ],
+    "name:und_x_preferred":[
+        "C\u00eern\u0103\u0163enii Noi"
+    ],
+    "name:und_x_variant":[
+        "C\u00e2rn\u0103\u0163enii Noi"
+    ],
+    "name:unk_x_variant":[
+        "C\u00e2rn\u0103\u0163enii Noi"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103u\u015feni",
+    "qs:a1_alt":"Causeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"C\u00eern\u0103\u0163enii Noi",
+    "qs:loc_alt":"Cirnatenii Noi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a49ca2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617680,
+        "gp:id":480324,
+        "qs:id":4,
+        "wd:id":"Q1982509",
+        "wk:page":"C\u00eern\u0103\u021benii Noi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"cee84423e199e72ba35bd11c848519c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863675,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":101863675,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747127,
+    "wof:name":"C\u00eern\u0103\u0163enii Noi",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.142489,
+    46.647964,
+    29.142489,
+    46.647964
+],
+  "geometry": {"coordinates":[29.142489,46.647964],"type":"Point"}
+}

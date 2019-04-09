@@ -1,0 +1,115 @@
+{
+  "id": 101863983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.801363,47.430218,28.801363,47.430218",
+    "geom:latitude":47.430218,
+    "geom:longitude":28.801363,
+    "iso:country":"MD",
+    "lbl:latitude":47.430218,
+    "lbl:longitude":28.801363,
+    "mps:latitude":47.430218,
+    "mps:longitude":28.801363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Step-Soci"
+    ],
+    "name:eng_x_preferred":[
+        "Step'-Soch'"
+    ],
+    "name:fre_x_preferred":[
+        "Step-Soci"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e2\u10d4\u10de-\u10e1\u10dd\u10e9\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Step-Soci"
+    ],
+    "name:ron_x_preferred":[
+        "Step-Soci"
+    ],
+    "name:rum_x_preferred":[
+        "Step-Soci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043f\u044c-\u0421\u043e\u0447\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043f-\u0421\u043e\u0447"
+    ],
+    "name:und_x_preferred":[
+        "Step-Soci"
+    ],
+    "name:unk_x_variant":[
+        "Step\u2019-Soch\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Orhei",
+    "qs:a1_alt":"Orhei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Step-Soci",
+    "qs:loc_alt":"Step-Soci",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a552a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617313,
+        "gp:id":481371,
+        "qs:id":6,
+        "wd:id":"Q1987732",
+        "wk:page":"Step-Soci"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e4a8c96a1b66bbf5541549c2077cd8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863983,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":101863983,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747288,
+    "wof:name":"Step-Soci",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.801363,
+    47.430218,
+    28.801363,
+    47.430218
+],
+  "geometry": {"coordinates":[28.801363,47.430218],"type":"Point"}
+}

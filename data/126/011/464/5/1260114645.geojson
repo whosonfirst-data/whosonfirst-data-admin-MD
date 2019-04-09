@@ -1,0 +1,74 @@
+{
+  "id": 1260114645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3578,46.37431,28.3578,46.37431",
+    "geom:latitude":46.37431,
+    "geom:longitude":28.3578,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Cuporani",
+    "gn:country_code":"MD",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617945,
+    "gn:latitude":46.37431,
+    "gn:longitude":28.3578,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cuporani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u043e\u0440\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kuporany",
+        "Koparan",
+        "Coporani",
+        "Cuporani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617945
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0e5d0b2c0f16d37ac1a4e130204ca187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1260114645,
+            "region_id":85686355
+        }
+    ],
+    "wof:id":1260114645,
+    "wof:lastmodified":1537664348,
+    "wof:name":"Cuporani",
+    "wof:parent_id":85686355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3578,
+    46.37431,
+    28.3578,
+    46.37431
+],
+  "geometry": {"coordinates":[28.3578,46.37431],"type":"Point"}
+}

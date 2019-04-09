@@ -1,0 +1,76 @@
+{
+  "id": 1259517369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24609,47.88369,28.24609,47.88369",
+    "geom:latitude":47.88369,
+    "geom:longitude":28.24609,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Marculesti",
+    "gn:country_code":"MD",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617836,
+    "gn:latitude":47.88369,
+    "gn:longitude":28.24609,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"M\u0103rcule\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0443\u043b\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "M\u0103rcule\u015fti-Sat",
+        "Markuleshti-Sat",
+        "Markuleshty-Sat",
+        "Markulesht\u2019-Sat",
+        "M\u0103rcule\u015fti",
+        "Markuleshty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617836
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c0f9f0a80d3bd50b716c970f3e8bf195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259517369,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":1259517369,
+    "wof:lastmodified":1537664343,
+    "wof:name":"Marculesti",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24609,
+    47.88369,
+    28.24609,
+    47.88369
+],
+  "geometry": {"coordinates":[28.24609,47.88369],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1243203629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01667,46.46667,29.01667,46.46667",
+    "geom:latitude":46.46667,
+    "geom:longitude":29.01667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gara Giber",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":708978,
+    "gn:latitude":46.46667,
+    "gn:longitude":29.01667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Gara Giber",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cara-Biber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":708978
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6f2481af08719188742967787b0f4b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243203629,
+            "region_id":85686351
+        }
+    ],
+    "wof:id":1243203629,
+    "wof:lastmodified":1537664380,
+    "wof:name":"Gara Giber",
+    "wof:parent_id":85686351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01667,
+    46.46667,
+    29.01667,
+    46.46667
+],
+  "geometry": {"coordinates":[29.01667,46.46667],"type":"Point"}
+}

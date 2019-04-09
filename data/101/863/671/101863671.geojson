@@ -1,0 +1,117 @@
+{
+  "id": 101863671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.159836,46.68578,29.159836,46.68578",
+    "geom:latitude":46.68578,
+    "geom:longitude":29.159836,
+    "iso:country":"MD",
+    "lbl:latitude":46.68578,
+    "lbl:longitude":29.159836,
+    "mps:latitude":46.68578,
+    "mps:longitude":29.159836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kashkalya"
+    ],
+    "name:eng_x_variant":[
+        "Kashkaliya",
+        "Koshkaliya"
+    ],
+    "name:ita_x_preferred":[
+        "Co\u0219calia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e8\u10d9\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Co\u0219calia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u043a\u0430\u043b\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u043a\u0430\u043b\u0456\u044f"
+    ],
+    "name:und_x_colloquial":[
+        "Cascalia",
+        "Coscalia"
+    ],
+    "name:und_x_preferred":[
+        "Co\u015fcalia"
+    ],
+    "name:und_x_variant":[
+        "Ca\u015fcalia"
+    ],
+    "name:unk_x_variant":[
+        "Ca\u015fcalia"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103u\u015feni",
+    "qs:a1_alt":"Causeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Co\u015fcalia",
+    "qs:loc_alt":"Coscalia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4aab2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618008,
+        "gp:id":480400,
+        "qs:id":9,
+        "wd:id":"Q1982170",
+        "wk:page":"Co\u0219calia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"554f0c32e875ff0a212a7e209c0cdac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863671,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":101863671,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747125,
+    "wof:name":"Co\u015fcalia",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.159836,
+    46.68578,
+    29.159836,
+    46.68578
+],
+  "geometry": {"coordinates":[29.159836,46.68578],"type":"Point"}
+}

@@ -1,0 +1,137 @@
+{
+  "id": 101864895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.170756,47.256047,29.170756,47.256047",
+    "geom:latitude":47.256047,
+    "geom:longitude":29.170756,
+    "iso:country":"MD",
+    "lbl:latitude":47.256047,
+    "lbl:longitude":29.170756,
+    "mps:latitude":47.256047,
+    "mps:longitude":29.170756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Lunga"
+    ],
+    "name:dan_x_preferred":[
+        "Lunga"
+    ],
+    "name:eng_x_preferred":[
+        "Lunga"
+    ],
+    "name:fre_x_preferred":[
+        "Lunga"
+    ],
+    "name:ger_x_preferred":[
+        "Lunga"
+    ],
+    "name:ita_x_preferred":[
+        "Lunga"
+    ],
+    "name:nno_x_preferred":[
+        "Lunga"
+    ],
+    "name:nob_x_preferred":[
+        "Lunga"
+    ],
+    "name:pol_x_preferred":[
+        "Lunga"
+    ],
+    "name:por_x_preferred":[
+        "Lunga"
+    ],
+    "name:rum_x_preferred":[
+        "Lunga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lunga"
+    ],
+    "name:swe_x_preferred":[
+        "Lunga"
+    ],
+    "name:tur_x_preferred":[
+        "Lunga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Lunca"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lunga",
+    "qs:loc_alt":"Lunga",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":150,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617879,
+        "gp:id":480518,
+        "wd:id":"Q2457224"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1cf1605ac643072c29d34d1dd81c0e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864895,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864895,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864895,
+    "wof:lastmodified":1544747763,
+    "wof:name":"Lunga",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.170756,
+    47.256047,
+    29.170756,
+    47.256047
+],
+  "geometry": {"coordinates":[29.170756,47.256047],"type":"Point"}
+}

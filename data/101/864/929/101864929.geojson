@@ -1,0 +1,113 @@
+{
+  "id": 101864929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.786518,47.738827,28.786518,47.738827",
+    "geom:latitude":47.738827,
+    "geom:longitude":28.786518,
+    "iso:country":"MD",
+    "lbl:latitude":47.738827,
+    "lbl:longitude":28.786518,
+    "mps:latitude":47.738827,
+    "mps:longitude":28.786518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Syrkovo"
+    ],
+    "name:eng_x_variant":[
+        "Syrkova"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00eercova"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00eercova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u043a\u043e\u0432\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Sarcova",
+        "Sircova"
+    ],
+    "name:und_x_preferred":[
+        "S\u00eercova"
+    ],
+    "name:und_x_variant":[
+        "S\u00e2rcova"
+    ],
+    "name:unk_x_variant":[
+        "Syrkovo"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Rezina",
+    "qs:a1_alt":"Rezina",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"S\u00eercova",
+    "qs:loc_alt":"Sircova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a54990-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617278,
+        "gp:id":481309,
+        "qs:id":3,
+        "wd:id":"Q2446580",
+        "wk:page":"S\u00eercova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"83f64c3aaceeda680bf8f6253f044e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864929,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":101864929,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747780,
+    "wof:name":"S\u00eercova",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.786518,
+    47.738827,
+    28.786518,
+    47.738827
+],
+  "geometry": {"coordinates":[28.786518,47.738827],"type":"Point"}
+}

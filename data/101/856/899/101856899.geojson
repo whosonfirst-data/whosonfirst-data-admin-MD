@@ -1,0 +1,148 @@
+{
+  "id": 101856899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.943619,46.207828,28.943619,46.207828",
+    "geom:latitude":46.207828,
+    "geom:longitude":28.943619,
+    "iso:country":"MD",
+    "lbl:latitude":46.207828,
+    "lbl:longitude":28.943619,
+    "mps:latitude":46.207828,
+    "mps:longitude":28.943619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0440\u0438\u0435\u0442 \u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:dut_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:eng_x_preferred":[
+        "Kiriyet-Lunga"
+    ],
+    "name:fre_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:gag_x_preferred":[
+        "Kiriyet"
+    ],
+    "name:ger_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:ita_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:nno_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:nob_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:pol_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:por_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:ron_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:rum_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0438\u0435\u0442-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:swe_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0456\u0454\u0442-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "Kir\u201dyet-Lunga"
+    ],
+    "name:und_x_preferred":[
+        "Chiriet-Lunga"
+    ],
+    "name:unk_x_variant":[
+        "Kiriyet-Lunga"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chiriet-Lunga",
+    "qs:loc_alt":"Chiriet-Lunga",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":123,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a494f0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618079,
+        "gp:id":480284,
+        "qs:id":9,
+        "wd:id":"Q2638488",
+        "wk:page":"Chiriet-Lunga"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e95582f9867efe579036c2cec1515515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856899,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101856899,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743617,
+    "wof:name":"Chiriet-Lunga",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.943619,
+    46.207828,
+    28.943619,
+    46.207828
+],
+  "geometry": {"coordinates":[28.943619,46.207828],"type":"Point"}
+}

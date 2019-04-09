@@ -1,0 +1,123 @@
+{
+  "id": 101863739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.799498,46.901539,28.799498,46.901539",
+    "geom:latitude":46.901539,
+    "geom:longitude":28.799498,
+    "iso:country":"MD",
+    "lbl:latitude":46.901539,
+    "lbl:longitude":28.799498,
+    "mps:latitude":46.901539,
+    "mps:longitude":28.799498,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mile\u0219tii Mici"
+    ],
+    "name:eng_x_preferred":[
+        "Malyye Mileshty"
+    ],
+    "name:eng_x_variant":[
+        "Mileshti Mich'"
+    ],
+    "name:ita_x_preferred":[
+        "Mile\u0219tii Mici"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10da\u10d4\u10e8\u10e2\u10d8-\u10db\u10d8\u10e9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Mile\u0219tii Mici"
+    ],
+    "name:pol_x_preferred":[
+        "Mile\u015ftii Mici"
+    ],
+    "name:ron_x_preferred":[
+        "Mile\u0219tii Mici"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0435 \u041c\u0438\u043b\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043b\u0435\u0448\u0442\u0456\u0439-\u041c\u0456\u0447"
+    ],
+    "name:und_x_colloquial":[
+        "Milestii Mici"
+    ],
+    "name:und_x_preferred":[
+        "Mile\u015ftii Mici"
+    ],
+    "name:unk_x_variant":[
+        "Malyye Mileshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ialoveni",
+    "qs:a1_alt":"Ialoveni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mile\u015ftii Mici",
+    "qs:loc_alt":"Milestii Mici",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":271,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a508a4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617851,
+        "gp:id":480933,
+        "qs:id":40675,
+        "qs_pg:id":40675,
+        "wd:id":"Q2167130",
+        "wk:page":"Mile\u0219tii Mici"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c764bb8b83101ff03ccea08b2157b519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863739,
+            "region_id":85686385
+        }
+    ],
+    "wof:id":101863739,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747160,
+    "wof:name":"Mile\u015ftii Mici",
+    "wof:parent_id":85686385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.799498,
+    46.901539,
+    28.799498,
+    46.901539
+],
+  "geometry": {"coordinates":[28.799498,46.901539],"type":"Point"}
+}

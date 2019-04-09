@@ -1,0 +1,103 @@
+{
+  "id": 101858257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.673094,47.89452,27.673094,47.89452",
+    "geom:latitude":47.89452,
+    "geom:longitude":27.673094,
+    "iso:country":"MD",
+    "lbl:latitude":47.89452,
+    "lbl:longitude":27.673094,
+    "mps:latitude":47.89452,
+    "mps:longitude":27.673094,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Recha"
+    ],
+    "name:ita_x_preferred":[
+        "Recea"
+    ],
+    "name:ron_x_preferred":[
+        "Recea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0447\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Recea"
+    ],
+    "name:unk_x_variant":[
+        "Recha"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Recea",
+    "qs:loc_alt":"Recea",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a53388-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617520,
+        "gp:id":481186,
+        "qs:id":1,
+        "wd:id":"Q2448227",
+        "wk:page":"Recea, R\u00ee\u0219cani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"77e69f7298384cac8a0c2ceab75f2a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858257,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101858257,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744316,
+    "wof:name":"Recea",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.673094,
+    47.89452,
+    27.673094,
+    47.89452
+],
+  "geometry": {"coordinates":[27.673094,47.89452],"type":"Point"}
+}

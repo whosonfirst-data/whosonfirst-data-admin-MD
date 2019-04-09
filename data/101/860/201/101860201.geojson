@@ -1,0 +1,138 @@
+{
+  "id": 101860201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.263174,47.984497,28.263174,47.984497",
+    "geom:latitude":47.984497,
+    "geom:longitude":28.263174,
+    "iso:country":"MD",
+    "lbl:latitude":47.984497,
+    "lbl:longitude":28.263174,
+    "mps:latitude":47.984497,
+    "mps:longitude":28.263174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u044f \u0420\u0430\u0434\u0443\u043b\u044f\u043d\u044b"
+    ],
+    "name:dan_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:dut_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:eng_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:fre_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d4\u10d3\u10e3\u10da\u10d4\u10dc\u10d8-\u10d5\u10d4\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:nno_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:nob_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:pol_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:por_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0420\u0430\u0434\u0443\u043b\u044f\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:swe_x_preferred":[
+        "R\u0103dulenii Vechi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0434\u0443\u043b\u0435\u043d\u0456\u0439-\u0412\u0435\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Raduleni-Veki"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Flore\u015fti",
+    "qs:a1_alt":"Floresti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"R\u0103dulenii Vechi",
+    "qs:loc_alt":"Radulenii Vechi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617326,
+        "gp:id":481176,
+        "qs:id":2,
+        "wd:id":"Q1984312",
+        "wk:page":"R\u0103dulenii Vechi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"35e9cd1559dca01c954efd2c67eef5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860201,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":101860201,
+    "wof:lastmodified":1544745314,
+    "wof:name":"R\u0103dulenii Vechi",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.263174,
+    47.984497,
+    28.263174,
+    47.984497
+],
+  "geometry": {"coordinates":[28.263174,47.984497],"type":"Point"}
+}

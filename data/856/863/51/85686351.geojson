@@ -1,0 +1,330 @@
+{
+  "id": 85686351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.034553,
+    "geom:area_square_m":294725058.134283,
+    "geom:bbox":"28.727732,46.2595145,29.025537,46.537432",
+    "geom:latitude":46.38475,
+    "geom:longitude":28.895359,
+    "iso:country":"MD",
+    "label:eng_x_preferred_longname":[
+        "Basarabeasca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":46.390899,
+    "lbl:longitude":28.905504,
+    "mps:latitude":46.390899,
+    "mps:longitude":28.905504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "name:alb_x_preferred":[
+        "Raionul Basarabeasca"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0633\u0627\u0631\u0627\u0628\u064a\u0633\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b6\u09be\u09b0\u09be\u09ac\u09bf\u09af\u09bc\u09be\u09b8\u09cd\u0995\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0441\u0430\u0440\u0430\u0431\u0441\u043a\u0438 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Districte de Basarabeasca"
+    ],
+    "name:ces_x_preferred":[
+        "Okres Basarabeasca"
+    ],
+    "name:chi_x_preferred":[
+        "\u5df4\u85a9\u62c9\u8c9d\u4e9e\u65af\u5361\u5340"
+    ],
+    "name:cze_x_preferred":[
+        "Okres Basarabeasca"
+    ],
+    "name:dan_x_preferred":[
+        "Basarabeasca District"
+    ],
+    "name:deu_x_preferred":[
+        "Rajon Basarabeasca"
+    ],
+    "name:dut_x_preferred":[
+        "Basarabeasca"
+    ],
+    "name:eng_x_preferred":[
+        "Basarabeasca"
+    ],
+    "name:eng_x_variant":[
+        "Basarabeasca District"
+    ],
+    "name:est_x_preferred":[
+        "Basarabeasca rajoon"
+    ],
+    "name:fin_x_preferred":[
+        "Basarabeascan piiri"
+    ],
+    "name:fra_x_preferred":[
+        "Raion de Basarabeasca"
+    ],
+    "name:fre_x_preferred":[
+        "Raion de Basarabeasca"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d0\u10e1\u10d0\u10e0\u10d0\u10d1\u10d4\u10d0\u10e1\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Rajon Basarabeasca"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c3\u03b1\u03c1\u03b1\u03bc\u03c0\u03b5\u03ac\u03c3\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab8\u0abe\u0ab0\u0aac\u0ac7\u0ab6\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0938\u093e\u0930\u093e\u092c\u0940\u0938\u093e\u0915\u093e \u091c\u093c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Basarabeasca j\u00e1r\u00e1s"
+    ],
+    "name:ind_x_preferred":[
+        "Raionul Basarabeasca"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Basarabeasca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30b5\u30e9\u30d9\u30a2\u30b9\u30ab\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cb8\u0cbe\u0cb0\u0cac\u0cc0\u0cb8\u0ccd\u0c95\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e1\u10d0\u10e0\u10d0\u10d1\u10d4\u10d0\u10e1\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc0ac\ub77c\ubca0\uc544\uc2a4\uce74 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Besarabjaskas rajons"
+    ],
+    "name:lit_x_preferred":[
+        "Basarabiaskos rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0938\u0930\u093e\u092c\u0947\u0938\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Basarabeasca District"
+    ],
+    "name:nld_x_preferred":[
+        "Arrondissement Basarabeasca"
+    ],
+    "name:nob_x_preferred":[
+        "Basarabeasca"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u06cc\u0633\u0627\u0631\u0627\u0628\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon Basarabeasca"
+    ],
+    "name:por_x_preferred":[
+        "Condado de Basarabeasca"
+    ],
+    "name:ron_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0411\u0430\u0441\u0430\u0440\u0430\u0431\u044f\u0441\u043a\u0430"
+    ],
+    "name:ron_x_variant":[
+        "Raionul Basarabeasca"
+    ],
+    "name:rum_x_preferred":[
+        "raionul Basarabeasca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dc3\u0dbb\u0db6\u0dd2\u0dc3\u0dca\u0d9a\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Basarabeasca"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Basarabeasca"
+    ],
+    "name:swe_x_preferred":[
+        "Basarabeasca"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0b9a\u0bb0\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bbe\u0bb8\u0bcd\u0b95\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c38\u0c3e\u0c30\u0c3e\u0c2c\u0c40\u0c38\u0c4d\u0c15\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e39\u0e2d\u0e31\u0e19\u0e14\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Basarabeasca District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0441\u0441\u0430\u0440\u0430\u0431\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Bessarabskiy Rayon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u0631\u0627\u0628\u06cc\u0627\u0633\u06a9\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Basarabeasca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u85a9\u62c9\u8c9d\u4e9e\u65af\u5361\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"MDA",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"MDA-1630",
+    "ne:adm1_code":"MDA-1630",
+    "ne:admin":"Moldova",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"MD.BA",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1630",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MD61",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Moldova",
+    "ne:gn_a1_code":"MD.61",
+    "ne:gn_id":"618565",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Raionul Basarabeasca",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"MD61",
+    "ne:gns_id":"-2276075",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Basarabeasca, Raionul",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MDA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"MD-",
+    "ne:iso_a2":"MD",
+    "ne:labelrank":"9",
+    "ne:latitude":"46.37260000000",
+    "ne:longitude":"28.88460000000",
+    "ne:mapcolor13":12,
+    "ne:mapcolor9":4,
+    "ne:name":"Basarabeasca",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BA",
+    "ne:provnum_ne":"13",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"MDA",
+    "ne:sub_code":"",
+    "ne:type":"Raion",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":55948179,
+    "ne:woe_label":"",
+    "ne:woe_name":"Basarabeasca",
+    "qs:a0":"Moldova",
+    "qs:a0_lc":"MD000000",
+    "qs:a1":"Basarabeasca",
+    "qs:a1_alt":"Basarabeasca",
+    "qs:a1_lc":"MD020000",
+    "qs:adm0":"Moldova",
+    "qs:adm0_a3":"MDA",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"Raion (Municipiu)",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2004-10-05",
+    "statoids:area_km":"",
+    "statoids:area_mi":"",
+    "statoids:as_of_date":"2004-10-05",
+    "statoids:capital":"Basarabeasca",
+    "statoids:country":"MD",
+    "statoids:gec":"MD61",
+    "statoids:hasc":"MD.BA",
+    "statoids:iso":"BS",
+    "statoids:name":"Basarabeasca",
+    "statoids:population":"28978",
+    "statoids:timezone":"+2~",
+    "statoids:type":"district",
+    "unlc:subdivision":"MD-BS",
+    "wof:belongsto":[
+        102191581,
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MD61",
+        "gn:id":618565,
+        "gp:id":55948179,
+        "hasc:id":"MD.BA",
+        "iso:id":"MD-BS",
+        "unlc:id":"MD-BS",
+        "wd:id":"Q1980044"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"36401768dfba828a0f4513ffad405207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "region_id":85686351
+        }
+    ],
+    "wof:id":85686351,
+    "wof:lang_x_official":[
+        "ron"
+    ],
+    "wof:lang_x_spoken":[
+        "ron"
+    ],
+    "wof:lastmodified":1553814887,
+    "wof:name":"Basarabeasca",
+    "wof:parent_id":85633287,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":28978,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:shortcode":"BA",
+    "wof:subdivision":"MD-BS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72773199999977,
+    46.25951449999985,
+    29.02553699999976,
+    46.53743199999985
+],
+  "geometry": {"coordinates":[[[28.98150649999976,46.48883799999984],[28.97779249999977,46.48124299999984],[28.98538199999976,46.47755049999984],[28.98928799999976,46.47757299999984],[28.98913749999977,46.47909949999985],[29.02338599999976,46.48014849999984],[29.02415999999976,46.47289349999986],[29.02518999999978,46.46644649999985],[29.02553699999976,46.46234549999986],[28.99847399999976,46.45998049999986],[28.96667999999977,46.45909549999985],[28.96661399999977,46.45938549999985],[28.96452899999977,46.45933199999985],[28.96394499999977,46.45900699999984],[28.96171,46.45874449999985],[28.95863849999978,46.45864649999984],[28.95683649999978,46.45858949999984],[28.93852799999976,46.45801199999985],[28.93076699999978,46.45768749999985],[28.93701899999976,46.45191249999984],[28.93825349999977,46.44600299999984],[28.94138899999976,46.43095849999986],[28.95593249999976,46.39902099999983],[28.96076949999977,46.38813049999985],[28.96649599999978,46.37588949999986],[28.97847499999978,46.35674649999984],[28.97969249999977,46.35467149999985],[28.98126749999977,46.35198249999985],[28.98675099999977,46.34261749999985],[28.98737499999975,46.34261749999985],[28.98876549999977,46.34370849999985],[28.98861849999977,46.34541299999983],[28.98957749999977,46.34542699999986],[28.99025649999976,46.34543599999984],[28.99068399999976,46.34360549999985],[28.99287599999976,46.34134349999985],[28.99384499999977,46.33267949999984],[28.99659149999977,46.32673649999984],[28.99673249999978,46.32457349999984],[28.99708349999977,46.32313949999985],[28.99792299999976,46.32264349999986],[28.99694599999978,46.32044599999983],[29.00339299999976,46.31742499999984],[29.00361449999977,46.31639549999985],[29.00080099999976,46.31576899999984],[28.99845899999977,46.31559399999983],[28.99527899999978,46.31602849999985],[28.99016699999976,46.31697149999985],[28.98616399999977,46.31778699999984],[28.98512849999977,46.31826449999986],[28.98391699999976,46.31630399999986],[28.98386449999978,46.31621849999985],[28.97753799999979,46.30597799999984],[28.96399699999978,46.28406099999983],[28.95294699999977,46.26518249999984],[28.95182599999978,46.25951449999985],[28.92457899999977,46.27463199999985],[28.92229699999976,46.27632599999984],[28.92030899999977,46.27445],[28.91934299999977,46.27728799999986],[28.91642899999977,46.28070799999983],[28.90736099999978,46.28725999999983],[28.89768999999979,46.29544399999983],[28.79268499999978,46.27862099999984],[28.73297899999977,46.26958399999984],[28.73635899999976,46.29920199999984],[28.73574299999976,46.30197899999985],[28.73640599999976,46.30658899999986],[28.72773199999977,46.31512699999985],[28.73482599999977,46.31664199999986],[28.74787899999978,46.31843999999984],[28.75092,46.31954899999985],[28.76248899999976,46.32146699999984],[28.76152199999976,46.32442399999985],[28.76254499999976,46.32455299999984],[28.76368799999977,46.32102799999984],[28.86070899999975,46.33721],[28.87219799999977,46.33875499999985],[28.87165099999976,46.33930699999985],[28.86752199999978,46.35714599999986],[28.86557599999977,46.36091999999985],[28.86576699999978,46.36294399999985],[28.85949099999976,46.37528499999985],[28.86081299999978,46.37546399999985],[28.85824399999976,46.37949899999984],[28.85740599999977,46.38274899999984],[28.85488099999978,46.38567899999984],[28.85173199999977,46.39353199999984],[28.85003299999977,46.39461299999985],[28.84856799999977,46.39837299999985],[28.84647,46.40009199999986],[28.84506199999975,46.40249099999986],[28.84301999999976,46.40387599999985],[28.84295699999976,46.40472899999983],[28.84205899999978,46.40521899999985],[28.83983099999978,46.40916499999985],[28.83767699999976,46.41058599999985],[28.83690399999977,46.41224699999984],[28.83044699999977,46.41689899999986],[28.82456599999978,46.41960199999986],[28.82285999999976,46.42172599999984],[28.82264599999976,46.42249899999985],[28.82009399999978,46.42377399999984],[28.81764499999977,46.42739899999984],[28.80826499999977,46.43296599999985],[28.80444899999977,46.43637699999985],[28.80251599999977,46.43921099999986],[28.79493699999978,46.44548299999985],[28.86032099999977,46.47079299999984],[28.85838099999978,46.47335599999985],[28.88691199999976,46.48435599999985],[28.87763899999976,46.49583799999985],[28.91711099999978,46.51094699999984],[28.91373099999975,46.51508599999985],[28.92422799999977,46.51897099999985],[28.92878099999976,46.52209099999985],[28.93239299999976,46.52234799999985],[28.93077899999977,46.53150099999985],[28.93466899999976,46.53190099999983],[28.93589199999977,46.52893999999984],[28.93701099999976,46.52917399999984],[28.93756399999978,46.53133299999985],[28.93840099999977,46.53149899999985],[28.93859099999977,46.53094399999983],[28.93938599999975,46.53107299999985],[28.93925699999977,46.53171899999984],[28.94142499999978,46.53228299999984],[28.93926099999976,46.53490199999984],[28.93774699999977,46.53449799999984],[28.93750799999978,46.53500299999985],[28.93532799999977,46.53471899999985],[28.93521599999977,46.53545099999985],[28.93393799999978,46.53541599999985],[28.93370199999978,46.53461899999985],[28.93344999999977,46.53701199999983],[28.95603899999977,46.53743199999985],[28.95944499999976,46.53696199999985],[28.96355899999978,46.53537599999984],[28.98730899999978,46.50674199999986],[28.98793199999977,46.50248999999985],[28.98150649999976,46.48883799999984]]],"type":"Polygon"}
+}

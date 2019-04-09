@@ -1,0 +1,73 @@
+{
+  "id": 1209953719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2679,46.22926,28.2679,46.22926",
+    "geom:latitude":46.22926,
+    "geom:longitude":28.2679,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Alexandrovca",
+    "gn:country_code":"MD",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618651,
+    "gn:latitude":46.22926,
+    "gn:longitude":28.2679,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Alexandrovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Aleksandrovka",
+        "Alexandra",
+        "Alexandrovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618651
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"336bbde87141363f0688012de4123807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1209953719,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":1209953719,
+    "wof:lastmodified":1537664379,
+    "wof:name":"Alexandrovca",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2679,
+    46.22926,
+    28.2679,
+    46.22926
+],
+  "geometry": {"coordinates":[28.2679,46.22926],"type":"Point"}
+}

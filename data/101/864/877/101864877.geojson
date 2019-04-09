@@ -1,0 +1,94 @@
+{
+  "id": 101864877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.882544,46.831528,29.882544,46.831528",
+    "geom:latitude":46.831528,
+    "geom:longitude":29.882544,
+    "iso:country":"MD",
+    "lbl:latitude":46.831528,
+    "lbl:longitude":29.882544,
+    "mps:latitude":46.831528,
+    "mps:longitude":29.882544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0443\u043d\u0437\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Shayki"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Frunz\u0103",
+    "qs:loc_alt":"Frunza",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":48.4075,
+    "wd:longitude":27.598611,
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618321,
+        "gp:id":481517,
+        "wd:id":"Q2377728"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d5c611589a19742e15841a47b998d30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864877,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864877,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864877,
+    "wof:lastmodified":1544747753,
+    "wof:name":"Frunz\u0103",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.882544,
+    46.831528,
+    29.882544,
+    46.831528
+],
+  "geometry": {"coordinates":[29.882544,46.831528],"type":"Point"}
+}

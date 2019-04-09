@@ -1,0 +1,73 @@
+{
+  "id": 1226291259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71511,47.93236,27.71511,47.93236",
+    "geom:latitude":47.93236,
+    "geom:longitude":27.71511,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ceparia",
+    "gn:country_code":"MD",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618442,
+    "gn:latitude":47.93236,
+    "gn:longitude":27.71511,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cep\u0103ria",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043f\u0430\u0440\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Cheperiya",
+        "Chepariya",
+        "Cep\u0103ria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618442
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"27c3d25d4e3b89826837b563b96fc6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226291259,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1226291259,
+    "wof:lastmodified":1537664369,
+    "wof:name":"Ceparia",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71511,
+    47.93236,
+    27.71511,
+    47.93236
+],
+  "geometry": {"coordinates":[27.71511,47.93236],"type":"Point"}
+}

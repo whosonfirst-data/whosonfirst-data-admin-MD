@@ -1,0 +1,100 @@
+{
+  "id": 101863933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.835428,47.522266,28.835428,47.522266",
+    "geom:latitude":47.522266,
+    "geom:longitude":28.835428,
+    "iso:country":"MD",
+    "lbl:latitude":47.522266,
+    "lbl:longitude":28.835428,
+    "mps:latitude":47.522266,
+    "mps:longitude":28.835428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chiperceni"
+    ],
+    "name:ron_x_preferred":[
+        "Chiperceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043f\u0435\u0440\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043f\u0435\u0440\u0447\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Kipercheny"
+    ],
+    "name:unk_x_variant":[
+        "Kipercheny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Orhei",
+    "qs:a1_alt":"Orhei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chiperceni",
+    "qs:loc_alt":"Chiperceni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f1ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618086,
+        "gp:id":480790,
+        "qs:id":5,
+        "wd:id":"Q2445392",
+        "wk:page":"Chiperceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"bb042290195fe2f9c3abb02f29065b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863933,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":101863933,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747262,
+    "wof:name":"Chiperceni",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.835428,
+    47.522266,
+    28.835428,
+    47.522266
+],
+  "geometry": {"coordinates":[28.835428,47.522266],"type":"Point"}
+}

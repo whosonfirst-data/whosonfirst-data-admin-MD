@@ -1,0 +1,123 @@
+{
+  "id": 101860283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.309592,48.242268,27.309592,48.242268",
+    "geom:latitude":48.242268,
+    "geom:longitude":27.309592,
+    "iso:country":"MD",
+    "lbl:latitude":48.242268,
+    "lbl:longitude":27.309592,
+    "mps:latitude":48.242268,
+    "mps:longitude":27.309592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Rotonda"
+    ],
+    "name:ceb_x_preferred":[
+        "Rotunda"
+    ],
+    "name:deu_x_preferred":[
+        "Rotunda"
+    ],
+    "name:eng_x_preferred":[
+        "Ratunda"
+    ],
+    "name:fra_x_preferred":[
+        "Rotunda"
+    ],
+    "name:ita_x_preferred":[
+        "Rotunda"
+    ],
+    "name:por_x_preferred":[
+        "Rotunda"
+    ],
+    "name:ron_x_preferred":[
+        "Rotunda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0442\u0443\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rotonda"
+    ],
+    "name:swe_x_preferred":[
+        "Rotunda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0442\u0443\u043d\u0434\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Rotunda"
+    ],
+    "name:unk_x_variant":[
+        "Ratunda"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Edine\u0163",
+    "qs:a1_alt":"Edinet",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Rotunda",
+    "qs:loc_alt":"Rotunda",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":428,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a53838-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617523,
+        "gp:id":481212,
+        "qs:id":9,
+        "wd:id":"Q2169114"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5778207705ef844017751bd7051a4044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860283,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":101860283,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745356,
+    "wof:name":"Rotunda",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.309592,
+    48.242268,
+    27.309592,
+    48.242268
+],
+  "geometry": {"coordinates":[27.309592,48.242268],"type":"Point"}
+}

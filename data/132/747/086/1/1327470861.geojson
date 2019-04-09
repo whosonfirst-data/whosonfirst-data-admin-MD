@@ -1,0 +1,73 @@
+{
+  "id": 1327470861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43245,48.16028,27.43245,48.16028",
+    "geom:latitude":48.16028,
+    "geom:longitude":27.43245,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Fintina Alba",
+    "gn:country_code":"MD",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618314,
+    "gn:latitude":48.16028,
+    "gn:longitude":27.43245,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"F\u00eent\u00eena Alb\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u044b\u043d\u0442\u044b\u043d\u0430-\u0410\u043b\u0431\u044d"
+    ],
+    "name:und_x_variant":[
+        "Fyntyna-Albe",
+        "Fyntyna Alba",
+        "F\u00eent\u00eena Alb\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618314
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6bf5a9e17181204b1cc739b04570d0dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327470861,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":1327470861,
+    "wof:lastmodified":1537664363,
+    "wof:name":"Fintina Alba",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43245,
+    48.16028,
+    27.43245,
+    48.16028
+],
+  "geometry": {"coordinates":[27.43245,48.16028],"type":"Point"}
+}

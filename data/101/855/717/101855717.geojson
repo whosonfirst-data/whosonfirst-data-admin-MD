@@ -1,0 +1,117 @@
+{
+  "id": 101855717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.313635,45.82885,28.313635,45.82885",
+    "geom:latitude":45.82885,
+    "geom:longitude":28.313635,
+    "iso:country":"MD",
+    "lbl:latitude":45.82885,
+    "lbl:longitude":28.313635,
+    "mps:latitude":45.82885,
+    "mps:longitude":28.313635,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Piliney"
+    ],
+    "name:eng_x_variant":[
+        "Peleney-Moldavan",
+        "Peliney",
+        "Pilineya"
+    ],
+    "name:ita_x_preferred":[
+        "Pelinei"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10da\u10d8\u10dc\u10d4\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Pelinei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u0438\u043d\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043b\u0456\u043d\u0435\u0439"
+    ],
+    "name:und_x_colloquial":[
+        "Pelineii"
+    ],
+    "name:und_x_preferred":[
+        "Pelinei"
+    ],
+    "name:und_x_variant":[
+        "Pel\u012bneii"
+    ],
+    "name:unk_x_variant":[
+        "Pel\u012bneii"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pelinei",
+    "qs:loc_alt":"Pelinei",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a51f1a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617615,
+        "gp:id":481077,
+        "qs:id":8,
+        "wd:id":"Q1774916",
+        "wk:page":"Pelinei"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"34e51cc712685aea8177f6b539102f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101855717,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101855717,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743038,
+    "wof:name":"Pelinei",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.313635,
+    45.82885,
+    28.313635,
+    45.82885
+],
+  "geometry": {"coordinates":[28.313635,45.82885],"type":"Point"}
+}

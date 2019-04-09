@@ -1,0 +1,68 @@
+{
+  "id": 1293723629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47874,48.41077,27.47874,48.41077",
+    "geom:latitude":48.41077,
+    "geom:longitude":27.47874,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Oknitsa",
+    "gn:country_code":"MD",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201352,
+    "gn:latitude":48.41077,
+    "gn:longitude":27.47874,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Oknitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201352
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1b9032947b52fff2ef45888bde87d6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293723629,
+            "region_id":85686511
+        }
+    ],
+    "wof:id":1293723629,
+    "wof:lastmodified":1537664407,
+    "wof:name":"Oknitsa",
+    "wof:parent_id":85686511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47874,
+    48.41077,
+    27.47874,
+    48.41077
+],
+  "geometry": {"coordinates":[27.47874,48.41077],"type":"Point"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101863587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.815674,46.691742,28.815674,46.691742",
+    "geom:latitude":46.691742,
+    "geom:longitude":28.815674,
+    "iso:country":"MD",
+    "lbl:latitude":46.691742,
+    "lbl:longitude":28.815674,
+    "mps:latitude":46.691742,
+    "mps:longitude":28.815674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Porumbrey"
+    ],
+    "name:eng_x_variant":[
+        "Mitropoiit",
+        "Mitropolit",
+        "Porumbreya"
+    ],
+    "name:ita_x_preferred":[
+        "Porumbrei"
+    ],
+    "name:ron_x_preferred":[
+        "Porumbrei"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0443\u043c\u0431\u0440\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0443\u043c\u0431\u0440\u0435\u0439"
+    ],
+    "name:und_x_preferred":[
+        "Porumbrei"
+    ],
+    "name:unk_x_variant":[
+        "Mitropolit"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cimi\u015flia",
+    "qs:a1_alt":"Cimislia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Porumbrei",
+    "qs:loc_alt":"Porumbrei",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a52c30-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617562,
+        "gp:id":481145,
+        "wd:id":"Q1982751",
+        "wk:page":"Porumbrei"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0b875d89799d21da95f842ec3ba3a753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863587,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":101863587,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747081,
+    "wof:name":"Porumbrei",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.815674,
+    46.691742,
+    28.815674,
+    46.691742
+],
+  "geometry": {"coordinates":[28.815674,46.691742],"type":"Point"}
+}

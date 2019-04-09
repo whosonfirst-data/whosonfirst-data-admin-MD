@@ -1,0 +1,106 @@
+{
+  "id": 101863595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.845061,46.658714,28.845061,46.658714",
+    "geom:latitude":46.658714,
+    "geom:longitude":28.845061,
+    "iso:country":"MD",
+    "lbl:latitude":46.658714,
+    "lbl:longitude":28.845061,
+    "mps:latitude":46.658714,
+    "mps:longitude":28.845061,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sagaydaki"
+    ],
+    "name:eng_x_variant":[
+        "Sagaidac",
+        "Sagaydak"
+    ],
+    "name:ita_x_preferred":[
+        "Sagaidac"
+    ],
+    "name:ron_x_preferred":[
+        "Sagaidac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0430\u0439\u0434\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0433\u0430\u0439\u0434\u0430\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Sahaidac"
+    ],
+    "name:unk_x_variant":[
+        "Sagaydak"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cimi\u015flia",
+    "qs:a1_alt":"Cimislia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sagaidac",
+    "qs:loc_alt":"Sagaidac",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a53b3a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617475,
+        "gp:id":481231,
+        "qs:id":3,
+        "wd:id":"Q1982766"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"341bd719a2ceb3e7fe49f13dbad758ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863595,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":101863595,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747085,
+    "wof:name":"Sagaidac",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.845061,
+    46.658714,
+    28.845061,
+    46.658714
+],
+  "geometry": {"coordinates":[28.845061,46.658714],"type":"Point"}
+}

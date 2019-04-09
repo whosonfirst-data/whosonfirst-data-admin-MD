@@ -1,0 +1,110 @@
+{
+  "id": 101858205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.059885,47.774341,28.059885,47.774341",
+    "geom:latitude":47.774341,
+    "geom:longitude":28.059885,
+    "iso:country":"MD",
+    "lbl:latitude":47.774341,
+    "lbl:longitude":28.059885,
+    "mps:latitude":47.774341,
+    "mps:longitude":28.059885,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novyye Gechi"
+    ],
+    "name:eng_x_variant":[
+        "Gechiu-Nou",
+        "Heciu Nou"
+    ],
+    "name:ita_x_preferred":[
+        "Heciul Nou"
+    ],
+    "name:ron_x_preferred":[
+        "Heciul Nou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0447\u0443\u043b \u041d\u043e\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0413\u0435\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0435\u0447\u0443\u043b-\u041d\u043e\u0443"
+    ],
+    "name:und_x_preferred":[
+        "Heciul Nou"
+    ],
+    "name:unk_x_variant":[
+        "Novyye Gechi"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*S\u00eengerei",
+    "qs:a1_alt":"Singerei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Heciul Nou",
+    "qs:loc_alt":"Heciul Nou",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4dd98-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617688,
+        "gp:id":480668,
+        "qs:id":7,
+        "wd:id":"Q2449790",
+        "wk:page":"Heciul Nou"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"abc734f8e6ff7ffcb2513ddeb85ca754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858205,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":101858205,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744290,
+    "wof:name":"Heciul Nou",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.059885,
+    47.774341,
+    28.059885,
+    47.774341
+],
+  "geometry": {"coordinates":[28.059885,47.774341],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101864955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.736383,47.951065,28.736383,47.951065",
+    "geom:latitude":47.951065,
+    "geom:longitude":28.736383,
+    "iso:country":"MD",
+    "lbl:latitude":47.951065,
+    "lbl:longitude":28.736383,
+    "mps:latitude":47.951065,
+    "mps:longitude":28.736383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Salcia"
+    ],
+    "name:eng_x_preferred":[
+        "Salchiya"
+    ],
+    "name:eng_x_variant":[
+        "Salcea",
+        "Salcha"
+    ],
+    "name:fra_x_preferred":[
+        "Salcia"
+    ],
+    "name:hbs_x_preferred":[
+        "Salcia"
+    ],
+    "name:ita_x_preferred":[
+        "Salcia"
+    ],
+    "name:nld_x_preferred":[
+        "Salcia"
+    ],
+    "name:ron_x_preferred":[
+        "Salcia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u0447\u0438\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Salcia"
+    ],
+    "name:unk_x_variant":[
+        "Salchiya"
+    ],
+    "name:vol_x_preferred":[
+        "Salcia"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Sold\u0103ne\u015fti",
+    "qs:a1_alt":"Soldanesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Salcia",
+    "qs:loc_alt":"Salcia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a53c02-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617470,
+        "gp:id":481235,
+        "qs:id":7,
+        "wd:id":"Q417717"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0f91269a37d64d02249e7f0c481ee33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864955,
+            "region_id":85686473
+        }
+    ],
+    "wof:id":101864955,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747794,
+    "wof:name":"Salcia",
+    "wof:parent_id":85686473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.736383,
+    47.951065,
+    28.736383,
+    47.951065
+],
+  "geometry": {"coordinates":[28.736383,47.951065],"type":"Point"}
+}

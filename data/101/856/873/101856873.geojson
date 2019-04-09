@@ -1,0 +1,145 @@
+{
+  "id": 101856873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.59627,46.106121,28.59627,46.106121",
+    "geom:latitude":46.106121,
+    "geom:longitude":28.59627,
+    "iso:country":"MD",
+    "lbl:latitude":46.106121,
+    "lbl:longitude":28.59627,
+    "mps:latitude":46.106121,
+    "mps:longitude":28.59627,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Congaz"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0433\u0430\u0437"
+    ],
+    "name:dan_x_preferred":[
+        "Congaz"
+    ],
+    "name:dut_x_preferred":[
+        "Congaz"
+    ],
+    "name:eng_x_preferred":[
+        "Congaz"
+    ],
+    "name:fre_x_preferred":[
+        "Congaz"
+    ],
+    "name:gag_x_preferred":[
+        "Kongaz"
+    ],
+    "name:ger_x_preferred":[
+        "Congaz"
+    ],
+    "name:ita_x_preferred":[
+        "Congaz"
+    ],
+    "name:nno_x_preferred":[
+        "Congaz"
+    ],
+    "name:nob_x_preferred":[
+        "Congaz"
+    ],
+    "name:pol_x_preferred":[
+        "Kongaz"
+    ],
+    "name:por_x_preferred":[
+        "Congaz"
+    ],
+    "name:ron_x_preferred":[
+        "Congaz"
+    ],
+    "name:rum_x_preferred":[
+        "Congaz"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0433\u0430\u0437"
+    ],
+    "name:spa_x_preferred":[
+        "Congaz"
+    ],
+    "name:swe_x_preferred":[
+        "Congaz"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0433\u0430\u0437"
+    ],
+    "name:und_x_preferred":[
+        "Kongaz"
+    ],
+    "name:unk_x_variant":[
+        "Kongaz"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Congaz",
+    "qs:loc_alt":"Congaz",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f2b0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618404,
+        "gp:id":480799,
+        "qs:id":6,
+        "wd:id":"Q2565855",
+        "wk:page":"Congaz"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"560c5695fe42be246db51820f9f7cb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856873,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101856873,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743605,
+    "wof:name":"Congaz",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.59627,
+    46.106121,
+    28.59627,
+    46.106121
+],
+  "geometry": {"coordinates":[28.59627,46.106121],"type":"Point"}
+}

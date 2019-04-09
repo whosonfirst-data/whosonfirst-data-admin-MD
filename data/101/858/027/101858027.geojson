@@ -1,0 +1,96 @@
+{
+  "id": 101858027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.772266,47.379276,27.772266,47.379276",
+    "geom:latitude":47.379276,
+    "geom:longitude":27.772266,
+    "iso:country":"MD",
+    "lbl:latitude":47.379276,
+    "lbl:longitude":27.772266,
+    "mps:latitude":47.379276,
+    "mps:longitude":27.772266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Chirileni"
+    ],
+    "name:ron_x_preferred":[
+        "Chirileni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u0438\u043b\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0440\u0438\u043b\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u0440\u0456\u043b\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Kirileni"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ungheni",
+    "qs:a1_alt":"Ungheni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chirileni",
+    "qs:loc_alt":"Chirileni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618084,
+        "gp:id":480286,
+        "qs:id":4,
+        "wd:id":"Q2453680",
+        "wk:page":"Chirileni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"29b90df01407943d170924cb882ee90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858027,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":101858027,
+    "wof:lastmodified":1544744201,
+    "wof:name":"Chirileni",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.772266,
+    47.379276,
+    27.772266,
+    47.379276
+],
+  "geometry": {"coordinates":[27.772266,47.379276],"type":"Point"}
+}

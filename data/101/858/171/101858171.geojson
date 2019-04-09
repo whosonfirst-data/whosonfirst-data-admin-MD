@@ -1,0 +1,123 @@
+{
+  "id": 101858171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.501183,47.830239,27.501183,47.830239",
+    "geom:latitude":47.830239,
+    "geom:longitude":27.501183,
+    "iso:country":"MD",
+    "lbl:latitude":47.830239,
+    "lbl:longitude":27.501183,
+    "mps:latitude":47.830239,
+    "mps:longitude":27.501183,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Danu"
+    ],
+    "name:eng_x_preferred":[
+        "Danul Vechiu"
+    ],
+    "name:eng_x_variant":[
+        "Danul",
+        "Danul Staryy",
+        "Danul Veke",
+        "Danul Veki",
+        "Danul-Vek'",
+        "Danu"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10e3"
+    ],
+    "name:ita_x_preferred":[
+        "Danu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10e3"
+    ],
+    "name:ron_x_preferred":[
+        "Danu"
+    ],
+    "name:rum_x_preferred":[
+        "Danu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043d\u0443"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u0443"
+    ],
+    "name:und_x_preferred":[
+        "Danu"
+    ],
+    "name:unk_x_variant":[
+        "Danul Vechiu"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Glodeni",
+    "qs:a1_alt":"Glodeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Danu",
+    "qs:loc_alt":"Danu",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b91c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618399,
+        "gp:id":480476,
+        "qs:id":3,
+        "wd:id":"Q1985175",
+        "wk:page":"Danu, Glodeni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d5d076bf9dde3ce009a17a56d213a9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858171,
+            "region_id":85686445
+        }
+    ],
+    "wof:id":101858171,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815551,
+    "wof:name":"Danu",
+    "wof:parent_id":85686445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.501183,
+    47.830239,
+    27.501183,
+    47.830239
+],
+  "geometry": {"coordinates":[27.501183,47.830239],"type":"Point"}
+}

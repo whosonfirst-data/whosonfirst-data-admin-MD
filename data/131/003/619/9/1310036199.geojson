@@ -1,0 +1,81 @@
+{
+  "id": 1310036199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03365,47.93365,29.03365,47.93365",
+    "geom:latitude":47.93365,
+    "geom:longitude":29.03365,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Molochisul Mic",
+    "gn:country_code":"MD",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617850,
+    "gn:latitude":47.93365,
+    "gn:longitude":29.03365,
+    "gn:modification_date":"2015-07-10",
+    "gn:name":"Molochi\u015ful Mic",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u0439 \u041c\u043e\u043b\u043e\u043a\u0438\u0448"
+    ],
+    "name:und_x_variant":[
+        "Malyy Molokish",
+        "Molochi\u015ful Mic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617850
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c1c535e9025d415b0baf180ba292f09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1310036199,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1310036199,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1310036199,
+    "wof:lastmodified":1537664343,
+    "wof:name":"Molochisul Mic",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03365,
+    47.93365,
+    29.03365,
+    47.93365
+],
+  "geometry": {"coordinates":[29.03365,47.93365],"type":"Point"}
+}

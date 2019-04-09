@@ -1,0 +1,108 @@
+{
+  "id": 101858253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.504356,47.882934,27.504356,47.882934",
+    "geom:latitude":47.882934,
+    "geom:longitude":27.504356,
+    "iso:country":"MD",
+    "lbl:latitude":47.882934,
+    "lbl:longitude":27.504356,
+    "mps:latitude":47.882934,
+    "mps:longitude":27.504356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Malinovscoe"
+    ],
+    "name:eng_x_preferred":[
+        "Malinovscoe"
+    ],
+    "name:fre_x_preferred":[
+        "Malinovscoe"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10da\u10d8\u10dc\u10dd\u10d5\u10e1\u10d9\u10dd\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "Malinovscoe"
+    ],
+    "name:ron_x_preferred":[
+        "Malinovscoe"
+    ],
+    "name:rum_x_preferred":[
+        "Malinovscoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0456\u043d\u043e\u0432\u0441\u043a\u043e\u0454"
+    ],
+    "name:unk_x_variant":[
+        "B\u0103lani"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Malinovscoe",
+    "qs:loc_alt":"Malinovscoe",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617858,
+        "gp:id":480047,
+        "qs:id":9,
+        "wd:id":"Q2448215",
+        "wk:page":"Malinovscoe"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b04dba9b31bdd0db0e7f21ed303d7c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858253,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101858253,
+    "wof:lastmodified":1544744313,
+    "wof:name":"Malinovscoe",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.504356,
+    47.882934,
+    27.504356,
+    47.882934
+],
+  "geometry": {"coordinates":[27.504356,47.882934],"type":"Point"}
+}

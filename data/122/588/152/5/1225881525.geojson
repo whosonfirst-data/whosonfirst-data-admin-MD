@@ -1,0 +1,76 @@
+{
+  "id": 1225881525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1905,47.53058,28.1905,47.53058",
+    "geom:latitude":47.53058,
+    "geom:longitude":28.1905,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Zgardesti",
+    "gn:country_code":"MD",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617046,
+    "gn:latitude":47.53058,
+    "gn:longitude":28.1905,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Zg\u0103rde\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0433\u043e\u0440\u0434\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Zgardeshti",
+        "Zgordeshty",
+        "Zgardeshty",
+        "Zgardesht\u2019",
+        "Zg\u0103rde\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617046,
+        "wk:page":"Zg%C4%83rde%C5%9Fti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"86b623726fed099002a7cfbf4b114e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1225881525,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1225881525,
+    "wof:lastmodified":1537664299,
+    "wof:name":"Zgardesti",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1905,
+    47.53058,
+    28.1905,
+    47.53058
+],
+  "geometry": {"coordinates":[28.1905,47.53058],"type":"Point"}
+}

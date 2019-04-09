@@ -1,0 +1,85 @@
+{
+  "id": 1193170773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10902,47.76249,29.10902,47.76249",
+    "geom:latitude":47.76249,
+    "geom:longitude":29.10902,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Pacalova",
+    "gn:country_code":"MD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617591,
+    "gn:latitude":47.76249,
+    "gn:longitude":29.10902,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"P\u00e2calova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "P\u00e2calova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044b\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Pikalovo",
+        "Pykalovo",
+        "P\u00eecalova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617591
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"42a26e88b24c09b2cf874c22ac770fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1193170773,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1193170773,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1193170773,
+    "wof:lastmodified":1537664326,
+    "wof:name":"Pacalova",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10902,
+    47.76249,
+    29.10902,
+    47.76249
+],
+  "geometry": {"coordinates":[29.10902,47.76249],"type":"Point"}
+}

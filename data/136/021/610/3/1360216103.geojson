@@ -1,0 +1,74 @@
+{
+  "id": 1360216103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.77977,47.65581,28.77977,47.65581",
+    "geom:latitude":47.65581,
+    "geom:longitude":28.77977,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Pereni",
+    "gn:country_code":"MD",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617611,
+    "gn:latitude":47.65581,
+    "gn:longitude":28.77977,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pereni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Peren\u2019",
+        "Pereny",
+        "Pereni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617611,
+        "wk:page":"Pereni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1d867b3f7567dc3929b1ec3ba9903501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360216103,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1360216103,
+    "wof:lastmodified":1537664328,
+    "wof:name":"Pereni",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77977000000001,
+    47.65581,
+    28.77977000000001,
+    47.65581
+],
+  "geometry": {"coordinates":[28.77977000000001,47.65581],"type":"Point"}
+}

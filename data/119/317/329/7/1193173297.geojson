@@ -1,0 +1,72 @@
+{
+  "id": 1193173297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97469,47.24654,27.97469,47.24654",
+    "geom:latitude":47.24654,
+    "geom:longitude":27.97469,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Saghieni",
+    "gn:country_code":"MD",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829837,
+    "gn:latitude":47.24654,
+    "gn:longitude":27.97469,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"S\u0103ghieni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0438\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Sagiyany",
+        "S\u0103ghieni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829837
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3f76db9c07d11d1236570cae027c2417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1193173297,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1193173297,
+    "wof:lastmodified":1537664391,
+    "wof:name":"Saghieni",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97469,
+    47.24654,
+    27.97469,
+    47.24654
+],
+  "geometry": {"coordinates":[27.97469,47.24654],"type":"Point"}
+}

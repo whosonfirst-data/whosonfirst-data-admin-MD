@@ -1,0 +1,98 @@
+{
+  "id": 101863761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.59681,46.962623,28.59681,46.962623",
+    "geom:latitude":46.962623,
+    "geom:longitude":28.59681,
+    "iso:country":"MD",
+    "lbl:latitude":46.962623,
+    "lbl:longitude":28.59681,
+    "mps:latitude":46.962623,
+    "mps:longitude":28.59681,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "V\u0103sieni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e1\u10d8\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103sieni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u0441\u0438\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u0441\u0438\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0456\u0454\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Vasiyeny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ialoveni",
+    "qs:a1_alt":"Ialoveni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"V\u0103sieni",
+    "qs:loc_alt":"Vasieni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617141,
+        "qs:id":1,
+        "wd:id":"Q2443353",
+        "wk:page":"V\u0103sieni, Ialoveni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fb04c1d7b113f9f7fe64ac25280b4743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863761,
+            "region_id":85686385
+        }
+    ],
+    "wof:id":101863761,
+    "wof:lastmodified":1544747171,
+    "wof:name":"V\u0103sieni",
+    "wof:parent_id":85686385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.59681,
+    46.962623,
+    28.59681,
+    46.962623
+],
+  "geometry": {"coordinates":[28.59681,46.962623],"type":"Point"}
+}

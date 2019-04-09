@@ -1,0 +1,147 @@
+{
+  "id": 101865035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.103855,47.407097,29.103855,47.407097",
+    "geom:latitude":47.407097,
+    "geom:longitude":29.103855,
+    "iso:country":"MD",
+    "lbl:latitude":47.407097,
+    "lbl:longitude":29.103855,
+    "mps:latitude":47.407097,
+    "mps:longitude":29.103855,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:dan_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:dut_x_preferred":[
+        "\u0162\u00eebuleuca"
+    ],
+    "name:eng_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:fre_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:ger_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:ita_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:nno_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:nob_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:pol_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:por_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:ron_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:rum_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u044b\u0431\u0443\u043b\u0451\u0432\u043a\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0426\u044b\u0431\u0443\u043b\u0435\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:swe_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:tur_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u0431\u0443\u043b\u0456\u0432\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tsybulevka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0162\u00eebuleuca",
+    "qs:loc_alt":"Tibuleuca",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617200,
+        "gp:id":481455,
+        "wd:id":"Q1994846",
+        "wk:page":"\u021a\u00eebuleuca"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4a4f5f6ba14051aa1b4b28f8c8e51491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865035,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865035,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865035,
+    "wof:lastmodified":1544747835,
+    "wof:name":"\u0162\u00eebuleuca",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.103855,
+    47.407097,
+    29.103855,
+    47.407097
+],
+  "geometry": {"coordinates":[29.103855,47.407097],"type":"Point"}
+}

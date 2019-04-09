@@ -1,0 +1,159 @@
+{
+  "id": 101855721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.167545,45.763477,28.167545,45.763477",
+    "geom:latitude":45.763477,
+    "geom:longitude":28.167545,
+    "iso:country":"MD",
+    "lbl:latitude":45.763477,
+    "lbl:longitude":28.167545,
+    "mps:latitude":45.763477,
+    "mps:longitude":28.167545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:dan_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:dut_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:eng_x_preferred":[
+        "Vadul-luy-Isak"
+    ],
+    "name:eng_x_variant":[
+        "Vadu-luy-Isak",
+        "Vadyluy Isak",
+        "Vadul lui Isac"
+    ],
+    "name:fre_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10d3\u10e3\u10da-\u10da\u10e3\u10d8-\u10d8\u10e1\u10d0\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:ita_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d3\u10e3\u10da-\u10da\u10e3\u10d8-\u10d8\u10e1\u10d0\u10d9\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:nob_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:pol_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:por_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:ron_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:rum_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0443\u043b \u043b\u0443\u0439 \u0418\u0441\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u0434\u0443\u043b-\u043b\u0443\u0439-\u0418\u0441\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:swe_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0443\u043b-\u043b\u0443\u0439-\u0406\u0441\u0430\u043a"
+    ],
+    "name:und_x_colloquial":[
+        "Branesti"
+    ],
+    "name:und_x_preferred":[
+        "Vadul lui Isac"
+    ],
+    "name:und_x_variant":[
+        "Brane\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Brane\u015fti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vadul lui Isac",
+    "qs:loc_alt":"Vadul lui Isac",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a56eac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617165,
+        "gp:id":481536,
+        "qs:id":5,
+        "wd:id":"Q2437102",
+        "wk:page":"Vadul lui Isac"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b0b7ddf958db0ef6205d453d714cdbc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101855721,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101855721,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743041,
+    "wof:name":"Vadul lui Isac",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.167545,
+    45.763477,
+    28.167545,
+    45.763477
+],
+  "geometry": {"coordinates":[28.167545,45.763477],"type":"Point"}
+}

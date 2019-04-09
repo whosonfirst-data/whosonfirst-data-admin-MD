@@ -1,0 +1,112 @@
+{
+  "id": 101857993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.222044,47.17091,28.222044,47.17091",
+    "geom:latitude":47.17091,
+    "geom:longitude":28.222044,
+    "iso:country":"MD",
+    "lbl:latitude":47.17091,
+    "lbl:longitude":28.222044,
+    "mps:latitude":47.17091,
+    "mps:longitude":28.222044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Choresht'"
+    ],
+    "name:eng_x_variant":[
+        "Choreshty"
+    ],
+    "name:ita_x_preferred":[
+        "Ciore\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Ciore\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0427\u043e\u0440\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Cioresti"
+    ],
+    "name:und_x_preferred":[
+        "Ciore\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Choreshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Nisporeni",
+    "qs:a1_alt":"Nisporeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ciore\u015fti",
+    "qs:loc_alt":"Cioresti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a49ba8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618419,
+        "gp:id":480319,
+        "qs:id":3,
+        "wd:id":"Q2445266",
+        "wk:page":"Ciore\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5b7e9a50473afbf022c6f96567c554c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101857993,
+            "region_id":85686387
+        }
+    ],
+    "wof:id":101857993,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744184,
+    "wof:name":"Ciore\u015fti",
+    "wof:parent_id":85686387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.222044,
+    47.17091,
+    28.222044,
+    47.17091
+],
+  "geometry": {"coordinates":[28.222044,47.17091],"type":"Point"}
+}

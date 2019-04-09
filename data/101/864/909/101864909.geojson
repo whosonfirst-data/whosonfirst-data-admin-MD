@@ -1,0 +1,108 @@
+{
+  "id": 101864909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.724172,47.489289,28.724172,47.489289",
+    "geom:latitude":47.489289,
+    "geom:longitude":28.724172,
+    "iso:country":"MD",
+    "lbl:latitude":47.489289,
+    "lbl:longitude":28.724172,
+    "mps:latitude":47.489289,
+    "mps:longitude":28.724172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kukuruzeni"
+    ],
+    "name:eng_x_variant":[
+        "Kokorozeny",
+        "Kukuruzen'",
+        "Kukuruzeny"
+    ],
+    "name:ita_x_preferred":[
+        "Cucuruzeni"
+    ],
+    "name:ron_x_preferred":[
+        "Cucuruzeni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0440\u0443\u0437\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0440\u0443\u0437\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Cucuruzeni"
+    ],
+    "name:unk_x_variant":[
+        "Kokorozeny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Orhei",
+    "qs:a1_alt":"Orhei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cucuruzeni",
+    "qs:loc_alt":"Cucuruzeni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b584-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618050,
+        "gp:id":480457,
+        "qs:id":3,
+        "wd:id":"Q1987839",
+        "wk:page":"Cucuruzeni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f5127b630aa1f4a9be1978190fb997d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864909,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":101864909,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747770,
+    "wof:name":"Cucuruzeni",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.724172,
+    47.489289,
+    28.724172,
+    47.489289
+],
+  "geometry": {"coordinates":[28.724172,47.489289],"type":"Point"}
+}

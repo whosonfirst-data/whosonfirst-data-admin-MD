@@ -1,0 +1,138 @@
+{
+  "id": 101858039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.995392,47.298062,27.995392,47.298062",
+    "geom:latitude":47.298062,
+    "geom:longitude":27.995392,
+    "iso:country":"MD",
+    "lbl:latitude":47.298062,
+    "lbl:longitude":27.995392,
+    "mps:latitude":47.298062,
+    "mps:longitude":27.995392,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:dan_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:dut_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:eng_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:fre_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d4\u10d3\u10d4\u10dc\u10d8-\u10d5\u10d4\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:nno_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:nob_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:pol_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:por_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044d\u0434\u0435\u043d\u0438\u0439 \u0412\u0435\u043a\u0438"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0420\u0435\u0434\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:swe_x_preferred":[
+        "R\u0103denii Vechi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0434\u0435\u043d\u0456\u0439-\u0412\u0435\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Staryye Redeny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ungheni",
+    "qs:a1_alt":"Ungheni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"R\u0103denii Vechi",
+    "qs:loc_alt":"Radenii Vechi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617325,
+        "gp:id":481173,
+        "qs:id":9,
+        "wd:id":"Q2453692",
+        "wk:page":"R\u0103denii Vechi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8cf38d16111c12e2df66e49076a2dcb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858039,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":101858039,
+    "wof:lastmodified":1544744206,
+    "wof:name":"R\u0103denii Vechi",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.995392,
+    47.298062,
+    27.995392,
+    47.298062
+],
+  "geometry": {"coordinates":[27.995392,47.298062],"type":"Point"}
+}

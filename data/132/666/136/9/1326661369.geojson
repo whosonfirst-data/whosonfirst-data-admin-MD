@@ -1,0 +1,84 @@
+{
+  "id": 1326661369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18141,47.80079,29.18141,47.80079",
+    "geom:latitude":47.80079,
+    "geom:longitude":29.18141,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Suhaia Rabnita",
+    "gn:country_code":"MD",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":830830,
+    "gn:latitude":47.80079,
+    "gn:longitude":29.18141,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Suhaia R\u00e2bni\u0163a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Suhaia R\u00e2bni\u0163a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u0430\u044f \u0420\u044b\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sukhaya Rybnitsa",
+        "Suhaia R\u00eebni\u0163a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":830830
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d95d0d6ac8c49691ed148e4b9ada80d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1326661369,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1326661369,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1326661369,
+    "wof:lastmodified":1537664397,
+    "wof:name":"Suhaia Rabnita",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18141,
+    47.80079,
+    29.18141,
+    47.80079
+],
+  "geometry": {"coordinates":[29.18141,47.80079],"type":"Point"}
+}

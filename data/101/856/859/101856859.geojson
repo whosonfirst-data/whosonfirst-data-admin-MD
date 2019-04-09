@@ -1,0 +1,164 @@
+{
+  "id": 101856859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.929123,46.02993,28.929123,46.02993",
+    "geom:latitude":46.02993,
+    "geom:longitude":28.929123,
+    "iso:country":"MD",
+    "lbl:latitude":46.02993,
+    "lbl:longitude":28.929123,
+    "mps:latitude":46.02993,
+    "mps:longitude":28.929123,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043b\u044f \u041f\u0435\u0440\u0436\u0435\u0439"
+    ],
+    "name:dan_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:dut_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:eng_x_preferred":[
+        "Valya Perzhey Noue"
+    ],
+    "name:eng_x_variant":[
+        "Vale-Perzha",
+        "Valea Perjii",
+        "Valya Perzhey-Vek'",
+        "Valya Perzhi",
+        "Valya-Perzhey",
+        "Valya-Perzhiy Noue",
+        "Valya-Perzhiy Vek'",
+        "Valea Perjei"
+    ],
+    "name:fre_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d8\u10d0-\u10de\u10d4\u10e0\u10df\u10d4\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:nno_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:nob_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:pol_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:por_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:ron_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:rum_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044f \u041f\u0435\u0440\u0436\u0435\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043b\u044f-\u041f\u0435\u0440\u0436\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:swe_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041f\u0435\u0440\u0436\u0435\u0439"
+    ],
+    "name:und_x_colloquial":[
+        "Valea Perjei Noua",
+        "Valea Perjei Nouae"
+    ],
+    "name:und_x_preferred":[
+        "Valea Perjei"
+    ],
+    "name:und_x_variant":[
+        "Valea Perjei Nou\u00e6"
+    ],
+    "name:unk_x_variant":[
+        "Valya Perzhey-Vek\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Taraclia",
+    "qs:a1_alt":"Taraclia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Valea Perjei",
+    "qs:loc_alt":"Valea Perjei",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a570aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617156,
+        "gp:id":481547,
+        "qs:id":1,
+        "wd:id":"Q2452085"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1e91645a0ecd538300b8bf41696fc662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856859,
+            "region_id":85686331
+        }
+    ],
+    "wof:id":101856859,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815550,
+    "wof:name":"Valea Perjei",
+    "wof:parent_id":85686331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.929123,
+    46.02993,
+    28.929123,
+    46.02993
+],
+  "geometry": {"coordinates":[28.929123,46.02993],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360215717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2329,47.65906,28.2329,47.65906",
+    "geom:latitude":47.65906,
+    "geom:longitude":28.2329,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Vladimireuca",
+    "gn:country_code":"MD",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617113,
+    "gn:latitude":47.65906,
+    "gn:longitude":28.2329,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Vladimireuca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Vladimirovka",
+        "Vladimiresht\u2019",
+        "Vladimireuca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617113
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"25cc8b9d9f7f4de44aeeb712d34c4c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360215717,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1360215717,
+    "wof:lastmodified":1537664303,
+    "wof:name":"Vladimireuca",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2329,
+    47.65906,
+    28.2329,
+    47.65906
+],
+  "geometry": {"coordinates":[28.2329,47.65906],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 101855729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.170364,46.055187,28.170364,46.055187",
+    "geom:latitude":46.055187,
+    "geom:longitude":28.170364,
+    "iso:country":"MD",
+    "lbl:latitude":46.055187,
+    "lbl:longitude":28.170364,
+    "mps:latitude":46.055187,
+    "mps:longitude":28.170364,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kokora"
+    ],
+    "name:eng_x_variant":[
+        "Cocoara",
+        "Kokoara",
+        "Kukoara"
+    ],
+    "name:ita_x_preferred":[
+        "Cucoara"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d9\u10dd\u10d0\u10e0\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Cucoara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u043e\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u043e\u0430\u0440\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Cucoara"
+    ],
+    "name:unk_x_variant":[
+        "Kokora"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cucoara",
+    "qs:loc_alt":"Cucoara",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b4b2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617953,
+        "gp:id":480452,
+        "qs:id":4,
+        "wd:id":"Q1775411",
+        "wk:page":"Cucoara"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"354689e1c545a578b947757c22e9a14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101855729,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101855729,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743044,
+    "wof:name":"Cucoara",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.170364,
+    46.055187,
+    28.170364,
+    46.055187
+],
+  "geometry": {"coordinates":[28.170364,46.055187],"type":"Point"}
+}

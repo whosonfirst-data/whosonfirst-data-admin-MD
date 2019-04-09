@@ -1,0 +1,141 @@
+{
+  "id": 101864833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.70219,46.731024,29.70219,46.731024",
+    "geom:latitude":46.731024,
+    "geom:longitude":29.70219,
+    "gn:population":15356,
+    "iso:country":"MD",
+    "lbl:latitude":46.731024,
+    "lbl:longitude":29.70219,
+    "mps:latitude":46.731024,
+    "mps:longitude":29.70219,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u043b\u0430\u0431\u0430\u0434\u0437\u0435\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u043b\u0430\u0431\u0430\u0437\u0456\u044f"
+    ],
+    "name:ces_x_preferred":[
+        "Slobozia"
+    ],
+    "name:deu_x_preferred":[
+        "Slobozia"
+    ],
+    "name:fin_x_preferred":[
+        "Slobozia"
+    ],
+    "name:fra_x_preferred":[
+        "Slobozia"
+    ],
+    "name:ita_x_preferred":[
+        "Slobozia"
+    ],
+    "name:lit_x_preferred":[
+        "Slabodz\u0117ja"
+    ],
+    "name:pol_x_preferred":[
+        "Slobozia"
+    ],
+    "name:ron_x_preferred":[
+        "Slobozia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0437\u0435\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Slobozia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0437\u0435\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Moldavanskaya-Slobodzaya"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u6d1b\u535a\u9f4a\u4e9e"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Slobozia",
+    "qs:loc_alt":"Slobozia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":46.725278,
+    "wd:longitude":29.707778,
+    "wd:wordcount":167,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617381,
+        "gp:id":481321,
+        "qs:id":126267,
+        "qs_pg:id":126267,
+        "wd:id":"Q603400",
+        "wk:page":"Slobozia, Moldova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c4e8536d4711810c648812a3868486df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864833,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864833,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864833,
+    "wof:lastmodified":1544747731,
+    "wof:name":"Slobozia",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:population":15356,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.70219,
+    46.731024,
+    29.70219,
+    46.731024
+],
+  "geometry": {"coordinates":[29.70219,46.731024],"type":"Point"}
+}

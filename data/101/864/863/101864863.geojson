@@ -1,0 +1,147 @@
+{
+  "id": 101864863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.659156,46.819763,29.659156,46.819763",
+    "geom:latitude":46.819763,
+    "geom:longitude":29.659156,
+    "iso:country":"MD",
+    "lbl:latitude":46.819763,
+    "lbl:longitude":29.659156,
+    "mps:latitude":46.819763,
+    "mps:longitude":29.659156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Sucleia"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0421\u0443\u043a\u043b\u0435\u044f"
+    ],
+    "name:dan_x_preferred":[
+        "Sucleia"
+    ],
+    "name:dut_x_preferred":[
+        "Sucleia"
+    ],
+    "name:eng_x_preferred":[
+        "Sucleia"
+    ],
+    "name:fre_x_preferred":[
+        "Sucleia"
+    ],
+    "name:ger_x_preferred":[
+        "Sucleia"
+    ],
+    "name:ita_x_preferred":[
+        "Sucleia"
+    ],
+    "name:nno_x_preferred":[
+        "Sucleia"
+    ],
+    "name:nob_x_preferred":[
+        "Sucleia"
+    ],
+    "name:pol_x_preferred":[
+        "Sucleia"
+    ],
+    "name:por_x_preferred":[
+        "Sucleia"
+    ],
+    "name:ron_x_preferred":[
+        "Sucleia"
+    ],
+    "name:rum_x_preferred":[
+        "Sucleia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u043b\u0435\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Sucleia"
+    ],
+    "name:swe_x_preferred":[
+        "Sucleia"
+    ],
+    "name:tur_x_preferred":[
+        "Sucleia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u043a\u043b\u0435\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Sukleya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sucleia",
+    "qs:loc_alt":"Sucleia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617291,
+        "gp:id":481395,
+        "wd:id":"Q2638010",
+        "wk:page":"Sucleia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0de819777474f8547fc75cc10869974c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864863,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864863,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864863,
+    "wof:lastmodified":1544747746,
+    "wof:name":"Sucleia",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.659156,
+    46.819763,
+    29.659156,
+    46.819763
+],
+  "geometry": {"coordinates":[29.659156,46.819763],"type":"Point"}
+}

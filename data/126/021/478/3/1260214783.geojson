@@ -1,0 +1,83 @@
+{
+  "id": 1260214783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38121,47.27366,29.38121,47.27366",
+    "geom:latitude":47.27366,
+    "geom:longitude":29.38121,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Mocreachi",
+    "gn:country_code":"MD",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617792,
+    "gn:latitude":47.27366,
+    "gn:longitude":29.38121,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Mocreachi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u044f\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pos\u00eblok Mokraki",
+        "Mokraki",
+        "Mokryaki",
+        "Mocreachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617792
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"89e0e1b856c3af6936a4634cc3c41917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1260214783,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1260214783,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1260214783,
+    "wof:lastmodified":1537664340,
+    "wof:name":"Mocreachi",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38121,
+    47.27366,
+    29.38121,
+    47.27366
+],
+  "geometry": {"coordinates":[29.38121,47.27366],"type":"Point"}
+}

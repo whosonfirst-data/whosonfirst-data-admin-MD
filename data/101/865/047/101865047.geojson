@@ -1,0 +1,102 @@
+{
+  "id": 101865047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.776053,47.993446,28.776053,47.993446",
+    "geom:latitude":47.993446,
+    "geom:longitude":28.776053,
+    "iso:country":"MD",
+    "lbl:latitude":47.993446,
+    "lbl:longitude":28.776053,
+    "mps:latitude":47.993446,
+    "mps:longitude":28.776053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Podoima"
+    ],
+    "name:ron_x_preferred":[
+        "Podoima"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0439\u043c\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0439\u043c\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Podojma"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Podoima",
+    "qs:loc_alt":"Podoima",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617579,
+        "gp:id":481127,
+        "wd:id":"Q2457255",
+        "wk:page":"Podoima"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"242b6535f65e44f54a5c677acc9bfe32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865047,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865047,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865047,
+    "wof:lastmodified":1544747842,
+    "wof:name":"Podoima",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.776053,
+    47.993446,
+    28.776053,
+    47.993446
+],
+  "geometry": {"coordinates":[28.776053,47.993446],"type":"Point"}
+}

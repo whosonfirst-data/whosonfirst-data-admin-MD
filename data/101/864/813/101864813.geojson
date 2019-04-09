@@ -1,0 +1,114 @@
+{
+  "id": 101864813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.723454,47.203674,28.723454,47.203674",
+    "geom:latitude":47.203674,
+    "geom:longitude":28.723454,
+    "iso:country":"MD",
+    "lbl:latitude":47.203674,
+    "lbl:longitude":28.723454,
+    "mps:latitude":47.203674,
+    "mps:longitude":28.723454,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zamchozhi"
+    ],
+    "name:eng_x_variant":[
+        "Zamozh'"
+    ],
+    "name:ita_x_preferred":[
+        "R\u0103deni"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103deni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044d\u0434\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u043c\u0447\u043e\u0436\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0434\u0435\u043d\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Zamosi"
+    ],
+    "name:und_x_preferred":[
+        "Zamcioji"
+    ],
+    "name:und_x_variant":[
+        "Z\u0103mo\u015fi"
+    ],
+    "name:unk_x_variant":[
+        "Zamozh\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Str\u0103\u015feni",
+    "qs:a1_alt":"Straseni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zamciogi",
+    "qs:loc_alt":"Zamciogi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a57f78-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617051,
+        "gp:id":481622,
+        "qs:id":2,
+        "wd:id":"Q2449770"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b81d2d5bc1bb81deb547e2220ef3e51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864813,
+            "region_id":85686405
+        }
+    ],
+    "wof:id":101864813,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747720,
+    "wof:name":"Zamciogi",
+    "wof:parent_id":85686405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.723454,
+    47.203674,
+    28.723454,
+    47.203674
+],
+  "geometry": {"coordinates":[28.723454,47.203674],"type":"Point"}
+}

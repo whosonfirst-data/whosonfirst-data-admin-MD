@@ -1,0 +1,73 @@
+{
+  "id": 1293524461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93126,47.16557,27.93126,47.16557",
+    "geom:latitude":47.16557,
+    "geom:longitude":27.93126,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Floritoaia Noua",
+    "gn:country_code":"MD",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617737,
+    "gn:latitude":47.16557,
+    "gn:longitude":27.93126,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Flori\u0163oaia Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0424\u043b\u043e\u0440\u0438\u0446\u043e\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Novaya Floritsoaya",
+        "Floritsoyya Noua",
+        "Flori\u0163oaia Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617737
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0011217034ca283b63381e201c792e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293524461,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1293524461,
+    "wof:lastmodified":1537664336,
+    "wof:name":"Floritoaia Noua",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93126,
+    47.16557,
+    27.93126,
+    47.16557
+],
+  "geometry": {"coordinates":[27.93126,47.16557],"type":"Point"}
+}

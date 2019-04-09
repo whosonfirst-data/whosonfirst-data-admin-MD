@@ -1,0 +1,72 @@
+{
+  "id": 1310137001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57664,48.14384,27.57664,48.14384",
+    "geom:latitude":48.14384,
+    "geom:longitude":27.57664,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Codrenii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829557,
+    "gn:latitude":48.14384,
+    "gn:longitude":27.57664,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Codrenii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041a\u043e\u0434\u0440\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Kodryany",
+        "Codrenii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829557
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"89dbc55b45890cc7bb5890a2060130a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310137001,
+            "region_id":85686505
+        }
+    ],
+    "wof:id":1310137001,
+    "wof:lastmodified":1537664383,
+    "wof:name":"Codrenii Noi",
+    "wof:parent_id":85686505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57664,
+    48.14384,
+    27.57664,
+    48.14384
+],
+  "geometry": {"coordinates":[27.57664,48.14384],"type":"Point"}
+}

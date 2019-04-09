@@ -1,0 +1,83 @@
+{
+  "id": 1343292779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26781,47.88132,29.26781,47.88132",
+    "geom:latitude":47.88132,
+    "geom:longitude":29.26781,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Brosteni",
+    "gn:country_code":"MD",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618508,
+    "gn:latitude":47.88132,
+    "gn:longitude":29.26781,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bro\u015fteni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u043e\u0448\u0442\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Burshteny",
+        "Brushteny",
+        "Broshtyany",
+        "Bro\u015fteni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618508
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0fc8b858fa486c4d7c47370b24d6d16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1343292779,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1343292779,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1343292779,
+    "wof:lastmodified":1537664371,
+    "wof:name":"Brosteni",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26781,
+    47.88132,
+    29.26781,
+    47.88132
+],
+  "geometry": {"coordinates":[29.26781,47.88132],"type":"Point"}
+}

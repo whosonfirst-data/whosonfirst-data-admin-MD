@@ -1,0 +1,72 @@
+{
+  "id": 1243001859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.43801,45.5162,28.43801,45.5162",
+    "geom:latitude":45.5162,
+    "geom:longitude":28.43801,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Etulia Noua",
+    "gn:country_code":"MD",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864976,
+    "gn:latitude":45.5162,
+    "gn:longitude":28.43801,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Etulia Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0415\u0442\u0443\u043b\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Novaya Etuliya",
+        "Etulia Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864976
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c66f2daf78687c24c0c7e626c67874a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243001859,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":1243001859,
+    "wof:lastmodified":1537664406,
+    "wof:name":"Etulia Noua",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.43801,
+    45.5162,
+    28.43801,
+    45.5162
+],
+  "geometry": {"coordinates":[28.43801,45.5162],"type":"Point"}
+}

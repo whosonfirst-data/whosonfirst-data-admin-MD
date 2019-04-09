@@ -1,0 +1,103 @@
+{
+  "id": 101863725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.767519,46.864898,28.767519,46.864898",
+    "geom:latitude":46.864898,
+    "geom:longitude":28.767519,
+    "iso:country":"MD",
+    "lbl:latitude":46.864898,
+    "lbl:longitude":28.767519,
+    "mps:latitude":46.864898,
+    "mps:longitude":28.767519,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10e2\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Kosteshty"
+    ],
+    "name:unk_x_variant":[
+        "Kosteshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ialoveni",
+    "qs:a1_alt":"Ialoveni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Coste\u015fti",
+    "qs:loc_alt":"Costesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f314-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618001,
+        "gp:id":480803,
+        "qs:id":7,
+        "wd:id":"Q2443359",
+        "wk:page":"Coste\u0219ti, Ialoveni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0e7d8cd1e178d8ef916026f5d08665d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863725,
+            "region_id":85686385
+        }
+    ],
+    "wof:id":101863725,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747153,
+    "wof:name":"Coste\u015fti",
+    "wof:parent_id":85686385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.767519,
+    46.864898,
+    28.767519,
+    46.864898
+],
+  "geometry": {"coordinates":[28.767519,46.864898],"type":"Point"}
+}

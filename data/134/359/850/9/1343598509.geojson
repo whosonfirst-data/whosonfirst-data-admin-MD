@@ -1,0 +1,75 @@
+{
+  "id": 1343598509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.80722,47.18361,27.80722,47.18361",
+    "geom:latitude":47.18361,
+    "geom:longitude":27.80722,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Danuteni",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618398,
+    "gn:latitude":47.18361,
+    "gn:longitude":27.80722,
+    "gn:modification_date":"2013-12-01",
+    "gn:name":"D\u0103nu\u0163eni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "D\u0103nu\u021beni"
+    ],
+    "name:und_x_variant":[
+        "Danutseny",
+        "Danutsen\u2019",
+        "Danutsany",
+        "D\u0103nu\u0163eni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618398
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b6e6a4fee5e1d929c8f75d89b63506d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343598509,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1343598509,
+    "wof:lastmodified":1537664368,
+    "wof:name":"Danuteni",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.80722,
+    47.18361,
+    27.80722,
+    47.18361
+],
+  "geometry": {"coordinates":[27.80722,47.18361],"type":"Point"}
+}

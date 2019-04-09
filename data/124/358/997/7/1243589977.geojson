@@ -1,0 +1,75 @@
+{
+  "id": 1243589977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.80484,47.67503,28.80484,47.67503",
+    "geom:latitude":47.67503,
+    "geom:longitude":28.80484,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Trifesti",
+    "gn:country_code":"MD",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617216,
+    "gn:latitude":47.67503,
+    "gn:longitude":28.80484,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Trife\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u0444\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Trifesht\u2019",
+        "Trifeshty",
+        "Trifeshti",
+        "Trife\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617216,
+        "wk:page":"Trife%C8%99ti%2C_Rezina"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"81618f86f58cfcbba66d7cb80852f68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243589977,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1243589977,
+    "wof:lastmodified":1537664308,
+    "wof:name":"Trifesti",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.80484,
+    47.67503,
+    28.80484,
+    47.67503
+],
+  "geometry": {"coordinates":[28.80484,47.67503],"type":"Point"}
+}

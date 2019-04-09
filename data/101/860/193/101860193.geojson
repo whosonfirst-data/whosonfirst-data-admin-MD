@@ -1,0 +1,154 @@
+{
+  "id": 101860193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.472527,47.987816,27.472527,47.987816",
+    "geom:latitude":47.987816,
+    "geom:longitude":27.472527,
+    "iso:country":"MD",
+    "lbl:latitude":47.987816,
+    "lbl:longitude":27.472527,
+    "mps:latitude":47.987816,
+    "mps:longitude":27.472527,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:dan_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:dut_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:eng_x_preferred":[
+        "Boroseny"
+    ],
+    "name:eng_x_variant":[
+        "Borisyany Novyye",
+        "Boroseni",
+        "Borosheni",
+        "Borosheni-Nouy",
+        "Maketsmchuka",
+        "Novyye Boroseny",
+        "Borosenii Noi"
+    ],
+    "name:fre_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10e0\u10dd\u10e1\u10d4\u10dc\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:ita_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:nno_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:nob_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:pol_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:por_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:ron_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:rum_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0441\u0435\u043d\u0438\u0439 \u041d\u043e\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0411\u043e\u0440\u043e\u0441\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:swe_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0441\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
+    ],
+    "name:und_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:unk_x_variant":[
+        "Boroseny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Borosenii Noi",
+    "qs:loc_alt":"Borosenii Noi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a479ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617697,
+        "gp:id":480133,
+        "qs:id":1,
+        "wd:id":"Q2448555",
+        "wk:page":"Borosenii Noi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6f6261a668d62356b9c8f46322b34ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860193,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101860193,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745310,
+    "wof:name":"Borosenii Noi",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.472527,
+    47.987816,
+    27.472527,
+    47.987816
+],
+  "geometry": {"coordinates":[27.472527,47.987816],"type":"Point"}
+}

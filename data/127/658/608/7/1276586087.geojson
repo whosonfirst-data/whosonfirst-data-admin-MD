@@ -1,0 +1,72 @@
+{
+  "id": 1276586087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97431,47.85294,27.97431,47.85294",
+    "geom:latitude":47.85294,
+    "geom:longitude":27.97431,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Cotovca",
+    "gn:country_code":"MD",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618024,
+    "gn:latitude":47.85294,
+    "gn:longitude":27.97431,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cotovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kotovka",
+        "Cotovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618024
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"96cf672bb03be06a9d913540f3bf1e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276586087,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1276586087,
+    "wof:lastmodified":1537664351,
+    "wof:name":"Cotovca",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97431,
+    47.85294,
+    27.97431,
+    47.85294
+],
+  "geometry": {"coordinates":[27.97431,47.85294],"type":"Point"}
+}

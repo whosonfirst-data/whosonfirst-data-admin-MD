@@ -1,0 +1,72 @@
+{
+  "id": 1243297553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15314,47.34419,28.15314,47.34419",
+    "geom:latitude":47.34419,
+    "geom:longitude":28.15314,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Leordoaia",
+    "gn:country_code":"MD",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831037,
+    "gn:latitude":47.34419,
+    "gn:longitude":28.15314,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Leordoaia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043e\u0440\u0434\u043e\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Leordoaya",
+        "Leordoaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831037
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e777c13d67a8f3c772be5a5a3d4cd161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243297553,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":1243297553,
+    "wof:lastmodified":1537664398,
+    "wof:name":"Leordoaia",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15314,
+    47.34419000000001,
+    28.15314,
+    47.34419000000001
+],
+  "geometry": {"coordinates":[28.15314,47.34419000000001],"type":"Point"}
+}

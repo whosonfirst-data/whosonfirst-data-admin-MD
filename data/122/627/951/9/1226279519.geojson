@@ -1,0 +1,74 @@
+{
+  "id": 1226279519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41575,47.71854,27.41575,47.71854",
+    "geom:latitude":47.71854,
+    "geom:longitude":27.41575,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Clococenii Vechi",
+    "gn:country_code":"MD",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617334,
+    "gn:latitude":47.71854,
+    "gn:longitude":27.41575,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Clococenii Vechi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041a\u043b\u043e\u043a\u043e\u0447\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Staryye Klokochany",
+        "Kolokocheni-Vek\u2019",
+        "Staryye Klokocheny",
+        "Clococenii Vechi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617334
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e4cf9b17d1ab7766c2ef1bcb02f4468f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226279519,
+            "region_id":85686445
+        }
+    ],
+    "wof:id":1226279519,
+    "wof:lastmodified":1537664314,
+    "wof:name":"Clococenii Vechi",
+    "wof:parent_id":85686445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41575,
+    47.71854,
+    27.41575,
+    47.71854
+],
+  "geometry": {"coordinates":[27.41575,47.71854],"type":"Point"}
+}

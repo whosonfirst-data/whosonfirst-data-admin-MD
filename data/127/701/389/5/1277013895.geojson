@@ -1,0 +1,75 @@
+{
+  "id": 1277013895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18391,46.96159,28.18391,46.96159",
+    "geom:latitude":46.96159,
+    "geom:longitude":28.18391,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Helesteni",
+    "gn:country_code":"MD",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618100,
+    "gn:latitude":46.96159,
+    "gn:longitude":28.18391,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Hele\u015fteni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u043b\u0435\u0448\u0442\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Hele\u015ftieni",
+        "Kheleshteny",
+        "Kheleshtiyen\u2019",
+        "Kheleshtiyany",
+        "Hele\u015fteni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618100
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"eb6ce8fcd821171f541838b43cce623e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1277013895,
+            "region_id":85686387
+        }
+    ],
+    "wof:id":1277013895,
+    "wof:lastmodified":1537664354,
+    "wof:name":"Helesteni",
+    "wof:parent_id":85686387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18391,
+    46.96159,
+    28.18391,
+    46.96159
+],
+  "geometry": {"coordinates":[28.18391,46.96159],"type":"Point"}
+}

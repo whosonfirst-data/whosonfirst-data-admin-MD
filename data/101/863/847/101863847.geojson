@@ -1,0 +1,109 @@
+{
+  "id": 101863847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.387028,47.129055,28.387028,47.129055",
+    "geom:latitude":47.129055,
+    "geom:longitude":28.387028,
+    "iso:country":"MD",
+    "lbl:latitude":47.129055,
+    "lbl:longitude":28.387028,
+    "mps:latitude":47.129055,
+    "mps:longitude":28.387028,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lozovo"
+    ],
+    "name:ita_x_preferred":[
+        "Lozova"
+    ],
+    "name:ron_x_preferred":[
+        "Lozova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u0437\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lozova"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Lozova"
+    ],
+    "name:unk_x_variant":[
+        "Lozovo"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Str\u0103\u015feni",
+    "qs:a1_alt":"Straseni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lozova",
+    "qs:loc_alt":"Lozova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4fb52-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617884,
+        "gp:id":480858,
+        "qs:id":3,
+        "wd:id":"Q975671",
+        "wk:page":"Lozova, Str\u0103\u0219eni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1b36b5006b6a5cca849f14d64cb8410e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863847,
+            "region_id":85686405
+        }
+    ],
+    "wof:id":101863847,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747216,
+    "wof:name":"Lozova",
+    "wof:parent_id":85686405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.387028,
+    47.129055,
+    28.387028,
+    47.129055
+],
+  "geometry": {"coordinates":[28.387028,47.129055],"type":"Point"}
+}

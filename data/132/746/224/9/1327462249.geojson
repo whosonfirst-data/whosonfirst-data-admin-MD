@@ -1,0 +1,75 @@
+{
+  "id": 1327462249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46332,45.92402,28.46332,45.92402",
+    "geom:latitude":45.92402,
+    "geom:longitude":28.46332,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Hagichioi",
+    "gn:country_code":"MD",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618105,
+    "gn:latitude":45.92402,
+    "gn:longitude":28.46332,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Hagichioi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0438\u043a\u0438\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Hagichoi",
+        "Gadzhikiyey",
+        "Hagie\u015fti",
+        "Khadzhikioy",
+        "Hagichioi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618105
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3490e264ba0d6615b47f0e10377f8a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327462249,
+            "region_id":85686331
+        }
+    ],
+    "wof:id":1327462249,
+    "wof:lastmodified":1537664354,
+    "wof:name":"Hagichioi",
+    "wof:parent_id":85686331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46332,
+    45.92402,
+    28.46332,
+    45.92402
+],
+  "geometry": {"coordinates":[28.46332,45.92402],"type":"Point"}
+}

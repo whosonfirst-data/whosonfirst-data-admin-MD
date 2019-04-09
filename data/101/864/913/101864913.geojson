@@ -1,0 +1,119 @@
+{
+  "id": 101864913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.474436,47.657745,28.474436,47.657745",
+    "geom:latitude":47.657745,
+    "geom:longitude":28.474436,
+    "iso:country":"MD",
+    "lbl:latitude":47.657745,
+    "lbl:longitude":28.474436,
+    "mps:latitude":47.657745,
+    "mps:longitude":28.474436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Brynzeni-Vek'"
+    ],
+    "name:eng_x_variant":[
+        "Brynzeni",
+        "Staryye Brynzeny",
+        "Vek' Brynzeni"
+    ],
+    "name:ita_x_preferred":[
+        "Br\u00eenzenii Noi"
+    ],
+    "name:ron_x_preferred":[
+        "Br\u00eenzenii Noi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044b\u043d\u0437\u0435\u043d\u0438\u0439 \u041d\u043e\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0411\u0440\u044b\u043d\u0437\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0438\u043d\u0437\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
+    ],
+    "name:und_x_colloquial":[
+        "Branzeni",
+        "Branzenii Vechi",
+        "Brinzenii Vechi"
+    ],
+    "name:und_x_preferred":[
+        "Br\u00eenzenii Vechi"
+    ],
+    "name:und_x_variant":[
+        "Br\u00e2nzeni",
+        "Br\u00e2nzenii Vechi"
+    ],
+    "name:unk_x_variant":[
+        "Staryye Brynzeny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Telene\u015fti",
+    "qs:a1_alt":"Telenesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Br\u00eenzenii Vechi",
+    "qs:loc_alt":"Brinzenii Vechi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a47e48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617343,
+        "gp:id":480162,
+        "qs:id":7,
+        "wd:id":"Q2452276"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0430ed2ac7d73d35a58f6f5b78f17d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864913,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":101864913,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747772,
+    "wof:name":"Br\u00eenzenii Vechi",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.474436,
+    47.657745,
+    28.474436,
+    47.657745
+],
+  "geometry": {"coordinates":[28.474436,47.657745],"type":"Point"}
+}

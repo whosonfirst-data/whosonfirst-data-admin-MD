@@ -1,0 +1,74 @@
+{
+  "id": 1226783793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94972,47.71422,27.94972,47.71422",
+    "geom:latitude":47.71422,
+    "geom:longitude":27.94972,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Octeabrscoe",
+    "gn:country_code":"MD",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617651,
+    "gn:latitude":47.71422,
+    "gn:longitude":27.94972,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Octeabrscoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Katarzhi",
+        "Octeabriscoe",
+        "Oktyabr\u2019skoye",
+        "Octeabrscoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617651
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"115bc6a3fa086a367bd2fcf940de8d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226783793,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1226783793,
+    "wof:lastmodified":1537664330,
+    "wof:name":"Octeabrscoe",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94972000000001,
+    47.71422000000001,
+    27.94972000000001,
+    47.71422000000001
+],
+  "geometry": {"coordinates":[27.94972000000001,47.71422000000001],"type":"Point"}
+}

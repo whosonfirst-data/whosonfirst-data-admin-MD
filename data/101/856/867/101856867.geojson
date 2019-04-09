@@ -1,0 +1,110 @@
+{
+  "id": 101856867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.517084,46.271004,28.517084,46.271004",
+    "geom:latitude":46.271004,
+    "geom:longitude":28.517084,
+    "iso:country":"MD",
+    "lbl:latitude":46.271004,
+    "lbl:longitude":28.517084,
+    "mps:latitude":46.271004,
+    "mps:longitude":28.517084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sad\u00eec"
+    ],
+    "name:eng_x_preferred":[
+        "Sad\u00eec"
+    ],
+    "name:fre_x_preferred":[
+        "Sad\u00eec"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10d3\u10d8\u10d9\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Sad\u00eec"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d3\u10d8\u10d9\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Sad\u00eec"
+    ],
+    "name:rum_x_preferred":[
+        "Sad\u00eec"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0434\u044b\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0434\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Sadyk"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cantemir",
+    "qs:a1_alt":"Cantemir",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sad\u00eec",
+    "qs:loc_alt":"Sadic",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617477,
+        "qs:id":8,
+        "wd:id":"Q1776367",
+        "wk:page":"Sad\u00eec"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0db9ad30ae0c73258a0df7773a8c5cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856867,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":101856867,
+    "wof:lastmodified":1544743602,
+    "wof:name":"Sad\u00eec",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.517084,
+    46.271004,
+    28.517084,
+    46.271004
+],
+  "geometry": {"coordinates":[28.517084,46.271004],"type":"Point"}
+}

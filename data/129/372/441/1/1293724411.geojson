@@ -1,0 +1,85 @@
+{
+  "id": 1293724411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98683,47.93057,28.98683,47.93057",
+    "geom:latitude":47.93057,
+    "geom:longitude":28.98683,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Vadul Turcului",
+    "gn:country_code":"MD",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617162,
+    "gn:latitude":47.93057,
+    "gn:longitude":28.98683,
+    "gn:modification_date":"2015-07-10",
+    "gn:name":"Vadul Turcului",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u0443\u043b-\u0422\u0443\u0440\u043a\u0443\u043b\u0443\u0439"
+    ],
+    "name:und_x_variant":[
+        "Vadul-Turkuluy",
+        "Vaditurkul",
+        "Vadaturkovo",
+        "Vadaturkiv",
+        "Vadul Turcului"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617162,
+        "wk:page":"Vadul_Turcului"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e57acb22dd8c627da3eed4f111b2454d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1293724411,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1293724411,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1293724411,
+    "wof:lastmodified":1537664306,
+    "wof:name":"Vadul Turcului",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98683,
+    47.93057,
+    28.98683,
+    47.93057
+],
+  "geometry": {"coordinates":[28.98683,47.93057],"type":"Point"}
+}

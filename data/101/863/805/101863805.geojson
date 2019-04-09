@@ -1,0 +1,138 @@
+{
+  "id": 101863805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.344712,47.088078,29.344712,47.088078",
+    "geom:latitude":47.088078,
+    "geom:longitude":29.344712,
+    "iso:country":"MD",
+    "lbl:latitude":47.088078,
+    "lbl:longitude":29.344712,
+    "mps:latitude":47.088078,
+    "mps:longitude":29.344712,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:dan_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:dut_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:eng_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:fre_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10f0\u10d4\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:ita_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10f0\u10d4\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:nob_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:pol_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:por_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:ron_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:rum_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0433\u0430\u0447\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:swe_x_preferred":[
+        "Puh\u0103ceni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0445\u0435\u0447\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Pugocheny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Anenii Noi",
+    "qs:a1_alt":"Anenii Noi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Puh\u0103ceni",
+    "qs:loc_alt":"Puhaceni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617544,
+        "gp:id":481162,
+        "qs:id":7,
+        "wd:id":"Q2436864",
+        "wk:page":"Puh\u0103ceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b62e33ec400941eb3bdc15e839d1d233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863805,
+            "region_id":85686395
+        }
+    ],
+    "wof:id":101863805,
+    "wof:lastmodified":1544747195,
+    "wof:name":"Puh\u0103ceni",
+    "wof:parent_id":85686395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.344712,
+    47.088078,
+    29.344712,
+    47.088078
+],
+  "geometry": {"coordinates":[29.344712,47.088078],"type":"Point"}
+}

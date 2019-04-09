@@ -1,0 +1,113 @@
+{
+  "id": 101860447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.263344,48.352093,27.263344,48.352093",
+    "geom:latitude":48.352093,
+    "geom:longitude":27.263344,
+    "iso:country":"MD",
+    "lbl:latitude":48.352093,
+    "lbl:longitude":27.263344,
+    "mps:latitude":48.352093,
+    "mps:longitude":27.263344,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korosteuts'"
+    ],
+    "name:eng_x_variant":[
+        "Korestautsy",
+        "Korestoutsy"
+    ],
+    "name:ita_x_preferred":[
+        "Corest\u0103u\u021bi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d4\u10e1\u10e2\u10d4\u10e3\u10ea\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Corest\u0103u\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u0441\u0442\u043e\u0443\u0446\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u0441\u0442\u0430\u0443\u0446\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Corestauti"
+    ],
+    "name:und_x_preferred":[
+        "Corest\u0103u\u0163i"
+    ],
+    "name:unk_x_variant":[
+        "Korestautsy"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ocni\u0163a",
+    "qs:a1_alt":"Ocnita",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Corest\u0103u\u0163i",
+    "qs:loc_alt":"Corestauti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4a86e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618023,
+        "gp:id":480386,
+        "qs:id":4,
+        "wd:id":"Q2385308",
+        "wk:page":"Corest\u0103u\u021bi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c74593629bac978ed239695ac407f300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860447,
+            "region_id":85686511
+        }
+    ],
+    "wof:id":101860447,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745441,
+    "wof:name":"Corest\u0103u\u0163i",
+    "wof:parent_id":85686511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.263344,
+    48.352093,
+    27.263344,
+    48.352093
+],
+  "geometry": {"coordinates":[27.263344,48.352093],"type":"Point"}
+}

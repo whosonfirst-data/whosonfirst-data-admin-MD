@@ -1,0 +1,74 @@
+{
+  "id": 1292941685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24302,46.06867,28.24302,46.06867",
+    "geom:latitude":46.06867,
+    "geom:longitude":28.24302,
+    "gn:admin1_code":"64.0",
+    "gn:asciiname":"Larga Veche",
+    "gn:country_code":"MD",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617352,
+    "gn:latitude":46.06867,
+    "gn:longitude":28.24302,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Larga Veche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Larga Veche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u041b\u0430\u0440\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Staraya Larga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617352
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8df834afaca6f25fb298e2c076fa983f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1292941685,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":1292941685,
+    "wof:lastmodified":1537664315,
+    "wof:name":"Larga Veche",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24302,
+    46.06867,
+    28.24302,
+    46.06867
+],
+  "geometry": {"coordinates":[28.24302,46.06867],"type":"Point"}
+}

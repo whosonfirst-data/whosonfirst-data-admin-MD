@@ -1,0 +1,108 @@
+{
+  "id": 101865025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20743,47.785362,29.20743,47.785362",
+    "geom:latitude":47.785362,
+    "geom:longitude":29.20743,
+    "iso:country":"MD",
+    "lbl:latitude":47.785362,
+    "lbl:longitude":29.20743,
+    "mps:latitude":47.785362,
+    "mps:longitude":29.20743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Cobasna"
+    ],
+    "name:ita_x_preferred":[
+        "Cobasna"
+    ],
+    "name:ron_x_preferred":[
+        "Cobasna"
+    ],
+    "name:ron_x_variant":[
+        "Colbasna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0431\u0430\u0441\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0431\u0430\u0441\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kolbasna"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cobasna",
+    "qs:loc_alt":"Cobasna",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618049,
+        "gp:id":480349,
+        "wd:id":"Q2632586",
+        "wk:page":"Cobasna"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8ccd6c5b2048f8df26a13803fc0ceb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865025,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865025,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865025,
+    "wof:lastmodified":1544747830,
+    "wof:name":"Cobasna",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20743,
+    47.785362,
+    29.20743,
+    47.785362
+],
+  "geometry": {"coordinates":[29.20743,47.785362],"type":"Point"}
+}

@@ -1,0 +1,115 @@
+{
+  "id": 101864753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.519516,46.730072,28.519516,46.730072",
+    "geom:latitude":46.730072,
+    "geom:longitude":28.519516,
+    "iso:country":"MD",
+    "lbl:latitude":46.730072,
+    "lbl:longitude":28.519516,
+    "mps:latitude":46.730072,
+    "mps:longitude":28.519516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "S\u0103rata-Galben\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "S\u0103rata-Galben\u0103"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d4\u10e0\u10d0\u10e2\u10d0-\u10d2\u10d0\u10da\u10d1\u10d4\u10dc\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "S\u0103rata-Galben\u0103"
+    ],
+    "name:lit_x_preferred":[
+        "Serata-Galben\u0117"
+    ],
+    "name:ron_x_preferred":[
+        "S\u0103rata-Galben\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "S\u0103rata-Galben\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0442\u0430-\u0413\u0430\u043b\u0431\u0435\u043d\u044d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0430\u0442\u0430-\u0413\u0430\u043b\u0431\u0435\u043d\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Sarata Golban"
+    ],
+    "name:unk_x_variant":[
+        "Sarata-Galbene"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*H\u00eence\u015fti",
+    "qs:a1_alt":"Hincesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"S\u0103rata Galben\u0103",
+    "qs:loc_alt":"Sarata Galbena",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a53ed2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617461,
+        "gp:id":481249,
+        "qs:id":5,
+        "wd:id":"Q2629604",
+        "wk:page":"S\u0103rata-Galben\u0103"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d8d512f99d221eb842e96dc40253b3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864753,
+            "region_id":85686377
+        }
+    ],
+    "wof:id":101864753,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747689,
+    "wof:name":"S\u0103rata Galben\u0103",
+    "wof:parent_id":85686377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.519516,
+    46.730072,
+    28.519516,
+    46.730072
+],
+  "geometry": {"coordinates":[28.519516,46.730072],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101863825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.048034,47.050946,29.048034,47.050946",
+    "geom:latitude":47.050946,
+    "geom:longitude":29.048034,
+    "iso:country":"MD",
+    "lbl:latitude":47.050946,
+    "lbl:longitude":29.048034,
+    "mps:latitude":47.050946,
+    "mps:longitude":29.048034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "B\u0103l\u021bata"
+    ],
+    "name:eng_x_preferred":[
+        "Baltsata"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103l\u021bata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0446\u0430\u0442\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Baltata"
+    ],
+    "name:und_x_preferred":[
+        "B\u0103l\u0163ata"
+    ],
+    "name:unk_x_variant":[
+        "Baltsata"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Criuleni",
+    "qs:a1_alt":"Criuleni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"B\u0103l\u0163ata",
+    "qs:loc_alt":"Baltata",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a46d72-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618604,
+        "gp:id":480057,
+        "qs:id":4,
+        "wd:id":"Q1021967"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"83378e96dc603f5d262dfcb459c30de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863825,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":101863825,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747205,
+    "wof:name":"B\u0103l\u0163ata",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.048034,
+    47.050946,
+    29.048034,
+    47.050946
+],
+  "geometry": {"coordinates":[29.048034,47.050946],"type":"Point"}
+}

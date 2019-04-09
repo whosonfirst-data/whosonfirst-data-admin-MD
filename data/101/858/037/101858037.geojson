@@ -1,0 +1,98 @@
+{
+  "id": 101858037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.746359,47.307,27.746359,47.307",
+    "geom:latitude":47.307,
+    "geom:longitude":27.746359,
+    "geonames:id":"617597,670994",
+    "iso:country":"MD",
+    "lbl:latitude":47.307,
+    "lbl:longitude":27.746359,
+    "mps:latitude":47.307,
+    "mps:longitude":27.746359,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Petre\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "Petre\u0219ti"
+    ],
+    "name:fra_x_preferred":[
+        "Petre\u0219ti"
+    ],
+    "name:ita_x_preferred":[
+        "Petre\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Petre\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:vol_x_preferred":[
+        "Petre\u015fti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ungheni",
+    "qs:a1_alt":"Ungheni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Petre\u015fti",
+    "qs:loc_alt":"Petresti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":481096,
+        "qs:id":9,
+        "wd:id":"Q421350"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3946f0a444e0e5f29b6a68b84cc3fc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858037,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":101858037,
+    "wof:lastmodified":1544744205,
+    "wof:name":"Petre\u015fti",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.746359,
+    47.307,
+    27.746359,
+    47.307
+],
+  "geometry": {"coordinates":[27.746359,47.307],"type":"Point"}
+}

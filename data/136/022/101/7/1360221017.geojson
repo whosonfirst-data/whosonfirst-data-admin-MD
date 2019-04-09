@@ -1,0 +1,73 @@
+{
+  "id": 1360221017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60159,47.51013,27.60159,47.51013",
+    "geom:latitude":47.51013,
+    "geom:longitude":27.60159,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Rediul de Jos",
+    "gn:country_code":"MD",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829877,
+    "gn:latitude":47.51013,
+    "gn:longitude":27.60159,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Rediul de Jos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0434\u044e \u0412\u0442\u043e\u0440\u043e\u0439"
+    ],
+    "name:und_x_variant":[
+        "Redyu de Zhos",
+        "Redyu Vtoroy",
+        "Rediul de Jos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829877
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"909915226a9946dc4fd7e7574a006d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360221017,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":1360221017,
+    "wof:lastmodified":1537664393,
+    "wof:name":"Rediul de Jos",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60159,
+    47.51013,
+    27.60159,
+    47.51013
+],
+  "geometry": {"coordinates":[27.60159,47.51013],"type":"Point"}
+}

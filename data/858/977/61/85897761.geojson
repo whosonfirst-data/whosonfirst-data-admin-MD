@@ -1,0 +1,109 @@
+{
+  "id": 85897761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14525832.842283,
+    "geom:bbox":"28.84463,47.050243,28.84463,47.050243",
+    "geom:latitude":47.050243,
+    "geom:longitude":28.84463,
+    "gn:id":"",
+    "iso:country":"MD",
+    "lbl:latitude":47.050243,
+    "lbl:longitude":28.84463,
+    "mps:latitude":47.056265,
+    "mps:longitude":28.855121,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Sloboda Kishinevskaya Pochta"
+    ],
+    "name:eng_x_variant":[
+        "Sloboda Kishinevskaya Pochta"
+    ],
+    "name:und_x_preferred":[
+        "Staraya Pochta"
+    ],
+    "name:unk_x_variant":[
+        "Staraya Pochta"
+    ],
+    "qs:gn_adm0_cc":"MD",
+    "qs:gn_id":0,
+    "qs:gn_local":618426,
+    "qs:local_max":2628,
+    "qs:local_sum":3550,
+    "qs:localhoods":5,
+    "qs:name":"Staraya Pochta",
+    "qs:name_adm0":"Moldova",
+    "qs:name_adm1":"Chisinau",
+    "qs:name_en":"Sloboda Kishinevskaya Pochta",
+    "qs:name_local":"Chi\u0163inau",
+    "qs:photo_max":102,
+    "qs:photo_sum":221,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424885,
+    "qs:woe_adm1":20069878,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":480793,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751793,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":481359,
+        "qs:id":1055682,
+        "qs_pg:id":1055682
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"69975947bc157ea0d209618c1686e833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101751793,
+            "neighbourhood_id":85897761,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":85897761,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931935,
+    "wof:name":"Staraya Pochta",
+    "wof:parent_id":101751793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84463,
+    47.050243,
+    28.84463,
+    47.050243
+],
+  "geometry": {"coordinates":[28.84463,47.050243],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101858063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.284576,47.366394,28.284576,47.366394",
+    "geom:latitude":47.366394,
+    "geom:longitude":28.284576,
+    "iso:country":"MD",
+    "lbl:latitude":47.366394,
+    "lbl:longitude":28.284576,
+    "mps:latitude":47.366394,
+    "mps:longitude":28.284576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Onishkani"
+    ],
+    "name:eng_x_variant":[
+        "Oneshkany",
+        "Onishkan'",
+        "Onishkany"
+    ],
+    "name:ita_x_preferred":[
+        "Oni\u0219cani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10dc\u10d8\u10e8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Oni\u0219cani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043d\u0438\u0448\u043a\u0430\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u043d\u0438\u0448\u043a\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043d\u0456\u0448\u043a\u0430\u043d\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Oniscani"
+    ],
+    "name:und_x_preferred":[
+        "Oni\u015fcani"
+    ],
+    "name:unk_x_variant":[
+        "Onishkany"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103l\u0103ra\u015fi",
+    "qs:a1_alt":"Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Oni\u015fcani",
+    "qs:loc_alt":"Oniscani",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a519c0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617644,
+        "gp:id":481045,
+        "qs:id":7,
+        "wd:id":"Q2455590",
+        "wk:page":"Oni\u0219cani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"569554ac1170e6bcf577af627ae7d3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858063,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":101858063,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744218,
+    "wof:name":"Oni\u015fcani",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.284576,
+    47.366394,
+    28.284576,
+    47.366394
+],
+  "geometry": {"coordinates":[28.284576,47.366394],"type":"Point"}
+}

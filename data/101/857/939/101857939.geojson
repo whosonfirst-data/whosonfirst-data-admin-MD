@@ -1,0 +1,118 @@
+{
+  "id": 101857939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.215393,46.332516,28.215393,46.332516",
+    "geom:latitude":46.332516,
+    "geom:longitude":28.215393,
+    "iso:country":"MD",
+    "lbl:latitude":46.332516,
+    "lbl:longitude":28.215393,
+    "mps:latitude":46.332516,
+    "mps:longitude":28.215393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shuvylka"
+    ],
+    "name:eng_x_variant":[
+        "Antoneshty",
+        "Antonovka"
+    ],
+    "name:ita_x_preferred":[
+        "Antone\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Antone\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0410\u043d\u0442\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Antonesti"
+    ],
+    "name:und_x_preferred":[
+        "Antone\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Shuvylka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cantemir",
+    "qs:a1_alt":"Cantemir",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Antone\u015fti",
+    "qs:loc_alt":"Antonesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":46.309722,
+    "wd:longitude":28.205,
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a466e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618638,
+        "gp:id":480021,
+        "qs:id":2,
+        "wd:id":"Q2439187",
+        "wk:page":"Antone\u0219ti, Cantemir"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7d7e6db26907e62d0d518d7d5b2e801c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101857939,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":101857939,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744156,
+    "wof:name":"Antone\u015fti",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.215393,
+    46.332516,
+    28.215393,
+    46.332516
+],
+  "geometry": {"coordinates":[28.215393,46.332516],"type":"Point"}
+}

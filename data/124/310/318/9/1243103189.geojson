@@ -1,0 +1,75 @@
+{
+  "id": 1243103189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.72297,46.62194,28.72297,46.62194",
+    "geom:latitude":46.62194,
+    "geom:longitude":28.72297,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Valea Perjei",
+    "gn:country_code":"MD",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617155,
+    "gn:latitude":46.62194,
+    "gn:longitude":28.72297,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Valea Perjei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041f\u0435\u0440\u0436\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Valya-Perzhiy",
+        "Valya-Perzhey",
+        "Valya Perzhey Noua",
+        "Valea Perjii",
+        "Valea Perjei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617155
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"dc49cb45812dc455f3fb95548b070e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243103189,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":1243103189,
+    "wof:lastmodified":1537664306,
+    "wof:name":"Valea Perjei",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72297,
+    46.62194,
+    28.72297,
+    46.62194
+],
+  "geometry": {"coordinates":[28.72297,46.62194],"type":"Point"}
+}

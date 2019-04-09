@@ -1,0 +1,115 @@
+{
+  "id": 101872957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.387743,47.930187,27.387743,47.930187",
+    "geom:latitude":47.930187,
+    "geom:longitude":27.387743,
+    "iso:country":"MD",
+    "lbl:latitude":47.930187,
+    "lbl:longitude":27.387743,
+    "mps:latitude":47.930187,
+    "mps:longitude":27.387743,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Giliutsi"
+    ],
+    "name:eng_x_variant":[
+        "Giliuts'",
+        "Khileutsi",
+        "Khilevtsy",
+        "Khiliutsy"
+    ],
+    "name:ita_x_preferred":[
+        "Hiliu\u021bi"
+    ],
+    "name:ron_x_preferred":[
+        "Hiliu\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043b\u0438\u0443\u0446\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0438\u043b\u0438\u0443\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043b\u0456\u0443\u0446\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Hiliuti"
+    ],
+    "name:und_x_preferred":[
+        "Hiliu\u0163i"
+    ],
+    "name:unk_x_variant":[
+        "Giliutsi"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hiliu\u0163i",
+    "qs:loc_alt":"Hiliuti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a58540-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618098,
+        "gp:id":480675,
+        "qs:id":8,
+        "wd:id":"Q1989064",
+        "wk:page":"Hiliu\u021bi, R\u00ee\u0219cani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fd6bf01925c6115aae25805e61153b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101872957,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101872957,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544751406,
+    "wof:name":"Hiliu\u0163i",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.387743,
+    47.930187,
+    27.387743,
+    47.930187
+],
+  "geometry": {"coordinates":[27.387743,47.930187],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344190901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.74019,47.97236,28.74019,47.97236",
+    "geom:latitude":47.97236,
+    "geom:longitude":28.74019,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Bursuc",
+    "gn:country_code":"MD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618474,
+    "gn:latitude":47.97236,
+    "gn:longitude":28.74019,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bursuc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0441\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bursuk",
+        "Bursuc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618474
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e1a54bbf02cdedc5c80191fb215e3a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1344190901,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":1344190901,
+    "wof:lastmodified":1537664370,
+    "wof:name":"Bursuc",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.74019,
+    47.97236,
+    28.74019,
+    47.97236
+],
+  "geometry": {"coordinates":[28.74019,47.97236],"type":"Point"}
+}

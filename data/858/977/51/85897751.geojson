@@ -1,0 +1,115 @@
+{
+  "id": 85897751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":16623657.60244,
+    "geom:bbox":"28.85909,47.001203,28.85909,47.001203",
+    "geom:latitude":47.001203,
+    "geom:longitude":28.85909,
+    "gn:id":"",
+    "iso:country":"MD",
+    "lbl:latitude":47.001203,
+    "lbl:longitude":28.85909,
+    "mps:latitude":46.991802,
+    "mps:longitude":28.860213,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u044d\u043c\u0435\u043d\u0441\u043a\u0456 \u043f\u0430\u0440\u043a \u0440\u0430\u0434\u0430\u0434\u044d\u043d\u0434\u0440\u043e\u043d\u0430\u045e"
+    ],
+    "name:deu_x_preferred":[
+        "Rhododendron-Park Bremen"
+    ],
+    "name:pol_x_preferred":[
+        "Park r\u00f3\u017canecznik\u00f3w i ogr\u00f3d botaniczny w Bremie"
+    ],
+    "name:spa_x_preferred":[
+        "Rhododendron-Park Bremen"
+    ],
+    "name:und_x_preferred":[
+        "Botanika"
+    ],
+    "name:unk_x_variant":[
+        "Botanika"
+    ],
+    "qs:gn_adm0_cc":"MD",
+    "qs:gn_id":0,
+    "qs:gn_local":618426,
+    "qs:local_max":2628,
+    "qs:local_sum":3550,
+    "qs:localhoods":5,
+    "qs:name":"Botanika",
+    "qs:name_adm0":"Moldova",
+    "qs:name_adm1":"Chisinau",
+    "qs:name_local":"Chi\u0163inau",
+    "qs:photo_max":26,
+    "qs:photo_sum":180,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":33,
+    "qs:woe_adm0":23424885,
+    "qs:woe_adm1":20069878,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":480793,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":502,
+    "wof:belongsto":[
+        102191581,
+        101751793,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":480136,
+        "qs:id":1077994,
+        "qs_pg:id":1077994
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"be4903113c19b50a95f2a033745c12e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101751793,
+            "neighbourhood_id":85897751,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":85897751,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1531931933,
+    "wof:name":"Botanika",
+    "wof:parent_id":101751793,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85909,
+    47.001203,
+    28.85909,
+    47.001203
+],
+  "geometry": {"coordinates":[28.85909,47.001203],"type":"Point"}
+}

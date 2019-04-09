@@ -1,0 +1,108 @@
+{
+  "id": 101858109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.551443,47.498673,27.551443,47.498673",
+    "geom:latitude":47.498673,
+    "geom:longitude":27.551443,
+    "iso:country":"MD",
+    "lbl:latitude":47.498673,
+    "lbl:longitude":27.551443,
+    "mps:latitude":47.498673,
+    "mps:longitude":27.551443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Koyucheny"
+    ],
+    "name:eng_x_variant":[
+        "Kayucheny",
+        "Koyuchen'",
+        "Pruten'"
+    ],
+    "name:ita_x_preferred":[
+        "Pruteni"
+    ],
+    "name:ron_x_preferred":[
+        "Pruteni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0443\u0442\u0435\u043d\u044c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0443\u0442\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Pruteni"
+    ],
+    "name:unk_x_variant":[
+        "Kayucheny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*F\u0103le\u015fti",
+    "qs:a1_alt":"Falesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pruteni",
+    "qs:loc_alt":"Pruteni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a52e60-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617545,
+        "gp:id":481160,
+        "qs:id":4,
+        "wd:id":"Q2440685",
+        "wk:page":"Pruteni, F\u0103le\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"bc5ab0c0572c92f558f33431498ee7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858109,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":101858109,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744240,
+    "wof:name":"Pruteni",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.551443,
+    47.498673,
+    27.551443,
+    47.498673
+],
+  "geometry": {"coordinates":[27.551443,47.498673],"type":"Point"}
+}

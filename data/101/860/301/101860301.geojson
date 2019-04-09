@@ -1,0 +1,113 @@
+{
+  "id": 101860301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.209383,47.987423,27.209383,47.987423",
+    "geom:latitude":47.987423,
+    "geom:longitude":27.209383,
+    "iso:country":"MD",
+    "lbl:latitude":47.987423,
+    "lbl:longitude":27.209383,
+    "mps:latitude":47.987423,
+    "mps:longitude":27.209383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Novyye Kukoneshty"
+    ],
+    "name:eng_x_variant":[
+        "Kukoneshti-Nouy",
+        "Kukoneshty-Novyye"
+    ],
+    "name:ita_x_preferred":[
+        "Cucone\u0219tii Noi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d9\u10dd\u10dc\u10d4\u10e8\u10e2\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Cucone\u0219tii Noi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041a\u0443\u043a\u043e\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u043e\u043d\u0435\u0448\u0442\u0456\u0439-\u041d\u043e\u0439"
+    ],
+    "name:und_x_colloquial":[
+        "Cuconestii Noi"
+    ],
+    "name:und_x_preferred":[
+        "Cucone\u015ftii Noi"
+    ],
+    "name:unk_x_variant":[
+        "Novyye Kukoneshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Edine\u0163",
+    "qs:a1_alt":"Edinet",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cucone\u015ftii Noi",
+    "qs:loc_alt":"Cuconestii Noi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b4e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617682,
+        "gp:id":480454,
+        "wd:id":"Q2440363",
+        "wk:page":"Cucone\u0219tii Noi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f4050215fc514b359cc16d0d8374a6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860301,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":101860301,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745365,
+    "wof:name":"Cucone\u015ftii Noi",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.209383,
+    47.987423,
+    27.209383,
+    47.987423
+],
+  "geometry": {"coordinates":[27.209383,47.987423],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293717635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96007,47.8777,28.96007,47.8777",
+    "geom:latitude":47.8777,
+    "geom:longitude":28.96007,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Tarasova",
+    "gn:country_code":"MD",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617263,
+    "gn:latitude":47.8777,
+    "gn:longitude":28.96007,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tarasova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u0441\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tarasovo",
+        "Tarasova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617263
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b6666f538398951b5b61179e1f4eec9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293717635,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1293717635,
+    "wof:lastmodified":1537664310,
+    "wof:name":"Tarasova",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96007,
+    47.8777,
+    28.96007,
+    47.8777
+],
+  "geometry": {"coordinates":[28.96007,47.8777],"type":"Point"}
+}

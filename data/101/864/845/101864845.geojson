@@ -1,0 +1,113 @@
+{
+  "id": 101864845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.397539,46.956798,29.397539,46.956798",
+    "geom:latitude":46.956798,
+    "geom:longitude":29.397539,
+    "iso:country":"MD",
+    "lbl:latitude":46.956798,
+    "lbl:longitude":29.397539,
+    "mps:latitude":46.956798,
+    "mps:longitude":29.397539,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Teiu"
+    ],
+    "name:epo_x_preferred":[
+        "Teiu"
+    ],
+    "name:hun_x_preferred":[
+        "Teiu"
+    ],
+    "name:ita_x_preferred":[
+        "Teiu"
+    ],
+    "name:ron_x_preferred":[
+        "Teiu"
+    ],
+    "name:ron_x_variant":[
+        "Telu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Teia"
+    ],
+    "name:vie_x_preferred":[
+        "Teiu"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Teiu",
+    "qs:loc_alt":"Teiu",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617244,
+        "gp:id":481442,
+        "wd:id":"Q362250"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6dac66e4b0f53dc104f347ea5800399d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864845,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864845,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864845,
+    "wof:lastmodified":1544747737,
+    "wof:name":"Teiu",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.397539,
+    46.956798,
+    29.397539,
+    46.956798
+],
+  "geometry": {"coordinates":[29.397539,46.956798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327262911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88861,48.28139,27.88861,48.28139",
+    "geom:latitude":48.28139,
+    "geom:longitude":27.88861,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Teleseuca Noua",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617720,
+    "gn:latitude":48.28139,
+    "gn:longitude":27.88861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tele\u015feuca Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telesheuka-Nou",
+        "Novaya Teleshovka",
+        "Tele\u015feuca Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617720
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f888d8033aa739213ec013c616bc62a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327262911,
+            "region_id":85686505
+        }
+    ],
+    "wof:id":1327262911,
+    "wof:lastmodified":1537664335,
+    "wof:name":"Teleseuca Noua",
+    "wof:parent_id":85686505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88861,
+    48.28139,
+    27.88861,
+    48.28139
+],
+  "geometry": {"coordinates":[27.88861,48.28139],"type":"Point"}
+}

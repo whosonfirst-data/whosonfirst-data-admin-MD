@@ -1,0 +1,72 @@
+{
+  "id": 1209950769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01556,47.88778,28.01556,47.88778",
+    "geom:latitude":47.88778,
+    "geom:longitude":28.01556,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Shtefaneshty",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617315,
+    "gn:latitude":47.88778,
+    "gn:longitude":28.01556,
+    "gn:modification_date":"2016-02-02",
+    "gn:name":"Shtefaneshty",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "\u0218tef\u0103ne\u0219ti"
+    ],
+    "name:und_x_variant":[
+        "Stefanovka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617315
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"01d0fd3a6666550c2844db5baf403d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1209950769,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":1209950769,
+    "wof:lastmodified":1537664313,
+    "wof:name":"Shtefaneshty",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01556,
+    47.88778,
+    28.01556,
+    47.88778
+],
+  "geometry": {"coordinates":[28.01556,47.88778],"type":"Point"}
+}

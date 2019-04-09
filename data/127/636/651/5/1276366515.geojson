@@ -1,0 +1,75 @@
+{
+  "id": 1276366515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2047,47.59686,28.2047,47.59686",
+    "geom:latitude":47.59686,
+    "geom:longitude":28.2047,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Petropavlovca",
+    "gn:country_code":"MD",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617296,
+    "gn:latitude":47.59686,
+    "gn:longitude":28.2047,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Petropavlovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zhon Kyange",
+        "Petropavlovka",
+        "Ion Creang\u0103",
+        "Styrcha",
+        "Petropavlovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617296
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f1ed1c01b774da680d0d50ee5e21560e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276366515,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1276366515,
+    "wof:lastmodified":1537664311,
+    "wof:name":"Petropavlovca",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2047,
+    47.59686,
+    28.2047,
+    47.59686
+],
+  "geometry": {"coordinates":[28.2047,47.59686],"type":"Point"}
+}

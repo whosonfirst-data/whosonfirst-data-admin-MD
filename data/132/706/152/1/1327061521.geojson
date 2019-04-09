@@ -1,0 +1,72 @@
+{
+  "id": 1327061521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74942,48.38185,26.74942,48.38185",
+    "geom:latitude":48.38185,
+    "geom:longitude":26.74942,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Slobozia-Medveja",
+    "gn:country_code":"MD",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829691,
+    "gn:latitude":48.38185,
+    "gn:longitude":26.74942,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Slobozia-Medveja",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u043a\u0430-\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
+    ],
+    "name:und_x_variant":[
+        "Slobodka-Medvezha",
+        "Slobozia-Medveja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829691
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a4bfac729d06bb3c5dc1aa566a68f1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327061521,
+            "region_id":85686497
+        }
+    ],
+    "wof:id":1327061521,
+    "wof:lastmodified":1537664387,
+    "wof:name":"Slobozia-Medveja",
+    "wof:parent_id":85686497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74942,
+    48.38185,
+    26.74942,
+    48.38185
+],
+  "geometry": {"coordinates":[26.74942,48.38185],"type":"Point"}
+}

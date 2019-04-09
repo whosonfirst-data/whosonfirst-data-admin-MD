@@ -1,0 +1,113 @@
+{
+  "id": 101864819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.496171,47.222691,28.496171,47.222691",
+    "geom:latitude":47.222691,
+    "geom:longitude":28.496171,
+    "iso:country":"MD",
+    "lbl:latitude":47.222691,
+    "lbl:longitude":28.496171,
+    "mps:latitude":47.222691,
+    "mps:longitude":28.496171,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Goleshty"
+    ],
+    "name:eng_x_variant":[
+        "Galesht'",
+        "Galeshty"
+    ],
+    "name:ita_x_preferred":[
+        "G\u0103le\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "G\u0103le\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044d\u043b\u0435\u0448\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u043b\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043b\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Galesti"
+    ],
+    "name:und_x_preferred":[
+        "G\u0103le\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Galesht\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Str\u0103\u015feni",
+    "qs:a1_alt":"Straseni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"G\u0103le\u015fti",
+    "qs:loc_alt":"Galesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4ce48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618309,
+        "gp:id":480588,
+        "qs:id":6,
+        "wd:id":"Q2450695",
+        "wk:page":"G\u0103le\u0219ti, Str\u0103\u0219eni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e7be46b0d719bae13c9a079d4880162c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864819,
+            "region_id":85686405
+        }
+    ],
+    "wof:id":101864819,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747722,
+    "wof:name":"G\u0103le\u015fti",
+    "wof:parent_id":85686405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.496171,
+    47.222691,
+    28.496171,
+    47.222691
+],
+  "geometry": {"coordinates":[28.496171,47.222691],"type":"Point"}
+}

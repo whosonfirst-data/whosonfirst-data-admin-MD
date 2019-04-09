@@ -1,0 +1,73 @@
+{
+  "id": 1293423521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86916,47.7091,27.86916,47.7091",
+    "geom:latitude":47.7091,
+    "geom:longitude":27.86916,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Popovca",
+    "gn:country_code":"MD",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617565,
+    "gn:latitude":47.7091,
+    "gn:longitude":27.86916,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Popovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Popovka",
+        "Pravila De Sus",
+        "Popovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617565
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fea15cedce79474f3222406a7cd926dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293423521,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":1293423521,
+    "wof:lastmodified":1537664325,
+    "wof:name":"Popovca",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86916,
+    47.7091,
+    27.86916,
+    47.7091
+],
+  "geometry": {"coordinates":[27.86916,47.7091],"type":"Point"}
+}

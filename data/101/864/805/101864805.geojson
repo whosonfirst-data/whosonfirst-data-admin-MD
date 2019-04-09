@@ -1,0 +1,115 @@
+{
+  "id": 101864805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.171705,47.092991,29.171705,47.092991",
+    "geom:latitude":47.092991,
+    "geom:longitude":29.171705,
+    "iso:country":"MD",
+    "lbl:latitude":47.092991,
+    "lbl:longitude":29.171705,
+    "mps:latitude":47.092991,
+    "mps:longitude":29.171705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korzhovo"
+    ],
+    "name:eng_x_variant":[
+        "Korzheva",
+        "Korzhevo"
+    ],
+    "name:ita_x_preferred":[
+        "Corjova"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10df\u10dd\u10d5\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Corjova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u043e\u0432\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0440\u0436\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0436\u043e\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Corjova"
+    ],
+    "name:unk_x_variant":[
+        "Korzhovo"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Criuleni",
+    "qs:a1_alt":"Criuleni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Corjova",
+    "qs:loc_alt":"Corjova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":47.096389,
+    "wd:longitude":29.171389,
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4a8d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618013,
+        "gp:id":480389,
+        "qs:id":4,
+        "wd:id":"Q1983201",
+        "wk:page":"Corjova, Criuleni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"71cd92bd8f8f51e1c9793a98d6c1af85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864805,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":101864805,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747715,
+    "wof:name":"Corjova",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.171705,
+    47.092991,
+    29.171705,
+    47.092991
+],
+  "geometry": {"coordinates":[29.171705,47.092991],"type":"Point"}
+}

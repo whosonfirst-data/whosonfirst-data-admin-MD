@@ -1,0 +1,115 @@
+{
+  "id": 101860393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.546507,48.136692,27.546507,48.136692",
+    "geom:latitude":48.136692,
+    "geom:longitude":27.546507,
+    "iso:country":"MD",
+    "lbl:latitude":48.136692,
+    "lbl:longitude":27.546507,
+    "mps:latitude":48.136692,
+    "mps:longitude":27.546507,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Frasin"
+    ],
+    "name:eng_x_preferred":[
+        "Frasin"
+    ],
+    "name:fre_x_preferred":[
+        "Frasin"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e4\u10e0\u10d0\u10e1\u10d8\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Frasin"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10e0\u10d0\u10e1\u10d8\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Frasin"
+    ],
+    "name:rum_x_preferred":[
+        "Frasin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u0441\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0430\u0441\u0456\u043d"
+    ],
+    "name:und_x_preferred":[
+        "Frasin"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Dondu\u015feni",
+    "qs:a1_alt":"Donduseni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Frasin",
+    "qs:loc_alt":"Frasin",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4caf6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618327,
+        "gp:id":480570,
+        "qs:id":6,
+        "wd:id":"Q1983184",
+        "wk:page":"Frasin, Dondu\u0219eni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a873f31771e1c1b93f8c791d336f6b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860393,
+            "region_id":85686505
+        }
+    ],
+    "wof:id":101860393,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815553,
+    "wof:name":"Frasin",
+    "wof:parent_id":85686505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.546507,
+    48.136692,
+    27.546507,
+    48.136692
+],
+  "geometry": {"coordinates":[27.546507,48.136692],"type":"Point"}
+}

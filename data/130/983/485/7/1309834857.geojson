@@ -1,0 +1,72 @@
+{
+  "id": 1309834857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26936,48.25335,27.26936,48.25335",
+    "geom:latitude":48.25335,
+    "geom:longitude":27.26936,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Hlinaia Mica",
+    "gn:country_code":"MD",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829591,
+    "gn:latitude":48.25335,
+    "gn:longitude":27.26936,
+    "gn:modification_date":"2015-05-02",
+    "gn:name":"Hlinaia Mic\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435 \u0413\u043b\u0438\u043d\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "Maloye Glinoye",
+        "Hlinaia Mic\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829591
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"84ef4e63bbfa22ca5b5072533f165ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1309834857,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":1309834857,
+    "wof:lastmodified":1537664385,
+    "wof:name":"Hlinaia Mica",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26936,
+    48.25335,
+    27.26936,
+    48.25335
+],
+  "geometry": {"coordinates":[27.26936,48.25335],"type":"Point"}
+}

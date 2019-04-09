@@ -1,0 +1,75 @@
+{
+  "id": 1243001747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86974,47.1325,27.86974,47.1325",
+    "geom:latitude":47.1325,
+    "geom:longitude":27.86974,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Morenii Vechi",
+    "gn:country_code":"MD",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617329,
+    "gn:latitude":47.1325,
+    "gn:longitude":27.86974,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Morenii Vechi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u041c\u043e\u0440\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Staryye Moreny",
+        "Mareni Vek\u2019",
+        "Moreny",
+        "Morenu",
+        "Morenii Vechi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617329
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"cbc4269bee320c01596d299881bf2909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243001747,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1243001747,
+    "wof:lastmodified":1537664314,
+    "wof:name":"Morenii Vechi",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86974,
+    47.1325,
+    27.86974,
+    47.1325
+],
+  "geometry": {"coordinates":[27.86974,47.1325],"type":"Point"}
+}

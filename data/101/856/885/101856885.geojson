@@ -1,0 +1,194 @@
+{
+  "id": 101856885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.813658,46.063155,28.813658,46.063155",
+    "geom:latitude":46.063155,
+    "geom:longitude":28.813658,
+    "gn:population":22700,
+    "iso:country":"MD",
+    "lbl:latitude":46.063155,
+    "lbl:longitude":28.813658,
+    "mps:latitude":46.063155,
+    "mps:longitude":28.813658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:aze_x_preferred":[
+        "\u00c7ad\u0131r"
+    ],
+    "name:bel_x_variant":[
+        "\u0427\u0430\u0434\u044b\u0440-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0434\u044a\u0440 \u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u6070\u5fb7\u723e\u502b\u52a0"
+    ],
+    "name:deu_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:dut_x_preferred":[
+        "Ciad\u00eer-Lunga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bd\u03c4\u03af\u03c1 \u039b\u03bf\u03cd\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:fin_x_preferred":[
+        "Ciad\u00eer-Lunga"
+    ],
+    "name:fra_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:fre_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:gag_x_preferred":[
+        "\u00c7ad\u0131r"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e9\u10d0\u10d3\u10d8\u10e0-\u10da\u10e3\u10dc\u10d2\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c3\u03b1\u03bd\u03c4\u03af\u03c1 \u039b\u03bf\u03cd\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:ind_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:ita_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30c9\u30a5\u30eb\uff1d\u30eb\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\uc544\ub4dc\ub974\ub8ec\uac00"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cadir Lunga"
+    ],
+    "name:mac_x_preferred":[
+        "\u0427\u0430\u0434\u0438\u0440-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:nob_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:pol_x_preferred":[
+        "Czadyr \u0141unga"
+    ],
+    "name:rum_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0434\u044b\u0440-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0430\u0434\u0438\u0440-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7ad\u0131r Lunga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u0434\u0438\u0440-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Ceadar-Lunga",
+        "Ceadir-Lunga"
+    ],
+    "name:und_x_preferred":[
+        "Cead\u00eer-Lunga"
+    ],
+    "name:und_x_variant":[
+        "Cead\u00e2r-Lunga"
+    ],
+    "name:unk_x_variant":[
+        "Chadyr-Lunga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u062f\u06cc\u0631-\u0644\u0648\u0646\u06af\u0627"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cead\u00eer-Lunga",
+    "qs:loc_alt":"Ceadir-Lunga",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":46.055,
+    "wd:longitude":28.830278,
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a48ec4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618450,
+        "gp:id":480264,
+        "qs:id":1010496,
+        "wd:id":"Q1012924",
+        "wk:page":"Cead\u00eer-Lunga"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"16f8827f31f539f9afa4bdff665fca96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856885,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101856885,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743610,
+    "wof:name":"Cead\u00eer-Lunga",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:population":22700,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.813658,
+    46.063155,
+    28.813658,
+    46.063155
+],
+  "geometry": {"coordinates":[28.813658,46.063155],"type":"Point"}
+}

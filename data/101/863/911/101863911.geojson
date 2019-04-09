@@ -1,0 +1,154 @@
+{
+  "id": 101863911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.445881,47.232731,28.445881,47.232731",
+    "geom:latitude":47.232731,
+    "geom:longitude":28.445881,
+    "iso:country":"MD",
+    "lbl:latitude":47.232731,
+    "lbl:longitude":28.445881,
+    "mps:latitude":47.232731,
+    "mps:longitude":28.445881,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:dan_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:dut_x_preferred":[
+        "V\u0103rz\u0103re\u015ftii Noi"
+    ],
+    "name:eng_x_preferred":[
+        "Novyye Varzareshty"
+    ],
+    "name:eng_x_variant":[
+        "Varzareshti-Nouy",
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:fre_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10d6\u10d4\u10e0\u10d4\u10e8\u10e2\u10d8\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10d6\u10d4\u10e0\u10d4\u10e8\u10e2\u10d8\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:nob_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:pol_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:por_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:rum_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u0440\u0437\u044d\u0440\u0435\u0448\u0442\u0438\u0439 \u041d\u043e\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0412\u0430\u0440\u0437\u0430\u0440\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:swe_x_preferred":[
+        "V\u0103rz\u0103re\u0219tii Noi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0437\u0435\u0440\u0435\u0448\u0442\u0456\u0439-\u041d\u043e\u0439"
+    ],
+    "name:und_x_colloquial":[
+        "Varzarestii Noi"
+    ],
+    "name:und_x_preferred":[
+        "V\u0103rz\u0103re\u015ftii Noi"
+    ],
+    "name:unk_x_variant":[
+        "Varzareshti-Nouy"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103l\u0103ra\u015fi",
+    "qs:a1_alt":"Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"V\u0103rz\u0103re\u015ftii Noi",
+    "qs:loc_alt":"Varzarestii Noi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a57370-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617669,
+        "gp:id":481562,
+        "qs:id":9,
+        "wd:id":"Q2453850"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"783bb39e2c84e6e42448034f24e681cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863911,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":101863911,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747250,
+    "wof:name":"V\u0103rz\u0103re\u015ftii Noi",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.445881,
+    47.232731,
+    28.445881,
+    47.232731
+],
+  "geometry": {"coordinates":[28.445881,47.232731],"type":"Point"}
+}

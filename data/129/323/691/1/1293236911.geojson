@@ -1,0 +1,72 @@
+{
+  "id": 1293236911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10304,47.34528,28.10304,47.34528",
+    "geom:latitude":47.34528,
+    "geom:longitude":28.10304,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Veverita",
+    "gn:country_code":"MD",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831036,
+    "gn:latitude":47.34528,
+    "gn:longitude":28.10304,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Veveri\u0163a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0432\u0435\u0440\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Veveritsa",
+        "Veveri\u0163a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831036
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c44bf1c9e22da0bbbdd477ab1eb6554d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293236911,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1293236911,
+    "wof:lastmodified":1537664398,
+    "wof:name":"Veverita",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10304,
+    47.34528,
+    28.10304,
+    47.34528
+],
+  "geometry": {"coordinates":[28.10304,47.34528],"type":"Point"}
+}

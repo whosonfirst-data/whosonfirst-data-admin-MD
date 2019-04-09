@@ -1,0 +1,74 @@
+{
+  "id": 1343888573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.92447,47.69689,27.92447,47.69689",
+    "geom:latitude":47.69689,
+    "geom:longitude":27.92447,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Tambula",
+    "gn:country_code":"MD",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617210,
+    "gn:latitude":47.69689,
+    "gn:longitude":27.92447,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u0162ambula",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u043c\u0431\u0443\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tsambula",
+        "Tsambola",
+        "\u0162ambula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617210,
+        "wk:page":"%C8%9Aambula"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"88c71a911cf7f7f331e02a96f6d8f6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343888573,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1343888573,
+    "wof:lastmodified":1537664308,
+    "wof:name":"Tambula",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92447,
+    47.69689,
+    27.92447,
+    47.69689
+],
+  "geometry": {"coordinates":[27.92447,47.69689],"type":"Point"}
+}

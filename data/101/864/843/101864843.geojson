@@ -1,0 +1,105 @@
+{
+  "id": 101864843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.325756,46.979797,29.325756,46.979797",
+    "geom:latitude":46.979797,
+    "geom:longitude":29.325756,
+    "geonames:id":"617362,617363",
+    "iso:country":"MD",
+    "lbl:latitude":46.979797,
+    "lbl:longitude":29.325756,
+    "mps:latitude":46.979797,
+    "mps:longitude":29.325756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Speia"
+    ],
+    "name:por_x_preferred":[
+        "Speia"
+    ],
+    "name:swe_x_preferred":[
+        "Speia"
+    ],
+    "name:vie_x_preferred":[
+        "Speia"
+    ],
+    "name:war_x_preferred":[
+        "Speia"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Speia",
+    "qs:loc_alt":"Speia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":480084,
+        "wd:id":"Q7575757"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"32ee80f71c7f4ab4f4cf31be93dffdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864843,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864843,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864843,
+    "wof:lastmodified":1544747735,
+    "wof:name":"Speia",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[
+        1175612937
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.325756,
+    46.979797,
+    29.325756,
+    46.979797
+],
+  "geometry": {"coordinates":[29.325756,46.979797],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343390183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8325,47.16967,28.8325,47.16967",
+    "geom:latitude":47.16967,
+    "geom:longitude":28.8325,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Pascani",
+    "gn:country_code":"MD",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617621,
+    "gn:latitude":47.16967,
+    "gn:longitude":28.8325,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pa\u015fcani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Pashkan\u2019",
+        "Pashkani",
+        "Pashkany",
+        "Pa\u015fcani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617621,
+        "wk:page":"Pa%C8%99cani%2C_Criuleni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"37a40b848a16d306381e1a76b536d9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343390183,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":1343390183,
+    "wof:lastmodified":1537664328,
+    "wof:name":"Pascani",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8325,
+    47.16967,
+    28.8325,
+    47.16967
+],
+  "geometry": {"coordinates":[28.8325,47.16967],"type":"Point"}
+}

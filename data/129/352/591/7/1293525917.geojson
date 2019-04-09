@@ -1,0 +1,78 @@
+{
+  "id": 1293525917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51417,46.16203,28.51417,46.16203",
+    "geom:latitude":46.16203,
+    "geom:longitude":28.51417,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Cotovscoe",
+    "gn:country_code":"MD",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618144,
+    "gn:latitude":46.16203,
+    "gn:longitude":28.51417,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cotovscoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:und_x_variant":[
+        "C\u00eerl\u0103neni",
+        "Kangaz Vtoroy",
+        "C\u0103etu",
+        "Kirlaneny",
+        "Kotovskiy",
+        "Kotovskoye",
+        "Cotovscoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618144,
+        "wk:page":"Cotovscoe"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e168a95843ddaa5bf668fa19a2aec9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293525917,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":1293525917,
+    "wof:lastmodified":1537664356,
+    "wof:name":"Cotovscoe",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51417,
+    46.16203,
+    28.51417,
+    46.16203
+],
+  "geometry": {"coordinates":[28.51417,46.16203],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101858125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.823662,47.571636,27.823662,47.571636",
+    "geom:latitude":47.571636,
+    "geom:longitude":27.823662,
+    "iso:country":"MD",
+    "lbl:latitude":47.571636,
+    "lbl:longitude":27.823662,
+    "mps:latitude":47.571636,
+    "mps:longitude":27.823662,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ishkalev"
+    ],
+    "name:eng_x_variant":[
+        "Iskaleu"
+    ],
+    "name:ita_x_preferred":[
+        "I\u0219c\u0103l\u0103u"
+    ],
+    "name:ron_x_preferred":[
+        "I\u0219c\u0103l\u0103u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0448\u043a\u044d\u043b\u044d\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0418\u0448\u043a\u0430\u043b\u0435\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0448\u043a\u0435\u043b\u0435\u0443"
+    ],
+    "name:und_x_colloquial":[
+        "Iscalau",
+        "Ishkalevo"
+    ],
+    "name:und_x_preferred":[
+        "I\u015fc\u0103l\u0103u"
+    ],
+    "name:und_x_variant":[
+        "Ishkal\u00ebvo"
+    ],
+    "name:unk_x_variant":[
+        "Ishkal\u00ebvo"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*F\u0103le\u015fti",
+    "qs:a1_alt":"Falesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"I\u015fc\u0103l\u0103u",
+    "qs:loc_alt":"Iscalau",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4eafe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618178,
+        "gp:id":480743,
+        "wd:id":"Q2440266",
+        "wk:page":"I\u0219c\u0103l\u0103u"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"45319110e4689527077414bac2ec25ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858125,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":101858125,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744248,
+    "wof:name":"I\u015fc\u0103l\u0103u",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.823662,
+    47.571636,
+    27.823662,
+    47.571636
+],
+  "geometry": {"coordinates":[27.823662,47.571636],"type":"Point"}
+}

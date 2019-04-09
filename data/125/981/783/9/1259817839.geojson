@@ -1,0 +1,73 @@
+{
+  "id": 1259817839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1019,47.39268,28.1019,47.39268",
+    "geom:latitude":47.39268,
+    "geom:longitude":28.1019,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Curtoaia",
+    "gn:country_code":"MD",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617939,
+    "gn:latitude":47.39268,
+    "gn:longitude":28.1019,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Curtoaia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u043e\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Kurtoya",
+        "Kurtoaya",
+        "Curtoaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617939
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"11486fff1d9e7708d764c779c47324d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259817839,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1259817839,
+    "wof:lastmodified":1537664347,
+    "wof:name":"Curtoaia",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1019,
+    47.39268,
+    28.1019,
+    47.39268
+],
+  "geometry": {"coordinates":[28.1019,47.39268],"type":"Point"}
+}

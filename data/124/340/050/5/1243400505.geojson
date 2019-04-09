@@ -1,0 +1,74 @@
+{
+  "id": 1243400505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51692,47.44011,28.51692,47.44011",
+    "geom:latitude":47.44011,
+    "geom:longitude":28.51692,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Ghermanesti",
+    "gn:country_code":"MD",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618288,
+    "gn:latitude":47.44011,
+    "gn:longitude":28.51692,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Gherm\u0103ne\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Germaneshty",
+        "Germanesht\u2019",
+        "Germaneshti",
+        "Gherm\u0103ne\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618288
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"be20fccf4ad5e78a07b9e6d0a5eadffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243400505,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1243400505,
+    "wof:lastmodified":1537664362,
+    "wof:name":"Ghermanesti",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51692,
+    47.44011,
+    28.51692,
+    47.44011
+],
+  "geometry": {"coordinates":[28.51692,47.44011],"type":"Point"}
+}

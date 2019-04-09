@@ -1,0 +1,66 @@
+{
+  "id": 1327164839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94366,47.65498,27.94366,47.65498",
+    "geom:latitude":47.65498,
+    "geom:longitude":27.94366,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Pompa",
+    "gn:country_code":"MD",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617571,
+    "gn:latitude":47.65498,
+    "gn:longitude":27.94366,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pompa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617571,
+        "wk:page":"Pompa"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0182d87699bdc4d1980dfbbc47851860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327164839,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":1327164839,
+    "wof:lastmodified":1537568299,
+    "wof:name":"Pompa",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94366,
+    47.65498,
+    27.94366,
+    47.65498
+],
+  "geometry": {"coordinates":[27.94366,47.65498],"type":"Point"}
+}

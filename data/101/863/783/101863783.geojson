@@ -1,0 +1,110 @@
+{
+  "id": 101863783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.198929,46.814182,29.198929,46.814182",
+    "geom:latitude":46.814182,
+    "geom:longitude":29.198929,
+    "iso:country":"MD",
+    "lbl:latitude":46.814182,
+    "lbl:longitude":29.198929,
+    "mps:latitude":46.814182,
+    "mps:longitude":29.198929,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ciobana"
+    ],
+    "name:eng_x_variant":[
+        "Chebanovka",
+        "Chobana"
+    ],
+    "name:ita_x_preferred":[
+        "Ciobanovca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10dd\u10d1\u10d0\u10dc\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Ciobanovca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0431\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0431\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Ciobanovca"
+    ],
+    "name:unk_x_variant":[
+        "Chebanovka"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Anenii Noi",
+    "qs:a1_alt":"Anenii Noi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ciobanovca",
+    "qs:loc_alt":"Ciobanovca",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a499d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618446,
+        "gp:id":480310,
+        "qs:id":2,
+        "wd:id":"Q2437526",
+        "wk:page":"Ciobanovca"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e52989798cd4afe9b3d21c1fc0e15e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863783,
+            "region_id":85686395
+        }
+    ],
+    "wof:id":101863783,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747183,
+    "wof:name":"Ciobanovca",
+    "wof:parent_id":85686395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.198929,
+    46.814182,
+    29.198929,
+    46.814182
+],
+  "geometry": {"coordinates":[29.198929,46.814182],"type":"Point"}
+}

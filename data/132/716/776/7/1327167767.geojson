@@ -1,0 +1,74 @@
+{
+  "id": 1327167767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18244,47.56875,28.18244,47.56875",
+    "geom:latitude":47.56875,
+    "geom:longitude":28.18244,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Cozesti",
+    "gn:country_code":"MD",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617983,
+    "gn:latitude":47.56875,
+    "gn:longitude":28.18244,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Coze\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kozeshti",
+        "Kozeshty",
+        "Kozesht\u2019",
+        "Coze\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617983
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"31f14b8dd353a42c66a57f8fd51ddd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327167767,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1327167767,
+    "wof:lastmodified":1537664349,
+    "wof:name":"Cozesti",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18244,
+    47.56875,
+    28.18244,
+    47.56875
+],
+  "geometry": {"coordinates":[28.18244,47.56875],"type":"Point"}
+}

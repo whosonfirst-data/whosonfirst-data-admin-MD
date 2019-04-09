@@ -1,0 +1,73 @@
+{
+  "id": 1276263679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.25458,47.79882,28.25458,47.79882",
+    "geom:latitude":47.79882,
+    "geom:longitude":28.25458,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Mihailovca",
+    "gn:country_code":"MD",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617809,
+    "gn:latitude":47.79882,
+    "gn:longitude":28.25458,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Mihailovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mihai Bravul",
+        "Mikhaylovka",
+        "Mihailovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617809
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a6193dcfbfe8b06469d45a607e609c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276263679,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":1276263679,
+    "wof:lastmodified":1537664341,
+    "wof:name":"Mihailovca",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25458,
+    47.79882,
+    28.25458,
+    47.79882
+],
+  "geometry": {"coordinates":[28.25458,47.79882],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243103779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10506,46.96896,28.10506,46.96896",
+    "geom:latitude":46.96896,
+    "geom:longitude":28.10506,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Zberoaia",
+    "gn:country_code":"MD",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617048,
+    "gn:latitude":46.96896,
+    "gn:longitude":28.10506,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Zberoaia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0417\u0431\u0435\u0440\u043e\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Zbiroya",
+        "Zberoyya",
+        "Zberoaya",
+        "Zberoya",
+        "Zberoaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617048,
+        "wk:page":"Zberoaia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"ad2db0f6411053a4f73ef988c9477e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243103779,
+            "region_id":85686387
+        }
+    ],
+    "wof:id":1243103779,
+    "wof:lastmodified":1537664300,
+    "wof:name":"Zberoaia",
+    "wof:parent_id":85686387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10506,
+    46.96896,
+    28.10506,
+    46.96896
+],
+  "geometry": {"coordinates":[28.10506,46.96896],"type":"Point"}
+}

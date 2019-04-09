@@ -1,0 +1,112 @@
+{
+  "id": 101860257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.128134,48.126675,27.128134,48.126675",
+    "geom:latitude":48.126675,
+    "geom:longitude":27.128134,
+    "iso:country":"MD",
+    "lbl:latitude":48.126675,
+    "lbl:longitude":27.128134,
+    "mps:latitude":48.126675,
+    "mps:longitude":27.128134,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Burlaneshti"
+    ],
+    "name:eng_x_variant":[
+        "Burlaneshty"
+    ],
+    "name:ita_x_preferred":[
+        "Burl\u0103ne\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10da\u10d4\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Burl\u0103ne\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u043b\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u043b\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Burlanesti"
+    ],
+    "name:und_x_preferred":[
+        "Burl\u0103ne\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Burlaneshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Edine\u0163",
+    "qs:a1_alt":"Edinet",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Burl\u0103ne\u015fti",
+    "qs:loc_alt":"Burlanesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a482e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618476,
+        "gp:id":480191,
+        "qs:id":4,
+        "wd:id":"Q767229",
+        "wk:page":"Burl\u0103ne\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6c2709018339848c57d00116f8eddadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860257,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":101860257,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745343,
+    "wof:name":"Burl\u0103ne\u015fti",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.128134,
+    48.126675,
+    27.128134,
+    48.126675
+],
+  "geometry": {"coordinates":[27.128134,48.126675],"type":"Point"}
+}

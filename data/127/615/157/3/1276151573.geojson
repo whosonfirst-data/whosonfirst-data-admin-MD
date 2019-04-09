@@ -1,0 +1,76 @@
+{
+  "id": 1276151573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98949,47.64023,28.98949,47.64023",
+    "geom:latitude":47.64023,
+    "geom:longitude":28.98949,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Busauca",
+    "gn:country_code":"MD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618498,
+    "gn:latitude":47.64023,
+    "gn:longitude":28.98949,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bu\u015f\u00e2uca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Bu\u015f\u00e2uca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0447\u0443\u0448\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bachushka",
+        "Buchushka",
+        "Buciu\u015fca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618498
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"56d2b73f4598d0b6d06e52e119909f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276151573,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1276151573,
+    "wof:lastmodified":1537664371,
+    "wof:name":"Busauca",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98949,
+    47.64023,
+    28.98949,
+    47.64023
+],
+  "geometry": {"coordinates":[28.98949,47.64023],"type":"Point"}
+}

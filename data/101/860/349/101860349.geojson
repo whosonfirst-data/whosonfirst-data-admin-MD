@@ -1,0 +1,103 @@
+{
+  "id": 101860349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84125,48.373199,26.84125,48.373199",
+    "geom:latitude":48.373199,
+    "geom:longitude":26.84125,
+    "iso:country":"MD",
+    "lbl:latitude":48.373199,
+    "lbl:longitude":26.84125,
+    "mps:latitude":48.373199,
+    "mps:longitude":26.84125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Larga"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10e0\u10d2\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Larga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0440\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0440\u0433\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Larga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0631\u06af\u0627\u060c \u0628\u0631\u06cc\u0633\u06cc\u0646\u06cc"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Briceni",
+    "qs:a1_alt":"Briceni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Larga",
+    "qs:loc_alt":"Larga",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f512-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617920,
+        "gp:id":480821,
+        "qs:id":4,
+        "wd:id":"Q2438037",
+        "wk:page":"Larga, Briceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5fee48d978a57346803924928fe6a1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860349,
+            "region_id":85686497
+        }
+    ],
+    "wof:id":101860349,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745391,
+    "wof:name":"Larga",
+    "wof:parent_id":85686497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84125,
+    48.373199,
+    26.84125,
+    48.373199
+],
+  "geometry": {"coordinates":[26.84125,48.373199],"type":"Point"}
+}

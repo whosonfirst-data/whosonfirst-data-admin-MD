@@ -1,0 +1,73 @@
+{
+  "id": 1360220619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.57072,47.37902,28.57072,47.37902",
+    "geom:latitude":47.37902,
+    "geom:longitude":28.57072,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Viprova",
+    "gn:country_code":"MD",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617088,
+    "gn:latitude":47.37902,
+    "gn:longitude":28.57072,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"V\u00eeprova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043f\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vyprovo",
+        "Vyprova",
+        "V\u00eeprova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617088
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b674d5d9e93fc3717c53a27f1d573f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360220619,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1360220619,
+    "wof:lastmodified":1537664302,
+    "wof:name":"Viprova",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57072,
+    47.37902,
+    28.57072,
+    47.37902
+],
+  "geometry": {"coordinates":[28.57072,47.37902],"type":"Point"}
+}

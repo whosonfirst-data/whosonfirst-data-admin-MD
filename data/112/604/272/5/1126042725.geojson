@@ -1,0 +1,80 @@
+{
+  "id": 1126042725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.839111,47.029184,28.839111,47.029184",
+    "geom:latitude":47.029184,
+    "geom:longitude":28.839111,
+    "gn:gn_country":null,
+    "iso:country":"MD",
+    "lbl:latitude":47.029184,
+    "lbl:longitude":28.839111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"MD",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Chi\u0163inau",
+    "qs_pg:name_adm0":"Moldova",
+    "qs_pg:name_adm1":"Chisinau",
+    "qs_pg:photos":2888,
+    "qs_pg:photos_1k":585,
+    "qs_pg:photos_9k":27,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6140,
+    "qs_pg:photos_sr":19,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1055652,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424885,
+    "qs_pg:woe_id":480793,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424885,
+    "woe:name_adm0":"Moldova",
+    "woe:name_adm1":"Chisinau",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":480793,
+        "qs_pg:id":1055652
+    },
+    "wof:country":"MD",
+    "wof:created":1497302253,
+    "wof:geomhash":"80f21c673ec8d5d694e537c4d5685fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1126042725,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":1126042725,
+    "wof:lastmodified":1509408650,
+    "wof:name":"Chi\u0163inau",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.839111,
+    47.029184,
+    28.839111,
+    47.029184
+],
+  "geometry": {"coordinates":[28.839111,47.029184],"type":"Point"}
+}

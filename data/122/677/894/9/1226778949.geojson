@@ -1,0 +1,74 @@
+{
+  "id": 1226778949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86172,47.50638,28.86172,47.50638",
+    "geom:latitude":47.50638,
+    "geom:longitude":28.86172,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Cihoreni",
+    "gn:country_code":"MD",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618434,
+    "gn:latitude":47.50638,
+    "gn:longitude":28.86172,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cihoreni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0433\u043e\u0440\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Chegoreny",
+        "Chegoren\u2019",
+        "Chigoryany",
+        "Cihoreni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618434
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a3d73517297d2fba06934ecbcf4651ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226778949,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1226778949,
+    "wof:lastmodified":1537664368,
+    "wof:name":"Cihoreni",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86172,
+    47.50638,
+    28.86172,
+    47.50638
+],
+  "geometry": {"coordinates":[28.86172,47.50638],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101865019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.976406,47.712181,28.976406,47.712181",
+    "geom:latitude":47.712181,
+    "geom:longitude":28.976406,
+    "iso:country":"MD",
+    "lbl:latitude":47.712181,
+    "lbl:longitude":28.976406,
+    "mps:latitude":47.712181,
+    "mps:longitude":28.976406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:dan_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:dut_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:eng_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:fre_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:ger_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:ita_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:nno_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:nob_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:pol_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:por_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:ron_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:rum_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0434\u0438\u0440\u0438\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:swe_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:tur_x_preferred":[
+        "Ghidirim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0434\u0456\u0440\u0456\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Giderim"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ghidirim",
+    "qs:loc_alt":"Ghidirim",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618278,
+        "gp:id":480604,
+        "wd:id":"Q2425949",
+        "wk:page":"Ghidirim"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7bd2828203581de797116c926d7e9a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865019,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865019,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865019,
+    "wof:lastmodified":1544747827,
+    "wof:name":"Ghidirim",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.976406,
+    47.712181,
+    28.976406,
+    47.712181
+],
+  "geometry": {"coordinates":[28.976406,47.712181],"type":"Point"}
+}

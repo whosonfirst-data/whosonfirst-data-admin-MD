@@ -1,0 +1,124 @@
+{
+  "id": 101858189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.276659,47.502667,28.276659,47.502667",
+    "geom:latitude":47.502667,
+    "geom:longitude":28.276659,
+    "gn:population":9280,
+    "iso:country":"MD",
+    "lbl:latitude":47.502667,
+    "lbl:longitude":28.276659,
+    "mps:latitude":47.502667,
+    "mps:longitude":28.276659,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Myndreshti"
+    ],
+    "name:eng_x_variant":[
+        "Myndresht'",
+        "Myndreshty"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00eendre\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00eendre\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u043d\u0434\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u044b\u043d\u0434\u0440\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043d\u0434\u0440\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Mandresti",
+        "Mindresti"
+    ],
+    "name:und_x_preferred":[
+        "M\u00eendre\u015fti"
+    ],
+    "name:und_x_variant":[
+        "M\u00e2ndre\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e2ndre\u015fti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Telene\u015fti",
+    "qs:a1_alt":"Telenesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"M\u00eendre\u015fti",
+    "qs:loc_alt":"Mindresti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a509d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617778,
+        "gp:id":480939,
+        "qs:id":1213467,
+        "qs_pg:id":1213467,
+        "wd:id":"Q2452877",
+        "wk:page":"M\u00eendre\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3c438f294f3b20e5b8b952ae73399c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858189,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":101858189,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744282,
+    "wof:name":"M\u00eendre\u015fti",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:population":9280,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.276659,
+    47.502667,
+    28.276659,
+    47.502667
+],
+  "geometry": {"coordinates":[28.276659,47.502667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226477361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61518,47.93544,28.61518,47.93544",
+    "geom:latitude":47.93544,
+    "geom:longitude":28.61518,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Tipordei",
+    "gn:country_code":"MD",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617202,
+    "gn:latitude":47.93544,
+    "gn:longitude":28.61518,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tipordei",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Tipordei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043f\u043e\u0440\u0434\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Tsipordey",
+        "Tsepurden\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617202
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"993f1c955eb5ff3e131da2b81087d6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226477361,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":1226477361,
+    "wof:lastmodified":1537664308,
+    "wof:name":"Tipordei",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61518,
+    47.93544,
+    28.61518,
+    47.93544
+],
+  "geometry": {"coordinates":[28.61518,47.93544],"type":"Point"}
+}

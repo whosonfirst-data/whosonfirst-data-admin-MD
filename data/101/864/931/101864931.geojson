@@ -1,0 +1,120 @@
+{
+  "id": 101864931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.003692,47.827427,29.003692,47.827427",
+    "geom:latitude":47.827427,
+    "geom:longitude":29.003692,
+    "iso:country":"MD",
+    "lbl:latitude":47.827427,
+    "lbl:longitude":29.003692,
+    "mps:latitude":47.827427,
+    "mps:longitude":29.003692,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Solonceni"
+    ],
+    "name:eng_x_preferred":[
+        "Soloncheny"
+    ],
+    "name:eng_x_variant":[
+        "Solonchani",
+        "Solonchany",
+        "Solonceni"
+    ],
+    "name:fre_x_preferred":[
+        "Solonceni"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10dd\u10da\u10dd\u10dc\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Solonceni"
+    ],
+    "name:ron_x_preferred":[
+        "Solonceni"
+    ],
+    "name:rum_x_preferred":[
+        "Solonceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u043e\u043d\u0447\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Solonceni"
+    ],
+    "name:unk_x_variant":[
+        "Solonchani"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Rezina",
+    "qs:a1_alt":"Rezina",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Solonceni",
+    "qs:loc_alt":"Solonceni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a54fc6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617371,
+        "gp:id":481346,
+        "qs:id":6,
+        "wd:id":"Q1989073",
+        "wk:page":"Solonceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fd8ada30a8d17d0958ba4d7e441b400f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864931,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":101864931,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747781,
+    "wof:name":"Solonceni",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.003692,
+    47.827427,
+    29.003692,
+    47.827427
+],
+  "geometry": {"coordinates":[29.003692,47.827427],"type":"Point"}
+}

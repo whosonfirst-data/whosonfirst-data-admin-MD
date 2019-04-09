@@ -1,0 +1,73 @@
+{
+  "id": 1259620671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03504,47.0658,29.03504,47.0658",
+    "geom:latitude":47.0658,
+    "geom:longitude":29.03504,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Baltata de Sus",
+    "gn:country_code":"MD",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617129,
+    "gn:latitude":47.0658,
+    "gn:longitude":29.03504,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"B\u0103l\u0163ata de Sus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0411\u0430\u043b\u0446\u0430\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Verkhnyaya Baltsata",
+        "Baltsata",
+        "B\u0103l\u0163ata de Sus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617129
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"dc7a274ff223ac2c9aab07162ee05fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259620671,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":1259620671,
+    "wof:lastmodified":1537664304,
+    "wof:name":"Baltata de Sus",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03504,
+    47.0658,
+    29.03504,
+    47.0658
+],
+  "geometry": {"coordinates":[29.03504,47.0658],"type":"Point"}
+}

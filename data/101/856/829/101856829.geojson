@@ -1,0 +1,113 @@
+{
+  "id": 101856829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.623239,45.776494,28.623239,45.776494",
+    "geom:latitude":45.776494,
+    "geom:longitude":28.623239,
+    "iso:country":"MD",
+    "lbl:latitude":45.776494,
+    "lbl:longitude":28.623239,
+    "mps:latitude":45.776494,
+    "mps:longitude":28.623239,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Kayrakliyka"
+    ],
+    "name:eng_x_variant":[
+        "Karaklia",
+        "Kayrakliya"
+    ],
+    "name:ita_x_preferred":[
+        "Cairaclia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d8\u10e0\u10d0\u10d9\u10da\u10d8\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Cairaclia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Cairaclia"
+    ],
+    "name:unk_x_variant":[
+        "Karaklia"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Taraclia",
+    "qs:a1_alt":"Taraclia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cairaclia",
+    "qs:loc_alt":"Cairaclia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a486d6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618115,
+        "gp:id":480213,
+        "qs:id":5,
+        "wd:id":"Q2451576",
+        "wk:page":"Cairaclia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f8d61f7caeeecd90a22607fb56884dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856829,
+            "region_id":85686331
+        }
+    ],
+    "wof:id":101856829,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743582,
+    "wof:name":"Cairaclia",
+    "wof:parent_id":85686331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.623239,
+    45.776494,
+    28.623239,
+    45.776494
+],
+  "geometry": {"coordinates":[28.623239,45.776494],"type":"Point"}
+}

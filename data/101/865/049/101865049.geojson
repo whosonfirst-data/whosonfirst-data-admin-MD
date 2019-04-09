@@ -1,0 +1,140 @@
+{
+  "id": 101865049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.748548,48.000419,28.748548,48.000419",
+    "geom:latitude":48.000419,
+    "geom:longitude":28.748548,
+    "iso:country":"MD",
+    "lbl:latitude":48.000419,
+    "lbl:longitude":28.748548,
+    "mps:latitude":48.000419,
+    "mps:longitude":28.748548,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:dan_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:dut_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:eng_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:fre_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:ger_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:ita_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:nno_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:nob_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:pol_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:por_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0439\u043c\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:swe_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:tur_x_preferred":[
+        "Podoimi\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u0439\u043c\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Podoymitsa"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Podoimi\u0163a",
+    "qs:loc_alt":"Podoimita",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829723,
+        "gp:id":481127,
+        "wd:id":"Q11166454"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f1f8d846d4a8e2a636b7a07b8276c1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865049,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865049,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865049,
+    "wof:lastmodified":1544747843,
+    "wof:name":"Podoimi\u0163a",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.748548,
+    48.000419,
+    28.748548,
+    48.000419
+],
+  "geometry": {"coordinates":[28.748548,48.000419],"type":"Point"}
+}

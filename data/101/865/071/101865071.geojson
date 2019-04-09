@@ -1,0 +1,95 @@
+{
+  "id": 101865071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.424799,48.037617,28.424799,48.037617",
+    "geom:latitude":48.037617,
+    "geom:longitude":28.424799,
+    "iso:country":"MD",
+    "lbl:latitude":48.037617,
+    "lbl:longitude":28.424799,
+    "mps:latitude":48.037617,
+    "mps:longitude":28.424799,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "V\u0103r\u0103nc\u0103u"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103r\u0103nc\u0103u"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0440\u043e\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u043b\u043e\u0431\u043e\u0434\u0437\u0435\u044f-\u041a\u0440\u0435\u043c\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u043d\u043a\u0435\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Kremenya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Soroca",
+    "qs:a1_alt":"Soroca",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Slobozia-Cremene",
+    "qs:loc_alt":"Slobozia-Cremene",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617385,
+        "gp:id":481324,
+        "qs:id":1,
+        "wd:id":"Q1990887"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7382bdf775786f1bea80a6728440fd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101865071,
+            "region_id":85686501
+        }
+    ],
+    "wof:id":101865071,
+    "wof:lastmodified":1544747854,
+    "wof:name":"Slobozia-Cremene",
+    "wof:parent_id":85686501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.424799,
+    48.037617,
+    28.424799,
+    48.037617
+],
+  "geometry": {"coordinates":[28.424799,48.037617],"type":"Point"}
+}

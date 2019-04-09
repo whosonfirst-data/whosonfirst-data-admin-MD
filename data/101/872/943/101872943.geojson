@@ -1,0 +1,106 @@
+{
+  "id": 101872943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.229023,46.28029,28.229023,46.28029",
+    "geom:latitude":46.28029,
+    "geom:longitude":28.229023,
+    "iso:country":"MD",
+    "lbl:latitude":46.28029,
+    "lbl:longitude":28.229023,
+    "mps:latitude":46.28029,
+    "mps:longitude":28.229023,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kaniya"
+    ],
+    "name:ita_x_preferred":[
+        "Cania"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10dc\u10d8\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Cania"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043d\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Cania"
+    ],
+    "name:unk_x_variant":[
+        "Kaniya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cantemir",
+    "qs:a1_alt":"Cantemir",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cania",
+    "qs:loc_alt":"Cania",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a48988-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618143,
+        "gp:id":480226,
+        "qs:id":3,
+        "wd:id":"Q1776415",
+        "wk:page":"Cania"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a3539f444e7b6b25a28010f8f0b95ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101872943,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":101872943,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544751400,
+    "wof:name":"Cania",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.229023,
+    46.28029,
+    28.229023,
+    46.28029
+],
+  "geometry": {"coordinates":[28.229023,46.28029],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101858151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.375941,47.654351,27.375941,47.654351",
+    "geom:latitude":47.654351,
+    "geom:longitude":27.375941,
+    "iso:country":"MD",
+    "lbl:latitude":47.654351,
+    "lbl:longitude":27.375941,
+    "mps:latitude":47.654351,
+    "mps:longitude":27.375941,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Cuhne\u015fti"
+    ],
+    "name:eng_x_preferred":[
+        "Kukhneshty"
+    ],
+    "name:eng_x_variant":[
+        "Kukhnesht'",
+        "Kukhneshti",
+        "Cuhne\u0219ti"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10e3\u10f0\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Cuhne\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10f0\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Cuhne\u0219ti"
+    ],
+    "name:rum_x_preferred":[
+        "Cuhne\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0445\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0445\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Cuhnesti"
+    ],
+    "name:und_x_preferred":[
+        "Cuhne\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Kukhnesht\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Glodeni",
+    "qs:a1_alt":"Glodeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cuhne\u015fti",
+    "qs:loc_alt":"Cuhnesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b5b6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617954,
+        "gp:id":480458,
+        "qs:id":9,
+        "wd:id":"Q1985542",
+        "wk:page":"Cuhne\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"91edfe141cd73d9047718a28abcdb0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858151,
+            "region_id":85686445
+        }
+    ],
+    "wof:id":101858151,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744262,
+    "wof:name":"Cuhne\u015fti",
+    "wof:parent_id":85686445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.375941,
+    47.654351,
+    27.375941,
+    47.654351
+],
+  "geometry": {"coordinates":[27.375941,47.654351],"type":"Point"}
+}

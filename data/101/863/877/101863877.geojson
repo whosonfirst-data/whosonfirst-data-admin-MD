@@ -1,0 +1,122 @@
+{
+  "id": 101863877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.940843,47.229019,28.940843,47.229019",
+    "geom:latitude":47.229019,
+    "geom:longitude":28.940843,
+    "iso:country":"MD",
+    "lbl:latitude":47.229019,
+    "lbl:longitude":28.940843,
+    "mps:latitude":47.229019,
+    "mps:longitude":28.940843,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Girtop"
+    ],
+    "name:eng_x_variant":[
+        "Bol'shoy Girtop",
+        "Gertop-Mare",
+        "Gyrtop-Mare",
+        "Gyrtopul-Mare",
+        "Khirtopu"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00eertopul Mare"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10e0\u10e2\u10dd\u10de\u10e3\u10da-\u10db\u10d0\u10e0\u10d4"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00eertopul Mare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044b\u0440\u0442\u043e\u043f\u0443\u043b-\u041c\u0430\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0438\u0440\u0442\u043e\u043f\u0443\u043b-\u041c\u0430\u0440\u0435"
+    ],
+    "name:und_x_colloquial":[
+        "Hartop",
+        "Hartopul Mare",
+        "Hirtopul Mare"
+    ],
+    "name:und_x_preferred":[
+        "H\u00eertopul Mare"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2rtop",
+        "H\u00e2rtopul Mare"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shoy Girtop"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Criuleni",
+    "qs:a1_alt":"Criuleni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"H\u00eertopul Mare",
+    "qs:loc_alt":"Hirtopul Mare",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4e162-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618201,
+        "gp:id":480690,
+        "qs:id":4,
+        "wd:id":"Q1983565",
+        "wk:page":"H\u00eertopul Mare"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"07aa2a255320746d8e25677be244d3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863877,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":101863877,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747233,
+    "wof:name":"H\u00eertopul Mare",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.940843,
+    47.229019,
+    28.940843,
+    47.229019
+],
+  "geometry": {"coordinates":[28.940843,47.229019],"type":"Point"}
+}

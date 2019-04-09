@@ -1,0 +1,113 @@
+{
+  "id": 101860397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.658031,48.166763,27.658031,48.166763",
+    "geom:latitude":48.166763,
+    "geom:longitude":27.658031,
+    "iso:country":"MD",
+    "lbl:latitude":48.166763,
+    "lbl:longitude":27.658031,
+    "mps:latitude":48.166763,
+    "mps:longitude":27.658031,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tyrnovi"
+    ],
+    "name:eng_x_variant":[
+        "Tyrnova",
+        "Tyrnovo"
+    ],
+    "name:ita_x_preferred":[
+        "T\u00eernova"
+    ],
+    "name:ron_x_preferred":[
+        "T\u00eernova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u043d\u043e\u0432\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Tarnova",
+        "Tirnova"
+    ],
+    "name:und_x_preferred":[
+        "T\u00eernova"
+    ],
+    "name:und_x_variant":[
+        "T\u00e2rnova"
+    ],
+    "name:unk_x_variant":[
+        "Tyrnova"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Dondu\u015feni",
+    "qs:a1_alt":"Donduseni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"T\u00eernova",
+    "qs:loc_alt":"Tirnova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a56420-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617186,
+        "gp:id":481475,
+        "qs:id":5,
+        "wd:id":"Q537805"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0b9a5cf6b12467a547ccc3d3ccb4ebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860397,
+            "region_id":85686505
+        }
+    ],
+    "wof:id":101860397,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745415,
+    "wof:name":"T\u00eernova",
+    "wof:parent_id":85686505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.658031,
+    48.166763,
+    27.658031,
+    48.166763
+],
+  "geometry": {"coordinates":[27.658031,48.166763],"type":"Point"}
+}

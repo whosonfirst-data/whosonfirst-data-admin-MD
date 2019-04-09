@@ -1,0 +1,74 @@
+{
+  "id": 1343796877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.91177,47.87614,28.91177,47.87614",
+    "geom:latitude":47.87614,
+    "geom:longitude":28.91177,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Curatura",
+    "gn:country_code":"MD",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617944,
+    "gn:latitude":47.87614,
+    "gn:longitude":28.91177,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cur\u0103tura",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0430\u0442\u0443\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kuratura",
+        "Kuratury",
+        "Cur\u0103turi",
+        "Cur\u0103tura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617944
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"89d22c5ef9fc02df06e31a3d82e702da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343796877,
+            "region_id":85686473
+        }
+    ],
+    "wof:id":1343796877,
+    "wof:lastmodified":1537664348,
+    "wof:name":"Curatura",
+    "wof:parent_id":85686473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91177,
+    47.87614,
+    28.91177,
+    47.87614
+],
+  "geometry": {"coordinates":[28.91177,47.87614],"type":"Point"}
+}

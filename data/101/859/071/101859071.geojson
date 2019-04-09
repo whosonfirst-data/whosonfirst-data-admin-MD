@@ -1,0 +1,106 @@
+{
+  "id": 101859071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.863339,47.130883,27.863339,47.130883",
+    "geom:latitude":47.130883,
+    "geom:longitude":27.863339,
+    "iso:country":"MD",
+    "lbl:latitude":47.130883,
+    "lbl:longitude":27.863339,
+    "mps:latitude":47.130883,
+    "mps:longitude":27.863339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Valya-Mare"
+    ],
+    "name:ita_x_preferred":[
+        "Valea Mare"
+    ],
+    "name:ron_x_preferred":[
+        "Valea Mare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u044f \u041c\u0430\u0440\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0430\u043b\u044f-\u041c\u0430\u0440\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u044f-\u041c\u0430\u0440\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Valea Mare"
+    ],
+    "name:unk_x_variant":[
+        "Valya-Mare"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ungheni",
+    "qs:a1_alt":"Ungheni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Valea Mare",
+    "qs:loc_alt":"Valea Mare",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":55,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a57078-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617157,
+        "gp:id":481546,
+        "qs:id":6,
+        "wd:id":"Q2453136",
+        "wk:page":"Valea Mare, Ungheni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e0c00747c62e5a7a21a14132dc2e80d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101859071,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":101859071,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744726,
+    "wof:name":"Valea Mare",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.863339,
+    47.130883,
+    27.863339,
+    47.130883
+],
+  "geometry": {"coordinates":[27.863339,47.130883],"type":"Point"}
+}

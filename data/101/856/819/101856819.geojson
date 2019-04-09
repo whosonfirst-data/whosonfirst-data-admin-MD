@@ -1,0 +1,157 @@
+{
+  "id": 101856819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.693959,45.849788,28.693959,45.849788",
+    "geom:latitude":45.849788,
+    "geom:longitude":28.693959,
+    "iso:country":"MD",
+    "lbl:latitude":45.849788,
+    "lbl:longitude":28.693959,
+    "mps:latitude":45.849788,
+    "mps:longitude":28.693959,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Copceac"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043f\u0447\u0430\u043a"
+    ],
+    "name:dan_x_preferred":[
+        "Copceac"
+    ],
+    "name:dut_x_preferred":[
+        "Copceac"
+    ],
+    "name:eng_x_preferred":[
+        "Tatar Copcezc"
+    ],
+    "name:eng_x_variant":[
+        "Kopchak",
+        "Tatar Copceac",
+        "Tatar-Kopchak",
+        "Copceac"
+    ],
+    "name:fre_x_preferred":[
+        "Copceac"
+    ],
+    "name:gag_x_preferred":[
+        "K\u0131p\u00e7ak"
+    ],
+    "name:ger_x_preferred":[
+        "Copceac"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03cc\u03c0\u03c4\u03c3\u03b1\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Copceac"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30d7\u30c1\u30e3\u30af"
+    ],
+    "name:nno_x_preferred":[
+        "Copceac"
+    ],
+    "name:nob_x_preferred":[
+        "Copceac"
+    ],
+    "name:pol_x_preferred":[
+        "Copceac"
+    ],
+    "name:por_x_preferred":[
+        "Copceac"
+    ],
+    "name:ron_x_preferred":[
+        "Copceac"
+    ],
+    "name:rum_x_preferred":[
+        "Copceac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0447\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Copceac"
+    ],
+    "name:swe_x_preferred":[
+        "Copceac"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0447\u0430\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Copceac"
+    ],
+    "name:unk_x_variant":[
+        "Tatar Copcezc"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Copceac",
+    "qs:loc_alt":"Copceac",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4a79c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618028,
+        "gp:id":480382,
+        "qs:id":4,
+        "wd:id":"Q2638544",
+        "wk:page":"Copceac, Gagauzia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"658c56cbb9834afb614755d50b8dbcf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856819,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101856819,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1553815550,
+    "wof:name":"Copceac",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.693959,
+    45.849788,
+    28.693959,
+    45.849788
+],
+  "geometry": {"coordinates":[28.693959,45.849788],"type":"Point"}
+}

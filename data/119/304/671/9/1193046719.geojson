@@ -1,0 +1,76 @@
+{
+  "id": 1193046719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.52836,45.9075,28.52836,45.9075",
+    "geom:latitude":45.9075,
+    "geom:longitude":28.52836,
+    "gn:admin1_code":"90.0",
+    "gn:asciiname":"Orehovca",
+    "gn:country_code":"MD",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618560,
+    "gn:latitude":45.9075,
+    "gn:longitude":28.52836,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Orehovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0435\u0445\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Verkhnyaya Biserikucha",
+        "Orekhovka",
+        "Biserikutsa Verkhnyaya",
+        "Bisericu\u0163a",
+        "Bisericu\u0163a-de Sus",
+        "Orehovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618560
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e84f74cc0454a6b6a124e2b2d2850250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1193046719,
+            "region_id":85686331
+        }
+    ],
+    "wof:id":1193046719,
+    "wof:lastmodified":1537664374,
+    "wof:name":"Orehovca",
+    "wof:parent_id":85686331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52836,
+    45.9075,
+    28.52836,
+    45.9075
+],
+  "geometry": {"coordinates":[28.52836,45.9075],"type":"Point"}
+}

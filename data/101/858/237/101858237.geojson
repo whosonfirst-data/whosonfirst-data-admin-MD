@@ -1,0 +1,129 @@
+{
+  "id": 101858237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.260096,47.857537,27.260096,47.857537",
+    "geom:latitude":47.857537,
+    "geom:longitude":27.260096,
+    "iso:country":"MD",
+    "lbl:latitude":47.857537,
+    "lbl:longitude":27.260096,
+    "mps:latitude":47.857537,
+    "mps:longitude":27.260096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cbk_zam_x_preferred":[
+        "Coste\u015fti"
+    ],
+    "name:eng_x_preferred":[
+        "Kostesht'"
+    ],
+    "name:eng_x_variant":[
+        "Kosteshti"
+    ],
+    "name:ind_x_preferred":[
+        "Coste\u015fti"
+    ],
+    "name:ita_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10e2\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Koste\u0161tis"
+    ],
+    "name:oci_x_preferred":[
+        "Coste\u015fti"
+    ],
+    "name:pol_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Coste\u0219ti"
+    ],
+    "name:und_x_colloquial":[
+        "Costesti"
+    ],
+    "name:und_x_preferred":[
+        "Coste\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Kosteshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*R\u00ee\u015fcani",
+    "qs:a1_alt":"Riscani",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Coste\u015fti",
+    "qs:loc_alt":"Costesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":47.858333,
+    "wd:longitude":27.258611,
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4acba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618000,
+        "gp:id":480410,
+        "qs:id":2,
+        "wd:id":"Q1756938",
+        "wk:page":"Coste\u0219ti, Moldova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c851498983407f114fe4a14a9edc6262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858237,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":101858237,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744306,
+    "wof:name":"Coste\u015fti",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.260096,
+    47.857537,
+    27.260096,
+    47.857537
+],
+  "geometry": {"coordinates":[27.260096,47.857537],"type":"Point"}
+}

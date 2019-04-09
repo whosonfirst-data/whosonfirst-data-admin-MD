@@ -1,0 +1,159 @@
+{
+  "id": 101860221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.026333,48.071926,28.026333,48.071926",
+    "geom:latitude":48.071926,
+    "geom:longitude":28.026333,
+    "iso:country":"MD",
+    "lbl:latitude":48.071926,
+    "lbl:longitude":28.026333,
+    "mps:latitude":48.071926,
+    "mps:longitude":28.026333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:dan_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:dut_x_preferred":[
+        "Pope\u015ftii de Jos"
+    ],
+    "name:eng_x_preferred":[
+        "Novyye Popeshty"
+    ],
+    "name:eng_x_variant":[
+        "Popeshti Nouy",
+        "Pope\u0219tii de Jos"
+    ],
+    "name:fre_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8\u10d8-\u10d3\u10d4-\u10df\u10dd\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:ita_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8-\u10d3\u10d4-\u10df\u10dd\u10e1\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:nob_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:pol_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:por_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:ron_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:rum_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0435\u0448\u0442\u0438\u0439 \u0434\u0435 \u0416\u043e\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u043e\u043f\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:swe_x_preferred":[
+        "Pope\u0219tii de Jos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0416\u043e\u0441"
+    ],
+    "name:und_x_colloquial":[
+        "Popestii Noui",
+        "Popestii de Jos"
+    ],
+    "name:und_x_preferred":[
+        "Pope\u015ftii de Jos"
+    ],
+    "name:und_x_variant":[
+        "Pope\u015ftii Noui"
+    ],
+    "name:unk_x_variant":[
+        "Popeshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Drocia",
+    "qs:a1_alt":"Drochia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pope\u015ftii de Jos",
+    "qs:loc_alt":"Popestii de Jos",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a52b54-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":829701,
+        "gp:id":481139,
+        "qs:id":2,
+        "wd:id":"Q772155",
+        "wk:page":"Pope\u0219tii de Jos"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0159f65385477aec6b0ad379f1daf936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860221,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":101860221,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745324,
+    "wof:name":"Pope\u015ftii de Jos",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.026333,
+    48.071926,
+    28.026333,
+    48.071926
+],
+  "geometry": {"coordinates":[28.026333,48.071926],"type":"Point"}
+}

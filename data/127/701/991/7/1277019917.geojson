@@ -1,0 +1,81 @@
+{
+  "id": 1277019917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3031,47.29956,29.3031,47.29956",
+    "geom:latitude":47.29956,
+    "geom:longitude":29.3031,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Alexandrovca Noua",
+    "gn:country_code":"MD",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617742,
+    "gn:latitude":47.29956,
+    "gn:longitude":29.3031,
+    "gn:modification_date":"2015-07-12",
+    "gn:name":"Alexandrovca Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Aleksandrovka",
+        "Alexandrovca Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617742
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1d067d16b3d8d4bf55697abf1869bba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1277019917,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1277019917,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1277019917,
+    "wof:lastmodified":1537664337,
+    "wof:name":"Alexandrovca Noua",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3031,
+    47.29956,
+    29.3031,
+    47.29956
+],
+  "geometry": {"coordinates":[29.3031,47.29956],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101865055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.049597,47.854633,29.049597,47.854633",
+    "geom:latitude":47.854633,
+    "geom:longitude":29.049597,
+    "iso:country":"MD",
+    "lbl:latitude":47.854633,
+    "lbl:longitude":29.049597,
+    "mps:latitude":47.854633,
+    "mps:longitude":29.049597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:dan_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:dut_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:eng_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:fre_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:ger_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:ita_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:nno_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:nob_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:pol_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:por_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:ron_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:rum_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u041c\u043e\u043b\u043e\u043a\u0438\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:swe_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:tur_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u041c\u043e\u043b\u043e\u043a\u0456\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Velykyy Molokish"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Molochi\u015ful Mare",
+    "qs:loc_alt":"Molochisul Mare",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618534,
+        "gp:id":480960,
+        "wd:id":"Q1994785",
+        "wk:page":"Molochi\u0219ul Mare"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"97a83a193102986a89535e05de643eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865055,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865055,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865055,
+    "wof:lastmodified":1544747846,
+    "wof:name":"Molochi\u015ful Mare",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.049597,
+    47.854633,
+    29.049597,
+    47.854633
+],
+  "geometry": {"coordinates":[29.049597,47.854633],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276373513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78868,46.72863,28.78868,46.72863",
+    "geom:latitude":46.72863,
+    "geom:longitude":28.78868,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Schinosica",
+    "gn:country_code":"MD",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829638,
+    "gn:latitude":46.72863,
+    "gn:longitude":28.78868,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Schino\u015fica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0438\u043d\u043e\u0448\u0438\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Skinosa",
+        "Skinoshika",
+        "Schinoasa",
+        "Schino\u015fica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829638
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3d1863c2ddd64fef01cca784dfed288a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276373513,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":1276373513,
+    "wof:lastmodified":1537664385,
+    "wof:name":"Schinosica",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78868,
+    46.72863,
+    28.78868,
+    46.72863
+],
+  "geometry": {"coordinates":[28.78868,46.72863],"type":"Point"}
+}

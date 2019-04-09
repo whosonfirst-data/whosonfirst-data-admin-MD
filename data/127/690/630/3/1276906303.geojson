@@ -1,0 +1,74 @@
+{
+  "id": 1276906303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.20175,48.28573,27.20175,48.28573",
+    "geom:latitude":48.28573,
+    "geom:longitude":27.20175,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Balcauti",
+    "gn:country_code":"MD",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618607,
+    "gn:latitude":48.28573,
+    "gn:longitude":27.20175,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"B\u0103lc\u0103u\u0163i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043a\u0430\u0443\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Balkautsy",
+        "Balkauts De Zhos",
+        "B\u0103lc\u0103u\u0163i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618607,
+        "wk:page":"B%C4%83lc%C4%83u%C8%9Bi%2C_Briceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c140a53e39743ebda9ee32d369fd8cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276906303,
+            "region_id":85686497
+        }
+    ],
+    "wof:id":1276906303,
+    "wof:lastmodified":1537664375,
+    "wof:name":"Balcauti",
+    "wof:parent_id":85686497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.20175,
+    48.28573,
+    27.20175,
+    48.28573
+],
+  "geometry": {"coordinates":[27.20175,48.28573],"type":"Point"}
+}

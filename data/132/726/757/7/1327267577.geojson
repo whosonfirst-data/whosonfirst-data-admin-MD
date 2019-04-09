@@ -1,0 +1,73 @@
+{
+  "id": 1327267577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97082,47.37468,27.97082,47.37468",
+    "geom:latitude":47.37468,
+    "geom:longitude":27.97082,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Romanovca",
+    "gn:country_code":"MD",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617497,
+    "gn:latitude":47.37468,
+    "gn:longitude":27.97082,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Romanovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Romynesht\u2019",
+        "Romanovka",
+        "Romanovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617497
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5f7793c0d347a69dc376ff0aaf087ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1327267577,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":1327267577,
+    "wof:lastmodified":1537664322,
+    "wof:name":"Romanovca",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97082,
+    47.37468,
+    27.97082,
+    47.37468
+],
+  "geometry": {"coordinates":[27.97082,47.37468],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 101860293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4158,48.203708,27.4158,48.203708",
+    "geom:latitude":48.203708,
+    "geom:longitude":27.4158,
+    "iso:country":"MD",
+    "lbl:latitude":48.203708,
+    "lbl:longitude":27.4158,
+    "mps:latitude":48.203708,
+    "mps:longitude":27.4158,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rusen'"
+    ],
+    "name:eng_x_variant":[
+        "Rusyany"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u044f\u043d\u044b"
+    ],
+    "name:und_x_preferred":[
+        "Ruseni"
+    ],
+    "name:unk_x_variant":[
+        "Rusen\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Edine\u0163",
+    "qs:a1_alt":"Edinet",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ruseni",
+    "qs:loc_alt":"Ruseni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a5393c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617488,
+        "gp:id":481217,
+        "qs:id":8,
+        "wd:id":"Q1128021"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2bc584abd4bcb95ac174d20833b22623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860293,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":101860293,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745362,
+    "wof:name":"Ruseni",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4158,
+    48.203708,
+    27.4158,
+    48.203708
+],
+  "geometry": {"coordinates":[27.4158,48.203708],"type":"Point"}
+}

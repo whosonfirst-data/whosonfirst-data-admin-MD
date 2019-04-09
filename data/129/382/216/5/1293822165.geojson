@@ -1,0 +1,73 @@
+{
+  "id": 1293822165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45501,48.02861,27.45501,48.02861",
+    "geom:latitude":48.02861,
+    "geom:longitude":27.45501,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Moseni",
+    "gn:country_code":"MD",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617786,
+    "gn:latitude":48.02861,
+    "gn:longitude":27.45501,
+    "gn:modification_date":"2015-04-12",
+    "gn:name":"Mo\u015feni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0448\u0430\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Moshany",
+        "Moshen\u2019",
+        "Mo\u015feni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617786
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7759d8c32142de11b7cfa134182aa2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293822165,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1293822165,
+    "wof:lastmodified":1537664340,
+    "wof:name":"Moseni",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45501,
+    48.02861,
+    27.45501,
+    48.02861
+],
+  "geometry": {"coordinates":[27.45501,48.02861],"type":"Point"}
+}

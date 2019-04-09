@@ -1,0 +1,72 @@
+{
+  "id": 1243098687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22522,48.16961,27.22522,48.16961",
+    "geom:latitude":48.16961,
+    "geom:longitude":27.22522,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Gordinestii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829583,
+    "gn:latitude":48.16961,
+    "gn:longitude":27.22522,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Gordine\u015ftii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0413\u043e\u0440\u0434\u0438\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Gordineshty",
+        "Gordine\u015ftii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829583
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e9ef9c04aea3a065c1c5d8b635ea1162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243098687,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":1243098687,
+    "wof:lastmodified":1537664384,
+    "wof:name":"Gordinestii Noi",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22522,
+    48.16961,
+    27.22522,
+    48.16961
+],
+  "geometry": {"coordinates":[27.22522,48.16961],"type":"Point"}
+}

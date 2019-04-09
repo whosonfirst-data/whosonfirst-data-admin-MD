@@ -1,0 +1,117 @@
+{
+  "id": 101872963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56242,47.923229,28.56242,47.923229",
+    "geom:latitude":47.923229,
+    "geom:longitude":28.56242,
+    "iso:country":"MD",
+    "lbl:latitude":47.923229,
+    "lbl:longitude":28.56242,
+    "mps:latitude":47.923229,
+    "mps:longitude":28.56242,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kugureshty-de-Sus"
+    ],
+    "name:eng_x_variant":[
+        "Kugureshty Verkhniye",
+        "Kukhuresht'-de-Sus",
+        "Kukhureshti-de-Sus",
+        "Verkhniye Kugureshti",
+        "Verkhniye Kugureshty"
+    ],
+    "name:ita_x_preferred":[
+        "Cuhure\u0219tii de Sus"
+    ],
+    "name:ron_x_preferred":[
+        "Cuhure\u0219tii de Sus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0445\u043d\u0438\u0435 \u041a\u0443\u0433\u0443\u0440\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0445\u0443\u0440\u0435\u0448\u0442\u0456\u0439-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:und_x_colloquial":[
+        "Cuhurestii de Sos",
+        "Cuhurestii de Sus"
+    ],
+    "name:und_x_preferred":[
+        "Cuhure\u015ftii de Sus"
+    ],
+    "name:und_x_variant":[
+        "Cuhure\u015ftii de Sos"
+    ],
+    "name:unk_x_variant":[
+        "Verkhniye Kugureshti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Flore\u015fti",
+    "qs:a1_alt":"Floresti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cuhure\u015ftii de Sus",
+    "qs:loc_alt":"Cuhurestii de Sus",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b624-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617132,
+        "gp:id":480460,
+        "qs:id":1,
+        "wd:id":"Q1984741",
+        "wk:page":"Cuhure\u0219tii de Sus"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e143f1ee4ebab793c6518d9a48c8cc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101872963,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":101872963,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544751409,
+    "wof:name":"Cuhure\u015ftii de Sus",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56242,
+    47.923229,
+    28.56242,
+    47.923229
+],
+  "geometry": {"coordinates":[28.56242,47.923229],"type":"Point"}
+}

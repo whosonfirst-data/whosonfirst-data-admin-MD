@@ -1,0 +1,112 @@
+{
+  "id": 101864729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.688366,46.652195,28.688366,46.652195",
+    "geom:latitude":46.652195,
+    "geom:longitude":28.688366,
+    "iso:country":"MD",
+    "lbl:latitude":46.652195,
+    "lbl:longitude":28.688366,
+    "mps:latitude":46.652195,
+    "mps:longitude":28.688366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "H\u00e2rtop"
+    ],
+    "name:eng_x_preferred":[
+        "Gertop"
+    ],
+    "name:eng_x_variant":[
+        "Gyrtop"
+    ],
+    "name:ron_x_preferred":[
+        "H\u00e2rtop"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044b\u0440\u0442\u043e\u043f"
+    ],
+    "name:ukr_x_preferred":[
+        "Hyrtop"
+    ],
+    "name:und_x_colloquial":[
+        "Hartop",
+        "Hirtop"
+    ],
+    "name:und_x_preferred":[
+        "H\u00eertop"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2rtop"
+    ],
+    "name:unk_x_variant":[
+        "H\u00e2rtop"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cimi\u015flia",
+    "qs:a1_alt":"Cimislia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"H\u00eertop",
+    "qs:loc_alt":"Hirtop",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4e09a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618203,
+        "gp:id":480685,
+        "wd:id":"Q1291732"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"61d471b78f74b08ffb12c3e2dbaa0e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864729,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":101864729,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747676,
+    "wof:name":"H\u00eertop",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.688366,
+    46.652195,
+    28.688366,
+    46.652195
+],
+  "geometry": {"coordinates":[28.688366,46.652195],"type":"Point"}
+}

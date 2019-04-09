@@ -1,0 +1,102 @@
+{
+  "id": 101865029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.150768,47.627983,29.150768,47.627983",
+    "geom:latitude":47.627983,
+    "geom:longitude":29.150768,
+    "iso:country":"MD",
+    "lbl:latitude":47.627983,
+    "lbl:longitude":29.150768,
+    "mps:latitude":47.627983,
+    "mps:longitude":29.150768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mocra"
+    ],
+    "name:ron_x_preferred":[
+        "Mocra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mokraya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Mocra",
+    "qs:loc_alt":"Mocra",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617793,
+        "gp:id":480955,
+        "wd:id":"Q1994861",
+        "wk:page":"Mocra"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"01477f61f958a52d7d908b0b6909cd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101865029,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101865029,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101865029,
+    "wof:lastmodified":1544747833,
+    "wof:name":"Mocra",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.150768,
+    47.627983,
+    29.150768,
+    47.627983
+],
+  "geometry": {"coordinates":[29.150768,47.627983],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259717601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.12611,47.96944,28.12611,47.96944",
+    "geom:latitude":47.96944,
+    "geom:longitude":28.12611,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Scaieni",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617403,
+    "gn:latitude":47.96944,
+    "gn:longitude":28.12611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sc\u0103ieni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skayen\u2019",
+        "Sc\u0103ieni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617403
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"97843eef1288e00787c570830b036ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1259717601,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":1259717601,
+    "wof:lastmodified":1537664318,
+    "wof:name":"Scaieni",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.12611,
+    47.96944000000001,
+    28.12611,
+    47.96944000000001
+],
+  "geometry": {"coordinates":[28.12611,47.96944000000001],"type":"Point"}
+}

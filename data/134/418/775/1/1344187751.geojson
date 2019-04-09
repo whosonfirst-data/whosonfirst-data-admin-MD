@@ -1,0 +1,72 @@
+{
+  "id": 1344187751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.35824,46.91419,29.35824,46.91419",
+    "geom:latitude":46.91419,
+    "geom:longitude":29.35824,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Calfa Noua",
+    "gn:country_code":"MD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829928,
+    "gn:latitude":46.91419,
+    "gn:longitude":29.35824,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Calfa Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u041a\u0430\u043b\u0444\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Kalfa",
+        "Calfa Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829928
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"12fdca2314bb9cb64bc24c742aa282ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1344187751,
+            "region_id":85686395
+        }
+    ],
+    "wof:id":1344187751,
+    "wof:lastmodified":1537664395,
+    "wof:name":"Calfa Noua",
+    "wof:parent_id":85686395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.35824,
+    46.91419000000001,
+    29.35824,
+    46.91419000000001
+],
+  "geometry": {"coordinates":[29.35824,46.91419000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226278545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.34444,46.24389,28.34444,46.24389",
+    "geom:latitude":46.24389,
+    "geom:longitude":28.34444,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Macresti",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617868,
+    "gn:latitude":46.24389,
+    "gn:longitude":28.34444,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"M\u0103cre\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makreshty",
+        "Mokreshty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617868
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3c186b606930d2b70ba4ca5671967fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226278545,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":1226278545,
+    "wof:lastmodified":1537664344,
+    "wof:name":"Macresti",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.34444,
+    46.24389,
+    28.34444,
+    46.24389
+],
+  "geometry": {"coordinates":[28.34444,46.24389],"type":"Point"}
+}

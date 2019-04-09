@@ -1,0 +1,98 @@
+{
+  "id": 101863767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.868879,47.09409,28.868879,47.09409",
+    "geom:latitude":47.09409,
+    "geom:longitude":28.868879,
+    "gn:population":5700,
+    "iso:country":"MD",
+    "lbl:latitude":47.09409,
+    "lbl:longitude":28.868879,
+    "mps:latitude":47.09409,
+    "mps:longitude":28.868879,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "St\u0103uceni"
+    ],
+    "name:ron_x_preferred":[
+        "St\u0103uceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0432\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u0443\u0447\u0435\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Stavcheny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*mun.Chi\u015fin\u0103u",
+    "qs:a1_alt":"Chisinau",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"St\u0103uceni",
+    "qs:loc_alt":"Stauceni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617317,
+        "gp:id":481365,
+        "qs:id":489845,
+        "wd:id":"Q2387813",
+        "wk:page":"St\u0103uceni, Chi\u0219in\u0103u"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"63735669e32be4a55715f396481b3ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863767,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":101863767,
+    "wof:lastmodified":1544747175,
+    "wof:name":"St\u0103uceni",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:population":5700,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.868879,
+    47.09409,
+    28.868879,
+    47.09409
+],
+  "geometry": {"coordinates":[28.868879,47.09409],"type":"Point"}
+}

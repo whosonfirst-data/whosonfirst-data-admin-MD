@@ -1,0 +1,60 @@
+{
+  "id": 1209430041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41,47.86,27.41,47.86",
+    "geom:latitude":47.86,
+    "geom:longitude":27.41,
+    "gn:asciiname":"Goloseni",
+    "gn:country_code":"MD",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7731671,
+    "gn:latitude":47.86,
+    "gn:longitude":27.41,
+    "gn:modification_date":"2011-03-18",
+    "gn:name":"Golo\u015feni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7731671
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2f7ad6ac0a337ad8865c63828683effa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209430041
+        }
+    ],
+    "wof:id":1209430041,
+    "wof:lastmodified":1536287262,
+    "wof:name":"Goloseni",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41,
+    47.86,
+    27.41,
+    47.86
+],
+  "geometry": {"coordinates":[27.41,47.86],"type":"Point"}
+}

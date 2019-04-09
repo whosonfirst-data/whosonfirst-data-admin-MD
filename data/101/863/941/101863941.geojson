@@ -1,0 +1,107 @@
+{
+  "id": 101863941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.531983,47.370426,28.531983,47.370426",
+    "geom:latitude":47.370426,
+    "geom:longitude":28.531983,
+    "iso:country":"MD",
+    "lbl:latitude":47.370426,
+    "lbl:longitude":28.531983,
+    "mps:latitude":47.370426,
+    "mps:longitude":28.531983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Getslova"
+    ],
+    "name:eng_x_variant":[
+        "Getlova",
+        "Getlovo"
+    ],
+    "name:ita_x_preferred":[
+        "Ghetlova"
+    ],
+    "name:ron_x_preferred":[
+        "Ghetlova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0442\u043b\u043e\u0432\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Ghetlova"
+    ],
+    "name:unk_x_variant":[
+        "Getslova"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Orhei",
+    "qs:a1_alt":"Orhei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ghetlova",
+    "qs:loc_alt":"Ghetlova",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4d0f0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618283,
+        "gp:id":480602,
+        "qs:id":1,
+        "wd:id":"Q2447311",
+        "wk:page":"Ghetlova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"76426f4ae70a75de207541fcfca75737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863941,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":101863941,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747265,
+    "wof:name":"Ghetlova",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.531983,
+    47.370426,
+    28.531983,
+    47.370426
+],
+  "geometry": {"coordinates":[28.531983,47.370426],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276479305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09713,47.74294,28.09713,47.74294",
+    "geom:latitude":47.74294,
+    "geom:longitude":28.09713,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Trifanesti",
+    "gn:country_code":"MD",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617220,
+    "gn:latitude":47.74294,
+    "gn:longitude":28.09713,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Trif\u0103ne\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u0444\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Trifyneshtiy",
+        "Trifaneshty",
+        "Trif\u0103ne\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617220
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3dcb443983eb1ec4e84911759dde5727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276479305,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1276479305,
+    "wof:lastmodified":1537664309,
+    "wof:name":"Trifanesti",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09713,
+    47.74294,
+    28.09713,
+    47.74294
+],
+  "geometry": {"coordinates":[28.09713,47.74294],"type":"Point"}
+}

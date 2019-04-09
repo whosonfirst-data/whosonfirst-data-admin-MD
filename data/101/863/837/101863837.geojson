@@ -1,0 +1,110 @@
+{
+  "id": 101863837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60614,47.067768,28.60614,47.067768",
+    "geom:latitude":47.067768,
+    "geom:longitude":28.60614,
+    "iso:country":"MD",
+    "lbl:latitude":47.067768,
+    "lbl:longitude":28.60614,
+    "mps:latitude":47.067768,
+    "mps:longitude":28.60614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Skoren'"
+    ],
+    "name:eng_x_variant":[
+        "Skoreny"
+    ],
+    "name:ita_x_preferred":[
+        "Scoreni"
+    ],
+    "name:ron_x_preferred":[
+        "Scoreni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Scoreni"
+    ],
+    "name:unk_x_variant":[
+        "Skoreny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Str\u0103\u015feni",
+    "qs:a1_alt":"Straseni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Scoreni",
+    "qs:loc_alt":"Scoreni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":47.066667,
+    "wd:longitude":28.607222,
+    "wd:wordcount":365,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a5426a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617399,
+        "gp:id":481270,
+        "qs:id":495901,
+        "qs_pg:id":495901,
+        "wd:id":"Q2450716",
+        "wk:page":"Scoreni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2d7df7c34852dc2ded931a427fbc4c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863837,
+            "region_id":85686405
+        }
+    ],
+    "wof:id":101863837,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747211,
+    "wof:name":"Scoreni",
+    "wof:parent_id":85686405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60614,
+    47.067768,
+    28.60614,
+    47.067768
+],
+  "geometry": {"coordinates":[28.60614,47.067768],"type":"Point"}
+}

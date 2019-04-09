@@ -1,0 +1,73 @@
+{
+  "id": 1293625625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.34676,47.70324,28.34676,47.70324",
+    "geom:latitude":47.70324,
+    "geom:longitude":28.34676,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Gura-Oituz",
+    "gn:country_code":"MD",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618212,
+    "gn:latitude":47.70324,
+    "gn:longitude":28.34676,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Gura-Oituz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0430-\u041e\u0439\u0442\u0443\u0437"
+    ],
+    "name:und_x_variant":[
+        "Gura Oytuzuluy",
+        "Gura-Oytuz",
+        "Gura-Oituz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618212
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"a93afebe3e4598bbee9e809b645695f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293625625,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1293625625,
+    "wof:lastmodified":1537664359,
+    "wof:name":"Gura-Oituz",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.34676,
+    47.70324,
+    28.34676,
+    47.70324
+],
+  "geometry": {"coordinates":[28.34676,47.70324],"type":"Point"}
+}

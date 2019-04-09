@@ -1,0 +1,159 @@
+{
+  "id": 101857951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2479,46.525887,28.2479,46.525887",
+    "geom:latitude":46.525887,
+    "geom:longitude":28.2479,
+    "iso:country":"MD",
+    "lbl:latitude":46.525887,
+    "lbl:longitude":28.2479,
+    "mps:latitude":46.525887,
+    "mps:longitude":28.2479,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:dut_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:eng_x_preferred":[
+        "Syrma"
+    ],
+    "name:eng_x_variant":[
+        "Novo-Leovo",
+        "S\u00eerma"
+    ],
+    "name:fre_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d8\u10e0\u10db\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:ita_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e0\u10db\u10d0"
+    ],
+    "name:nno_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:nob_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:pol_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:por_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:ron_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:rum_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u043c\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Leova Noua",
+        "Leova Nouae",
+        "Sarma",
+        "Sirma"
+    ],
+    "name:und_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:und_x_variant":[
+        "Leova Nou\u00e6",
+        "S\u00e2rma"
+    ],
+    "name:unk_x_variant":[
+        "Leova Nou\u0103"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Leova",
+    "qs:a1_alt":"Leova",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"S\u00eerma",
+    "qs:loc_alt":"Sirma",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a549fe-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617277,
+        "gp:id":481311,
+        "qs:id":2,
+        "wd:id":"Q726843",
+        "wk:page":"S\u00eerma"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"ca5fc45e944cbdc1ee8689bd9b9463d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101857951,
+            "region_id":85686355
+        }
+    ],
+    "wof:id":101857951,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744162,
+    "wof:name":"S\u00eerma",
+    "wof:parent_id":85686355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2479,
+    46.525887,
+    28.2479,
+    46.525887
+],
+  "geometry": {"coordinates":[28.2479,46.525887],"type":"Point"}
+}

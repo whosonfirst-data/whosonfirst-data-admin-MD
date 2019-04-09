@@ -1,0 +1,96 @@
+{
+  "id": 1126031669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9725,47.30139,28.9725,47.30139",
+    "geom:latitude":47.30139,
+    "geom:longitude":28.9725,
+    "gn:gn_country":"MD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":239,
+    "iso:country":"MD",
+    "lbl:latitude":47.30139,
+    "lbl:longitude":28.9725,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0443\u0447\u0435\u043d\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Butuchen\u2019"
+    ],
+    "qs_pg:aaroncc":"MD",
+    "qs_pg:gn_country":"MD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":618465,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Butuceni",
+    "qs_pg:name_adm0":"Moldova",
+    "qs_pg:name_adm1":"Criuleni",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1025767,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424885,
+    "qs_pg:woe_id":480203,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424885,
+    "woe:name_adm0":"Moldova",
+    "woe:name_adm1":"Criuleni",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618465,
+        "gp:id":480203,
+        "qs_pg:id":1025767
+    },
+    "wof:country":"MD",
+    "wof:created":1497301512,
+    "wof:geomhash":"2d314ecec3cd4ab87e6bbf650e4d97fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1126031669,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1126031669,
+    "wof:lastmodified":1509407950,
+    "wof:name":"Butuceni",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:population":239,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9725,
+    47.30139,
+    28.9725,
+    47.30139
+],
+  "geometry": {"coordinates":[28.9725,47.30139],"type":"Point"}
+}

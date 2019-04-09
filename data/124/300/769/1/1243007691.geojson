@@ -1,0 +1,72 @@
+{
+  "id": 1243007691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95245,47.09441,28.95245,47.09441",
+    "geom:latitude":47.09441,
+    "geom:longitude":28.95245,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Ceroborta",
+    "gn:country_code":"MD",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829806,
+    "gn:latitude":47.09441,
+    "gn:longitude":28.95245,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ceroborta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043e\u0431\u043e\u0440\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Cheroborta",
+        "Ceroborta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829806
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"03e451870cbca5864fdce481813c9c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243007691,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":1243007691,
+    "wof:lastmodified":1537664390,
+    "wof:name":"Ceroborta",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95245,
+    47.09441,
+    28.95245,
+    47.09441
+],
+  "geometry": {"coordinates":[28.95245,47.09441],"type":"Point"}
+}

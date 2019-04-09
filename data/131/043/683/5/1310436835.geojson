@@ -1,0 +1,77 @@
+{
+  "id": 1310436835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51184,46.08494,28.51184,46.08494",
+    "geom:latitude":46.08494,
+    "geom:longitude":28.51184,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Chioselia Rusa",
+    "gn:country_code":"MD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617489,
+    "gn:latitude":46.08494,
+    "gn:longitude":28.51184,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Chio\u015felia Rus\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u041a\u0438\u0441\u0435\u043b\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Russkaya Kisiliya",
+        "Chio\u015felia Mic\u0103",
+        "Russkaya Kiseliya",
+        "Nizhne-Kiseli",
+        "Novy-Kiseli",
+        "Chio\u015felia Rus\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617489,
+        "wk:page":"Chioselia_Rus%C4%83"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"ddddbee2019f9679398a2e0fc08d2162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310436835,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":1310436835,
+    "wof:lastmodified":1537664322,
+    "wof:name":"Chioselia Rusa",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51184000000001,
+    46.08494,
+    28.51184000000001,
+    46.08494
+],
+  "geometry": {"coordinates":[28.51184000000001,46.08494],"type":"Point"}
+}

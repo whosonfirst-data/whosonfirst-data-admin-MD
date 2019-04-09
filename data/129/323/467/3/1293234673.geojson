@@ -1,0 +1,85 @@
+{
+  "id": 1293234673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.09722,47.65053,29.09722,47.65053",
+    "geom:latitude":47.65053,
+    "geom:longitude":29.09722,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Chirov",
+    "gn:country_code":"MD",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618074,
+    "gn:latitude":47.65053,
+    "gn:longitude":29.09722,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chirov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kirovo",
+        "Chirov",
+        "Kirov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618074
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5e837e24bd673ccd37afa6f64bf0bd77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1293234673,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1293234673,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1293234673,
+    "wof:lastmodified":1537664353,
+    "wof:name":"Chirov",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.09722,
+    47.65053,
+    29.09722,
+    47.65053
+],
+  "geometry": {"coordinates":[29.09722,47.65053],"type":"Point"}
+}

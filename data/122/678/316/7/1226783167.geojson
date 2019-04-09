@@ -1,0 +1,77 @@
+{
+  "id": 1226783167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.94498,47.61394,28.94498,47.61394",
+    "geom:latitude":47.61394,
+    "geom:longitude":28.94498,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Horodiste",
+    "gn:country_code":"MD",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618248,
+    "gn:latitude":47.61394,
+    "gn:longitude":28.94498,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Horodi\u015fte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043e\u0434\u0438\u0449\u0435"
+    ],
+    "name:und_x_variant":[
+        "Gorodishtya",
+        "Gorodishche",
+        "Horodi\u015ftea",
+        "Gorodishte",
+        "Khorodishtya",
+        "Horodi\u015fte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618248,
+        "wk:page":"Horodi%C8%99te%2C_Rezina"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d0c6fe771b97efd7bfe8c3708fbd6015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226783167,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1226783167,
+    "wof:lastmodified":1537664360,
+    "wof:name":"Horodiste",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94498,
+    47.61394,
+    28.94498,
+    47.61394
+],
+  "geometry": {"coordinates":[28.94498,47.61394],"type":"Point"}
+}

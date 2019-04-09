@@ -1,0 +1,76 @@
+{
+  "id": 1310140581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.42796,46.55614,28.42796,46.55614",
+    "geom:latitude":46.55614,
+    "geom:longitude":28.42796,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Frumusica",
+    "gn:country_code":"MD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618323,
+    "gn:latitude":46.55614,
+    "gn:longitude":28.42796,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Frumu\u015fica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0443\u043c\u0443\u0448\u0438\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Manubeyevka",
+        "Frumushika",
+        "Manukbeyevka",
+        "Manubeevca",
+        "Manubievca",
+        "Frumu\u015fica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618323
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4f3b9c0f133d5367d91c8762346d8e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310140581,
+            "region_id":85686355
+        }
+    ],
+    "wof:id":1310140581,
+    "wof:lastmodified":1537664364,
+    "wof:name":"Frumusica",
+    "wof:parent_id":85686355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.42796,
+    46.55614,
+    28.42796,
+    46.55614
+],
+  "geometry": {"coordinates":[28.42796,46.55614],"type":"Point"}
+}

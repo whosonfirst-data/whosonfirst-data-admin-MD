@@ -1,0 +1,138 @@
+{
+  "id": 101863831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.200968,47.133698,29.200968,47.133698",
+    "geom:latitude":47.133698,
+    "geom:longitude":29.200968,
+    "iso:country":"MD",
+    "lbl:latitude":47.133698,
+    "lbl:longitude":29.200968,
+    "mps:latitude":47.133698,
+    "mps:longitude":29.200968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:dan_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:dut_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:eng_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:fre_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10e3\u10d1\u10d4\u10e1\u10d0\u10e0\u10d8-\u10d5\u10d4\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:ita_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10d1\u10d4\u10e1\u10d0\u10e0\u10d8-\u10d5\u10d4\u10d9\u10d8"
+    ],
+    "name:nno_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:nob_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:pol_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:por_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:ron_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:rum_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u044b\u0435 \u0414\u0443\u0431\u043e\u0441\u0441\u0430\u0440\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:swe_x_preferred":[
+        "Dub\u0103sarii Vechi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0431\u0435\u0441\u0430\u0440\u0456\u0439-\u0412\u0435\u043a\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Staryye Dubossary"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Criuleni",
+    "qs:a1_alt":"Criuleni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dub\u0103sarii Vechi",
+    "qs:loc_alt":"Dubasarii Vechi",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617341,
+        "gp:id":480513,
+        "qs:id":7,
+        "wd:id":"Q2439123",
+        "wk:page":"Dub\u0103sarii Vechi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3fbea9736434f8e9ab0dc014d021d712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863831,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":101863831,
+    "wof:lastmodified":1544747208,
+    "wof:name":"Dub\u0103sarii Vechi",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.200968,
+    47.133698,
+    29.200968,
+    47.133698
+],
+  "geometry": {"coordinates":[29.200968,47.133698],"type":"Point"}
+}

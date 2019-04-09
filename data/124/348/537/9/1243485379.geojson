@@ -1,0 +1,73 @@
+{
+  "id": 1243485379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13111,48.27067,27.13111,48.27067",
+    "geom:latitude":48.27067,
+    "geom:longitude":27.13111,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Trestieni",
+    "gn:country_code":"MD",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617223,
+    "gn:latitude":48.27067,
+    "gn:longitude":27.13111,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Trestieni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0441\u0442\u0438\u044f\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Trestiyen\u2019",
+        "Trestiyany",
+        "Trestieni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617223
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2ad560aa6f7d7b360379fa2f37d1c9e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243485379,
+            "region_id":85686497
+        }
+    ],
+    "wof:id":1243485379,
+    "wof:lastmodified":1537664309,
+    "wof:name":"Trestieni",
+    "wof:parent_id":85686497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13111,
+    48.27067,
+    27.13111,
+    48.27067
+],
+  "geometry": {"coordinates":[27.13111,48.27067],"type":"Point"}
+}

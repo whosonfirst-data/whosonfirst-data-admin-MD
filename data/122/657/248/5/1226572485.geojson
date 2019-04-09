@@ -1,0 +1,73 @@
+{
+  "id": 1226572485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41761,47.69858,28.41761,47.69858",
+    "geom:latitude":47.69858,
+    "geom:longitude":28.41761,
+    "gn:admin1_code":"75.0",
+    "gn:asciiname":"Pistruienii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831069,
+    "gn:latitude":47.69858,
+    "gn:longitude":28.41761,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pistruienii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u041f\u0438\u0441\u0442\u0440\u0443\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Pistruyeny",
+        "Pistruenii Noi",
+        "Pistruienii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831069
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"95677ac78a9a7083ade8059da82aa35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226572485,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1226572485,
+    "wof:lastmodified":1537664400,
+    "wof:name":"Pistruienii Noi",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41761,
+    47.69858,
+    28.41761,
+    47.69858
+],
+  "geometry": {"coordinates":[28.41761,47.69858],"type":"Point"}
+}

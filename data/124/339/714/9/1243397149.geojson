@@ -1,0 +1,68 @@
+{
+  "id": 1243397149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68444,47.33889,28.68444,47.33889",
+    "geom:latitude":47.33889,
+    "geom:longitude":28.68444,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Mana",
+    "gn:country_code":"MD",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831033,
+    "gn:latitude":47.33889,
+    "gn:longitude":28.68444,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Mana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Mana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831033
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3e5f8acb7d3e8e2ed3d54c23dba5531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243397149,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1243397149,
+    "wof:lastmodified":1537664398,
+    "wof:name":"Mana",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68444,
+    47.33889,
+    28.68444,
+    47.33889
+],
+  "geometry": {"coordinates":[28.68444,47.33889],"type":"Point"}
+}

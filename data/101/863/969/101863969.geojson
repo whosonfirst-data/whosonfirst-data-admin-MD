@@ -1,0 +1,129 @@
+{
+  "id": 101863969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97428,47.315838,28.97428,47.315838",
+    "geom:latitude":47.315838,
+    "geom:longitude":28.97428,
+    "iso:country":"MD",
+    "lbl:latitude":47.315838,
+    "lbl:longitude":28.97428,
+    "mps:latitude":47.315838,
+    "mps:longitude":28.97428,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0421\u044f\u043b\u043e \u0422\u0440\u044d\u0431\u0443\u0436\u044d\u043d\u044b"
+    ],
+    "name:dut_x_preferred":[
+        "Trebujeni"
+    ],
+    "name:eng_x_preferred":[
+        "Trebuzheni"
+    ],
+    "name:eng_x_variant":[
+        "Trebuyeny",
+        "Trebuzhen'",
+        "Trebuzheny",
+        "Trebujeni"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10e0\u10d4\u10d1\u10e3\u10df\u10d4\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Trebujeni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30ec\u30d6\u30b8\u30a7\u30cb"
+    ],
+    "name:pol_x_preferred":[
+        "Trebujeni"
+    ],
+    "name:ron_x_preferred":[
+        "Trebujeni"
+    ],
+    "name:rum_x_preferred":[
+        "Trebujeni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u0443\u0436\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0435\u0431\u0443\u0436\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Trebujeni"
+    ],
+    "name:unk_x_variant":[
+        "Trebuyeny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Orhei",
+    "qs:a1_alt":"Orhei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Trebujeni",
+    "qs:loc_alt":"Trebujeni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":321,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a56772-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617224,
+        "gp:id":481495,
+        "qs:id":475584,
+        "qs_pg:id":475584,
+        "wd:id":"Q2447564",
+        "wk:page":"Trebujeni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d3084f379c3bbfce7934edd9b9c14d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863969,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":101863969,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747281,
+    "wof:name":"Trebujeni",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97428,
+    47.315838,
+    28.97428,
+    47.315838
+],
+  "geometry": {"coordinates":[28.97428,47.315838],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101864959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.754247,47.860436,28.754247,47.860436",
+    "geom:latitude":47.860436,
+    "geom:longitude":28.754247,
+    "iso:country":"MD",
+    "lbl:latitude":47.860436,
+    "lbl:longitude":28.754247,
+    "mps:latitude":47.860436,
+    "mps:longitude":28.754247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shestach'"
+    ],
+    "name:eng_x_variant":[
+        "Shestachi"
+    ],
+    "name:ita_x_preferred":[
+        "\u0218estaci"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d4\u10e1\u10e2\u10d0\u10e9\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218estaci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0441\u0442\u0430\u0447\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0428\u0435\u0441\u0442\u0430\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u0441\u0442\u0430\u0447"
+    ],
+    "name:und_x_colloquial":[
+        "Sestaci"
+    ],
+    "name:und_x_preferred":[
+        "\u015eestaci"
+    ],
+    "name:unk_x_variant":[
+        "Shestachi"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Sold\u0103ne\u015fti",
+    "qs:a1_alt":"Soldanesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u015eestaci",
+    "qs:loc_alt":"Sestaci",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":67,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a5465c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617425,
+        "gp:id":481289,
+        "qs:id":4,
+        "wd:id":"Q1991175"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6ee8618704ad8f8381ef82a0b3530323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864959,
+            "region_id":85686473
+        }
+    ],
+    "wof:id":101864959,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747797,
+    "wof:name":"\u015eestaci",
+    "wof:parent_id":85686473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.754247,
+    47.860436,
+    28.754247,
+    47.860436
+],
+  "geometry": {"coordinates":[28.754247,47.860436],"type":"Point"}
+}

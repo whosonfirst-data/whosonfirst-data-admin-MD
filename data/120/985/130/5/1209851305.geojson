@@ -1,0 +1,82 @@
+{
+  "id": 1209851305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.47846,47.28432,29.47846,47.28432",
+    "geom:latitude":47.28432,
+    "geom:longitude":29.47846,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Cotovca",
+    "gn:country_code":"MD",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617995,
+    "gn:latitude":47.28432,
+    "gn:longitude":29.47846,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Cotovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kotovka",
+        "Kotovskogo",
+        "Cotovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617995
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"d2a19c487a20f299e272d0dc90aea383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1209851305,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1209851305,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1209851305,
+    "wof:lastmodified":1537664350,
+    "wof:name":"Cotovca",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.47846,
+    47.28432,
+    29.47846,
+    47.28432
+],
+  "geometry": {"coordinates":[29.47846,47.28432],"type":"Point"}
+}

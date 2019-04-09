@@ -1,0 +1,91 @@
+{
+  "id": 101863873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.806625,47.16631,28.806625,47.16631",
+    "geom:latitude":47.16631,
+    "geom:longitude":28.806625,
+    "iso:country":"MD",
+    "lbl:latitude":47.16631,
+    "lbl:longitude":28.806625,
+    "mps:latitude":47.16631,
+    "mps:longitude":28.806625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ratu\u0219"
+    ],
+    "name:ron_x_preferred":[
+        "Ratu\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0442\u0443\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0442\u0443\u0448"
+    ],
+    "name:unk_x_variant":[
+        "Ratush"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Criuleni",
+    "qs:a1_alt":"Criuleni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ratu\u015f",
+    "qs:loc_alt":"Ratus",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829810,
+        "qs:id":6,
+        "wd:id":"Q2452776"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"4f9855178155e19a17aebf8f0030b40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863873,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":101863873,
+    "wof:lastmodified":1544747230,
+    "wof:name":"Ratu\u015f",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.806625,
+    47.16631,
+    28.806625,
+    47.16631
+],
+  "geometry": {"coordinates":[28.806625,47.16631],"type":"Point"}
+}

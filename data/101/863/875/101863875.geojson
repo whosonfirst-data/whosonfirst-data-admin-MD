@@ -1,0 +1,148 @@
+{
+  "id": 101863875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.926964,47.245014,28.926964,47.245014",
+    "geom:latitude":47.245014,
+    "geom:longitude":28.926964,
+    "iso:country":"MD",
+    "lbl:latitude":47.245014,
+    "lbl:longitude":28.926964,
+    "mps:latitude":47.245014,
+    "mps:longitude":28.926964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:dan_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:dut_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:eng_x_preferred":[
+        "Gyrtopul-Mik"
+    ],
+    "name:eng_x_variant":[
+        "Gertop-Mik",
+        "Gyrtop-Mik",
+        "Malyy Girtop",
+        "H\u00eertopul Mic"
+    ],
+    "name:fre_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:geo_x_preferred":[
+        "\u10f0\u10d8\u10e0\u10e2\u10dd\u10de\u10e3\u10da-\u10db\u10d8\u10d9\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:ita_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:nno_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:nob_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:por_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:rum_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044b\u0440\u0442\u043e\u0443\u043b-\u041c\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0438\u0440\u0442\u043e\u043f\u0443\u043b-\u041c\u0456\u043a"
+    ],
+    "name:und_x_colloquial":[
+        "Hartopul Mic",
+        "Hirtopul Mic"
+    ],
+    "name:und_x_preferred":[
+        "H\u00eertopul Mic"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2rtopul Mic"
+    ],
+    "name:unk_x_variant":[
+        "Gyrtopul-Mik"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Criuleni",
+    "qs:a1_alt":"Criuleni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"H\u00eertopul Mic",
+    "qs:loc_alt":"Hirtopul Mic",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4e194-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618200,
+        "gp:id":480691,
+        "qs:id":7,
+        "wd:id":"Q4153198"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"55b6eac266d51bfed2163cfbc308a0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863875,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":101863875,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747231,
+    "wof:name":"H\u00eertopul Mic",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.926964,
+    47.245014,
+    28.926964,
+    47.245014
+],
+  "geometry": {"coordinates":[28.926964,47.245014],"type":"Point"}
+}

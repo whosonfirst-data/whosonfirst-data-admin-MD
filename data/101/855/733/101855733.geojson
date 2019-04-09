@@ -1,0 +1,100 @@
+{
+  "id": 101855733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.179463,45.802666,28.179463,45.802666",
+    "geom:latitude":45.802666,
+    "geom:longitude":28.179463,
+    "iso:country":"MD",
+    "lbl:latitude":45.802666,
+    "lbl:longitude":28.179463,
+    "mps:latitude":45.802666,
+    "mps:longitude":28.179463,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Manta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10e2\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Manta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0442\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Manta"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Cahul",
+    "qs:a1_alt":"Cahul",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Manta",
+    "qs:loc_alt":"Manta",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a50070-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617846,
+        "gp:id":480889,
+        "qs:id":9,
+        "wd:id":"Q2438731",
+        "wk:page":"Manta, Cahul"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e76833b4c7e9a6c4164c2766f015b24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101855733,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":101855733,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743046,
+    "wof:name":"Manta",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.179463,
+    45.802666,
+    28.179463,
+    45.802666
+],
+  "geometry": {"coordinates":[28.179463,45.802666],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101863713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.455784,46.976737,28.455784,46.976737",
+    "geom:latitude":46.976737,
+    "geom:longitude":28.455784,
+    "iso:country":"MD",
+    "lbl:latitude":46.976737,
+    "lbl:longitude":28.455784,
+    "mps:latitude":46.976737,
+    "mps:longitude":28.455784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448\u0435\u043d\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Staryye Dragushany"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*H\u00eence\u015fti",
+    "qs:a1_alt":"Hincesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dr\u0103gu\u015feni",
+    "qs:loc_alt":"Draguseni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618374,
+        "gp:id":480504,
+        "qs:id":5,
+        "wd:id":"Q442707"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"62287689aa468ec412c090ad323bbd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863713,
+            "region_id":85686377
+        }
+    ],
+    "wof:id":101863713,
+    "wof:lastmodified":1544747147,
+    "wof:name":"Dr\u0103gu\u015feni",
+    "wof:parent_id":85686377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.455784,
+    46.976737,
+    28.455784,
+    46.976737
+],
+  "geometry": {"coordinates":[28.455784,46.976737],"type":"Point"}
+}

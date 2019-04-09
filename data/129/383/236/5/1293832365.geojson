@@ -1,0 +1,72 @@
+{
+  "id": 1293832365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67453,47.92281,27.67453,47.92281",
+    "geom:latitude":47.92281,
+    "geom:longitude":27.67453,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Bulhac",
+    "gn:country_code":"MD",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618483,
+    "gn:latitude":47.92281,
+    "gn:longitude":27.67453,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bulhac",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bulgak",
+        "Bulhac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618483
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"57e35ae592f2793cf82c6d55ec4c9954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293832365,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1293832365,
+    "wof:lastmodified":1537664370,
+    "wof:name":"Bulhac",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67453,
+    47.92281,
+    27.67453,
+    47.92281
+],
+  "geometry": {"coordinates":[27.67453,47.92281],"type":"Point"}
+}

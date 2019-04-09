@@ -1,0 +1,78 @@
+{
+  "id": 1360218395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84247,46.49375,28.84247,46.49375",
+    "geom:latitude":46.49375,
+    "geom:longitude":28.84247,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Bogdanovca Noua",
+    "gn:country_code":"MD",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617740,
+    "gn:latitude":46.49375,
+    "gn:longitude":28.84247,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Bogdanovca Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "Bogdanovka-Noua"
+    ],
+    "name:und_x_variant":[
+        "Novo-Bogdanovka",
+        "Bogd\u0103neasca-Nou\u0103",
+        "Novaya Bogdanovka",
+        "Bogdanyaska Noua",
+        "Bogdanovca Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617740
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"9c1926f896082dec6156585cae6a0c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360218395,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":1360218395,
+    "wof:lastmodified":1537664337,
+    "wof:name":"Bogdanovca Noua",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84247,
+    46.49375,
+    28.84247,
+    46.49375
+],
+  "geometry": {"coordinates":[28.84247,46.49375],"type":"Point"}
+}

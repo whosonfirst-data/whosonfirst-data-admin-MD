@@ -1,0 +1,73 @@
+{
+  "id": 1243298177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51825,46.21537,28.51825,46.21537",
+    "geom:latitude":46.21537,
+    "geom:longitude":28.51825,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Taraclia",
+    "gn:country_code":"MD",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617267,
+    "gn:latitude":46.21537,
+    "gn:longitude":28.51825,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Taraclia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Tarakliya",
+        "Tarakliyka",
+        "Taraclia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617267
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0a08c7f4d8710d4e94169e31ec069411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243298177,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":1243298177,
+    "wof:lastmodified":1537664310,
+    "wof:name":"Taraclia",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51825,
+    46.21537,
+    28.51825,
+    46.21537
+],
+  "geometry": {"coordinates":[28.51825,46.21537],"type":"Point"}
+}

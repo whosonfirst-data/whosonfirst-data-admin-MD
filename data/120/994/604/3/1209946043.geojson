@@ -1,0 +1,74 @@
+{
+  "id": 1209946043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97307,48.13294,26.97307,48.13294",
+    "geom:latitude":48.13294,
+    "geom:longitude":26.97307,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Grimesti",
+    "gn:country_code":"MD",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618228,
+    "gn:latitude":48.13294,
+    "gn:longitude":26.97307,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Grime\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Bucharest",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0435\u043c\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Gremeshti",
+        "Grimeshty",
+        "Grime\u015fti",
+        "Gremeshty"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618228
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"0d7406bb7ad0c350e367d70866486918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1209946043,
+            "region_id":85686497
+        }
+    ],
+    "wof:id":1209946043,
+    "wof:lastmodified":1537664359,
+    "wof:name":"Grimesti",
+    "wof:parent_id":85686497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97307,
+    48.13294000000001,
+    26.97307,
+    48.13294000000001
+],
+  "geometry": {"coordinates":[26.97307,48.13294000000001],"type":"Point"}
+}

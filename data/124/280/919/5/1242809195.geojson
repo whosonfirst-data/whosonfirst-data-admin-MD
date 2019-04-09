@@ -1,0 +1,73 @@
+{
+  "id": 1242809195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.72471,47.45838,28.72471,47.45838",
+    "geom:latitude":47.45838,
+    "geom:longitude":28.72471,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ocnita-Tarani",
+    "gn:country_code":"MD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617657,
+    "gn:latitude":47.45838,
+    "gn:longitude":28.72471,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ocni\u0163a-\u0162\u0103rani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043d\u0438\u0446\u0430-\u0426\u044d\u0440\u0430\u043d\u044c"
+    ],
+    "name:und_x_variant":[
+        "Oknitsa-Tseran\u2019",
+        "Oknitsa Tsaran\u2019",
+        "Ocni\u0163a-\u0162\u0103rani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617657
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"74ccb3934f034993281443e9d8069cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1242809195,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1242809195,
+    "wof:lastmodified":1537664330,
+    "wof:name":"Ocnita-Tarani",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72471,
+    47.45838,
+    28.72471,
+    47.45838
+],
+  "geometry": {"coordinates":[28.72471,47.45838],"type":"Point"}
+}

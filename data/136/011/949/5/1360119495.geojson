@@ -1,0 +1,72 @@
+{
+  "id": 1360119495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.29169,47.60885,28.29169,47.60885",
+    "geom:latitude":47.60885,
+    "geom:longitude":28.29169,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Cliscauti",
+    "gn:country_code":"MD",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831190,
+    "gn:latitude":47.60885,
+    "gn:longitude":28.29169,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Cli\u015fc\u0103u\u0163i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043b\u0438\u0448\u043a\u0430\u0443\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Klishkautsy",
+        "Cli\u015fc\u0103u\u0163i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831190
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b3bdbfdb4b9c3d4084d147386cafe12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360119495,
+            "region_id":85686459
+        }
+    ],
+    "wof:id":1360119495,
+    "wof:lastmodified":1537664401,
+    "wof:name":"Cliscauti",
+    "wof:parent_id":85686459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.29169000000001,
+    47.60885,
+    28.29169000000001,
+    47.60885
+],
+  "geometry": {"coordinates":[28.29169000000001,47.60885],"type":"Point"}
+}

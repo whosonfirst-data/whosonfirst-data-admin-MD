@@ -1,0 +1,125 @@
+{
+  "id": 101863819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.138945,46.902435,29.138945,46.902435",
+    "geom:latitude":46.902435,
+    "geom:longitude":29.138945,
+    "iso:country":"MD",
+    "lbl:latitude":46.902435,
+    "lbl:longitude":29.138945,
+    "mps:latitude":46.902435,
+    "mps:longitude":29.138945,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsyntsaren'"
+    ],
+    "name:eng_x_variant":[
+        "Tseptsereni",
+        "Tsyntsareny"
+    ],
+    "name:ita_x_preferred":[
+        "\u021a\u00een\u021b\u0103reni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d8\u10dc\u10ea\u10d4\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "\u021a\u00een\u021b\u0103reni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u044b\u043d\u0446\u044d\u0440\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0426\u044b\u043d\u0446\u0430\u0440\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u043d\u0446\u0435\u0440\u0435\u043d\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Tantaerem",
+        "Tantarem",
+        "Tantareni",
+        "Tentareni",
+        "Tintareni"
+    ],
+    "name:und_x_preferred":[
+        "\u0162\u00een\u0163\u0103reni"
+    ],
+    "name:und_x_variant":[
+        "Tant\u00e6rem",
+        "\u0162en\u0163areni",
+        "\u0162\u00e2n\u0163\u0103reni"
+    ],
+    "name:unk_x_variant":[
+        "Tseptsereni"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Anenii Noi",
+    "qs:a1_alt":"Anenii Noi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0162\u00een\u0163\u0103reni",
+    "qs:loc_alt":"Tintareni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a56222-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617196,
+        "gp:id":481464,
+        "wd:id":"Q2437433",
+        "wk:page":"\u021a\u00een\u021b\u0103reni, Anenii Noi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"9bff298f1c262d9bccd9aa7accc35b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863819,
+            "region_id":85686395
+        }
+    ],
+    "wof:id":101863819,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747202,
+    "wof:name":"\u0162\u00een\u0163\u0103reni",
+    "wof:parent_id":85686395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.138945,
+    46.902435,
+    29.138945,
+    46.902435
+],
+  "geometry": {"coordinates":[29.138945,46.902435],"type":"Point"}
+}

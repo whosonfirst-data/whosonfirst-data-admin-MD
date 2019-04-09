@@ -1,0 +1,72 @@
+{
+  "id": 1293832355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.29705,47.96542,27.29705,47.96542",
+    "geom:latitude":47.96542,
+    "geom:longitude":27.29705,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Druta",
+    "gn:country_code":"MD",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829530,
+    "gn:latitude":47.96542,
+    "gn:longitude":27.29705,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Dru\u0163a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Drutsa",
+        "Dru\u0163a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829530
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"73d19add465089a16616bfe33677f78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1293832355,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1293832355,
+    "wof:lastmodified":1537664382,
+    "wof:name":"Druta",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29705,
+    47.96542,
+    27.29705,
+    47.96542
+],
+  "geometry": {"coordinates":[27.29705,47.96542],"type":"Point"}
+}

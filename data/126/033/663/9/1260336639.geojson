@@ -1,0 +1,76 @@
+{
+  "id": 1260336639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.90705,47.85513,27.90705,47.85513",
+    "geom:latitude":47.85513,
+    "geom:longitude":27.90705,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Hasnasenii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617701,
+    "gn:latitude":47.85513,
+    "gn:longitude":27.90705,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"H\u0103sn\u0103\u015fenii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0410\u0441\u043d\u0430\u0448\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Asnasheny",
+        "Gesnesheni",
+        "Novyye Asnashany",
+        "Gesnesheni Noy",
+        "H\u0103sn\u0103\u015fenii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617701,
+        "wk:page":"H%C4%83sn%C4%83%C5%9Fenii_Noi"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8103d8047bc5a84c9c0d7deb824de9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1260336639,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":1260336639,
+    "wof:lastmodified":1537664333,
+    "wof:name":"Hasnasenii Noi",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90705,
+    47.85513,
+    27.90705,
+    47.85513
+],
+  "geometry": {"coordinates":[27.90705,47.85513],"type":"Point"}
+}

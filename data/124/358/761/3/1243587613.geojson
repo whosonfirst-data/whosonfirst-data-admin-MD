@@ -1,0 +1,73 @@
+{
+  "id": 1243587613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95578,47.67677,28.95578,47.67677",
+    "geom:latitude":47.67677,
+    "geom:longitude":28.95578,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Saharna Noua",
+    "gn:country_code":"MD",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617725,
+    "gn:latitude":47.67677,
+    "gn:longitude":28.95578,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Saharna Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Sakharna",
+        "Saharna Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617725,
+        "wk:page":"Saharna_Nou%C4%83"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"36ce2f8b4e1216b7811ccb98390aea92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243587613,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1243587613,
+    "wof:lastmodified":1537664335,
+    "wof:name":"Saharna Noua",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95578,
+    47.67677,
+    28.95578,
+    47.67677
+],
+  "geometry": {"coordinates":[28.95578,47.67677],"type":"Point"}
+}

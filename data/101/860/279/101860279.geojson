@@ -1,0 +1,117 @@
+{
+  "id": 101860279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.394755,48.074207,27.394755,48.074207",
+    "geom:latitude":48.074207,
+    "geom:longitude":27.394755,
+    "iso:country":"MD",
+    "lbl:latitude":48.074207,
+    "lbl:longitude":27.394755,
+    "mps:latitude":48.074207,
+    "mps:longitude":27.394755,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bretusheniy-Vek'"
+    ],
+    "name:eng_x_variant":[
+        "Bratushany",
+        "Bratushen'",
+        "Staryye Bratushany"
+    ],
+    "name:ita_x_preferred":[
+        "Br\u0103tu\u0219eni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d4\u10e2\u10e3\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Br\u0103tu\u0219eni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0443\u0448\u0430\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Br\u0103tu\u0219eni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0443\u0448\u0430\u043d\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Bratuseni"
+    ],
+    "name:und_x_preferred":[
+        "Br\u0103tu\u015feni"
+    ],
+    "name:unk_x_variant":[
+        "Staryye Bratushany"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Edine\u0163",
+    "qs:a1_alt":"Edinet",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Br\u0103tu\u015feni",
+    "qs:loc_alt":"Bratuseni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a47baa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618518,
+        "gp:id":480145,
+        "qs:id":7,
+        "wd:id":"Q2627398",
+        "wk:page":"Br\u0103tu\u0219eni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"47b8005cfe0eeaf530ac53a808fbb366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860279,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":101860279,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745355,
+    "wof:name":"Br\u0103tu\u015feni",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.394755,
+    48.074207,
+    27.394755,
+    48.074207
+],
+  "geometry": {"coordinates":[27.394755,48.074207],"type":"Point"}
+}

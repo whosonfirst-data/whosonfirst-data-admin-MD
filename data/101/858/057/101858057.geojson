@@ -1,0 +1,109 @@
+{
+  "id": 101858057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.242773,47.379193,28.242773,47.379193",
+    "geom:latitude":47.379193,
+    "geom:longitude":28.242773,
+    "iso:country":"MD",
+    "lbl:latitude":47.379193,
+    "lbl:longitude":28.242773,
+    "mps:latitude":47.379193,
+    "mps:longitude":28.242773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Derenev"
+    ],
+    "name:ita_x_preferred":[
+        "Dereneu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10e0\u10d4\u10dc\u10d4\u10e3"
+    ],
+    "name:ron_x_preferred":[
+        "Dereneu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0435\u043d\u0435\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0435\u0440\u0435\u043d\u0435\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0440\u0435\u043d\u0435\u0443"
+    ],
+    "name:und_x_preferred":[
+        "Dereneu"
+    ],
+    "name:unk_x_variant":[
+        "Derenev"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103l\u0103ra\u015fi",
+    "qs:a1_alt":"Calarasi",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Dereneu",
+    "qs:loc_alt":"Dereneu",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4b9ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618393,
+        "gp:id":480481,
+        "qs:id":6,
+        "wd:id":"Q369527",
+        "wk:page":"Dereneu"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6763a35efe8baa88f1981c1d949f46dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858057,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":101858057,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744215,
+    "wof:name":"Dereneu",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.242773,
+    47.379193,
+    28.242773,
+    47.379193
+],
+  "geometry": {"coordinates":[28.242773,47.379193],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101863765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.000979,47.065635,29.000979,47.065635",
+    "geom:latitude":47.065635,
+    "geom:longitude":29.000979,
+    "iso:country":"MD",
+    "lbl:latitude":47.065635,
+    "lbl:longitude":29.000979,
+    "mps:latitude":47.065635,
+    "mps:longitude":29.000979,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Budeshty"
+    ],
+    "name:eng_x_variant":[
+        "Budesht'",
+        "Budeshti"
+    ],
+    "name:ita_x_preferred":[
+        "Bude\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Bude\u0219ti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u0448\u0442\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0434\u0435\u0448\u0442\u044c"
+    ],
+    "name:und_x_colloquial":[
+        "Budesti"
+    ],
+    "name:und_x_preferred":[
+        "Bude\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Budeshty"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*mun.Chi\u015fin\u0103u",
+    "qs:a1_alt":"Chisinau",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Bude\u015fti",
+    "qs:loc_alt":"Budesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a48078-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618496,
+        "gp:id":868315,
+        "qs_pg:id":1171255,
+        "wd:id":"Q2388079",
+        "wk:page":"Bude\u0219ti, Chi\u0219in\u0103u"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5318521aa85a8a4862e012acb29bc9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863765,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":101863765,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747174,
+    "wof:name":"Bude\u015fti",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.000979,
+    47.065635,
+    29.000979,
+    47.065635
+],
+  "geometry": {"coordinates":[29.000979,47.065635],"type":"Point"}
+}

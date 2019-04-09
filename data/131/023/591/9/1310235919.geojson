@@ -1,0 +1,78 @@
+{
+  "id": 1310235919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4976,47.35151,29.4976,47.35151",
+    "geom:latitude":47.35151,
+    "geom:longitude":29.4976,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Pobeda",
+    "gn:country_code":"MD",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":703078,
+    "gn:latitude":47.35151,
+    "gn:longitude":29.4976,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pobeda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Kiev",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lilental\u2019",
+        "Pobeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":703078
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"c0bae197ffb5b90e7f4f764b313949b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1310235919,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1310235919,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1310235919,
+    "wof:lastmodified":1537664380,
+    "wof:name":"Pobeda",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4976,
+    47.35151,
+    29.4976,
+    47.35151
+],
+  "geometry": {"coordinates":[29.4976,47.35151],"type":"Point"}
+}

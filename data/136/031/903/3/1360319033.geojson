@@ -1,0 +1,74 @@
+{
+  "id": 1360319033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26191,48.09378,27.26191,48.09378",
+    "geom:latitude":48.09378,
+    "geom:longitude":27.26191,
+    "gn:admin1_code":"73.0",
+    "gn:asciiname":"Alexeevca",
+    "gn:country_code":"MD",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618642,
+    "gn:latitude":48.09378,
+    "gn:longitude":27.26191,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Alexeevca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Alekseyevka",
+        "Aleksiyen\u2019",
+        "Alexeevca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618642,
+        "wk:page":"Alexeevca%2C_Edine%C8%9B"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"449756be7d62725e5be63e98870deff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360319033,
+            "region_id":85686485
+        }
+    ],
+    "wof:id":1360319033,
+    "wof:lastmodified":1537664378,
+    "wof:name":"Alexeevca",
+    "wof:parent_id":85686485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26191,
+    48.09378,
+    27.26191,
+    48.09378
+],
+  "geometry": {"coordinates":[27.26191,48.09378],"type":"Point"}
+}

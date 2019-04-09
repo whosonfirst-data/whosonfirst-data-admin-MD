@@ -1,0 +1,74 @@
+{
+  "id": 1343297135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.25249,46.38155,28.25249,46.38155",
+    "geom:latitude":46.38155,
+    "geom:longitude":28.25249,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Vilcele",
+    "gn:country_code":"MD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617090,
+    "gn:latitude":46.38155,
+    "gn:longitude":28.25249,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"V\u00eelcele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043b\u0447\u0435\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Novaya Nikolayevka",
+        "Vylchele",
+        "Ru\u015fi",
+        "V\u00eelcele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617090
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"14a8c33d373e70e3d47997112d09606e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1343297135,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":1343297135,
+    "wof:lastmodified":1537664302,
+    "wof:name":"Vilcele",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25249,
+    46.38155,
+    28.25249,
+    46.38155
+],
+  "geometry": {"coordinates":[28.25249,46.38155],"type":"Point"}
+}

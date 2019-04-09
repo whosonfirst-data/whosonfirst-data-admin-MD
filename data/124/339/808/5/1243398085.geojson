@@ -1,0 +1,73 @@
+{
+  "id": 1243398085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.30498,46.14117,28.30498,46.14117",
+    "geom:latitude":46.14117,
+    "geom:longitude":28.30498,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Iasnaia Poleana",
+    "gn:country_code":"MD",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617078,
+    "gn:latitude":46.14117,
+    "gn:longitude":28.30498,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Iasnaia Poleana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0441\u043d\u0430\u044f \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yasnaya Polyana",
+        "Imeni Yasnaya-Polyana",
+        "Iasnaia Poleana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617078
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"66ed6ed0f076e8eb073eb75f59937712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243398085,
+            "region_id":85686335
+        }
+    ],
+    "wof:id":1243398085,
+    "wof:lastmodified":1537664301,
+    "wof:name":"Iasnaia Poleana",
+    "wof:parent_id":85686335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.30498,
+    46.14117,
+    28.30498,
+    46.14117
+],
+  "geometry": {"coordinates":[28.30498,46.14117],"type":"Point"}
+}

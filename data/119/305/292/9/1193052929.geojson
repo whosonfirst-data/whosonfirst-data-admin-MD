@@ -1,0 +1,81 @@
+{
+  "id": 1193052929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13986,47.32206,29.13986,47.32206",
+    "geom:latitude":47.32206,
+    "geom:longitude":29.13986,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Roghi",
+    "gn:country_code":"MD",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617500,
+    "gn:latitude":47.32206,
+    "gn:longitude":29.13986,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"Roghi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rogi",
+        "Roghi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686427,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617500
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f36e53a4bc9d5b75fbf3d302fd4a97ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1193052929,
+            "region_id":85686427
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1193052929,
+            "region_id":85686427
+        }
+    ],
+    "wof:id":1193052929,
+    "wof:lastmodified":1537664322,
+    "wof:name":"Roghi",
+    "wof:parent_id":85686427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.13986,
+    47.32206,
+    29.13986,
+    47.32206
+],
+  "geometry": {"coordinates":[29.13986,47.32206],"type":"Point"}
+}

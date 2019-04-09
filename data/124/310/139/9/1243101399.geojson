@@ -1,0 +1,74 @@
+{
+  "id": 1243101399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46632,47.42209,28.46632,47.42209",
+    "geom:latitude":47.42209,
+    "geom:longitude":28.46632,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Bahu",
+    "gn:country_code":"MD",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618618,
+    "gn:latitude":47.42209,
+    "gn:longitude":28.46632,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Bahu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0443"
+    ],
+    "name:und_x_variant":[
+        "Bakhu",
+        "Bagu",
+        "Bahu",
+        "Baxu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618618
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f0e6f9600f137c83b7f9ee9286d3858a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243101399,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":1243101399,
+    "wof:lastmodified":1537664376,
+    "wof:name":"Bahu",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46632,
+    47.42209,
+    28.46632,
+    47.42209
+],
+  "geometry": {"coordinates":[28.46632,47.42209],"type":"Point"}
+}

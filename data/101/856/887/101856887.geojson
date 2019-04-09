@@ -1,0 +1,142 @@
+{
+  "id": 101856887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.839642,46.251602,28.839642,46.251602",
+    "geom:latitude":46.251602,
+    "geom:longitude":28.839642,
+    "iso:country":"MD",
+    "lbl:latitude":46.251602,
+    "lbl:longitude":28.839642,
+    "mps:latitude":46.251602,
+    "mps:longitude":28.839642,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Avdarma"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0432\u0434\u0430\u0440\u043c\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Avdarma"
+    ],
+    "name:dut_x_preferred":[
+        "Avdarma"
+    ],
+    "name:eng_x_preferred":[
+        "Avdarma"
+    ],
+    "name:fre_x_preferred":[
+        "Avdarma"
+    ],
+    "name:gag_x_preferred":[
+        "Avdarma"
+    ],
+    "name:ger_x_preferred":[
+        "Avdarma"
+    ],
+    "name:ita_x_preferred":[
+        "Avdarma"
+    ],
+    "name:nno_x_preferred":[
+        "Avdarma"
+    ],
+    "name:nob_x_preferred":[
+        "Avdarma"
+    ],
+    "name:pol_x_preferred":[
+        "Avdarma"
+    ],
+    "name:por_x_preferred":[
+        "Avdarma"
+    ],
+    "name:ron_x_preferred":[
+        "Avdarma"
+    ],
+    "name:rum_x_preferred":[
+        "Avdarma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0434\u0430\u0440\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Avdarma"
+    ],
+    "name:swe_x_preferred":[
+        "Avdarma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0434\u0430\u0440\u043c\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Avdarma"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Avdarma",
+    "qs:loc_alt":"Avdarma",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4680e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618629,
+        "gp:id":480029,
+        "qs:id":4,
+        "wd:id":"Q2638986",
+        "wk:page":"Avdarma"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6630e76fd13775ad44be3ba55bfea711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856887,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101856887,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743612,
+    "wof:name":"Avdarma",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.839642,
+    46.251602,
+    28.839642,
+    46.251602
+],
+  "geometry": {"coordinates":[28.839642,46.251602],"type":"Point"}
+}

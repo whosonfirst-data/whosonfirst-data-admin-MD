@@ -1,0 +1,109 @@
+{
+  "id": 101860359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.175405,48.246845,28.175405,48.246845",
+    "geom:latitude":48.246845,
+    "geom:longitude":28.175405,
+    "iso:country":"MD",
+    "lbl:latitude":48.246845,
+    "lbl:longitude":28.175405,
+    "mps:latitude":48.246845,
+    "mps:longitude":28.175405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Galoshnitsa"
+    ],
+    "name:eng_x_variant":[
+        "Goloshnitsa"
+    ],
+    "name:ita_x_preferred":[
+        "Holo\u0219ni\u021ba"
+    ],
+    "name:ron_x_preferred":[
+        "Holo\u0219ni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u044f"
+    ],
+    "name:und_x_colloquial":[
+        "Holosnita"
+    ],
+    "name:und_x_preferred":[
+        "Holo\u015fni\u0163a"
+    ],
+    "name:unk_x_variant":[
+        "Goloshnitsa"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Soroca",
+    "qs:a1_alt":"Soroca",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Holo\u015fni\u0163a",
+    "qs:loc_alt":"Holosnita",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4e2fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618257,
+        "gp:id":480700,
+        "qs:id":5,
+        "wd:id":"Q2445595",
+        "wk:page":"Holo\u0219ni\u021ba"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"3dc4373b2589db7d17753d4e662f669e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860359,
+            "region_id":85686501
+        }
+    ],
+    "wof:id":101860359,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745396,
+    "wof:name":"Holo\u015fni\u0163a",
+    "wof:parent_id":85686501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.175405,
+    48.246845,
+    28.175405,
+    48.246845
+],
+  "geometry": {"coordinates":[28.175405,48.246845],"type":"Point"}
+}

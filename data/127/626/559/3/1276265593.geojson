@@ -1,0 +1,76 @@
+{
+  "id": 1276265593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66896,47.28634,28.66896,47.28634",
+    "geom:latitude":47.28634,
+    "geom:longitude":28.66896,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Donici",
+    "gn:country_code":"MD",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618380,
+    "gn:latitude":47.28634,
+    "gn:longitude":28.66896,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Donici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u0447"
+    ],
+    "name:und_x_variant":[
+        "Bezen",
+        "Donich",
+        "Bezin",
+        "Bezeny",
+        "Donici"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618380,
+        "wk:page":"Donici"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"02f2ad1b70b0df8e905f499fe4b45bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1276265593,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1276265593,
+    "wof:lastmodified":1537664367,
+    "wof:name":"Donici",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66896,
+    47.28634,
+    28.66896,
+    47.28634
+],
+  "geometry": {"coordinates":[28.66896,47.28634],"type":"Point"}
+}

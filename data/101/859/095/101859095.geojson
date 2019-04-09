@@ -1,0 +1,141 @@
+{
+  "id": 101859095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.001704,47.88749,28.001704,47.88749",
+    "geom:latitude":47.88749,
+    "geom:longitude":28.001704,
+    "iso:country":"MD",
+    "lbl:latitude":47.88749,
+    "lbl:longitude":28.001704,
+    "mps:latitude":47.88749,
+    "mps:longitude":28.001704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:dan_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:dut_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:eng_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:fre_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10dd\u10d0\u10e0\u10d0-\u10d3\u10d4-\u10de\u10d8\u10d0\u10e2\u10e0\u10d4"
+    ],
+    "name:ger_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:ita_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d0\u10e0\u10d0-\u10d3\u10d4-\u10de\u10d8\u10d0\u10e2\u10e0\u10d4"
+    ],
+    "name:nno_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:nob_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:pol_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:por_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:rum_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0430\u0440\u0430 \u0434\u0435 \u041f\u044f\u0442\u0440\u044d"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u0430\u0440\u0430-\u0414\u0435-\u041f\u044f\u0442\u0440\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:swe_x_preferred":[
+        "Moara de Piatr\u0103"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0430\u0440\u0430-\u0434\u0435-\u041f'\u044f\u0442\u0440\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Moara-de-Pyatre"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Drocia",
+    "qs:a1_alt":"Drochia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Moara de Piatr\u0103",
+    "qs:loc_alt":"Moara de Piatra",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617795,
+        "gp:id":480952,
+        "qs:id":9,
+        "wd:id":"Q2439599",
+        "wk:page":"Moara de Piatr\u0103"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6420e60edccda8e69b6a008153734526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101859095,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":101859095,
+    "wof:lastmodified":1544744737,
+    "wof:name":"Moara de Piatr\u0103",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.001704,
+    47.88749,
+    28.001704,
+    47.88749
+],
+  "geometry": {"coordinates":[28.001704,47.88749],"type":"Point"}
+}

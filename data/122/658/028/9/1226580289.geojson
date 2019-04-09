@@ -1,0 +1,74 @@
+{
+  "id": 1226580289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31177,47.34015,28.31177,47.34015",
+    "geom:latitude":47.34015,
+    "geom:longitude":28.31177,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Hirbovet",
+    "gn:country_code":"MD",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618291,
+    "gn:latitude":47.34015,
+    "gn:longitude":28.31177,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"H\u00eerbove\u0163",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u044b\u0440\u0431\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "H\u0103rbov\u0103\u0163",
+        "Gerbovets",
+        "H\u00eerbove\u0163",
+        "Gyrbovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618291
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"815c4e4f7971a65745f74c8cf1edbbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226580289,
+            "region_id":85686423
+        }
+    ],
+    "wof:id":1226580289,
+    "wof:lastmodified":1537664362,
+    "wof:name":"Hirbovet",
+    "wof:parent_id":85686423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31177000000001,
+    47.34015,
+    28.31177000000001,
+    47.34015
+],
+  "geometry": {"coordinates":[28.31177000000001,47.34015],"type":"Point"}
+}

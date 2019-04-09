@@ -1,0 +1,100 @@
+{
+  "id": 101872949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.354686,46.770043,28.354686,46.770043",
+    "geom:latitude":46.770043,
+    "geom:longitude":28.354686,
+    "iso:country":"MD",
+    "lbl:latitude":46.770043,
+    "lbl:longitude":28.354686,
+    "mps:latitude":46.770043,
+    "mps:longitude":28.354686,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "C\u0103rpineni"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103rpineni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u0438\u043d\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u043f\u0456\u043d\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Karpineny"
+    ],
+    "name:unk_x_variant":[
+        "Karpineny"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*H\u00eence\u015fti",
+    "qs:a1_alt":"Hincesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"C\u0103rpineni",
+    "qs:loc_alt":"Carpineni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f0e4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618129,
+        "gp:id":480779,
+        "qs:id":4,
+        "wd:id":"Q2328841",
+        "wk:page":"C\u0103rpineni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"69aa611ffc3d817db04ab764c599527b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101872949,
+            "region_id":85686377
+        }
+    ],
+    "wof:id":101872949,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544751403,
+    "wof:name":"C\u0103rpineni",
+    "wof:parent_id":85686377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.354686,
+    46.770043,
+    28.354686,
+    46.770043
+],
+  "geometry": {"coordinates":[28.354686,46.770043],"type":"Point"}
+}

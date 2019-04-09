@@ -1,0 +1,78 @@
+{
+  "id": 1243588817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.58981,46.5968,28.58981,46.5968",
+    "geom:latitude":46.5968,
+    "geom:longitude":28.58981,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Artimonovca",
+    "gn:country_code":"MD",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618633,
+    "gn:latitude":46.5968,
+    "gn:longitude":28.58981,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Artimonovca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0435\u043c\u043e\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Maximeni I",
+        "Artimonovka",
+        "Maksimeny Pervyye",
+        "Artemonovka",
+        "Maksimen\u2019 Pervyy",
+        "Artimone\u015fti",
+        "Maxineni I",
+        "Artimonovca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618633
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"473a72c57b7922d59e6039dfcae33537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243588817,
+            "region_id":85686359
+        }
+    ],
+    "wof:id":1243588817,
+    "wof:lastmodified":1537664377,
+    "wof:name":"Artimonovca",
+    "wof:parent_id":85686359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.58981,
+    46.5968,
+    28.58981,
+    46.5968
+],
+  "geometry": {"coordinates":[28.58981,46.5968],"type":"Point"}
+}

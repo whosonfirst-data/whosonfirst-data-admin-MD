@@ -1,0 +1,73 @@
+{
+  "id": 1225975627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7873,47.17355,28.7873,47.17355",
+    "geom:latitude":47.17355,
+    "geom:longitude":28.7873,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Loganesti",
+    "gn:country_code":"MD",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617890,
+    "gn:latitude":47.17355,
+    "gn:longitude":28.7873,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Log\u0103ne\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0433\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Loganeshty",
+        "Loganesht\u2019",
+        "Log\u0103ne\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617890
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"06b2134feec01242d2fed93a58a0b18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1225975627,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":1225975627,
+    "wof:lastmodified":1537664345,
+    "wof:name":"Loganesti",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7873,
+    47.17355,
+    28.7873,
+    47.17355
+],
+  "geometry": {"coordinates":[28.7873,47.17355],"type":"Point"}
+}

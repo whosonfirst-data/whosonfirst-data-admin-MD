@@ -1,0 +1,74 @@
+{
+  "id": 1225975585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9967,47.02412,28.9967,47.02412",
+    "geom:latitude":47.02412,
+    "geom:longitude":28.9967,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Dolinnoe",
+    "gn:country_code":"MD",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":829665,
+    "gn:latitude":47.02412,
+    "gn:longitude":28.9967,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Dolinnoe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Buga",
+        "Dolinnoye",
+        "Dolinnoe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":829665,
+        "wk:page":"Dolinnoe"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"31be2610db9c81b4a7abf108bb37d696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1225975585,
+            "region_id":85686413
+        }
+    ],
+    "wof:id":1225975585,
+    "wof:lastmodified":1537664387,
+    "wof:name":"Dolinnoe",
+    "wof:parent_id":85686413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9967,
+    47.02412,
+    28.9967,
+    47.02412
+],
+  "geometry": {"coordinates":[28.9967,47.02412],"type":"Point"}
+}

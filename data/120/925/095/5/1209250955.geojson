@@ -1,0 +1,69 @@
+{
+  "id": 1209250955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.19017,47.66906,29.19017,47.66906",
+    "geom:latitude":47.66906,
+    "geom:longitude":29.19017,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Lenin",
+    "gn:country_code":"MD",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617910,
+    "gn:latitude":47.66906,
+    "gn:longitude":29.19017,
+    "gn:modification_date":"2015-07-10",
+    "gn:name":"Lenin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kommuna Imeni Lenina",
+        "Lenino",
+        "Lenin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617910
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"272347cb513bd090da0213b26b9a7b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209250955
+        }
+    ],
+    "wof:id":1209250955,
+    "wof:lastmodified":1537664346,
+    "wof:name":"Lenin",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.19017,
+    47.66906,
+    29.19017,
+    47.66906
+],
+  "geometry": {"coordinates":[29.19017,47.66906],"type":"Point"}
+}

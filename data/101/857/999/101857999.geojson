@@ -1,0 +1,111 @@
+{
+  "id": 101857999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.259927,47.077987,28.259927,47.077987",
+    "geom:latitude":47.077987,
+    "geom:longitude":28.259927,
+    "iso:country":"MD",
+    "lbl:latitude":47.077987,
+    "lbl:longitude":28.259927,
+    "mps:latitude":47.077987,
+    "mps:longitude":28.259927,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Yurcheni"
+    ],
+    "name:eng_x_variant":[
+        "Yurchany",
+        "Yurchen'",
+        "Yurcheny"
+    ],
+    "name:ita_x_preferred":[
+        "Iurceni"
+    ],
+    "name:ron_x_preferred":[
+        "Iurceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0440\u0447\u0435\u043d\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u042e\u0440\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0440\u0447\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Iurceni"
+    ],
+    "name:unk_x_variant":[
+        "Yurchen\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Nisporeni",
+    "qs:a1_alt":"Nisporeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Iurceni",
+    "qs:loc_alt":"Iurceni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4ec02-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617063,
+        "gp:id":480748,
+        "qs:id":1,
+        "wd:id":"Q2445237",
+        "wk:page":"Iurceni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"ee45c783ae0588eaa2a3b9799655ba7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101857999,
+            "region_id":85686387
+        }
+    ],
+    "wof:id":101857999,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744186,
+    "wof:name":"Iurceni",
+    "wof:parent_id":85686387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.259927,
+    47.077987,
+    28.259927,
+    47.077987
+],
+  "geometry": {"coordinates":[28.259927,47.077987],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 101875057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.809761,47.211823,27.809761,47.211823",
+    "geom:latitude":47.211823,
+    "geom:longitude":27.809761,
+    "geonames:id":"617180,664266",
+    "iso:country":"MD",
+    "lbl:latitude":47.211823,
+    "lbl:longitude":27.809761,
+    "mps:latitude":47.211823,
+    "mps:longitude":27.809761,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ungheni",
+    "qs:a1_alt":"Ungheni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Ungheni",
+    "qs:loc_alt":"Ungheni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":47.204167,
+    "wd:longitude":27.795833,
+    "wd:population":38100,
+    "wd:wordcount":297,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":481521,
+        "qs:id":8,
+        "wd:id":"Q858713"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"e41ea3bb465caccfe585417c222fc169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101875057,
+            "region_id":85686409
+        }
+    ],
+    "wof:id":101875057,
+    "wof:lastmodified":1544751910,
+    "wof:name":"Ungheni",
+    "wof:parent_id":85686409,
+    "wof:placetype":"locality",
+    "wof:population":38100,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.809761,
+    47.211823,
+    27.809761,
+    47.211823
+],
+  "geometry": {"coordinates":[27.809761,47.211823],"type":"Point"}
+}

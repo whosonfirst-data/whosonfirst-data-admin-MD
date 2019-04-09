@@ -1,0 +1,75 @@
+{
+  "id": 1226079053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46808,46.15933,28.46808,46.15933",
+    "geom:latitude":46.15933,
+    "geom:longitude":28.46808,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Dimitrova",
+    "gn:country_code":"MD",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618388,
+    "gn:latitude":46.15933,
+    "gn:longitude":28.46808,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Dimitrova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u0103r\u0103ncu\u0163a",
+        "Dmitrovo",
+        "Tel\u2019piz",
+        "Dimitrova",
+        "Dimitrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618388
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"6f9ad11081f31073dc207257ba70f655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1226079053,
+            "region_id":85686343
+        }
+    ],
+    "wof:id":1226079053,
+    "wof:lastmodified":1537664367,
+    "wof:name":"Dimitrova",
+    "wof:parent_id":85686343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46808,
+    46.15933,
+    28.46808,
+    46.15933
+],
+  "geometry": {"coordinates":[28.46808,46.15933],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243591125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.72323,47.47537,28.72323,47.47537",
+    "geom:latitude":47.47537,
+    "geom:longitude":28.72323,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ocnita-Razesi",
+    "gn:country_code":"MD",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617658,
+    "gn:latitude":47.47537,
+    "gn:longitude":28.72323,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ocni\u0163a-R\u0103ze\u015fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043d\u0438\u0446\u0430-\u0420\u0435\u0437\u0435\u0448\u044c"
+    ],
+    "name:und_x_variant":[
+        "Oknitsa-Rezesh\u2019",
+        "Ocni\u0163a-R\u0103ze\u015fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617658
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7e9b688232373e2dbd827bd83717c71d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243591125,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1243591125,
+    "wof:lastmodified":1537664330,
+    "wof:name":"Ocnita-Razesi",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72323,
+    47.47537,
+    28.72323,
+    47.47537
+],
+  "geometry": {"coordinates":[28.72323,47.47537],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 101858099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.445054,47.595352,27.445054,47.595352",
+    "geom:latitude":47.595352,
+    "geom:longitude":27.445054,
+    "iso:country":"MD",
+    "lbl:latitude":47.595352,
+    "lbl:longitude":27.445054,
+    "mps:latitude":47.595352,
+    "mps:longitude":27.445054,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ketrish"
+    ],
+    "name:eng_x_variant":[
+        "Ketrosh'"
+    ],
+    "name:ita_x_preferred":[
+        "Chetri\u0219"
+    ],
+    "name:ron_x_preferred":[
+        "Chetri\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0442\u0440\u0438\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0442\u0440\u0456\u0448"
+    ],
+    "name:und_x_colloquial":[
+        "Chetris"
+    ],
+    "name:und_x_preferred":[
+        "Chetri\u015f"
+    ],
+    "name:unk_x_variant":[
+        "Ketrish"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*F\u0103le\u015fti",
+    "qs:a1_alt":"Falesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Chetri\u015f",
+    "qs:loc_alt":"Chetris",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4918a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618109,
+        "gp:id":480266,
+        "qs:id":7,
+        "wd:id":"Q2440671",
+        "wk:page":"Chetri\u0219"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"48256caf2e54133e24a79230c4fd7f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858099,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":101858099,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744236,
+    "wof:name":"Chetri\u015f",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.445054,
+    47.595352,
+    27.445054,
+    47.595352
+],
+  "geometry": {"coordinates":[27.445054,47.595352],"type":"Point"}
+}

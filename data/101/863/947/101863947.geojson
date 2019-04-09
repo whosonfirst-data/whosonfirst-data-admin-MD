@@ -1,0 +1,104 @@
+{
+  "id": 101863947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.665256,47.463345,28.665256,47.463345",
+    "geom:latitude":47.463345,
+    "geom:longitude":28.665256,
+    "iso:country":"MD",
+    "lbl:latitude":47.463345,
+    "lbl:longitude":28.665256,
+    "mps:latitude":47.463345,
+    "mps:longitude":28.665256,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malayeshti"
+    ],
+    "name:eng_x_variant":[
+        "Malayesht'",
+        "Malayeshty"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_colloquial":[
+        "Malaesti",
+        "Malaiesti"
+    ],
+    "name:und_x_preferred":[
+        "M\u0103l\u0103ie\u015fti"
+    ],
+    "name:und_x_variant":[
+        "M\u0103lae\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "M\u0103lae\u015fti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Orhei",
+    "qs:a1_alt":"Orhei",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"M\u0103l\u0103ie\u015fti",
+    "qs:loc_alt":"Malaiesti",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":73,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4fe68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617861,
+        "gp:id":480875,
+        "qs:id":8,
+        "wd:id":"Q362617"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1882d9a8a7f749221e45b0fd1ef8e035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863947,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":101863947,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747269,
+    "wof:name":"M\u0103l\u0103ie\u015fti",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.665256,
+    47.463345,
+    28.665256,
+    47.463345
+],
+  "geometry": {"coordinates":[28.665256,47.463345],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 101858095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.660499,47.679321,27.660499,47.679321",
+    "geom:latitude":47.679321,
+    "geom:longitude":27.660499,
+    "iso:country":"MD",
+    "lbl:latitude":47.679321,
+    "lbl:longitude":27.660499,
+    "mps:latitude":47.679321,
+    "mps:longitude":27.660499,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Obreja Veche"
+    ],
+    "name:ron_x_preferred":[
+        "Obreja Veche"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0440\u0435\u0436\u0430 \u0412\u0435\u043a\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430\u044f \u041e\u0431\u0440\u0435\u0436\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0440\u0435\u0436\u0430-\u0412\u0435\u043a\u0435"
+    ],
+    "name:und_x_preferred":[
+        "Obrezha"
+    ],
+    "name:unk_x_variant":[
+        "Obrezha Staraya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*F\u0103le\u015fti",
+    "qs:a1_alt":"Falesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Obreja Veche",
+    "qs:loc_alt":"Obreja Veche",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a51632-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617351,
+        "gp:id":481026,
+        "qs:id":3,
+        "wd:id":"Q2440234",
+        "wk:page":"Obreja Veche"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"26e57c1d3d991975531f48015bcaaff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858095,
+            "region_id":85686437
+        }
+    ],
+    "wof:id":101858095,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744234,
+    "wof:name":"Obreja Veche",
+    "wof:parent_id":85686437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.660499,
+    47.679321,
+    27.660499,
+    47.679321
+],
+  "geometry": {"coordinates":[27.660499,47.679321],"type":"Point"}
+}

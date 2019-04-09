@@ -1,0 +1,72 @@
+{
+  "id": 1210053005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84709,47.8563,28.84709,47.8563",
+    "geom:latitude":47.8563,
+    "geom:longitude":28.84709,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Odaia",
+    "gn:country_code":"MD",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831045,
+    "gn:latitude":47.8563,
+    "gn:longitude":28.84709,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Odaia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Odaya",
+        "Odaia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831045
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8752afa7f6030d09c0365641bc1289fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1210053005,
+            "region_id":85686473
+        }
+    ],
+    "wof:id":1210053005,
+    "wof:lastmodified":1537664399,
+    "wof:name":"Odaia",
+    "wof:parent_id":85686473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84709,
+    47.8563,
+    28.84709,
+    47.8563
+],
+  "geometry": {"coordinates":[28.84709,47.8563],"type":"Point"}
+}

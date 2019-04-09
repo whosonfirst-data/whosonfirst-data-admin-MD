@@ -1,0 +1,115 @@
+{
+  "id": 101860459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.514177,48.395401,27.514177,48.395401",
+    "geom:latitude":48.395401,
+    "geom:longitude":27.514177,
+    "iso:country":"MD",
+    "lbl:latitude":48.395401,
+    "lbl:longitude":27.514177,
+    "mps:latitude":48.395401,
+    "mps:longitude":27.514177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lipnic"
+    ],
+    "name:eng_x_preferred":[
+        "Lipnik"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d8\u10de\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Lipnic"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10de\u10dc\u10d8\u10d9\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Lipnic"
+    ],
+    "name:rum_x_preferred":[
+        "Lipnic"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u043d\u0456\u043a"
+    ],
+    "name:und_x_preferred":[
+        "Lipnic"
+    ],
+    "name:unk_x_variant":[
+        "Lipnik"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Ocni\u0163a",
+    "qs:a1_alt":"Ocnita",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Lipnic",
+    "qs:loc_alt":"Lipnic",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f94a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617896,
+        "gp:id":480848,
+        "qs:id":9,
+        "wd:id":"Q1987816",
+        "wk:page":"Lipnic"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"fad77ef6222c924965f8a27ad2387204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860459,
+            "region_id":85686511
+        }
+    ],
+    "wof:id":101860459,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745448,
+    "wof:name":"Lipnic",
+    "wof:parent_id":85686511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.514177,
+    48.395401,
+    27.514177,
+    48.395401
+],
+  "geometry": {"coordinates":[27.514177,48.395401],"type":"Point"}
+}

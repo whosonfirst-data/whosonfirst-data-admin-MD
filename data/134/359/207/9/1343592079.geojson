@@ -1,0 +1,83 @@
+{
+  "id": 1343592079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.28036,47.4302,29.28036,47.4302",
+    "geom:latitude":47.4302,
+    "geom:longitude":29.28036,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Dubau",
+    "gn:country_code":"MD",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618361,
+    "gn:latitude":47.4302,
+    "gn:longitude":29.28036,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Dub\u0103u",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dubova",
+        "Dubovo",
+        "Dub\u0103u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618361,
+        "wk:page":"Dub%C4%83u"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"02342c247928e7d34173683cbb892b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1343592079,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1343592079,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1343592079,
+    "wof:lastmodified":1537664366,
+    "wof:name":"Dubau",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.28036,
+    47.4302,
+    29.28036,
+    47.4302
+],
+  "geometry": {"coordinates":[29.28036,47.4302],"type":"Point"}
+}

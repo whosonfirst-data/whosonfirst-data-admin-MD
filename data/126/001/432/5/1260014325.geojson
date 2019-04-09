@@ -1,0 +1,74 @@
+{
+  "id": 1260014325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.40018,47.58244,28.40018,47.58244",
+    "geom:latitude":47.58244,
+    "geom:longitude":28.40018,
+    "gn:admin1_code":"91.0",
+    "gn:asciiname":"Banestii Noi",
+    "gn:country_code":"MD",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617700,
+    "gn:latitude":47.58244,
+    "gn:longitude":28.40018,
+    "gn:modification_date":"2015-04-11",
+    "gn:name":"B\u0103ne\u015ftii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0411\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:und_x_variant":[
+        "Novyye Baneshty",
+        "Baneshti-Nouy",
+        "Baneshti-Nou",
+        "B\u0103ne\u015ftii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617700
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"de330d93476b799ed082a74f2d1c2d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1260014325,
+            "region_id":85686455
+        }
+    ],
+    "wof:id":1260014325,
+    "wof:lastmodified":1537664333,
+    "wof:name":"Banestii Noi",
+    "wof:parent_id":85686455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40018,
+    47.58244000000001,
+    28.40018,
+    47.58244000000001
+],
+  "geometry": {"coordinates":[28.40018,47.58244000000001],"type":"Point"}
+}

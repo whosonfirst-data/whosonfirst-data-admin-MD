@@ -1,0 +1,70 @@
+{
+  "id": 1360120559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.47917,45.6825,28.47917,45.6825",
+    "geom:latitude":45.6825,
+    "geom:longitude":28.47917,
+    "gn:admin1_code":"51.0",
+    "gn:asciiname":"Catun Vulcanesti",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":864986,
+    "gn:latitude":45.6825,
+    "gn:longitude":28.47917,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"C\u0103tun Vulc\u0103ne\u015fti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pos\u00eblok Vulkaneshty",
+        "C\u0103tun Vulc\u0103ne\u015fti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":864986
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"32f49d01ed0f0de01fcff8e6001088ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1360120559,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":1360120559,
+    "wof:lastmodified":1537664406,
+    "wof:name":"Catun Vulcanesti",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47917,
+    45.6825,
+    28.47917,
+    45.6825
+],
+  "geometry": {"coordinates":[28.47917,45.6825],"type":"Point"}
+}

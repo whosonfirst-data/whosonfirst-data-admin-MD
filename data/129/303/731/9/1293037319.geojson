@@ -1,0 +1,83 @@
+{
+  "id": 1293037319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33126,47.31351,29.33126,47.31351",
+    "geom:latitude":47.31351,
+    "geom:longitude":29.33126,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Cosnita Noua",
+    "gn:country_code":"MD",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617731,
+    "gn:latitude":47.31351,
+    "gn:longitude":29.33126,
+    "gn:modification_date":"2015-07-10",
+    "gn:name":"Co\u015fni\u0163a Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u0430\u044f \u041a\u043e\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novaya Koshnitsa",
+        "Pos\u00eblok Novo-Koshnitsa",
+        "Novo-Koshnitsa",
+        "Co\u015fni\u0163a Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617731
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"777fba48b4d47a23ab1e5f6e10763cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1293037319,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1293037319,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1293037319,
+    "wof:lastmodified":1537664336,
+    "wof:name":"Cosnita Noua",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33126,
+    47.31351,
+    29.33126,
+    47.31351
+],
+  "geometry": {"coordinates":[29.33126,47.31351],"type":"Point"}
+}

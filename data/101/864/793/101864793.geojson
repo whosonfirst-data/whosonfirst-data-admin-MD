@@ -1,0 +1,120 @@
+{
+  "id": 101864793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.731283,47.076599,28.731283,47.076599",
+    "geom:latitude":47.076599,
+    "geom:longitude":28.731283,
+    "gn:population":3800,
+    "iso:country":"MD",
+    "lbl:latitude":47.076599,
+    "lbl:longitude":28.731283,
+    "mps:latitude":47.076599,
+    "mps:longitude":28.731283,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vatra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10e2\u10e0\u10d0"
+    ],
+    "name:lit_x_preferred":[
+        "Vatra"
+    ],
+    "name:pol_x_preferred":[
+        "Vatra"
+    ],
+    "name:ron_x_preferred":[
+        "Vatra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0440\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0438\u0434\u0438\u0433\u0438\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0442\u0440\u0430"
+    ],
+    "name:und_x_preferred":[
+        "Vatra"
+    ],
+    "name:unk_x_variant":[
+        "Gara Ghidighici"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*mun.Chi\u015fin\u0103u",
+    "qs:a1_alt":"Chisinau",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Vatra",
+    "qs:loc_alt":"Vatra",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":47.073889,
+    "wd:longitude":28.735,
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a57500-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":824134,
+        "gp:id":481570,
+        "qs:id":53934,
+        "qs_pg:id":53934,
+        "wd:id":"Q1117303",
+        "wk:page":"Vatra, Moldova"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"76b9a47b8b4a18d75e842702aa621129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864793,
+            "region_id":85686391
+        }
+    ],
+    "wof:id":101864793,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747710,
+    "wof:name":"Vatra",
+    "wof:parent_id":85686391,
+    "wof:placetype":"locality",
+    "wof:population":3800,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.731283,
+    47.076599,
+    28.731283,
+    47.076599
+],
+  "geometry": {"coordinates":[28.731283,47.076599],"type":"Point"}
+}

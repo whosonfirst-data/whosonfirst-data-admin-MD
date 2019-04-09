@@ -1,0 +1,84 @@
+{
+  "id": 1209852719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34722,47.33056,29.34722,47.33056",
+    "geom:latitude":47.33056,
+    "geom:longitude":29.34722,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Comisarovca Noua",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617714,
+    "gn:latitude":47.33056,
+    "gn:longitude":29.34722,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Comisarovca Nou\u0103",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u043a\u043e\u043c\u0438\u0441\u0441\u0430\u0440\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Novokomissarovka",
+        "Novaya Komissarovka",
+        "Comisarovca Nou\u0103"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617714,
+        "wk:page":"Comisarovca_Nou%C4%83"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"5d9d9f75e53f3bdf4d776598f3eecfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":1209852719,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":1209852719,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":1209852719,
+    "wof:lastmodified":1537664334,
+    "wof:name":"Comisarovca Noua",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34722,
+    47.33056,
+    29.34722,
+    47.33056
+],
+  "geometry": {"coordinates":[29.34722,47.33056],"type":"Point"}
+}

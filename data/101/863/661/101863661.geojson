@@ -1,0 +1,115 @@
+{
+  "id": 101863661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.046294,46.680156,29.046294,46.680156",
+    "geom:latitude":46.680156,
+    "geom:longitude":29.046294,
+    "iso:country":"MD",
+    "lbl:latitude":46.680156,
+    "lbl:longitude":29.046294,
+    "mps:latitude":46.680156,
+    "mps:longitude":29.046294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10d8\u10dc\u10d0\u10e0\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:ron_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u0430\u0440\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0443\u043c\u0431\u0440\u0430\u0432\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0457\u043d\u0430\u0440\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "Kaynar",
+        "Kaynar\u2019"
+    ],
+    "name:und_x_preferred":[
+        "Kaynary"
+    ],
+    "name:unk_x_variant":[
+        "Keinari"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103u\u015feni",
+    "qs:a1_alt":"Causeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"C\u0103inari",
+    "qs:loc_alt":"Cainari",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":46.678889,
+    "wd:longitude":29.046111,
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f17a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618455,
+        "gp:id":480785,
+        "qs:id":3,
+        "wd:id":"Q2377759",
+        "wk:page":"C\u0103inari"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f2f117b2793a4742dac3aab35b0a8272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863661,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":101863661,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747120,
+    "wof:name":"C\u0103inari",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.046294,
+    46.680156,
+    29.046294,
+    46.680156
+],
+  "geometry": {"coordinates":[29.046294,46.680156],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 101863687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.349647,46.618016,29.349647,46.618016",
+    "geom:latitude":46.618016,
+    "geom:longitude":29.349647,
+    "iso:country":"MD",
+    "lbl:latitude":46.618016,
+    "lbl:longitude":29.349647,
+    "mps:latitude":46.618016,
+    "mps:longitude":29.349647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zayn"
+    ],
+    "name:ita_x_preferred":[
+        "Zaim"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10d8\u10db\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Zaim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0438\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0457\u043c"
+    ],
+    "name:ukr_x_variant":[
+        "Zayim"
+    ],
+    "name:und_x_preferred":[
+        "Zaim"
+    ],
+    "name:unk_x_variant":[
+        "Zayn"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*C\u0103u\u015feni",
+    "qs:a1_alt":"Causeni",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Zaim",
+    "qs:loc_alt":"Zaim",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":124,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a57f14-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617055,
+        "gp:id":481619,
+        "wd:id":"Q2437415",
+        "wk:page":"Zaim, C\u0103u\u0219eni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"97f57379a43e63410b01abf7f801ae95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101863687,
+            "region_id":85686373
+        }
+    ],
+    "wof:id":101863687,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747133,
+    "wof:name":"Zaim",
+    "wof:parent_id":85686373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.349647,
+    46.618016,
+    29.349647,
+    46.618016
+],
+  "geometry": {"coordinates":[29.349647,46.618016],"type":"Point"}
+}

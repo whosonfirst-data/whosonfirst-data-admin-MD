@@ -1,0 +1,112 @@
+{
+  "id": 101856815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.440192,45.539162,28.440192,45.539162",
+    "geom:latitude":45.539162,
+    "geom:longitude":28.440192,
+    "iso:country":"MD",
+    "lbl:latitude":45.539162,
+    "lbl:longitude":28.440192,
+    "mps:latitude":45.539162,
+    "mps:longitude":28.440192,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u0442\u0443\u043b\u0438\u044f"
+    ],
+    "name:eng_x_preferred":[
+        "Etuliya"
+    ],
+    "name:eng_x_variant":[
+        "Yetuliya"
+    ],
+    "name:gag_x_preferred":[
+        "T\u00fcl\u00fck\u00fc\u00fc"
+    ],
+    "name:ita_x_preferred":[
+        "Etulia"
+    ],
+    "name:ron_x_preferred":[
+        "Etulia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0442\u0443\u043b\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0442\u0443\u043b\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Etulia"
+    ],
+    "name:unk_x_variant":[
+        "Etuliya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
+    "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Etulia",
+    "qs:loc_alt":"Etulia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4c632-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618348,
+        "gp:id":480543,
+        "qs:id":7,
+        "wd:id":"Q2638997",
+        "wk:page":"Etulia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"98474edeee2009d4c6f3f949dd191073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856815,
+            "region_id":85686349
+        }
+    ],
+    "wof:id":101856815,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743576,
+    "wof:name":"Etulia",
+    "wof:parent_id":85686349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.440192,
+    45.539162,
+    28.440192,
+    45.539162
+],
+  "geometry": {"coordinates":[28.440192,45.539162],"type":"Point"}
+}

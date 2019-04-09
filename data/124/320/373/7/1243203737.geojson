@@ -1,0 +1,72 @@
+{
+  "id": 1243203737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.77986,47.68519,28.77986,47.68519",
+    "geom:latitude":47.68519,
+    "geom:longitude":28.77986,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Pripiceni-Curchi",
+    "gn:country_code":"MD",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831049,
+    "gn:latitude":47.68519,
+    "gn:longitude":28.77986,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Pripiceni-Curchi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u0438\u0447\u0435\u043d\u044b-\u041a\u0443\u0440\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pripicheny-Kurki",
+        "Pripiceni-Curchi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831049
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"8542095209a10f6d99f58f04edfcb3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1243203737,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1243203737,
+    "wof:lastmodified":1537664399,
+    "wof:name":"Pripiceni-Curchi",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77986,
+    47.68519000000001,
+    28.77986,
+    47.68519000000001
+],
+  "geometry": {"coordinates":[28.77986,47.68519000000001],"type":"Point"}
+}

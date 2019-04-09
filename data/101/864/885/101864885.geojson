@@ -1,0 +1,137 @@
+{
+  "id": 101864885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.825115,46.64386,29.825115,46.64386",
+    "geom:latitude":46.64386,
+    "geom:longitude":29.825115,
+    "gn:population":4200,
+    "iso:country":"MD",
+    "lbl:latitude":46.64386,
+    "lbl:longitude":29.825115,
+    "mps:latitude":46.64386,
+    "mps:longitude":29.825115,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041a\u0440\u0430\u0441\u043d\u0430\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:eng_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:fre_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:ita_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:lit_x_preferred":[
+        "Krasnoj\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:ron_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:rum_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Crasna"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*UAT din St\u00eenga Nistrului",
+    "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Crasnoe",
+    "qs:loc_alt":"Crasnoe",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":46.651389,
+    "wd:longitude":29.804722,
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686431,
+        1159339529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617973,
+        "qs:id":126287,
+        "qs_pg:id":126287,
+        "wd:id":"Q2708419",
+        "wk:page":"Crasnoe"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"eaa136317a504ea09c31e651a0171550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "disputed_id":1159339529,
+            "locality_id":101864885,
+            "region_id":85686431
+        },
+        {
+            "continent_id":102191581,
+            "country_id":-1,
+            "disputed_id":1159339529,
+            "locality_id":101864885,
+            "region_id":85686431
+        }
+    ],
+    "wof:id":101864885,
+    "wof:lastmodified":1544747758,
+    "wof:name":"Crasnoe",
+    "wof:parent_id":85686431,
+    "wof:placetype":"locality",
+    "wof:population":4200,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.825115,
+    46.64386,
+    29.825115,
+    46.64386
+],
+  "geometry": {"coordinates":[29.825115,46.64386],"type":"Point"}
+}

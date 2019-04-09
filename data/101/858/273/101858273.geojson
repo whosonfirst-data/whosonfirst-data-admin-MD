@@ -1,0 +1,110 @@
+{
+  "id": 101858273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.829273,47.87806,27.829273,47.87806",
+    "geom:latitude":47.87806,
+    "geom:longitude":27.829273,
+    "iso:country":"MD",
+    "lbl:latitude":47.87806,
+    "lbl:longitude":27.829273,
+    "mps:latitude":47.87806,
+    "mps:longitude":27.829273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Peliniya"
+    ],
+    "name:eng_x_variant":[
+        "Peleney",
+        "Peleniya"
+    ],
+    "name:ita_x_preferred":[
+        "Pelinia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10da\u10d8\u10dc\u10d8\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Pelinia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u0438\u043d\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043b\u0456\u043d\u0456\u044f"
+    ],
+    "name:und_x_preferred":[
+        "Pelinia"
+    ],
+    "name:unk_x_variant":[
+        "Peleniya"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Drocia",
+    "qs:a1_alt":"Drochia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Pelinia",
+    "qs:loc_alt":"Pelinia",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a51f4c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617614,
+        "gp:id":481078,
+        "qs:id":2,
+        "wd:id":"Q2439149",
+        "wk:page":"Pelinia"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"82dd862fa71c2adef843043e1d68b941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101858273,
+            "region_id":85686481
+        }
+    ],
+    "wof:id":101858273,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544744324,
+    "wof:name":"Pelinia",
+    "wof:parent_id":85686481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.829273,
+    47.87806,
+    27.829273,
+    47.87806
+],
+  "geometry": {"coordinates":[27.829273,47.87806],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101860373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.224016,48.012024,28.224016,48.012024",
+    "geom:latitude":48.012024,
+    "geom:longitude":28.224016,
+    "iso:country":"MD",
+    "lbl:latitude":48.012024,
+    "lbl:longitude":28.224016,
+    "mps:latitude":48.012024,
+    "mps:longitude":28.224016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:dut_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:eng_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d4\u10d3\u10d4\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:rum_x_preferred":[
+        "V\u0103deni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0434\u044f\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0434\u0435\u043d\u044c"
+    ],
+    "name:und_x_preferred":[
+        "Vodyany"
+    ],
+    "name:unk_x_variant":[
+        "Vaden\u2019"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Soroca",
+    "qs:a1_alt":"Soroca",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"V\u0103deni",
+    "qs:loc_alt":"Vadeni",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a57a46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617111,
+        "gp:id":481590,
+        "qs:id":7,
+        "wd:id":"Q1990653"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"14eb4db89083bd802a31bfe2a177bdaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860373,
+            "region_id":85686501
+        }
+    ],
+    "wof:id":101860373,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745403,
+    "wof:name":"V\u0103deni",
+    "wof:parent_id":85686501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.224016,
+    48.012024,
+    28.224016,
+    48.012024
+],
+  "geometry": {"coordinates":[28.224016,48.012024],"type":"Point"}
+}

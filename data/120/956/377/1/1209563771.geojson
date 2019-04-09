@@ -1,0 +1,68 @@
+{
+  "id": 1209563771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27869,47.83496,27.27869,47.83496",
+    "geom:latitude":47.83496,
+    "geom:longitude":27.27869,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Pascauti",
+    "gn:country_code":"MD",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617620,
+    "gn:latitude":47.83496,
+    "gn:longitude":27.27869,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"P\u0103sc\u0103u\u0163i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u043a\u0430\u0443\u0446\u044b"
+    ],
+    "name:und_x_variant":[
+        "Paskautsy",
+        "P\u0103sc\u0103u\u0163i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617620
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1681800168bb016482dd4a91536aeeec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209563771
+        }
+    ],
+    "wof:id":1209563771,
+    "wof:lastmodified":1537664328,
+    "wof:name":"Pascauti",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27869,
+    47.83496,
+    27.27869,
+    47.83496
+],
+  "geometry": {"coordinates":[27.27869,47.83496],"type":"Point"}
+}

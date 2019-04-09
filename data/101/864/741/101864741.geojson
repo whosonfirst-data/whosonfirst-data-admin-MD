@@ -1,0 +1,118 @@
+{
+  "id": 101864741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.411354,46.882103,28.411354,46.882103",
+    "geom:latitude":46.882103,
+    "geom:longitude":28.411354,
+    "iso:country":"MD",
+    "lbl:latitude":46.882103,
+    "lbl:longitude":28.411354,
+    "mps:latitude":46.882103,
+    "mps:longitude":28.411354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "L\u0103pu\u0219na"
+    ],
+    "name:eng_x_preferred":[
+        "Lepushna"
+    ],
+    "name:eng_x_variant":[
+        "Lopushna"
+    ],
+    "name:ita_x_preferred":[
+        "L\u0103pu\u0219na"
+    ],
+    "name:ron_x_preferred":[
+        "L\u0103pu\u0219na"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044d\u043f\u0443\u0448\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0430\u043f\u0443\u0448\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043f\u0443\u0448\u043d\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Lapusna"
+    ],
+    "name:und_x_preferred":[
+        "L\u0103pu\u015fna"
+    ],
+    "name:unk_x_variant":[
+        "Lapushna"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0648\u0633\u0646\u0627\u060c \u06c1\u06cc\u0646\u06a9\u06cc\u0633\u0679\u06cc"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*H\u00eence\u015fti",
+    "qs:a1_alt":"Hincesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"L\u0103pu\u015fna",
+    "qs:loc_alt":"Lapusna",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4f4ae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617922,
+        "gp:id":480819,
+        "wd:id":"Q1020448",
+        "wk:page":"L\u0103pu\u0219na, H\u00eence\u0219ti"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f4c93a5603381d2a69891dba5bc3e9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864741,
+            "region_id":85686377
+        }
+    ],
+    "wof:id":101864741,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747683,
+    "wof:name":"L\u0103pu\u015fna",
+    "wof:parent_id":85686377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.411354,
+    46.882103,
+    28.411354,
+    46.882103
+],
+  "geometry": {"coordinates":[28.411354,46.882103],"type":"Point"}
+}

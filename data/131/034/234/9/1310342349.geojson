@@ -1,0 +1,75 @@
+{
+  "id": 1310342349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.74328,47.61074,28.74328,47.61074",
+    "geom:latitude":47.61074,
+    "geom:longitude":28.74328,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Ghiduleni",
+    "gn:country_code":"MD",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618277,
+    "gn:latitude":47.61074,
+    "gn:longitude":28.74328,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ghiduleni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0434\u0443\u043b\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Giduleny",
+        "Giduleni",
+        "Gidulen\u2019",
+        "Ghiduleni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618277,
+        "wk:page":"Ghiduleni"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"25a4566c9300683702ce471ff06562e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310342349,
+            "region_id":85686467
+        }
+    ],
+    "wof:id":1310342349,
+    "wof:lastmodified":1537664361,
+    "wof:name":"Ghiduleni",
+    "wof:parent_id":85686467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.74328,
+    47.61074,
+    28.74328,
+    47.61074
+],
+  "geometry": {"coordinates":[28.74328,47.61074],"type":"Point"}
+}

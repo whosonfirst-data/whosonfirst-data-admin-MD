@@ -1,0 +1,72 @@
+{
+  "id": 1326965945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.51705,47.37793,28.51705,47.37793",
+    "geom:latitude":47.37793,
+    "geom:longitude":28.51705,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Noroceni",
+    "gn:country_code":"MD",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":831107,
+    "gn:latitude":47.37793,
+    "gn:longitude":28.51705,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Noroceni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u043e\u0447\u0435\u043d\u044b"
+    ],
+    "name:und_x_variant":[
+        "Norocheny",
+        "Noroceni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":831107
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"ba945c863c9b8d3315544de0c239f8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1326965945,
+            "region_id":85686441
+        }
+    ],
+    "wof:id":1326965945,
+    "wof:lastmodified":1537664400,
+    "wof:name":"Noroceni",
+    "wof:parent_id":85686441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51705,
+    47.37793,
+    28.51705,
+    47.37793
+],
+  "geometry": {"coordinates":[28.51705,47.37793],"type":"Point"}
+}

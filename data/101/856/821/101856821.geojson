@@ -1,0 +1,126 @@
+{
+  "id": 101856821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.474438,45.973027,28.474438,45.973027",
+    "geom:latitude":45.973027,
+    "geom:longitude":28.474438,
+    "iso:country":"MD",
+    "lbl:latitude":45.973027,
+    "lbl:longitude":28.474438,
+    "mps:latitude":45.973027,
+    "mps:longitude":28.474438,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430 \u0410\u043b\u0431\u0430\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Albota de Sus"
+    ],
+    "name:eng_x_preferred":[
+        "Verkhnyaya Albota"
+    ],
+    "name:eng_x_variant":[
+        "Albota",
+        "Novaya Albota",
+        "Albota de Sus"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da\u10d1\u10dd\u10e2\u10d0-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Albota de Sus"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d1\u10dd\u10e2\u10d0-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Albota de Sus"
+    ],
+    "name:rum_x_preferred":[
+        "Albota de Sus"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0431\u043e\u0442\u0430 \u0434\u0435 \u0421\u0443\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0410\u043b\u0431\u043e\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0431\u043e\u0442\u0430-\u0434\u0435-\u0421\u0443\u0441"
+    ],
+    "name:und_x_preferred":[
+        "Albota de Sus"
+    ],
+    "name:unk_x_variant":[
+        "Verkhnyaya Albota"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Taraclia",
+    "qs:a1_alt":"Taraclia",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Albota de Sus",
+    "qs:loc_alt":"Albota de Sus",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a462a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617130,
+        "gp:id":479994,
+        "qs:id":4,
+        "wd:id":"Q2452073",
+        "wk:page":"Albota de Sus"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"2646a41b16fb9968b342135178977430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101856821,
+            "region_id":85686331
+        }
+    ],
+    "wof:id":101856821,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544743579,
+    "wof:name":"Albota de Sus",
+    "wof:parent_id":85686331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.474438,
+    45.973027,
+    28.474438,
+    45.973027
+],
+  "geometry": {"coordinates":[28.474438,45.973027],"type":"Point"}
+}

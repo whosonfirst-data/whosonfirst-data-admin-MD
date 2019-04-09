@@ -1,0 +1,114 @@
+{
+  "id": 101864969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.551655,47.852604,28.551655,47.852604",
+    "geom:latitude":47.852604,
+    "geom:longitude":28.551655,
+    "iso:country":"MD",
+    "lbl:latitude":47.852604,
+    "lbl:longitude":28.551655,
+    "mps:latitude":47.852604,
+    "mps:longitude":28.551655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cotiugenii Mari"
+    ],
+    "name:eng_x_variant":[
+        "Bol'shiye Kotyuzhany",
+        "Cotiugeni Mari",
+        "Kotyudzheny Mar'"
+    ],
+    "name:ita_x_preferred":[
+        "Cotiujenii Mari"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10d8\u10e3\u10df\u10d4\u10dc\u10d8\u10d8-\u10db\u10d0\u10e0\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Cotiujenii Mari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044c\u0448\u0438\u0435 \u041a\u043e\u0442\u044e\u0436\u0430\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0442\u044e\u0436\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0442\u044e\u0436\u0435\u043d\u0456\u0439-\u041c\u0430\u0440\u0456"
+    ],
+    "name:und_x_preferred":[
+        "Cotiujenii Mari"
+    ],
+    "name:unk_x_variant":[
+        "Bol\u2019shiye Kotyuzhany"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Sold\u0103ne\u015fti",
+    "qs:a1_alt":"Soldanesti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Cotiujenii Mari",
+    "qs:loc_alt":"Cotiujenii Mari",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4adf0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":617988,
+        "gp:id":480417,
+        "wd:id":"Q2446715",
+        "wk:page":"Cotiujenii Mari"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"1b94f9450c72a0acc25efb933f027d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101864969,
+            "region_id":85686473
+        }
+    ],
+    "wof:id":101864969,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544747801,
+    "wof:name":"Cotiujenii Mari",
+    "wof:parent_id":85686473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.551655,
+    47.852604,
+    28.551655,
+    47.852604
+],
+  "geometry": {"coordinates":[28.551655,47.852604],"type":"Point"}
+}

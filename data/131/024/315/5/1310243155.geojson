@@ -1,0 +1,75 @@
+{
+  "id": 1310243155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25296,47.79827,27.25296,47.79827",
+    "geom:latitude":47.79827,
+    "geom:longitude":27.25296,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Braniste",
+    "gn:country_code":"MD",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":618521,
+    "gn:latitude":47.79827,
+    "gn:longitude":27.25296,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Brani\u015fte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u043d\u0438\u0448\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Branishta",
+        "Braneshty",
+        "Brani\u015ftea",
+        "Brani\u015fte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":618521,
+        "wk:page":"Brani%C8%99te%2C_R%C3%AE%C8%99cani"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"f27ee882032d797a6fe65b694d6ed780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1310243155,
+            "region_id":85686463
+        }
+    ],
+    "wof:id":1310243155,
+    "wof:lastmodified":1537664372,
+    "wof:name":"Braniste",
+    "wof:parent_id":85686463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25296,
+    47.79827,
+    27.25296,
+    47.79827
+],
+  "geometry": {"coordinates":[27.25296,47.79827],"type":"Point"}
+}

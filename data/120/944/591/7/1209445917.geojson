@@ -1,0 +1,67 @@
+{
+  "id": 1209445917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.54778,46.61139,28.54778,46.61139",
+    "geom:latitude":46.61139,
+    "geom:longitude":28.54778,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Troitca",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617214,
+    "gn:latitude":46.61139,
+    "gn:longitude":28.54778,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Troi\u0163ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Troitskoye",
+        "Troi\u0163a",
+        "Troitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617214
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"49b3254f0880a5142d7336fb8f964ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633287,
+            "locality_id":1209445917
+        }
+    ],
+    "wof:id":1209445917,
+    "wof:lastmodified":1537664308,
+    "wof:name":"Troitca",
+    "wof:parent_id":85633287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.54778,
+    46.61139,
+    28.54778,
+    46.61139
+],
+  "geometry": {"coordinates":[28.54778,46.61139],"type":"Point"}
+}

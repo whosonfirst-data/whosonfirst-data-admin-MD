@@ -1,0 +1,116 @@
+{
+  "id": 101860199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.066009,47.936131,28.066009,47.936131",
+    "geom:latitude":47.936131,
+    "geom:longitude":28.066009,
+    "iso:country":"MD",
+    "lbl:latitude":47.936131,
+    "lbl:longitude":28.066009,
+    "mps:latitude":47.936131,
+    "mps:longitude":28.066009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nikolayesht'"
+    ],
+    "name:eng_x_variant":[
+        "Il'ichevka",
+        "Iliciovca",
+        "Nikolayeshti",
+        "Nikolayevka"
+    ],
+    "name:ita_x_preferred":[
+        "Iliciovca"
+    ],
+    "name:ron_x_preferred":[
+        "Iliciovca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u044c\u0438\u0447\u0451\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0456\u0447\u043e\u0432\u043a\u0430"
+    ],
+    "name:und_x_colloquial":[
+        "Nicolaesti"
+    ],
+    "name:und_x_preferred":[
+        "Illiciovca"
+    ],
+    "name:und_x_variant":[
+        "Nicol\u0103e\u015fti"
+    ],
+    "name:unk_x_variant":[
+        "Nicol\u0103e\u015fti"
+    ],
+    "qs:a0":"Moldova",
+    "qs:a1":"*Flore\u015fti",
+    "qs:a1_alt":"Floresti",
+    "qs:a1r":"0",
+    "qs:adm0":"Moldova",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Iliciovca",
+    "qs:loc_alt":"Iliciovca",
+    "qs:pop":0,
+    "qs:source":"ACustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":48.15,
+    "wd:longitude":27.883333,
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01a4ea04-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":618192,
+        "gp:id":480737,
+        "qs:id":3,
+        "wd:id":"Q773611"
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"b9456cfc86ea4d809c81ba85787cf342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":101860199,
+            "region_id":85686477
+        }
+    ],
+    "wof:id":101860199,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1544745313,
+    "wof:name":"Iliciovca",
+    "wof:parent_id":85686477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.066009,
+    47.936131,
+    28.066009,
+    47.936131
+],
+  "geometry": {"coordinates":[28.066009,47.936131],"type":"Point"}
+}

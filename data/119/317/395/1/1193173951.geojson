@@ -1,0 +1,70 @@
+{
+  "id": 1193173951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35,47.66667,27.35,47.66667",
+    "geom:latitude":47.66667,
+    "geom:longitude":27.35,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Tomestii Noi",
+    "gn:cc2":"MD",
+    "gn:country_code":"MD",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617228,
+    "gn:latitude":47.66667,
+    "gn:longitude":27.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tome\u015ftii Noi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
+    "iso:country":"MD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomeshty",
+        "Tome\u015ftii Noi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633287,
+        85686445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":617228
+    },
+    "wof:country":"MD",
+    "wof:geomhash":"7dbb6a5416ca52ce296a6a656102a6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633287,
+            "locality_id":1193173951,
+            "region_id":85686445
+        }
+    ],
+    "wof:id":1193173951,
+    "wof:lastmodified":1537664309,
+    "wof:name":"Tomestii Noi",
+    "wof:parent_id":85686445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-md",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35,
+    47.66667,
+    27.35,
+    47.66667
+],
+  "geometry": {"coordinates":[27.35,47.66667],"type":"Point"}
+}

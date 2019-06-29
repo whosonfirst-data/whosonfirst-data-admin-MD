@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089669,
-    "geom:area_square_m":762916087.18783,
+    "geom:area_square_m":762916087.187796,
     "geom:bbox":"28.209364,46.336619,28.580234,46.70682",
     "geom:latitude":46.522181,
     "geom:longitude":28.411905,
@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Leova"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064a\u0648\u0641\u0627"
     ],
@@ -42,20 +39,14 @@
     "name:ces_x_preferred":[
         "Okres Leova"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u5967\u74e6\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Okres Leova"
-    ],
     "name:dan_x_preferred":[
         "Leova District"
     ],
     "name:deu_x_preferred":[
         "Rajon Leova"
     ],
-    "name:dut_x_preferred":[
-        "Leova"
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03cc\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Leova"
@@ -68,18 +59,6 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Leova"
-    ],
-    "name:fre_x_preferred":[
-        "Raion de Leova"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10dd\u10d5\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Leova"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03cc\u03b2\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a93\u0ab5\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -114,11 +93,14 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u0913\u0935\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Leova District"
     ],
     "name:nld_x_preferred":[
         "Arrondissement Leova"
+    ],
+    "name:nld_x_variant":[
+        "Leova"
     ],
     "name:nob_x_preferred":[
         "Leova"
@@ -136,9 +118,7 @@
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041b\u0435\u043e\u0432\u0430"
     ],
     "name:ron_x_variant":[
-        "Raionul Leova"
-    ],
-    "name:rum_x_preferred":[
+        "Raionul Leova",
         "raionul Leova"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +127,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0dba\u0ddd\u0dc0\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Leova"
     ],
     "name:spa_x_preferred":[
@@ -302,7 +282,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553814887,
+    "wof:lastmodified":1561840307,
     "wof:name":"Leova",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

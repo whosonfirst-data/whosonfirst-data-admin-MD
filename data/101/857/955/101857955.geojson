@@ -16,25 +16,19 @@
     "mps:longitude":28.246254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Tochile-R\u0103ducani"
-    ],
     "name:dan_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
     "name:eng_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10d9\u10d8\u10da\u10d4-\u10e0\u10d4\u10d3\u10e3\u10d9\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10d9\u10d8\u10da\u10d4-\u10e0\u10d4\u10d3\u10e3\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Tochile-R\u0103ducani"
     ],
     "name:nno_x_preferred":[
         "Tochile-R\u0103ducani"
@@ -56,9 +53,6 @@
         "Tochile-R\u0103ducani"
     ],
     "name:ron_x_preferred":[
-        "Tochile-R\u0103ducani"
-    ],
-    "name:rum_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
     "name:rus_x_preferred":[
@@ -122,7 +116,7 @@
         }
     ],
     "wof:id":101857955,
-    "wof:lastmodified":1544744164,
+    "wof:lastmodified":1561840310,
     "wof:name":"Tochile-R\u0103ducani",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

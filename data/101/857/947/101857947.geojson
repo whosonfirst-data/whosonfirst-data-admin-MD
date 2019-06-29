@@ -16,13 +16,10 @@
     "mps:longitude":28.326198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Filipeni"
-    ],
     "name:dan_x_preferred":[
         "Filipeni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Filipeni"
     ],
     "name:eng_x_preferred":[
@@ -32,13 +29,10 @@
         "Filippeny",
         "Filipeni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Filipeni"
     ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d8\u10da\u10d8\u10de\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Filipeni"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +40,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10d8\u10da\u10d8\u10de\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Filipeni"
     ],
     "name:nno_x_preferred":[
         "Filipeni"
@@ -60,9 +57,6 @@
         "Filipeni"
     ],
     "name:ron_x_preferred":[
-        "Filipeni"
-    ],
-    "name:rum_x_preferred":[
         "Filipeni"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744160,
+    "wof:lastmodified":1561840310,
     "wof:name":"Filipeni",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

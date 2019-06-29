@@ -16,14 +16,11 @@
     "mps:longitude":28.018942,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pope\u0219tii de Sus"
-    ],
     "name:dan_x_preferred":[
         "Pope\u0219tii de Sus"
     ],
-    "name:dut_x_preferred":[
-        "Pope\u015ftii de Sus"
+    "name:deu_x_preferred":[
+        "Pope\u0219tii de Sus"
     ],
     "name:eng_x_preferred":[
         "Verkhniye Popeshty"
@@ -33,13 +30,10 @@
         "Popeshty",
         "Pope\u0219tii de Sus"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Pope\u0219tii de Sus"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8\u10d8-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pope\u0219tii de Sus"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10de\u10dd\u10de\u10d4\u10e8\u10e2\u10d8\u10d8-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Pope\u015ftii de Sus"
     ],
     "name:nno_x_preferred":[
         "Pope\u0219tii de Sus"
@@ -61,9 +61,6 @@
         "Pope\u0219tii de Sus"
     ],
     "name:ron_x_preferred":[
-        "Pope\u0219tii de Sus"
-    ],
-    "name:rum_x_preferred":[
         "Pope\u0219tii de Sus"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745326,
+    "wof:lastmodified":1561840314,
     "wof:name":"Pope\u015ftii de Sus",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -16,14 +16,11 @@
     "mps:longitude":28.71304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sire\u021bi"
-    ],
     "name:dan_x_preferred":[
         "Sire\u021bi"
     ],
-    "name:dut_x_preferred":[
-        "Sire\u0163i"
+    "name:deu_x_preferred":[
+        "Sire\u021bi"
     ],
     "name:eng_x_preferred":[
         "Seretsi"
@@ -32,17 +29,20 @@
         "Sirets",
         "Sire\u021bi"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Sire\u021bi"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10e0\u10d4\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sire\u021bi"
     ],
     "name:ita_x_preferred":[
         "Sire\u021bi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e0\u10d4\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Sire\u0163i"
     ],
     "name:nno_x_preferred":[
         "Sire\u021bi"
@@ -57,9 +57,6 @@
         "Sire\u021bi"
     ],
     "name:ron_x_preferred":[
-        "Sire\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Sire\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747223,
+    "wof:lastmodified":1561840325,
     "wof:name":"Sire\u0163i",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

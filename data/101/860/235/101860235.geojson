@@ -16,13 +16,10 @@
     "mps:longitude":27.79262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "M\u00eend\u00eec"
-    ],
     "name:dan_x_preferred":[
         "M\u00eend\u00eec"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "M\u00eend\u00eec"
     ],
     "name:eng_x_preferred":[
@@ -33,13 +30,10 @@
         "Livedon'",
         "M\u00eend\u00eec"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "M\u00eend\u00eec"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10dc\u10d3\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u00eend\u00eec"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10dc\u10d3\u10d8\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00eend\u00eec"
     ],
     "name:nno_x_preferred":[
         "M\u00eend\u00eec"
@@ -61,9 +58,6 @@
         "M\u00eend\u00eec"
     ],
     "name:ron_x_preferred":[
-        "M\u00eend\u00eec"
-    ],
-    "name:rum_x_preferred":[
         "M\u00eend\u00eec"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745331,
+    "wof:lastmodified":1561840313,
     "wof:name":"M\u00eend\u00eec",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

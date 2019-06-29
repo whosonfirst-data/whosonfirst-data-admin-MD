@@ -20,9 +20,6 @@
     "name:deu_x_preferred":[
         "Otaci"
     ],
-    "name:dut_x_preferred":[
-        "Otaci"
-    ],
     "name:eng_x_preferred":[
         "Ataki"
     ],
@@ -31,15 +28,6 @@
         "Otaci"
     ],
     "name:fra_x_preferred":[
-        "Otaci"
-    ],
-    "name:fre_x_preferred":[
-        "Otaci"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e2\u10d0\u10e9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Otaci"
     ],
     "name:heb_x_preferred":[
@@ -54,13 +42,13 @@
     "name:lit_x_preferred":[
         "Ota\u010dis"
     ],
+    "name:nld_x_preferred":[
+        "Otaci"
+    ],
     "name:pol_x_preferred":[
         "Otaci"
     ],
     "name:ron_x_preferred":[
-        "Otaci"
-    ],
-    "name:rum_x_preferred":[
         "Otaci"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815553,
+    "wof:lastmodified":1561840313,
     "wof:name":"Otaci",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

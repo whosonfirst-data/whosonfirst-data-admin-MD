@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
-    "geom:area_square_m":1993561.846848,
+    "geom:area_square_m":1993561.846847,
     "geom:bbox":"29.0534695588,47.2483042496,29.0719804452,47.2655500699",
     "geom:latitude":47.256639,
     "geom:longitude":29.062406,
@@ -16,13 +16,10 @@
     "mps:longitude":29.062229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Jevreni"
-    ],
     "name:dan_x_preferred":[
         "Jevreni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jevreni"
     ],
     "name:eng_x_preferred":[
@@ -33,13 +30,10 @@
         "Zhevren'",
         "Jevreni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Jevreni"
     ],
-    "name:geo_x_preferred":[
-        "\u10df\u10d4\u10d5\u10e0\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Jevreni"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10df\u10d4\u10d5\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Jevreni"
     ],
     "name:nno_x_preferred":[
         "Jevreni"
@@ -61,9 +58,6 @@
         "Jevreni"
     ],
     "name:ron_x_preferred":[
-        "Jevreni"
-    ],
-    "name:rum_x_preferred":[
         "Jevreni"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714921,
+    "wof:lastmodified":1561840319,
     "wof:name":"Jevreni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

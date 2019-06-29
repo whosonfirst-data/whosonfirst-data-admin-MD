@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2022312.779451,
+    "geom:area_square_m":2022312.779452,
     "geom:bbox":"28.4549435189,47.6146931798,28.4734000598,47.6331935957",
     "geom:latitude":47.624473,
     "geom:longitude":28.463575,
@@ -16,28 +16,28 @@
     "mps:longitude":28.463399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Vadul-Leca"
-    ],
     "name:dan_x_preferred":[
         "Vadul-Leca"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Vadul-Leca"
     ],
     "name:eng_x_preferred":[
         "Vaduleka"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Vadul-Leca"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10d3\u10e3\u10da-\u10da\u10d4\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Vadul-Leca"
     ],
     "name:ita_x_preferred":[
+        "Vadul-Leca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10d3\u10e3\u10da-\u10da\u10d4\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Vadul-Leca"
     ],
     "name:nno_x_preferred":[
@@ -49,7 +49,7 @@
     "name:por_x_preferred":[
         "Vadul-Leca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Vadul-Leca"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714912,
+    "wof:lastmodified":1561840318,
     "wof:name":"Vadul-Leca",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

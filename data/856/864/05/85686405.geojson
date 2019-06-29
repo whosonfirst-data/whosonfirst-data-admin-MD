@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Str\u0103\u015feni"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u062a\u0631\u0627\u0633\u064a\u0646\u064a"
     ],
@@ -42,17 +39,14 @@
     "name:cat_x_preferred":[
         "Districte de Str\u0103\u0219eni"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u52d2\u8b1d\u5c3c\u5340"
-    ],
     "name:dan_x_preferred":[
         "Str\u0103\u0219eni District"
     ],
     "name:deu_x_preferred":[
         "Rajon Str\u0103\u0219eni"
     ],
-    "name:dut_x_preferred":[
-        "Str\u0103\u0219eni"
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03c1\u03b1\u03c3\u03ad\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Str\u0103\u0219eni"
@@ -66,18 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Str\u0103\u0219eni"
-    ],
-    "name:fre_x_preferred":[
-        "Raion de Str\u0103\u0219eni"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10e0\u10d4\u10e8\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Str\u0103\u0219eni"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03c1\u03b1\u03c3\u03ad\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe\u0ab8\u0ac7\u0aa8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -97,6 +79,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbe\u0cb7\u0cc6\u0ca8\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e0\u10d4\u10e8\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2a4\ud2b8\ub7ec\uc170\ub2c8 \uad6c"
     ],
@@ -109,7 +94,7 @@
     "name:mar_x_preferred":[
         "\u0938\u094d\u091f\u094d\u0930\u0938\u0947\u0928\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Straseni District"
     ],
     "name:nld_x_preferred":[
@@ -130,7 +115,7 @@
     "name:ron_x_preferred":[
         "Raionul Str\u0103\u0219eni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "raionul Str\u0103\u0219eni"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +124,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dca\u0da7\u0dca\u0dbb\u0dcf\u0dc3\u0dd9\u0db1\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Str\u0103\u015feni"
     ],
     "name:spa_x_preferred":[
@@ -294,7 +279,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553550897,
+    "wof:lastmodified":1561840305,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

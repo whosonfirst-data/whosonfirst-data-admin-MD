@@ -178,9 +178,6 @@
     "name:cym_x_preferred":[
         "Moldofa"
     ],
-    "name:cze_x_preferred":[
-        "Moldavsko"
-    ],
     "name:cze_x_variant":[
         "Moldavsko, republika",
         "Moldavsk\u00e1 republika"
@@ -698,9 +695,6 @@
     "name:rue_x_preferred":[
         "\u041c\u043e\u043b\u0434\u0430\u0432\u0456\u044f"
     ],
-    "name:rum_x_preferred":[
-        "Republica Moldova"
-    ],
     "name:rum_x_variant":[
         "Moldova, Republica"
     ],
@@ -1088,7 +1082,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1544059175,
+    "wof:lastmodified":1561840304,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

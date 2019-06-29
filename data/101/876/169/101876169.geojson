@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2260737.723407,
+    "geom:area_square_m":2260737.723406,
     "geom:bbox":"29.1539888336,47.2051894191,29.172503475,47.2237046925",
     "geom:latitude":47.214446,
     "geom:longitude":29.163244,
@@ -23,10 +23,7 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0443\u043b\u044f\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u7559\u840a\u5c3c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Criuleni"
     ],
     "name:eng_x_preferred":[
@@ -42,13 +39,7 @@
     "name:fin_x_preferred":[
         "Criuleni"
     ],
-    "name:fre_x_preferred":[
-        "Criuleni"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10d8\u10e3\u10da\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Criuleni"
     ],
     "name:heb_x_preferred":[
@@ -57,11 +48,17 @@
     "name:ita_x_preferred":[
         "Criuleni"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10e3\u10da\u10d4\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud06c\ub9ac\uc6b8\ub808\ub2c8"
     ],
     "name:lit_x_preferred":[
         "Kriulenis"
+    ],
+    "name:nld_x_preferred":[
+        "Criuleni"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0631\u06cc\u0624\u0644\u06cc\u0646\u06cc"
@@ -69,7 +66,7 @@
     "name:pol_x_preferred":[
         "Criuleni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Criuleni"
     ],
     "name:rus_x_preferred":[
@@ -98,6 +95,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0631\u06cc\u0648\u0644\u06cc\u0646\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u7559\u840a\u5c3c"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Criuleni",
@@ -163,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379378,
+    "wof:lastmodified":1561840317,
     "wof:name":"Criuleni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

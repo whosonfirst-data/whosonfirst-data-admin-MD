@@ -16,31 +16,31 @@
     "mps:longitude":28.59627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Congaz"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0433\u0430\u0437"
     ],
     "name:dan_x_preferred":[
         "Congaz"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Congaz"
     ],
     "name:eng_x_preferred":[
         "Congaz"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Congaz"
+    ],
+    "name:fra_x_preferred":[
         "Congaz"
     ],
     "name:gag_x_preferred":[
         "Kongaz"
     ],
-    "name:ger_x_preferred":[
+    "name:ita_x_preferred":[
         "Congaz"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Congaz"
     ],
     "name:nno_x_preferred":[
@@ -56,9 +56,6 @@
         "Congaz"
     ],
     "name:ron_x_preferred":[
-        "Congaz"
-    ],
-    "name:rum_x_preferred":[
         "Congaz"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743605,
+    "wof:lastmodified":1561840311,
     "wof:name":"Congaz",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125643,
-    "geom:area_square_m":1036759974.476114,
+    "geom:area_square_m":1036759974.476107,
     "geom:bbox":"27.816707,47.975261,28.635361,48.3539815",
     "geom:latitude":48.138688,
     "geom:longitude":28.193914,
@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Soroca"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0648\u0631\u0648\u0643\u0627"
     ],
@@ -39,17 +36,17 @@
     "name:cat_x_preferred":[
         "Districte de Soroca"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u7f85\u5361\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Soroca"
     ],
     "name:dan_x_preferred":[
         "Soroca District"
     ],
-    "name:dut_x_preferred":[
-        "Soroca"
+    "name:deu_x_preferred":[
+        "Rajon Soroca"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c1\u03cc\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Soroca"
@@ -63,18 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Soroca"
-    ],
-    "name:fre_x_preferred":[
-        "Raion de Soroca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10e0\u10dd\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Soroca"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c1\u03cc\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0ab0\u0acb\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -94,6 +79,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cca\u0cb0\u0cca\u0c95\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e0\u10dd\u10d9\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc18c\ub85c\uce74 \uad6c"
     ],
@@ -106,11 +94,14 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0930\u0915\u094b\u0906 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Soroca District"
     ],
     "name:nld_x_preferred":[
         "Arrondissement Soroca"
+    ],
+    "name:nld_x_variant":[
+        "Soroca"
     ],
     "name:nob_x_preferred":[
         "Soroca"
@@ -128,9 +119,7 @@
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0421\u043e\u0440\u043e\u043a\u0430"
     ],
     "name:ron_x_variant":[
-        "Raionul Soroca"
-    ],
-    "name:rum_x_preferred":[
+        "Raionul Soroca",
         "raionul Soroca"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +128,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0ddc\u0dbb\u0ddd\u0d9a\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Soroca"
     ],
     "name:spa_x_preferred":[
@@ -174,6 +163,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Soroca"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u7f85\u5361\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDA",
@@ -291,7 +283,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553814888,
+    "wof:lastmodified":1561840305,
     "wof:name":"Soroca",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

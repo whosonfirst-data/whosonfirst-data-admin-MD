@@ -16,9 +16,6 @@
     "mps:longitude":28.766922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gaidar"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0439\u0434\u0430\u0440"
     ],
@@ -34,9 +31,6 @@
     "name:deu_x_preferred":[
         "Gaidar"
     ],
-    "name:dut_x_preferred":[
-        "Gaidar"
-    ],
     "name:eng_x_preferred":[
         "Gaydary"
     ],
@@ -48,16 +42,19 @@
     "name:epo_x_preferred":[
         "Gajdar"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Gaidar"
+    ],
+    "name:fra_x_preferred":[
         "Gaidar"
     ],
     "name:gag_x_preferred":[
         "Haydar"
     ],
-    "name:ger_x_preferred":[
+    "name:ita_x_preferred":[
         "Gaidar"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Gaidar"
     ],
     "name:nno_x_preferred":[
@@ -72,7 +69,7 @@
     "name:por_x_preferred":[
         "Gaidar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gaidar"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743606,
+    "wof:lastmodified":1561840311,
     "wof:name":"Gaidar",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

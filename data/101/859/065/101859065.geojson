@@ -16,13 +16,10 @@
     "mps:longitude":28.301403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Voinescu"
-    ],
     "name:dan_x_preferred":[
         "Voinescu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Voinescu"
     ],
     "name:eng_x_preferred":[
@@ -33,16 +30,19 @@
         "Voynesko",
         "Voinescu"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Voinescu"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10d8\u10dc\u10d4\u10e1\u10d9\u10e3"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Voinescu"
     ],
     "name:ita_x_preferred":[
+        "Voinescu"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10dd\u10d8\u10dc\u10d4\u10e1\u10d9\u10e3"
+    ],
+    "name:nld_x_preferred":[
         "Voinescu"
     ],
     "name:nno_x_preferred":[
@@ -58,9 +58,6 @@
         "Voinescu"
     ],
     "name:ron_x_preferred":[
-        "Voinescu"
-    ],
-    "name:rum_x_preferred":[
         "Voinescu"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744722,
+    "wof:lastmodified":1561840310,
     "wof:name":"Voinescu",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

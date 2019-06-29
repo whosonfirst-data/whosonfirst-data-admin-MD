@@ -16,13 +16,10 @@
     "mps:longitude":27.952621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Dominteni"
-    ],
     "name:dan_x_preferred":[
         "Dominteni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dominteni"
     ],
     "name:eng_x_preferred":[
@@ -33,13 +30,10 @@
         "Dominten'",
         "Dominteni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Dominteni"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10dd\u10db\u10d8\u10dc\u10e2\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dominteni"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10db\u10d8\u10dc\u10e2\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Dominteni"
     ],
     "name:nno_x_preferred":[
         "Dominteni"
@@ -61,9 +58,6 @@
         "Dominteni"
     ],
     "name:ron_x_preferred":[
-        "Dominteni"
-    ],
-    "name:rum_x_preferred":[
         "Dominteni"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745335,
+    "wof:lastmodified":1561840313,
     "wof:name":"Dominteni",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -16,31 +16,25 @@
     "mps:longitude":28.335436,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Huluboaia"
-    ],
     "name:ces_x_preferred":[
         "Huluboaia"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Holubinka"
     ],
     "name:dan_x_preferred":[
         "Huluboaia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Huluboaia"
     ],
     "name:eng_x_preferred":[
         "Goluboye"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Huluboaia"
     ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10e3\u10da\u10e3\u10d1\u10dd\u10d0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Huluboaia"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10f0\u10e3\u10da\u10e3\u10d1\u10dd\u10d0\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Huluboaia"
     ],
     "name:nno_x_preferred":[
         "Huluboaia"
@@ -62,9 +59,6 @@
         "Huluboaia"
     ],
     "name:ron_x_preferred":[
-        "Huluboaia"
-    ],
-    "name:rum_x_preferred":[
         "Huluboaia"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743051,
+    "wof:lastmodified":1561840320,
     "wof:name":"Huluboaia",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

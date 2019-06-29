@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10139,
-    "geom:area_square_m":846111769.959181,
+    "geom:area_square_m":846111769.959167,
     "geom:bbox":"28.141771,47.394889,28.704946,47.73796",
     "geom:latitude":47.554285,
     "geom:longitude":28.439682,
@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Telene\u015fti"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u064a\u0644\u064a\u0646\u064a\u0634\u062a\u064a"
     ],
@@ -39,17 +36,14 @@
     "name:cat_x_preferred":[
         "Districte de Telene\u015fti"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u840a\u5167\u4ec0\u8482\u5340"
-    ],
     "name:dan_x_preferred":[
         "Telene\u0219ti District"
     ],
     "name:deu_x_preferred":[
         "Rajon Telene\u0219ti"
     ],
-    "name:dut_x_preferred":[
-        "Telene\u0219ti"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb\u03b5\u03bd\u03ad\u03c3\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Telene\u0219ti District"
@@ -63,18 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Telene\u0219ti"
-    ],
-    "name:fre_x_preferred":[
-        "Raion de Telene\u0219ti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10da\u10d4\u10dc\u10d4\u10e8\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Telene\u0219ti"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bb\u03b5\u03bd\u03ad\u03c3\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0ab2\u0ac7\u0aa8\u0ac7\u0ab8\u0acd\u0a9f\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -101,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0c9f\u0cc6\u0cb2\u0cc6\u0ca8\u0cc6\u0cb8\u0ccd\u0ca4\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10da\u10d4\u10dc\u10d4\u10e8\u10e2\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud154\ub808\ub124\uc288\ud2f0"
     ],
@@ -116,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0924\u0947\u0932\u0928\u0947\u0938\u094d\u091f\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Telenesti District"
     ],
     "name:nld_x_preferred":[
@@ -145,9 +130,7 @@
     ],
     "name:ron_x_variant":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u044c",
-        "Raionul Telene\u0219ti"
-    ],
-    "name:rum_x_preferred":[
+        "Raionul Telene\u0219ti",
         "raionul Telene\u0219ti"
     ],
     "name:rus_x_preferred":[
@@ -156,7 +139,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd9\u0dbd\u0dd9\u0db1\u0dca\u0dc3\u0dca\u0da7\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Telene\u015fti"
     ],
     "name:spa_x_preferred":[
@@ -311,7 +294,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553814888,
+    "wof:lastmodified":1561840306,
     "wof:name":"Telene\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

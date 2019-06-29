@@ -16,13 +16,10 @@
     "mps:longitude":28.769651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ghidighici"
-    ],
     "name:dan_x_preferred":[
         "Ghidighici"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ghidighici"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +30,10 @@
         "Gidigish",
         "Ghidighici"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ghidighici"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ghidighici"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +41,9 @@
     ],
     "name:lit_x_preferred":[
         "Gidigi\u010dis"
+    ],
+    "name:nld_x_preferred":[
+        "Ghidighici"
     ],
     "name:nno_x_preferred":[
         "Ghidighici"
@@ -58,9 +58,6 @@
         "Ghidighici"
     ],
     "name:ron_x_preferred":[
-        "Ghidighici"
-    ],
-    "name:rum_x_preferred":[
         "Ghidighici"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747706,
+    "wof:lastmodified":1561840324,
     "wof:name":"Ghidighici",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

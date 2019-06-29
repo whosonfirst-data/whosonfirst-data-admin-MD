@@ -16,19 +16,13 @@
     "mps:longitude":29.610275,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u0578\u056c\u0578\u0576\u057f\u056b\u0580\u0578\u057e\u056f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Volintiri"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Volintiri"
     ],
     "name:dan_x_preferred":[
         "Volintiri"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Volintiri"
     ],
     "name:eng_x_preferred":[
@@ -40,20 +34,23 @@
         "Volontirovka",
         "Volintiri"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Volintiri"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10dd\u10da\u10d8\u10dc\u10e2\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Volintiri"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0578\u056c\u0578\u0576\u057f\u056b\u0580\u0578\u057e\u056f\u0561"
     ],
     "name:ita_x_preferred":[
         "Volintiri"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10dd\u10da\u10d8\u10dc\u10e2\u10d8\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Volintiri"
     ],
     "name:nno_x_preferred":[
         "Volintiri"
@@ -68,9 +65,6 @@
         "Volintiri"
     ],
     "name:ron_x_preferred":[
-        "Volintiri"
-    ],
-    "name:rum_x_preferred":[
         "Volintiri"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747106,
+    "wof:lastmodified":1561840325,
     "wof:name":"Volintiri",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

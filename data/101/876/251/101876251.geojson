@@ -16,28 +16,28 @@
     "mps:longitude":28.349936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gvozdova"
-    ],
     "name:dan_x_preferred":[
         "Gvozdova"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gvozdova"
     ],
     "name:eng_x_preferred":[
         "Gvozdovo"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Gvozdova"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d5\u10dd\u10d6\u10d3\u10dd\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gvozdova"
     ],
     "name:ita_x_preferred":[
+        "Gvozdova"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d5\u10dd\u10d6\u10d3\u10dd\u10d5\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Gvozdova"
     ],
     "name:nno_x_preferred":[
@@ -49,7 +49,7 @@
     "name:por_x_preferred":[
         "Gvozdova"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gvozdova"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815564,
+    "wof:lastmodified":1561840318,
     "wof:name":"Gvozdova",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

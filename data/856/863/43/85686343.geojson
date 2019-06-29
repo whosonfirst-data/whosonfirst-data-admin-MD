@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101351,
-    "geom:area_square_m":866697891.259721,
+    "geom:area_square_m":866697891.259773,
     "geom:bbox":"28.106409,46.07906,28.55607,46.420714",
     "geom:latitude":46.24511,
     "geom:longitude":28.334369,
@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Cantemir"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0646\u062a\u064a\u0645\u064a\u0631"
     ],
@@ -42,12 +39,6 @@
     "name:ces_x_preferred":[
         "Okres Cantemir"
     ],
-    "name:chi_x_preferred":[
-        "\u5ca1\u4ee3\u7c73\u723e\u5340"
-    ],
-    "name:cze_x_preferred":[
-        "Okres Cantemir"
-    ],
     "name:dan_x_preferred":[
         "Cantemir District"
     ],
@@ -57,8 +48,8 @@
     "name:deu_x_variant":[
         "Rajon Cantemir"
     ],
-    "name:dut_x_preferred":[
-        "Cantemir"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bd\u03c4\u03b5\u03bc\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Cantemir"
@@ -73,19 +64,8 @@
         "Cantemir"
     ],
     "name:fra_x_variant":[
-        "Raion de Cantemir"
-    ],
-    "name:fre_x_preferred":[
+        "Raion de Cantemir",
         "raion de Cantemir"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10e2\u10d4\u10db\u10d8\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Cantemir"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bd\u03c4\u03b5\u03bc\u03af\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aa8\u0acd\u0a9f\u0ac7\u0aae\u0abf\u0ab0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -127,11 +107,14 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0902\u091f\u093f\u092e\u093f\u0930 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cantemir District"
     ],
     "name:nld_x_preferred":[
         "Arrondissement Cantemir"
+    ],
+    "name:nld_x_variant":[
+        "Cantemir"
     ],
     "name:nob_x_preferred":[
         "Cantemir"
@@ -156,9 +139,7 @@
     ],
     "name:ron_x_variant":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440",
-        "Raionul Cantemir"
-    ],
-    "name:rum_x_preferred":[
+        "Raionul Cantemir",
         "raionul Cantemir"
     ],
     "name:rus_x_preferred":[
@@ -170,11 +151,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0db1\u0dca\u0da7\u0dd9\u0db8\u0dd3\u0dbb\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cantemir"
     ],
     "name:spa_x_preferred":[
         "Distrito de Cantemir"
+    ],
+    "name:sqi_x_preferred":[
+        "Raionul Cantemir"
     ],
     "name:swe_x_preferred":[
         "Cantemir"
@@ -326,7 +310,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553814887,
+    "wof:lastmodified":1561840307,
     "wof:name":"Cantemir",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

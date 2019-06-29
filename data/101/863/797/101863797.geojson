@@ -16,13 +16,10 @@
     "mps:longitude":29.457264,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gura B\u00eecului"
-    ],
     "name:dan_x_preferred":[
         "Gura B\u00eecului"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gura B\u00eecului"
     ],
     "name:eng_x_preferred":[
@@ -32,16 +29,10 @@
         "Gura-Bikului",
         "Gura B\u00eecului"
     ],
+    "name:eus_x_preferred":[
+        "Gura B\u00eecului"
+    ],
     "name:fra_x_preferred":[
-        "Gura B\u00eecului"
-    ],
-    "name:fre_x_preferred":[
-        "Gura B\u00eecului"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10e0\u10d0-\u10d1\u10d8\u10d9\u10e3\u10da\u10e3\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Gura B\u00eecului"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +40,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10e0\u10d0-\u10d1\u10d8\u10d9\u10e3\u10da\u10e3\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Gura B\u00eecului"
     ],
     "name:nno_x_preferred":[
         "Gura B\u00eecului"
@@ -63,9 +57,6 @@
         "Gura B\u00eecului"
     ],
     "name:ron_x_preferred":[
-        "Gura B\u00eecului"
-    ],
-    "name:rum_x_preferred":[
         "Gura B\u00eecului"
     ],
     "name:rus_x_preferred":[
@@ -140,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747190,
+    "wof:lastmodified":1561840324,
     "wof:name":"Gura B\u00eecului",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

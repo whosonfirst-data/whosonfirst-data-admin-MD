@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00095,
-    "geom:area_square_m":7862923.802966,
+    "geom:area_square_m":7862923.802971,
     "geom:bbox":"27.5358936463,47.9397142324,27.5728333553,47.9752606359",
     "geom:latitude":47.958484,
     "geom:longitude":27.553519,
@@ -20,13 +20,7 @@
     "name:bel_x_variant":[
         "\u0420\u044b\u0448\u043a\u0430\u043d\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u4ec0\u5361\u5167"
-    ],
     "name:deu_x_preferred":[
-        "R\u00ee\u0219cani"
-    ],
-    "name:dut_x_preferred":[
         "R\u00ee\u0219cani"
     ],
     "name:eng_x_preferred":[
@@ -36,12 +30,6 @@
         "R\u00ee\u0219cani"
     ],
     "name:fra_x_preferred":[
-        "R\u00ee\u0219cani"
-    ],
-    "name:fre_x_preferred":[
-        "R\u00ee\u0219cani"
-    ],
-    "name:ger_x_preferred":[
         "R\u00ee\u0219cani"
     ],
     "name:ita_x_preferred":[
@@ -62,7 +50,7 @@
     "name:pol_x_preferred":[
         "R\u00ee\u0219cani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "R\u00ee\u0219cani"
     ],
     "name:rus_x_preferred":[
@@ -85,6 +73,9 @@
     ],
     "name:unk_x_variant":[
         "Rashkani-Tyrg"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u4ec0\u5361\u5167"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*R\u00ee\u015fcani",
@@ -136,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815564,
+    "wof:lastmodified":1561840318,
     "wof:name":"R\u00ee\u015fcani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

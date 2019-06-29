@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":2226337.611859,
+    "geom:area_square_m":2226337.61186,
     "geom:bbox":"28.0903683129,47.7899874754,28.1088582256,47.8084769477",
     "geom:latitude":47.799225,
     "geom:longitude":28.099627,
@@ -16,13 +16,10 @@
     "mps:longitude":28.099627,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Heciul Vechi"
-    ],
     "name:dan_x_preferred":[
         "Heciul Vechi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Heciul Vechi"
     ],
     "name:eng_x_preferred":[
@@ -34,16 +31,19 @@
         "Staryye Gechi",
         "Heciul Vechi"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Heciul Vechi"
     ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d4\u10e9\u10e3\u10da-\u10d5\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Heciul Vechi"
     ],
     "name:ita_x_preferred":[
+        "Heciul Vechi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d4\u10e9\u10e3\u10da-\u10d5\u10d4\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Heciul Vechi"
     ],
     "name:nno_x_preferred":[
@@ -55,7 +55,7 @@
     "name:por_x_preferred":[
         "Heciul Vechi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Heciul Vechi"
     ],
     "name:rus_x_preferred":[
@@ -119,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714910,
+    "wof:lastmodified":1561840318,
     "wof:name":"Heciul Vechi",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

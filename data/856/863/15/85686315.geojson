@@ -6,7 +6,7 @@
     "edtf:deprecated":"2016-06-08",
     "edtf:inception":"uuuu",
     "geom:area":0.006957,
-    "geom:area_square_m":60163707.879701,
+    "geom:area_square_m":60163707.879699,
     "geom:bbox":"28.430877,45.563505,28.5391485,45.6650665",
     "geom:latitude":45.618585,
     "geom:longitude":28.480868,
@@ -19,9 +19,6 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Cahul"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0647\u0648\u0644"
     ],
@@ -34,17 +31,17 @@
     "name:cat_x_preferred":[
         "Districte de Cahul"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u80e1\u723e\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Cahul"
     ],
     "name:dan_x_preferred":[
         "Cahul District"
     ],
-    "name:dut_x_preferred":[
-        "Cahul"
+    "name:deu_x_preferred":[
+        "Rajon Cahul"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c7\u03bf\u03cd\u03bb"
     ],
     "name:eng_x_preferred":[
         "Cahul"
@@ -52,17 +49,8 @@
     "name:fin_x_preferred":[
         "Cahulin piiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Raion de Cahul"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d2\u10e3\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Cahul"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c7\u03bf\u03cd\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab9\u0ac1\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -85,6 +73,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0cb9\u0cc1\u0cb2\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d2\u10e3\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ud6cc \uad6c"
     ],
@@ -97,8 +88,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0939\u0941\u0932 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cahul District"
+    ],
+    "name:nld_x_preferred":[
+        "Cahul"
     ],
     "name:nob_x_preferred":[
         "Cahul"
@@ -112,7 +106,7 @@
     "name:por_x_preferred":[
         "Cahul"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "raionul Cahul"
     ],
     "name:rus_x_preferred":[
@@ -121,11 +115,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0dc4\u0dd4\u0dbd\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cahul"
     ],
     "name:spa_x_preferred":[
         "Distrito de Cahul"
+    ],
+    "name:sqi_x_preferred":[
+        "Raionul Cahul"
     ],
     "name:swe_x_preferred":[
         "Cahul rajon"
@@ -150,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Cahul"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u80e1\u723e\u5340"
     ],
     "qs:a0":"Moldova",
     "qs:a0_lc":"MD000000",
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":85686315,
-    "wof:lastmodified":1553814887,
+    "wof:lastmodified":1561840307,
     "wof:name":"Cahul",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
-    "geom:area_square_m":2147746.029206,
+    "geom:area_square_m":2147746.029203,
     "geom:bbox":"29.0565641706,46.9160878808,29.0750583822,46.9345823662",
     "geom:latitude":46.925627,
     "geom:longitude":29.066162,
@@ -16,13 +16,10 @@
     "mps:longitude":29.066339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Merenii Noi"
-    ],
     "name:dan_x_preferred":[
         "Merenii Noi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Merenii Noi"
     ],
     "name:eng_x_preferred":[
@@ -32,13 +29,10 @@
         "Mereny Gara",
         "Merenii Noi"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Merenii Noi"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10e0\u10d4\u10dc\u10d8\u10d8-\u10dc\u10dd\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Merenii Noi"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +40,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e0\u10d4\u10dc\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d4\u10e0\u10d4\u10dc\u10d8\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Merenii Noi"
     ],
     "name:nno_x_preferred":[
         "Merenii Noi"
@@ -60,9 +60,6 @@
         "Merenii Noi"
     ],
     "name:ron_x_preferred":[
-        "Merenii Noi"
-    ],
-    "name:rum_x_preferred":[
         "Merenii Noi"
     ],
     "name:rus_x_preferred":[
@@ -127,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714915,
+    "wof:lastmodified":1561840318,
     "wof:name":"Merenii Noi",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

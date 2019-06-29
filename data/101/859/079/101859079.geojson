@@ -16,9 +16,6 @@
     "mps:longitude":27.909254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Morenii Noi"
-    ],
     "name:eng_x_preferred":[
         "Mareni-Nouy"
     ],
@@ -26,16 +23,16 @@
         "Novyye Moreny",
         "Morenii Noi"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e0\u10d4\u10dc\u10d8-\u10dc\u10dd\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Morenii Noi"
     ],
-    "name:ron_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10d4\u10dc\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Morenii Noi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Morenii Noi"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744729,
+    "wof:lastmodified":1561840310,
     "wof:name":"Morenii Noi",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

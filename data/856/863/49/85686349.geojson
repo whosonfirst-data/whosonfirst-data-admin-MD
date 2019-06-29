@@ -27,9 +27,6 @@
     "name:afr_x_preferred":[
         "Gagausi\u00eb"
     ],
-    "name:alb_x_preferred":[
-        "U.T.A. Gagauzia"
-    ],
     "name:ara_x_preferred":[
         "\u063a\u0627\u063a\u0627\u0648\u0632\u064a\u0627"
     ],
@@ -41,9 +38,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437 \u0415\u0440\u0438"
-    ],
-    "name:baq_x_preferred":[
-        "Gagauzia"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437\u0456\u044f"
@@ -57,23 +51,26 @@
     "name:cat_x_preferred":[
         "Gaga\u00fasia"
     ],
+    "name:ces_x_preferred":[
+        "Gagauzsko"
+    ],
     "name:che_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u52a0\u544a\u8332\u81ea\u6cbb\u5340"
     ],
     "name:chv_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437\u0438"
     ],
-    "name:cze_x_preferred":[
-        "Gagauzsko"
+    "name:cym_x_preferred":[
+        "Gagauzia"
     ],
     "name:dan_x_preferred":[
         "Gagauzien"
     ],
-    "name:dut_x_preferred":[
-        "Gagaoezi\u00eb"
+    "name:deu_x_preferred":[
+        "Gagausien"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03b3\u03ba\u03b1\u03bf\u03c5\u03b6\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gagauzia"
@@ -84,26 +81,23 @@
     "name:est_x_preferred":[
         "Gagauusia"
     ],
+    "name:eus_x_preferred":[
+        "Gagauzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u06af\u0627\u0626\u0648\u0632\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gagauzia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gagaouzie"
     ],
     "name:gag_x_preferred":[
         "Gagauz Yeri"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10d2\u10d0\u10e3\u10d6\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Gagausien"
-    ],
     "name:glg_x_preferred":[
         "Gagauzia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03b3\u03ba\u03b1\u03bf\u03c5\u03b6\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a97\u0abe\u0a89\u0a9d\u0abf\u0aaf\u0abe"
@@ -123,11 +117,11 @@
     "name:hun_x_preferred":[
         "Gagauzia"
     ],
-    "name:ice_x_preferred":[
-        "Gag\u00e1s\u00eda"
-    ],
     "name:ind_x_preferred":[
         "Gagauzia"
+    ],
+    "name:isl_x_preferred":[
+        "Gag\u00e1s\u00eda"
     ],
     "name:ita_x_preferred":[
         "Gagauzia"
@@ -137,6 +131,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c97\u0cbe\u0c97\u0cc1\u0c9c\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10d2\u10d0\u10e3\u10d6\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u04d9\u0433\u04d9\u0443\u0437\u0438\u044f"
@@ -153,20 +150,23 @@
     "name:lit_x_preferred":[
         "Gaga\u016bzija"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u0945\u0917\u093e\u0909\u091d\u093f\u092f\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Gagauzia"
     ],
     "name:mhr_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0439"
     ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0458\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437 \u043d\u0443\u0442\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Gagauzia"
+    ],
+    "name:nld_x_preferred":[
+        "Gagaoezi\u00eb"
     ],
     "name:nno_x_preferred":[
         "Gagauzia"
@@ -180,9 +180,6 @@
     "name:oss_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u06af\u0627\u0626\u0648\u0632\u06cc\u0627"
-    ],
     "name:pnb_x_preferred":[
         "\u06af\u0627\u06af\u0627\u0624\u0632\u06cc\u0627"
     ],
@@ -192,7 +189,7 @@
     "name:por_x_preferred":[
         "Gaga\u00fazia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u0103g\u0103uzia"
     ],
     "name:rus_x_preferred":[
@@ -204,11 +201,14 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dcf\u0d9c\u0ddd\u0dc3\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gagauzsko"
     ],
     "name:spa_x_preferred":[
         "Gagauzia"
+    ],
+    "name:sqi_x_preferred":[
+        "U.T.A. Gagauzia"
     ],
     "name:srp_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0443\u0437\u0438\u0458\u0430"
@@ -249,11 +249,11 @@
     "name:vie_x_preferred":[
         "Gagauzia"
     ],
-    "name:wel_x_preferred":[
-        "Gagauzia"
-    ],
     "name:xmf_x_preferred":[
         "\u10d2\u10d0\u10d2\u10d0\u10e3\u10d6\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u544a\u8332\u81ea\u6cbb\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDA",
@@ -369,7 +369,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553559968,
+    "wof:lastmodified":1561840308,
     "wof:name":"Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
-    "geom:area_square_m":2227457.930394,
+    "geom:area_square_m":2227457.930397,
     "geom:bbox":"28.5187766308,47.2470149728,28.5372613623,47.2651163979",
     "geom:latitude":47.255972,
     "geom:longitude":28.528027,
@@ -16,13 +16,10 @@
     "mps:longitude":28.528027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Chirianca"
-    ],
     "name:dan_x_preferred":[
         "Chirianca"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chirianca"
     ],
     "name:eng_x_preferred":[
@@ -32,16 +29,19 @@
         "Kiriyanka",
         "Chirianca"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Chirianca"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e0\u10d8\u10d0\u10dc\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chirianca"
     ],
     "name:ita_x_preferred":[
+        "Chirianca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10d8\u10d0\u10dc\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Chirianca"
     ],
     "name:nno_x_preferred":[
@@ -57,9 +57,6 @@
         "Chirianca"
     ],
     "name:ron_x_preferred":[
-        "Chirianca"
-    ],
-    "name:rum_x_preferred":[
         "Chirianca"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714908,
+    "wof:lastmodified":1561840317,
     "wof:name":"Chirianca",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

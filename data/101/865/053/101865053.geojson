@@ -26,22 +26,13 @@
     "name:ces_x_preferred":[
         "Kamenka"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u9580\u5361"
-    ],
     "name:crh_x_preferred":[
-        "Kamenka"
-    ],
-    "name:cze_x_preferred":[
         "Kamenka"
     ],
     "name:dan_x_preferred":[
         "Camenca"
     ],
     "name:deu_x_preferred":[
-        "Camenca"
-    ],
-    "name:dut_x_preferred":[
         "Camenca"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +47,6 @@
     "name:fra_x_preferred":[
         "Camenca"
     ],
-    "name:fre_x_preferred":[
-        "Camenca"
-    ],
-    "name:ger_x_preferred":[
-        "Camenca"
-    ],
     "name:ita_x_preferred":[
         "Camenca"
     ],
@@ -74,13 +59,13 @@
     "name:lit_x_preferred":[
         "Kamenka"
     ],
+    "name:nld_x_preferred":[
+        "Camenca"
+    ],
     "name:pol_x_preferred":[
         "Kamionka"
     ],
     "name:ron_x_preferred":[
-        "Camenca"
-    ],
-    "name:rum_x_preferred":[
         "Camenca"
     ],
     "name:rus_x_preferred":[
@@ -171,7 +156,7 @@
         }
     ],
     "wof:id":101865053,
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561840319,
     "wof:name":"Camenca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

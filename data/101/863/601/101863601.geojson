@@ -17,10 +17,7 @@
     "mps:longitude":29.659933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u51e1\u5927\u516c"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0218tefan Vod\u0103"
     ],
     "name:eng_x_colloquial":[
@@ -32,10 +29,7 @@
     "name:fin_x_preferred":[
         "\u0218tefan Vod\u0103"
     ],
-    "name:fre_x_preferred":[
-        "\u0218tefan Vod\u0103"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0218tefan Vod\u0103"
     ],
     "name:ita_x_preferred":[
@@ -47,13 +41,16 @@
     "name:lit_x_preferred":[
         "\u0160tefan Vod\u0117"
     ],
+    "name:nld_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
     "name:pnb_x_preferred":[
         "\u0634\u062a\u06cc\u0641\u0627\u0646 \u0648\u0648\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "\u015etefan Vod\u0103"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218tefan Vod\u0103"
     ],
     "name:rus_x_preferred":[
@@ -82,6 +79,9 @@
     ],
     "name:vie_x_preferred":[
         "Stefan Voda"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u51e1\u5927\u516c"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*\u015etefan Vod\u0103",
@@ -134,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815555,
+    "wof:lastmodified":1561840327,
     "wof:name":"\u015etefan Vod\u0103",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

@@ -16,13 +16,10 @@
     "mps:longitude":28.168196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Slobozia Mare"
-    ],
     "name:dan_x_preferred":[
         "Slobozia Mare"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Slobozia Mare"
     ],
     "name:eng_x_preferred":[
@@ -33,13 +30,10 @@
         "Slobozia",
         "Slobozia Mare"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Slobozia Mare"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10da\u10dd\u10d1\u10dd\u10d6\u10d8\u10d0-\u10db\u10d0\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Slobozia Mare"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +44,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10da\u10dd\u10d1\u10dd\u10d6\u10d8\u10d0-\u10db\u10d0\u10e0\u10d4"
+    ],
+    "name:nld_x_preferred":[
+        "Slobozia Mare"
     ],
     "name:nno_x_preferred":[
         "Slobozia Mare"
@@ -64,9 +61,6 @@
         "Slobozia Mare"
     ],
     "name:ron_x_preferred":[
-        "Slobozia Mare"
-    ],
-    "name:rum_x_preferred":[
         "Slobozia Mare"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743042,
+    "wof:lastmodified":1561840320,
     "wof:name":"Slobozia Mare",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

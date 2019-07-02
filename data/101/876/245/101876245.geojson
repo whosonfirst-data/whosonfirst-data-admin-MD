@@ -16,14 +16,11 @@
     "mps:longitude":28.244146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "B\u0103hrine\u0219ti"
-    ],
     "name:dan_x_preferred":[
         "B\u0103hrine\u0219ti"
     ],
-    "name:dut_x_preferred":[
-        "B\u0103hrine\u015fti"
+    "name:deu_x_preferred":[
+        "B\u0103hrine\u0219ti"
     ],
     "name:eng_x_preferred":[
         "Bagrineshty"
@@ -33,17 +30,20 @@
         "Bagrineshti",
         "B\u0103hrine\u0219ti"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "B\u0103hrine\u0219ti"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10f0\u10e0\u10d8\u10dc\u10d4\u10e8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "B\u0103hrine\u0219ti"
     ],
     "name:ita_x_preferred":[
         "B\u0103hrine\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10f0\u10e0\u10d8\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "B\u0103hrine\u015fti"
     ],
     "name:nno_x_preferred":[
         "B\u0103hrine\u0219ti"
@@ -58,9 +58,6 @@
         "B\u0103hrine\u0219ti"
     ],
     "name:ron_x_preferred":[
-        "B\u0103hrine\u0219ti"
-    ],
-    "name:rum_x_preferred":[
         "B\u0103hrine\u0219ti"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714910,
+    "wof:lastmodified":1561840317,
     "wof:name":"B\u0103hrine\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -23,13 +23,10 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0441\u0430\u0440\u0430\u0431\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u85a9\u62c9\u8c9d\u4e9e\u65af\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Basarabeasca"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Basarabeasca"
     ],
     "name:eng_x_preferred":[
@@ -49,13 +46,7 @@
     "name:fin_x_preferred":[
         "Basarabeasca"
     ],
-    "name:fre_x_preferred":[
-        "Basarabeasca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e1\u10d0\u10e0\u10d0\u10d1\u10d4\u10d0\u10e1\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Basarabeasca"
     ],
     "name:ind_x_preferred":[
@@ -73,6 +64,9 @@
     "name:lit_x_preferred":[
         "Basarabiaska"
     ],
+    "name:nld_x_preferred":[
+        "Basarabeasca"
+    ],
     "name:nob_x_preferred":[
         "Basarabeasca"
     ],
@@ -82,7 +76,7 @@
     "name:pol_x_preferred":[
         "Basarabeasca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Basarabeasca"
     ],
     "name:rus_x_preferred":[
@@ -165,7 +159,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747660,
+    "wof:lastmodified":1561840323,
     "wof:name":"Basarabeasca",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

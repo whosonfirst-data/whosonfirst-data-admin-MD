@@ -16,16 +16,10 @@
     "mps:longitude":28.481757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Stolniceni"
-    ],
     "name:dan_x_preferred":[
         "Stolniceni"
     ],
     "name:deu_x_preferred":[
-        "Stolniceni"
-    ],
-    "name:dut_x_preferred":[
         "Stolniceni"
     ],
     "name:eng_x_preferred":[
@@ -38,16 +32,19 @@
         "Stolnicen",
         "Stolniceni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Stolniceni"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10dd\u10da\u10dc\u10d8\u10e9\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Stolniceni"
     ],
     "name:ita_x_preferred":[
+        "Stolniceni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10dd\u10da\u10dc\u10d8\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Stolniceni"
     ],
     "name:nno_x_preferred":[
@@ -63,9 +60,6 @@
         "Stolniceni"
     ],
     "name:ron_x_preferred":[
-        "Stolniceni"
-    ],
-    "name:rum_x_preferred":[
         "Stolniceni"
     ],
     "name:rus_x_preferred":[
@@ -132,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815564,
+    "wof:lastmodified":1561840317,
     "wof:name":"Stolniceni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

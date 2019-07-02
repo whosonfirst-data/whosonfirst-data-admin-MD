@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":2233344.674131,
+    "geom:area_square_m":2233344.674128,
     "geom:bbox":"28.2385543846,47.1865056603,28.2570205623,47.20497332",
     "geom:latitude":47.19568,
     "geom:longitude":28.247755,
@@ -16,13 +16,10 @@
     "mps:longitude":28.247579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "P\u00eerjolteni"
-    ],
     "name:dan_x_preferred":[
         "P\u00eerjolteni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "P\u00eerjolteni"
     ],
     "name:eng_x_preferred":[
@@ -33,16 +30,10 @@
         "Pyrzholteny",
         "P\u00eerjolteni"
     ],
+    "name:eus_x_preferred":[
+        "P\u00eerjolteni"
+    ],
     "name:fra_x_preferred":[
-        "P\u00eerjolteni"
-    ],
-    "name:fre_x_preferred":[
-        "P\u00eerjolteni"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e0\u10df\u10dd\u10da\u10e2\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "P\u00eerjolteni"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +41,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e0\u10df\u10dd\u10da\u10e2\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00eerjolteni"
     ],
     "name:nno_x_preferred":[
         "P\u00eerjolteni"
@@ -64,9 +58,6 @@
         "P\u00eerjolteni"
     ],
     "name:ron_x_preferred":[
-        "P\u00eerjolteni"
-    ],
-    "name:rum_x_preferred":[
         "P\u00eerjolteni"
     ],
     "name:rus_x_preferred":[
@@ -141,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642577,
+    "wof:lastmodified":1561840309,
     "wof:name":"P\u00eerjolteni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

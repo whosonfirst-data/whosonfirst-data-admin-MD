@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2260676.648575,
+    "geom:area_square_m":2260676.648574,
     "geom:bbox":"29.1702098853,47.2139282061,29.1887257467,47.2324448422",
     "geom:latitude":47.223187,
     "geom:longitude":29.17947,
@@ -16,25 +16,25 @@
     "mps:longitude":29.17947,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Dzerjinscoe"
-    ],
     "name:dan_x_preferred":[
         "Dzerjinscoe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dzerjinscoe"
     ],
     "name:eng_x_preferred":[
         "Dzerjinscoe"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Dzerjinscoe"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dzerjinscoe"
     ],
     "name:ita_x_preferred":[
+        "Dzerjinscoe"
+    ],
+    "name:nld_x_preferred":[
         "Dzerjinscoe"
     ],
     "name:nno_x_preferred":[
@@ -50,9 +50,6 @@
         "Dzerjinscoe"
     ],
     "name:ron_x_preferred":[
-        "Dzerjinscoe"
-    ],
-    "name:rum_x_preferred":[
         "Dzerjinscoe"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +118,7 @@
         }
     ],
     "wof:id":101876195,
-    "wof:lastmodified":1529345669,
+    "wof:lastmodified":1561840317,
     "wof:name":"Dzerjinscoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

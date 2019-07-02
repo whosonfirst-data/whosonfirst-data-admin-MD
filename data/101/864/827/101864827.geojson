@@ -16,13 +16,10 @@
     "mps:longitude":29.059283,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ohrincea"
-    ],
     "name:dan_x_preferred":[
         "Ohrincea"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ohrincea"
     ],
     "name:eng_x_preferred":[
@@ -32,16 +29,19 @@
         "Okhrincha",
         "Ohrincea"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ohrincea"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10f0\u10e0\u10d8\u10dc\u10e9\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ohrincea"
     ],
     "name:ita_x_preferred":[
+        "Ohrincea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10f0\u10e0\u10d8\u10dc\u10e9\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Ohrincea"
     ],
     "name:nno_x_preferred":[
@@ -53,7 +53,7 @@
     "name:por_x_preferred":[
         "Ohrincea"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ohrincea"
     ],
     "name:rus_x_preferred":[
@@ -122,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747727,
+    "wof:lastmodified":1561840321,
     "wof:name":"Ohrincea",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

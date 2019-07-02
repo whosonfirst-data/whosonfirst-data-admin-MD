@@ -19,9 +19,6 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Taraclia"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0631\u0627\u0643\u0644\u064a\u0627"
     ],
@@ -37,17 +34,14 @@
     "name:cat_x_preferred":[
         "Districte de Taraclia"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u514b\u5229\u4e9e\u5340"
-    ],
     "name:dan_x_preferred":[
         "Taraclia District"
     ],
     "name:deu_x_preferred":[
         "Rajon Taraclia"
     ],
-    "name:dut_x_preferred":[
-        "Taraclia"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03ac\u03ba\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Taraclia"
@@ -60,18 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Taraclia"
-    ],
-    "name:fre_x_preferred":[
-        "Raion de Taraclia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d0\u10d9\u10da\u10d8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Taraclia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03ac\u03ba\u03bb\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ab0\u0abe\u0a95\u0acd\u0ab2\u0abf\u0aaf\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -106,11 +88,14 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u0930\u0915\u093f\u092f\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Taraclia District"
     ],
     "name:nld_x_preferred":[
         "Arrondissement Taraclia"
+    ],
+    "name:nld_x_variant":[
+        "Taraclia"
     ],
     "name:nob_x_preferred":[
         "Taraclia"
@@ -128,9 +113,7 @@
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
     ],
     "name:ron_x_variant":[
-        "Raionul Taraclia"
-    ],
-    "name:rum_x_preferred":[
+        "Raionul Taraclia",
         "raionul Taraclia"
     ],
     "name:rus_x_preferred":[
@@ -139,7 +122,7 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dbb\u0dc3\u0dd2\u0dbd\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Taraclia"
     ],
     "name:spa_x_preferred":[
@@ -286,7 +269,7 @@
         }
     ],
     "wof:id":85686339,
-    "wof:lastmodified":1536617175,
+    "wof:lastmodified":1561840307,
     "wof:name":"Taraclia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

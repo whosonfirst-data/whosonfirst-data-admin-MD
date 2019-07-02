@@ -16,13 +16,10 @@
     "mps:longitude":28.435957,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Domulgeni"
-    ],
     "name:dan_x_preferred":[
         "Domulgeni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Domulgeni"
     ],
     "name:eng_x_preferred":[
@@ -36,16 +33,19 @@
         "Domuluzheny",
         "Domulgeni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Domulgeni"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10dd\u10db\u10e3\u10da\u10ef\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Domulgeni"
     ],
     "name:ita_x_preferred":[
+        "Domulgeni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10db\u10e3\u10da\u10ef\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Domulgeni"
     ],
     "name:nno_x_preferred":[
@@ -61,9 +61,6 @@
         "Domulgeni"
     ],
     "name:ron_x_preferred":[
-        "Domulgeni"
-    ],
-    "name:rum_x_preferred":[
         "Domulgeni"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747812,
+    "wof:lastmodified":1561840323,
     "wof:name":"Domulgeni",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:deprecated":"2016-06-08",
     "edtf:inception":"uuuu",
     "geom:area":0.025027,
-    "geom:area_square_m":210797413.080475,
+    "geom:area_square_m":210797413.080464,
     "geom:bbox":"28.966347,46.969496,29.296111,47.16961",
     "geom:latitude":47.065114,
     "geom:longitude":29.150452,
@@ -19,9 +19,6 @@
     "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Criuleni"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0631\u064a\u0648\u0644\u064a\u0646\u064a"
     ],
@@ -34,17 +31,14 @@
     "name:cat_x_preferred":[
         "Districte de Criuleni"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u7559\u840a\u5c3c\u5340"
-    ],
     "name:dan_x_preferred":[
         "Criuleni District"
     ],
     "name:deu_x_preferred":[
         "Rajon Criuleni"
     ],
-    "name:dut_x_preferred":[
-        "District Criuleni"
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b9\u03bf\u03c5\u03bb\u03ad\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Criuleni"
@@ -57,18 +51,6 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Criuleni"
-    ],
-    "name:fre_x_preferred":[
-        "Raion de Criuleni"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10d8\u10e3\u10da\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Criuleni"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03b9\u03bf\u03c5\u03bb\u03ad\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abf\u0a89\u0ab2\u0ac7\u0aa8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -103,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u0936\u093f\u0909\u0932\u0947\u0928\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Criuleni District"
+    ],
+    "name:nld_x_preferred":[
+        "District Criuleni"
     ],
     "name:nob_x_preferred":[
         "Criuleni"
@@ -122,9 +107,7 @@
         "Criuleni"
     ],
     "name:ron_x_variant":[
-        "Raionul Criuleni"
-    ],
-    "name:rum_x_preferred":[
+        "Raionul Criuleni",
         "raionul Criuleni"
     ],
     "name:rus_x_preferred":[
@@ -133,11 +116,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dca\u0dbb\u0dd2\u0dba\u0dd4\u0dbd\u0dd9\u0db1\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Criuleni"
     ],
     "name:spa_x_preferred":[
         "Distrito de Criuleni"
+    ],
+    "name:sqi_x_preferred":[
+        "Raionul Criuleni"
     ],
     "name:swe_x_preferred":[
         "Criuleni"
@@ -277,7 +263,7 @@
         }
     ],
     "wof:id":85686401,
-    "wof:lastmodified":1553814887,
+    "wof:lastmodified":1561840306,
     "wof:name":"Criuleni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

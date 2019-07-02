@@ -16,9 +16,6 @@
     "mps:longitude":28.63553,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Morozeni"
-    ],
     "name:eng_x_preferred":[
         "Morozeny"
     ],
@@ -27,16 +24,16 @@
         "Morozeni Mid",
         "Morozeni"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10f0\u10d4\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8\u10e1 \u10e1\u10dd\u10e4\u10da\u10d4\u10d1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Morozeni"
     ],
-    "name:ron_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10f0\u10d4\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8\u10e1 \u10e1\u10dd\u10e4\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Morozeni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Morozeni"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747271,
+    "wof:lastmodified":1561840327,
     "wof:name":"Morozeni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

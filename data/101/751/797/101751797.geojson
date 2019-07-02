@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002545,
-    "geom:area_square_m":21526661.075266,
+    "geom:area_square_m":21526661.075263,
     "geom:bbox":"29.585903,46.8265305,29.6786195,46.878765",
     "geom:latitude":46.848436,
     "geom:longitude":29.63107,
@@ -24,9 +24,6 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631\u0627\u0633\u0628\u0648\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u054f\u056b\u0580\u0561\u057d\u057a\u0578\u056c"
-    ],
     "name:ast_x_preferred":[
         "Tir\u00e1spol"
     ],
@@ -35,9 +32,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c"
-    ],
-    "name:baq_x_preferred":[
-        "Tiraspol"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0426\u0456\u0440\u0430\u0441\u043f\u0430\u043b\u044c"
@@ -67,25 +61,16 @@
     "name:che_x_preferred":[
         "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u62c9\u65af\u6ce2\u5c14"
-    ],
     "name:cor_x_preferred":[
         "Tiraspol"
     ],
     "name:cym_x_preferred":[
         "Tiraspol"
     ],
-    "name:cze_x_preferred":[
-        "Tiraspol"
-    ],
     "name:dan_x_preferred":[
         "Tiraspol"
     ],
     "name:deu_x_preferred":[
-        "Tiraspol"
-    ],
-    "name:dut_x_preferred":[
         "Tiraspol"
     ],
     "name:ell_x_preferred":[
@@ -100,6 +85,9 @@
     "name:est_x_preferred":[
         "Tiraspol"
     ],
+    "name:eus_x_preferred":[
+        "Tiraspol"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0631\u0627\u0633\u067e\u0644"
     ],
@@ -109,23 +97,11 @@
     "name:fra_x_preferred":[
         "Tiraspol"
     ],
-    "name:fre_x_preferred":[
-        "Tiraspol"
-    ],
     "name:gag_x_preferred":[
-        "Tiraspol"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10e0\u10d0\u10e1\u10de\u10dd\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Tiraspol"
     ],
     "name:glg_x_preferred":[
         "Tir\u00e1spol"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03c1\u03ac\u03c3\u03c0\u03bf\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abf\u0ab0\u0ab8\u0acd\u0aaa\u0acb\u0ab2"
@@ -150,9 +126,6 @@
     ],
     "name:hye_x_preferred":[
         "\u054f\u056b\u0580\u0561\u057d\u057a\u0578\u056c"
-    ],
-    "name:ice_x_preferred":[
-        "T\u00edraspol"
     ],
     "name:ido_x_preferred":[
         "Tiraspol"
@@ -196,14 +169,8 @@
     "name:lit_x_preferred":[
         "Tiraspolis"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u093f\u0930\u0938\u094d\u092a\u094b\u0932"
-    ],
-    "name:may_x_preferred":[
-        "Tiraspol"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c"
@@ -238,9 +205,6 @@
     "name:oss_x_preferred":[
         "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0631\u0627\u0633\u067e\u0644"
-    ],
     "name:pol_x_preferred":[
         "Tyraspol"
     ],
@@ -248,9 +212,6 @@
         "Tiraspol"
     ],
     "name:ron_x_preferred":[
-        "Tiraspol"
-    ],
-    "name:rum_x_preferred":[
         "Tiraspol"
     ],
     "name:rus_x_preferred":[
@@ -266,9 +227,6 @@
         "\u0da7\u0dd2\u0dbb\u0dc3\u0dca\u0db4\u0ddc\u0dbd\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Tiraspol"
-    ],
-    "name:slo_x_preferred":[
         "Tiraspol"
     ],
     "name:spa_x_preferred":[
@@ -314,9 +272,6 @@
         "Tiraspol"
     ],
     "name:war_x_preferred":[
-        "Tiraspol"
-    ],
-    "name:wel_x_preferred":[
         "Tiraspol"
     ],
     "name:yue_x_preferred":[
@@ -476,7 +431,7 @@
         }
     ],
     "wof:id":101751797,
-    "wof:lastmodified":1529345668,
+    "wof:lastmodified":1561840317,
     "wof:name":"Tiraspol",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

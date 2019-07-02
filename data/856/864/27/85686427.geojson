@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul Dub\u0103sari"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0628\u0627\u0633\u0627\u0631\u064a"
     ],
@@ -39,17 +36,17 @@
     "name:cat_x_preferred":[
         "Districte de Dub\u0103sari"
     ],
-    "name:chi_x_preferred":[
-        "\u675c\u4f2f\u85a9\u91cc\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Dub\u0103sari"
     ],
     "name:dan_x_preferred":[
         "Dub\u0103sari District"
     ],
-    "name:dut_x_preferred":[
-        "Dub\u0103sari"
+    "name:deu_x_preferred":[
+        "Rajon Dub\u0103sari"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03b1\u03c3\u03ac\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Dubasari"
@@ -57,17 +54,8 @@
     "name:fin_x_preferred":[
         "Dub\u0103sarin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Raion de Dub\u0103sari"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10d1\u10d4\u10e1\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon Dub\u0103sari"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03bc\u03c0\u03b1\u03c3\u03ac\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ac1\u0aac\u0abe\u0ab8\u0abe\u0ab0\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -87,6 +75,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cc1\u0cac\u0cb8\u0cb0\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10d1\u10d4\u10e1\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub450\ubc84\uc0ac\ub9ac \uad6c"
     ],
@@ -99,8 +90,11 @@
     "name:mar_x_preferred":[
         "\u0926\u0941\u092c\u0947\u0938\u0940\u0930\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dubasari District"
+    ],
+    "name:nld_x_preferred":[
+        "Dub\u0103sari"
     ],
     "name:nob_x_preferred":[
         "Dub\u0103\u0219ari"
@@ -114,7 +108,7 @@
     "name:por_x_preferred":[
         "Dub\u0103sari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "raionul Dub\u0103sari"
     ],
     "name:rus_x_preferred":[
@@ -123,11 +117,14 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dd4\u0db6\u0dcf\u0dc3\u0dbb\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dub\u0103sari"
     ],
     "name:spa_x_preferred":[
         "Distrito de Dub\u0103sari"
+    ],
+    "name:sqi_x_preferred":[
+        "Raionul Dub\u0103sari"
     ],
     "name:swe_x_preferred":[
         "Raionul Dub\u0103sari"
@@ -152,6 +149,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Dubasari"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u4f2f\u85a9\u91cc\u5340"
     ],
     "qs:a0":"Moldova",
     "qs:a0_lc":"MD000000",
@@ -215,7 +215,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553550881,
+    "wof:lastmodified":1561840305,
     "wof:name":"Dub\u0103sari",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",

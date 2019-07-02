@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000262,
-    "geom:area_square_m":2191212.78361,
+    "geom:area_square_m":2191212.783611,
     "geom:bbox":"29.081538302,47.4656098041,29.100063992,47.4841354841",
     "geom:latitude":47.475007,
     "geom:longitude":29.090602,
@@ -16,9 +16,6 @@
     "mps:longitude":29.090426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Jora de Mijloc"
-    ],
     "name:eng_x_preferred":[
         "Zhora-de-Mizhlok"
     ],
@@ -28,19 +25,19 @@
         "Zhora-De-Mizlilok",
         "Jora de Mijloc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jora de Mijloc"
-    ],
-    "name:geo_x_preferred":[
-        "\u10df\u10dd\u10e0\u10d0-\u10d3\u10d4-\u10db\u10d8\u10df\u10da\u10dd\u10d9\u10d8"
     ],
     "name:ita_x_preferred":[
         "Jora de Mijloc"
     ],
-    "name:ron_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10df\u10dd\u10e0\u10d0-\u10d3\u10d4-\u10db\u10d8\u10df\u10da\u10dd\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Jora de Mijloc"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Jora de Mijloc"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714915,
+    "wof:lastmodified":1561840318,
     "wof:name":"Jora de Mijloc",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

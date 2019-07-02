@@ -16,31 +16,31 @@
     "mps:longitude":29.413677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hlinaia"
-    ],
     "name:ces_x_preferred":[
         "Hlinaia"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Glinoje"
     ],
     "name:dan_x_preferred":[
         "Hlinaia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hlinaia"
     ],
     "name:eng_x_preferred":[
         "Hlinaia"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Hlinaia"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hlinaia"
     ],
     "name:ita_x_preferred":[
+        "Hlinaia"
+    ],
+    "name:nld_x_preferred":[
         "Hlinaia"
     ],
     "name:nno_x_preferred":[
@@ -56,9 +56,6 @@
         "Hlinaia"
     ],
     "name:ron_x_preferred":[
-        "Hlinaia"
-    ],
-    "name:rum_x_preferred":[
         "Hlinaia"
     ],
     "name:rus_x_preferred":[
@@ -131,7 +128,7 @@
         }
     ],
     "wof:id":101864837,
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561840323,
     "wof:name":"Hlinaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

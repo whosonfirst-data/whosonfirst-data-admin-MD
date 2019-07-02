@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000925,
-    "geom:area_square_m":7694124.497559,
+    "geom:area_square_m":7694124.497555,
     "geom:bbox":"28.9496124928,47.7296719364,28.9866824208,47.7634634942",
     "geom:latitude":47.74605,
     "geom:longitude":28.967355,
@@ -20,19 +20,13 @@
     "name:bak_x_preferred":[
         "\u0420\u0435\u0437\u0438\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u6fdf\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Rezina"
-    ],
     "name:eng_x_preferred":[
         "Rezina-Turg"
     ],
     "name:fin_x_preferred":[
         "Rezina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rezina"
     ],
     "name:ita_x_preferred":[
@@ -44,13 +38,16 @@
     "name:lit_x_preferred":[
         "Rezina"
     ],
+    "name:nld_x_preferred":[
+        "Rezina"
+    ],
     "name:pnb_x_preferred":[
         "\u0631\u06cc\u0632\u06cc\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Rezina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rezina"
     ],
     "name:rus_x_preferred":[
@@ -82,6 +79,9 @@
     ],
     "name:unk_x_variant":[
         "Rezina-T\u00eerg"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u6fdf\u7d0d"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Rezina",
@@ -133,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815564,
+    "wof:lastmodified":1561840319,
     "wof:name":"Rezina",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

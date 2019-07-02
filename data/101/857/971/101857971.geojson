@@ -16,13 +16,10 @@
     "mps:longitude":28.162876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Obileni"
-    ],
     "name:dan_x_preferred":[
         "Obileni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Obileni"
     ],
     "name:eng_x_preferred":[
@@ -33,16 +30,19 @@
         "Obileny",
         "Obileni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Obileni"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d1\u10d8\u10da\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Obileni"
     ],
     "name:ita_x_preferred":[
+        "Obileni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d1\u10d8\u10da\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Obileni"
     ],
     "name:nno_x_preferred":[
@@ -58,9 +58,6 @@
         "Obileni"
     ],
     "name:ron_x_preferred":[
-        "Obileni"
-    ],
-    "name:rum_x_preferred":[
         "Obileni"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744173,
+    "wof:lastmodified":1561840310,
     "wof:name":"Obileni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

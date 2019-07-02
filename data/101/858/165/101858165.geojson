@@ -16,25 +16,19 @@
     "mps:longitude":27.480105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ciuciulea"
-    ],
     "name:dan_x_preferred":[
         "Ciuciulea"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ciuciulea"
     ],
     "name:eng_x_preferred":[
         "Chuchulya"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ciuciulea"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e3\u10e9\u10e3\u10da\u10d4\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ciuciulea"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +36,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10e3\u10e9\u10e3\u10da\u10d4\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ciuciulea"
     ],
     "name:nno_x_preferred":[
         "Ciuciulea"
@@ -56,9 +53,6 @@
         "Ciuciulea"
     ],
     "name:ron_x_preferred":[
-        "Ciuciulea"
-    ],
-    "name:rum_x_preferred":[
         "Ciuciulea"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744269,
+    "wof:lastmodified":1561840316,
     "wof:name":"Ciuciulea",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

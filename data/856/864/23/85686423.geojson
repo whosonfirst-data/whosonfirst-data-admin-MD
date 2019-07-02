@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089499,
-    "geom:area_square_m":750493688.353911,
+    "geom:area_square_m":750493688.3539,
     "geom:bbox":"28.046794,47.159029,28.564425,47.446533",
     "geom:latitude":47.300505,
     "geom:longitude":28.30589,
@@ -24,9 +24,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:alb_x_preferred":[
-        "Raionul C\u0103l\u0103ra\u015fi"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0644\u0627\u0631\u0627\u0633\u064a"
     ],
@@ -42,14 +39,14 @@
     "name:cat_x_preferred":[
         "Districte de C\u0103l\u0103ra\u0219i"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u62c9\u4ec0\u5340"
-    ],
     "name:dan_x_preferred":[
         "Calarasi District"
     ],
-    "name:dut_x_preferred":[
-        "C\u0103l\u0103ra\u0219i"
+    "name:deu_x_preferred":[
+        "Rajon C\u0103l\u0103ra\u0219i"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03c1\u03ac\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Calarasi"
@@ -57,20 +54,11 @@
     "name:fin_x_preferred":[
         "C\u0103l\u0103ra\u0219in piiri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Raion de C\u0103l\u0103ra\u0219i"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10da\u10d4\u10e0\u10d0\u10e8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rajon C\u0103l\u0103ra\u0219i"
     ],
     "name:glg_x_preferred":[
         "Distrito de C\u0103l\u0103ra\u0219i"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03b1\u03c1\u03ac\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab2\u0abe\u0ab0\u0abe\u0ab8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -93,6 +81,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cbe\u0cb0\u0cbe\u0cb6\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10da\u10d4\u10e0\u10d0\u10e8\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uceec\ub7ec\ub77c\uc2dc \uad6c"
     ],
@@ -105,8 +96,11 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0932\u0945\u091d\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Calarasi District"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0103l\u0103ra\u0219i"
     ],
     "name:nob_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
@@ -120,7 +114,7 @@
     "name:por_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "raionul C\u0103l\u0103ra\u0219i"
     ],
     "name:rus_x_preferred":[
@@ -129,11 +123,14 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dbd\u0dcf\u0dbb\u0dc3\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "C\u0103l\u0103ra\u015fi"
     ],
     "name:spa_x_preferred":[
         "Distrito de C\u0103l\u0103ra\u0219i"
+    ],
+    "name:sqi_x_preferred":[
+        "Raionul C\u0103l\u0103ra\u015fi"
     ],
     "name:swe_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
@@ -161,6 +158,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Calarasi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u62c9\u4ec0\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDA",
@@ -279,7 +279,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553814888,
+    "wof:lastmodified":1561840306,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

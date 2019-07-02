@@ -20,17 +20,8 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0646\u0633\u0634\u062a\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0576\u0579\u0565\u0577\u057f"
-    ],
     "name:bel_x_variant":[
         "\u0425\u044b\u043d\u0447\u044d\u0448\u0446\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u4ea8\u5207\u4ec0\u8482"
-    ],
-    "name:dut_x_preferred":[
-        "H\u00eence\u0219ti"
     ],
     "name:eng_x_preferred":[
         "Khencheshti"
@@ -46,9 +37,6 @@
         "H\u00eence\u0219ti"
     ],
     "name:fra_x_preferred":[
-        "H\u00eence\u0219ti"
-    ],
-    "name:fre_x_preferred":[
         "H\u00eence\u0219ti"
     ],
     "name:hye_x_preferred":[
@@ -69,13 +57,16 @@
     "name:lit_x_preferred":[
         "Hin\u010de\u0161tis"
     ],
+    "name:nld_x_preferred":[
+        "H\u00eence\u0219ti"
+    ],
     "name:pnb_x_preferred":[
         "\u06c1\u0646\u0686\u06cc\u0634\u062a\u06cc"
     ],
     "name:pol_x_preferred":[
         "H\u00eence\u015fti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "H\u00eence\u0219ti"
     ],
     "name:rus_x_preferred":[
@@ -111,6 +102,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06c1\u06cc\u0646\u0686\u06cc\u0634\u062a\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ea8\u5207\u4ec0\u8482"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*H\u00eence\u015fti",
@@ -162,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815555,
+    "wof:lastmodified":1561840324,
     "wof:name":"H\u00eence\u015fti",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -16,14 +16,11 @@
     "mps:longitude":29.526833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Plop-\u0218tiubei"
-    ],
     "name:dan_x_preferred":[
         "Plop-\u0218tiubei"
     ],
-    "name:dut_x_preferred":[
-        "Plop-\u015etiubei"
+    "name:deu_x_preferred":[
+        "Plop-\u0218tiubei"
     ],
     "name:eng_x_preferred":[
         "Plop-Shtubey"
@@ -32,13 +29,10 @@
         "Plop-Shtyubey",
         "Plop-\u0218tiubei"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Plop-\u0218tiubei"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10dd\u10de-\u10e8\u10e2\u10d8\u10e3\u10d1\u10d4\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Plop-\u0218tiubei"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +40,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10da\u10dd\u10de-\u10e8\u10e2\u10d8\u10e3\u10d1\u10d4\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Plop-\u015etiubei"
     ],
     "name:nno_x_preferred":[
         "Plop-\u0218tiubei"
@@ -60,9 +57,6 @@
         "Plop-\u0218tiubei"
     ],
     "name:ron_x_preferred":[
-        "Plop-\u0218tiubei"
-    ],
-    "name:rum_x_preferred":[
         "Plop-\u0218tiubei"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747142,
+    "wof:lastmodified":1561840326,
     "wof:name":"Plop-\u015etiubei",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

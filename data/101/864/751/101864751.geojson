@@ -16,13 +16,10 @@
     "mps:longitude":28.375645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pereni"
-    ],
     "name:dan_x_preferred":[
         "Pereni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pereni"
     ],
     "name:eng_x_preferred":[
@@ -33,16 +30,19 @@
         "Pereny",
         "Pereni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Pereni"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e0\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pereni"
     ],
     "name:ita_x_preferred":[
+        "Pereni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Pereni"
     ],
     "name:nno_x_preferred":[
@@ -55,9 +55,6 @@
         "Pereni"
     ],
     "name:ron_x_preferred":[
-        "Pereni"
-    ],
-    "name:rum_x_preferred":[
         "Pereni"
     ],
     "name:rus_x_preferred":[
@@ -124,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561840322,
     "wof:name":"Pereni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

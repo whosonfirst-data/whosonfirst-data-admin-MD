@@ -16,14 +16,11 @@
     "mps:longitude":28.264518,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "S\u0103rata-R\u0103ze\u0219i"
-    ],
     "name:dan_x_preferred":[
         "S\u0103rata-R\u0103ze\u0219i"
     ],
-    "name:dut_x_preferred":[
-        "S\u0103rata-R\u0103ze\u015fi"
+    "name:deu_x_preferred":[
+        "S\u0103rata-R\u0103ze\u0219i"
     ],
     "name:eng_x_preferred":[
         "Sarata-Rezesh'"
@@ -34,13 +31,10 @@
         "Sarato-Rozesh",
         "S\u0103rata-R\u0103ze\u0219i"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "S\u0103rata-R\u0103ze\u0219i"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e0\u10d0\u10e2\u10d0-\u10e0\u10d4\u10d6\u10d4\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u0103rata-R\u0103ze\u0219i"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10e0\u10d0\u10e2\u10d0-\u10e0\u10d4\u10d6\u10d4\u10e8\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "S\u0103rata-R\u0103ze\u015fi"
     ],
     "name:nno_x_preferred":[
         "S\u0103rata-R\u0103ze\u0219i"
@@ -62,9 +59,6 @@
         "S\u0103rata-R\u0103ze\u0219i"
     ],
     "name:ron_x_preferred":[
-        "S\u0103rata-R\u0103ze\u0219i"
-    ],
-    "name:rum_x_preferred":[
         "S\u0103rata-R\u0103ze\u0219i"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744161,
+    "wof:lastmodified":1561840310,
     "wof:name":"S\u0103rata-R\u0103ze\u015fi",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

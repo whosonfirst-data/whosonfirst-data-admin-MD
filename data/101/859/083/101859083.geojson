@@ -23,15 +23,6 @@
     "name:ces_x_preferred":[
         "F\u0103le\u0219ti"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u840a\u4ec0\u8482"
-    ],
-    "name:cze_x_preferred":[
-        "F\u0103le\u0219ti"
-    ],
-    "name:dut_x_preferred":[
-        "F\u0103le\u0219ti"
-    ],
     "name:eng_x_preferred":[
         "Falesht'"
     ],
@@ -51,14 +42,11 @@
     "name:fra_x_variant":[
         "F\u0103le\u0219ti"
     ],
-    "name:fre_x_preferred":[
-        "Fale\u0219ti"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d4\u10da\u10d4\u10e8\u10e2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "F\u0103le\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10da\u10d4\u10e8\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud384\ub808\uc288\ud2f0"
@@ -76,9 +64,6 @@
         "F\u0103le\u015fti"
     ],
     "name:ron_x_preferred":[
-        "F\u0103le\u0219ti"
-    ],
-    "name:rum_x_preferred":[
         "F\u0103le\u0219ti"
     ],
     "name:rus_x_preferred":[
@@ -104,6 +89,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0644\u06cc\u0634\u062a\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u840a\u4ec0\u8482"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*F\u0103le\u015fti",
@@ -155,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815551,
+    "wof:lastmodified":1561840310,
     "wof:name":"F\u0103le\u015fti",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

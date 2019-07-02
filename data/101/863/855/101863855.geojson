@@ -23,12 +23,6 @@
     "name:bel_x_variant":[
         "\u0421\u0442\u0440\u044d\u0448\u044d\u043d\u044c"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u7279\u52d2\u8b1d\u5c3c"
-    ],
-    "name:dut_x_preferred":[
-        "Str\u0103\u0219eni"
-    ],
     "name:eng_x_preferred":[
         "Str\u0103\u0219eni"
     ],
@@ -37,12 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Str\u0103\u0219eni"
-    ],
-    "name:fre_x_preferred":[
-        "Str\u0103\u0219eni"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
     ],
     "name:glg_x_preferred":[
         "Str\u0103\u015feni"
@@ -62,6 +50,9 @@
     "name:lit_x_preferred":[
         "Stre\u0161enis"
     ],
+    "name:nld_x_preferred":[
+        "Str\u0103\u0219eni"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u062a\u0631\u0627\u0634\u0646\u06cc"
     ],
@@ -72,9 +63,6 @@
         "Straseni"
     ],
     "name:ron_x_preferred":[
-        "Str\u0103\u0219eni"
-    ],
-    "name:rum_x_preferred":[
         "Str\u0103\u0219eni"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +85,9 @@
     ],
     "name:und_x_preferred":[
         "Strasheny"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u52d2\u8b1d\u5c3c"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Str\u0103\u015feni",
@@ -150,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747221,
+    "wof:lastmodified":1561840328,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

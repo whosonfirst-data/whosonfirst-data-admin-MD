@@ -16,28 +16,19 @@
     "mps:longitude":29.202911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ruseni"
-    ],
     "name:dan_x_preferred":[
         "Ruseni"
     ],
     "name:deu_x_preferred":[
         "Ruseni"
     ],
-    "name:dut_x_preferred":[
-        "Ruseni"
-    ],
     "name:eng_x_preferred":[
         "Ruseni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Ruseni"
     ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10e3\u10e1\u10d4\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ruseni"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +36,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10e3\u10e1\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ruseni"
     ],
     "name:nno_x_preferred":[
         "Ruseni"
@@ -56,9 +50,6 @@
         "Ruseni"
     ],
     "name:ron_x_preferred":[
-        "Ruseni"
-    ],
-    "name:rum_x_preferred":[
         "Ruseni"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815555,
+    "wof:lastmodified":1561840324,
     "wof:name":"Ruseni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

@@ -16,14 +16,11 @@
     "mps:longitude":27.556845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "N\u0103v\u00eerne\u021b"
-    ],
     "name:dan_x_preferred":[
         "N\u0103v\u00eerne\u021b"
     ],
-    "name:dut_x_preferred":[
-        "N\u0103v\u00eerne\u0163"
+    "name:deu_x_preferred":[
+        "N\u0103v\u00eerne\u021b"
     ],
     "name:eng_x_preferred":[
         "Nyvernetsi"
@@ -32,17 +29,20 @@
         "Navyrnets",
         "N\u0103v\u00eerne\u021b"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "N\u0103v\u00eerne\u021b"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d4\u10d5\u10d8\u10e0\u10dc\u10d4\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "N\u0103v\u00eerne\u021b"
     ],
     "name:ita_x_preferred":[
         "N\u0103v\u00eerne\u021b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d4\u10d5\u10d8\u10e0\u10dc\u10d4\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "N\u0103v\u00eerne\u0163"
     ],
     "name:nno_x_preferred":[
         "N\u0103v\u00eerne\u021b"
@@ -57,9 +57,6 @@
         "N\u0103v\u00eerne\u021b"
     ],
     "name:ron_x_preferred":[
-        "N\u0103v\u00eerne\u021b"
-    ],
-    "name:rum_x_preferred":[
         "N\u0103v\u00eerne\u021b"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744235,
+    "wof:lastmodified":1561840315,
     "wof:name":"N\u0103v\u00eerne\u0163",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

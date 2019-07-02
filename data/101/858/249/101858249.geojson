@@ -16,29 +16,29 @@
     "mps:longitude":27.652552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Aluni\u0219"
-    ],
     "name:dan_x_preferred":[
         "Aluni\u0219"
     ],
-    "name:dut_x_preferred":[
-        "Aluni\u015f"
+    "name:deu_x_preferred":[
+        "Aluni\u0219"
     ],
     "name:eng_x_preferred":[
         "Alunish"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Aluni\u0219"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10e3\u10dc\u10d8\u10e8\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Aluni\u0219"
     ],
     "name:ita_x_preferred":[
         "Aluni\u0219"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10e3\u10dc\u10d8\u10e8\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Aluni\u015f"
     ],
     "name:nno_x_preferred":[
         "Aluni\u0219"
@@ -53,9 +53,6 @@
         "Aluni\u0219"
     ],
     "name:ron_x_preferred":[
-        "Aluni\u0219"
-    ],
-    "name:rum_x_preferred":[
         "Aluni\u0219"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744311,
+    "wof:lastmodified":1561840316,
     "wof:name":"Aluni\u015f",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

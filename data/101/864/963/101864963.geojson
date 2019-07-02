@@ -23,12 +23,6 @@
     "name:cbk_zam_x_preferred":[
         "\u015eold\u0103ne\u015fti"
     ],
-    "name:chi_x_preferred":[
-        "\u7d39\u723e\u5fb7\u5167\u4ec0\u8482"
-    ],
-    "name:dut_x_preferred":[
-        "\u0218old\u0103ne\u0219ti"
-    ],
     "name:eng_x_preferred":[
         "Sholdaneshti"
     ],
@@ -42,9 +36,6 @@
         "\u0218old\u0103ne\u0219ti"
     ],
     "name:fra_x_preferred":[
-        "\u0218old\u0103ne\u0219ti"
-    ],
-    "name:fre_x_preferred":[
         "\u0218old\u0103ne\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -68,7 +59,7 @@
     "name:pol_x_preferred":[
         "\u0218old\u0103ne\u0219ti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218old\u0103ne\u0219ti"
     ],
     "name:rus_x_preferred":[
@@ -94,6 +85,9 @@
     ],
     "name:unk_x_variant":[
         "Chernenko"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d39\u723e\u5fb7\u5167\u4ec0\u8482"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Sold\u0103ne\u015fti",
@@ -147,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815556,
+    "wof:lastmodified":1561840321,
     "wof:name":"\u015eold\u0103ne\u015fti",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

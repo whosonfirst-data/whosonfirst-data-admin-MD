@@ -26,16 +26,10 @@
     "name:ces_x_preferred":[
         "Dnestrovsc"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u6d85\u65af\u7279\u7f85\u592b\u65af\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Dn\u011bstrovsk"
     ],
     "name:deu_x_preferred":[
-        "Dnestrovsc"
-    ],
-    "name:dut_x_preferred":[
         "Dnestrovsc"
     ],
     "name:eng_x_preferred":[
@@ -47,12 +41,6 @@
     "name:fra_x_preferred":[
         "Dnestrovsc"
     ],
-    "name:fre_x_preferred":[
-        "Dnestrovsc"
-    ],
-    "name:ger_x_preferred":[
-        "Dnestrovsc"
-    ],
     "name:ind_x_preferred":[
         "Dnestrovsc"
     ],
@@ -62,13 +50,13 @@
     "name:lit_x_preferred":[
         "Dnestrovskas"
     ],
+    "name:nld_x_preferred":[
+        "Dnestrovsc"
+    ],
     "name:pol_x_preferred":[
         "Dnestrovsc"
     ],
     "name:ron_x_preferred":[
-        "Dnestrovsc"
-    ],
-    "name:rum_x_preferred":[
         "Dnestrovsc"
     ],
     "name:rus_x_preferred":[
@@ -150,7 +138,7 @@
         }
     ],
     "wof:id":101864883,
-    "wof:lastmodified":1544747757,
+    "wof:lastmodified":1561840323,
     "wof:name":"Dnestrovsc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -22,9 +22,19 @@
     "name:eng_x_variant":[
         "Choropkani",
         "Choropkani Vek'",
-        "Staryye Choropkany"
+        "Staryye Choropkany",
+        "Cioropcani"
+    ],
+    "name:fra_x_preferred":[
+        "Cioropcani"
     ],
     "name:ita_x_preferred":[
+        "Cioropcani"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10e0\u10dd\u10de\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Cioropcani"
     ],
     "name:ron_x_preferred":[
@@ -95,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744202,
+    "wof:lastmodified":1563374872,
     "wof:name":"Cioropcani",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

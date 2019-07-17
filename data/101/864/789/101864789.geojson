@@ -19,17 +19,35 @@
     "name:bel_x_variant":[
         "\u041a\u043e\u0434\u0440\u0443"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0434\u0440\u0443"
+    ],
     "name:cbk_zam_x_preferred":[
         "Codru"
     ],
+    "name:crh_x_preferred":[
+        "Kodru"
+    ],
     "name:eng_x_preferred":[
         "Kodru"
+    ],
+    "name:eng_x_variant":[
+        "Codru"
+    ],
+    "name:fra_x_preferred":[
+        "Codru"
+    ],
+    "name:hsb_x_preferred":[
+        "Codru"
     ],
     "name:ita_x_preferred":[
         "Codru"
     ],
     "name:lit_x_preferred":[
         "Kodru"
+    ],
+    "name:nld_x_preferred":[
+        "Codru"
     ],
     "name:pol_x_preferred":[
         "Codru"
@@ -45,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Codru"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0434\u0440\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0434\u0440\u0443"
@@ -106,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747707,
+    "wof:lastmodified":1563374998,
     "wof:name":"Codru",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

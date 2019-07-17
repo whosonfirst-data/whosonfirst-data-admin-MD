@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Cotihana"
     ],
+    "name:ceb_x_preferred":[
+        "Cotihana"
+    ],
     "name:ces_x_preferred":[
         "Cotihana"
     ],
@@ -175,6 +178,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0442\u0438\u0433\u0430\u043d\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u043e\u0442\u0438\u0445\u0430\u043d\u0430"
+    ],
     "name:scn_x_preferred":[
         "Cotihana"
     ],
@@ -283,7 +289,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840320,
+    "wof:lastmodified":1563374936,
     "wof:name":"Cotihana",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

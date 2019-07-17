@@ -16,6 +16,9 @@
     "mps:longitude":28.343128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sadova"
+    ],
     "name:ces_x_preferred":[
         "Sadova"
     ],
@@ -28,6 +31,9 @@
     "name:eng_x_preferred":[
         "Sadovo"
     ],
+    "name:eng_x_variant":[
+        "Sadova"
+    ],
     "name:eus_x_preferred":[
         "Sadova"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Sadova"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30c9\u30f4\u30a1\u6751"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d3\u10dd\u10d5\u10d0"
@@ -128,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840315,
+    "wof:lastmodified":1563374854,
     "wof:name":"Sadova",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

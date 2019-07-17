@@ -20,10 +20,22 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041d\u043e\u0432\u0430\u0446\u0456\u0440\u0430\u0441\u043f\u0430\u043b\u044c\u0441\u043a\u0456"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041d\u0430\u0432\u0430\u0446\u0456\u0440\u0430\u0441\u043f\u0430\u043b\u044c\u043a\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Tiraspolul Nou"
+    ],
     "name:eng_x_preferred":[
         "Tiraspolul Nou"
     ],
     "name:fra_x_preferred":[
+        "Tiraspolul Nou"
+    ],
+    "name:hsb_x_preferred":[
         "Tiraspolul Nou"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +46,9 @@
     ],
     "name:pol_x_preferred":[
         "Tiraspolul Nou"
+    ],
+    "name:pol_x_variant":[
+        "Nowy Tyraspol"
     ],
     "name:ron_x_preferred":[
         "Tiraspolul Nou"
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":101864891,
-    "wof:lastmodified":1561840323,
+    "wof:lastmodified":1563374988,
     "wof:name":"Tiraspolul Nou",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

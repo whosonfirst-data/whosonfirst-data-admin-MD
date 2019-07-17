@@ -36,6 +36,12 @@
     "name:cat_x_preferred":[
         "Districte dOrhei"
     ],
+    "name:cat_x_variant":[
+        "districte d'Orhei"
+    ],
+    "name:ceb_x_preferred":[
+        "Orhei"
+    ],
     "name:ces_x_preferred":[
         "Okres Orhei"
     ],
@@ -61,7 +67,8 @@
         "Raion dOrhei"
     ],
     "name:fra_x_variant":[
-        "Raion d'Orhei"
+        "Raion d'Orhei",
+        "Orhei"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ab9\u0ac7\u0a87 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -117,6 +124,9 @@
     "name:por_x_preferred":[
         "Condado de Orhei"
     ],
+    "name:por_x_variant":[
+        "Orhei"
+    ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041e\u0440\u0445\u0435\u0439"
     ],
@@ -150,6 +160,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e1a\u0e32\u0e23\u0e35\u0e19\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e2d\u0e2d\u0e23\u0e4c\u0e40\u0e2e\u0e22\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Orhei District"
@@ -285,7 +298,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840306,
+    "wof:lastmodified":1563374675,
     "wof:name":"Orhei",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

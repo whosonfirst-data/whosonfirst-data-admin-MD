@@ -21,7 +21,8 @@
     ],
     "name:eng_x_variant":[
         "Vad-Rashkov",
-        "Vadu-Rashku"
+        "Vadu-Rashku",
+        "Vadul-Ra\u0219cov"
     ],
     "name:fra_x_preferred":[
         "Vadul-Ra\u0219cov"
@@ -29,8 +30,14 @@
     "name:ita_x_preferred":[
         "Vadul-Ra\u0219cov"
     ],
+    "name:ita_x_variant":[
+        "Vadul-Ra\u015fcov"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d3\u10e3\u10da-\u10e0\u10d0\u10e8\u10d9\u10dd\u10d5\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Vadul-Ra\u015fcov"
     ],
     "name:ron_x_preferred":[
         "Vadul-Ra\u0219cov"
@@ -97,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544751407,
+    "wof:lastmodified":1563374758,
     "wof:name":"Vadul-Ra\u015fcov",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

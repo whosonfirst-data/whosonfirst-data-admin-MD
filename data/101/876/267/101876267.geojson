@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
+    "geom:area_square_m":2189411.780837,
     "geom:bbox":"26.929256941,48.3011597239,26.9477101001,48.3196134853",
     "geom:latitude":48.310426,
     "geom:longitude":26.938496,
@@ -18,11 +19,20 @@
     "name:eng_x_preferred":[
         "Berlintsy"
     ],
+    "name:eng_x_variant":[
+        "Berlin\u021bi"
+    ],
     "name:ita_x_preferred":[
         "Berlin\u021bi"
     ],
+    "name:ita_x_variant":[
+        "Berlin\u0163i"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10e0\u10da\u10d8\u10dc\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Berlin\u0163i"
     ],
     "name:ron_x_preferred":[
         "Berlin\u021bi"
@@ -86,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714912,
+    "wof:lastmodified":1563374904,
     "wof:name":"Berlin\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

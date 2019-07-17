@@ -20,13 +20,20 @@
         "Barancha"
     ],
     "name:eng_x_variant":[
-        "Baroncha"
+        "Baroncha",
+        "Baroncea"
+    ],
+    "name:fra_x_preferred":[
+        "Baroncea"
     ],
     "name:ita_x_preferred":[
         "Baroncea"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10dd\u10dc\u10e9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Baroncea"
     ],
     "name:ron_x_preferred":[
         "Baroncea"
@@ -90,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745316,
+    "wof:lastmodified":1563374817,
     "wof:name":"Baroncea",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

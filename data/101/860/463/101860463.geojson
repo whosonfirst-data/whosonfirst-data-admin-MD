@@ -17,6 +17,12 @@
     "mps:longitude":27.776791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0442\u0430\u0447"
+    ],
+    "name:ceb_x_preferred":[
+        "Otaci"
+    ],
     "name:deu_x_preferred":[
         "Otaci"
     ],
@@ -27,11 +33,20 @@
         "Otach-Tyrg",
         "Otaci"
     ],
+    "name:est_x_preferred":[
+        "Otaci"
+    ],
     "name:fra_x_preferred":[
         "Otaci"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d8\u05e7\u05d9"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d5\u05d8\u05d0\u05e5'"
+    ],
+    "name:hsb_x_preferred":[
+        "Otaci"
     ],
     "name:ita_x_preferred":[
         "Otaci"
@@ -62,6 +77,9 @@
     ],
     "name:spa_x_preferred":[
         "Otaci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0442\u0430\u0447\u0438"
     ],
     "name:swe_x_preferred":[
         "Otaci"
@@ -127,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840313,
+    "wof:lastmodified":1563374812,
     "wof:name":"Otaci",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

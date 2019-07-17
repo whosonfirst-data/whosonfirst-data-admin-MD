@@ -36,6 +36,12 @@
     "name:cat_x_preferred":[
         "Districte dAnenii Noi"
     ],
+    "name:cat_x_variant":[
+        "districte d'Anenii Noi"
+    ],
+    "name:ceb_x_preferred":[
+        "Anenii Noi"
+    ],
     "name:ces_x_preferred":[
         "Okres Anenii Noi"
     ],
@@ -61,7 +67,8 @@
         "Raion dAnenii Noi"
     ],
     "name:fra_x_variant":[
-        "Raion d'Anenii Noi"
+        "Raion d'Anenii Noi",
+        "Anenii Noi"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa8\u0ac7\u0aa8\u0ac0 \u0aa8\u0acb\u0a87 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -120,6 +127,9 @@
     "name:por_x_preferred":[
         "Condado de Anenii Noi"
     ],
+    "name:por_x_variant":[
+        "Anenii Noi"
+    ],
     "name:ron_x_preferred":[
         "\u0410\u043d\u0435\u041d\u0438\u0439-\u041d\u043e\u0439"
     ],
@@ -153,6 +163,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e40\u0e19\u0e2d\u0e34\u0e25\u0e19\u0e2d\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e2d\u0e32\u0e40\u0e19\u0e19\u0e35\u0e22\u0e4c\u0e19\u0e2d\u0e22"
     ],
     "name:tur_x_preferred":[
         "Anenii Noi District"
@@ -288,7 +301,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840307,
+    "wof:lastmodified":1563374678,
     "wof:name":"Anenii Noi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

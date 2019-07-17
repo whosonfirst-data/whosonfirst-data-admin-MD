@@ -22,9 +22,19 @@
     "name:eng_x_variant":[
         "Berezlodzh'",
         "Berezlodzhi",
-        "Berezlozhi"
+        "Berezlozhi",
+        "Berezlogi"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0580\u0565\u0566\u056c\u0578\u056a\u056b"
     ],
     "name:ita_x_preferred":[
+        "Berezlogi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d4\u10d6\u10da\u10dd\u10ef\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Berezlogi"
     ],
     "name:ron_x_preferred":[
@@ -89,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747258,
+    "wof:lastmodified":1563375064,
     "wof:name":"Berezlogi",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -21,13 +21,23 @@
     ],
     "name:eng_x_variant":[
         "Antoneshty",
-        "Antonovka"
+        "Antonovka",
+        "Antone\u0219ti"
+    ],
+    "name:fra_x_preferred":[
+        "Antone\u0219ti"
     ],
     "name:ita_x_preferred":[
         "Antone\u0219ti"
     ],
+    "name:ita_x_variant":[
+        "Antone\u015fti"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10e2\u10dd\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Antone\u0219ti"
     ],
     "name:ron_x_preferred":[
         "Antone\u0219ti"
@@ -99,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744156,
+    "wof:lastmodified":1563374774,
     "wof:name":"Antone\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

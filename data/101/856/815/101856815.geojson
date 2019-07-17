@@ -16,6 +16,9 @@
     "mps:longitude":28.440192,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u042d\u0442\u0443\u043b\u0456\u044f"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0442\u0443\u043b\u0438\u044f"
     ],
@@ -23,12 +26,19 @@
         "Etuliya"
     ],
     "name:eng_x_variant":[
-        "Yetuliya"
+        "Yetuliya",
+        "Etulia"
+    ],
+    "name:fra_x_preferred":[
+        "Etulia"
     ],
     "name:gag_x_preferred":[
         "T\u00fcl\u00fck\u00fc\u00fc"
     ],
     "name:ita_x_preferred":[
+        "Etulia"
+    ],
+    "name:nld_x_preferred":[
         "Etulia"
     ],
     "name:ron_x_preferred":[
@@ -93,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743576,
+    "wof:lastmodified":1563374793,
     "wof:name":"Etulia",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

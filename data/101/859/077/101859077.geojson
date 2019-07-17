@@ -21,10 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Pyrlitsa",
-        "Raika"
+        "Raika",
+        "P\u00eerli\u021ba"
     ],
     "name:ita_x_preferred":[
         "P\u00eerli\u021ba"
+    ],
+    "name:ita_x_variant":[
+        "P\u00eerli\u0163a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e0\u10da\u10d8\u10ea\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "P\u00eerli\u0163a"
     ],
     "name:ron_x_preferred":[
         "P\u00eerli\u021ba"
@@ -97,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744728,
+    "wof:lastmodified":1563374768,
     "wof:name":"P\u00eerli\u0163a",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

@@ -19,7 +19,19 @@
     "name:eng_x_preferred":[
         "Kubolta"
     ],
+    "name:eng_x_variant":[
+        "Cubolta"
+    ],
+    "name:fra_x_preferred":[
+        "Cubolta"
+    ],
     "name:ita_x_preferred":[
+        "Cubolta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10d1\u10dd\u10da\u10e2\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Cubolta"
     ],
     "name:ron_x_preferred":[
@@ -84,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744297,
+    "wof:lastmodified":1563374850,
     "wof:name":"Cubolta",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

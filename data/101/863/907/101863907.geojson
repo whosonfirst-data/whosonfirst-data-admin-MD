@@ -16,6 +16,9 @@
     "mps:longitude":28.388329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mele\u0219eni"
+    ],
     "name:dan_x_preferred":[
         "Mele\u0219eni"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Mele\u0219eni"
+    ],
+    "name:ita_x_variant":[
+        "Mele\u015feni"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10da\u10d4\u10e8\u10d4\u10dc\u10d8"
@@ -82,6 +88,9 @@
     ],
     "name:unk_x_variant":[
         "Meleshen\u2019"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f\u0627\u06a9\u0644\u06cc\u06c1"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103l\u0103ra\u015fi",
@@ -130,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840324,
+    "wof:lastmodified":1563375002,
     "wof:name":"Mele\u015feni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

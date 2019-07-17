@@ -19,6 +19,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0456\u0442\u0443\u0448\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pitu\u0219ca"
+    ],
     "name:dan_x_preferred":[
         "Pitu\u0219ca"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:ita_x_preferred":[
         "Pitu\u0219ca"
+    ],
+    "name:ita_x_variant":[
+        "Pitu\u015fca"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e2\u10e3\u10e8\u10d9\u10d0"
@@ -68,6 +74,9 @@
     ],
     "name:spa_x_preferred":[
         "Pitu\u0219ca"
+    ],
+    "name:spa_x_variant":[
+        "Ohrincea"
     ],
     "name:swe_x_preferred":[
         "Pitu\u0219ca"
@@ -131,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840321,
+    "wof:lastmodified":1563374954,
     "wof:name":"Pitu\u015fca",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

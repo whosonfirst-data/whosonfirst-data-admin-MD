@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Stoianovca"
+    ],
     "name:dan_x_preferred":[
         "Stoianovca"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eng_x_preferred":[
         "Stoyanovka"
+    ],
+    "name:eng_x_variant":[
+        "Stoianovca"
     ],
     "name:eus_x_preferred":[
         "Stoianovca"
@@ -57,6 +63,9 @@
     ],
     "name:ron_x_preferred":[
         "Stoianovca"
+    ],
+    "name:ron_x_variant":[
+        "Comuna \u021aiganca"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043a\u0430"
@@ -129,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840320,
+    "wof:lastmodified":1563374936,
     "wof:name":"Stoianovca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

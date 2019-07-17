@@ -20,13 +20,20 @@
         "Purkar'"
     ],
     "name:eng_x_variant":[
-        "Purkary"
+        "Purkary",
+        "Purcari"
+    ],
+    "name:fra_x_preferred":[
+        "Purcari"
     ],
     "name:ita_x_preferred":[
         "Purcari"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10e0\u10d9\u10d0\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Purcari"
     ],
     "name:ron_x_preferred":[
         "Purcari"
@@ -90,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747101,
+    "wof:lastmodified":1563375046,
     "wof:name":"Purcari",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

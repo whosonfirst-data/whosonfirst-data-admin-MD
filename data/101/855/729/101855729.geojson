@@ -22,13 +22,17 @@
     "name:eng_x_variant":[
         "Cocoara",
         "Kokoara",
-        "Kukoara"
+        "Kukoara",
+        "Cucoara"
     ],
     "name:ita_x_preferred":[
         "Cucoara"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10d9\u10dd\u10d0\u10e0\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Cucoara"
     ],
     "name:ron_x_preferred":[
         "Cucoara"
@@ -92,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743044,
+    "wof:lastmodified":1563374943,
     "wof:name":"Cucoara",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

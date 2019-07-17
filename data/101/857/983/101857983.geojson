@@ -21,10 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Balaneshty",
-        "Boldureshti"
+        "Boldureshti",
+        "Boldure\u0219ti"
     ],
     "name:ita_x_preferred":[
         "Boldure\u0219ti"
+    ],
+    "name:ita_x_variant":[
+        "Boldure\u015fti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10da\u10d3\u10e3\u10e0\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Boldure\u015fti"
     ],
     "name:ron_x_preferred":[
         "Boldure\u0219ti"
@@ -94,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744179,
+    "wof:lastmodified":1563374776,
     "wof:name":"Boldure\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
+    "geom:area_square_m":1027332.698629,
     "geom:bbox":"28.1117627002,46.8619542976,28.1257863967,46.8793509417",
     "geom:latitude":46.869777,
     "geom:longitude":28.118322,
@@ -22,9 +23,19 @@
         "Cotu Morii",
         "Kotu-Mare",
         "Kotu-Moriy",
-        "Kotul-Moriy"
+        "Kotul-Moriy",
+        "Cotul Morii"
     ],
     "name:ita_x_preferred":[
+        "Cotul Morii"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10e3\u10da-\u10db\u10dd\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Cotul Morii"
+    ],
+    "name:pol_x_preferred":[
         "Cotul Morii"
     ],
     "name:ron_x_preferred":[
@@ -87,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527688543,
+    "wof:lastmodified":1563374889,
     "wof:name":"Cotul Morii",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

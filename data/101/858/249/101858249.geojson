@@ -16,6 +16,9 @@
     "mps:longitude":27.652552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Aluni\u0219"
+    ],
     "name:dan_x_preferred":[
         "Aluni\u0219"
     ],
@@ -25,6 +28,9 @@
     "name:eng_x_preferred":[
         "Alunish"
     ],
+    "name:eng_x_variant":[
+        "Aluni\u0219"
+    ],
     "name:eus_x_preferred":[
         "Aluni\u0219"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:ita_x_preferred":[
         "Aluni\u0219"
+    ],
+    "name:ita_x_variant":[
+        "Aluni\u015f"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10e3\u10dc\u10d8\u10e8\u10d8"
@@ -66,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0443\u043d\u0456\u0448"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0442\u0456\u0447\u0435\u043d\u044c"
     ],
     "name:und_x_colloquial":[
         "Alunis"
@@ -123,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840316,
+    "wof:lastmodified":1563374873,
     "wof:name":"Aluni\u015f",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

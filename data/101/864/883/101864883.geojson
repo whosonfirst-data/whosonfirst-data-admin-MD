@@ -23,6 +23,12 @@
     "name:bel_x_variant":[
         "\u0414\u043d\u044f\u0441\u0442\u0440\u043e\u045e\u0441\u043a"
     ],
+    "name:bul_x_preferred":[
+        "\u0414\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u0441\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Dnestrovsc"
+    ],
     "name:ces_x_preferred":[
         "Dnestrovsc"
     ],
@@ -41,6 +47,9 @@
     "name:fra_x_preferred":[
         "Dnestrovsc"
     ],
+    "name:hsb_x_preferred":[
+        "Dnestrovsc"
+    ],
     "name:ind_x_preferred":[
         "Dnestrovsc"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:pol_x_preferred":[
         "Dnestrovsc"
+    ],
+    "name:pol_x_variant":[
+        "Dniestrowsk"
     ],
     "name:ron_x_preferred":[
         "Dnestrovsc"
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":101864883,
-    "wof:lastmodified":1561840323,
+    "wof:lastmodified":1563374982,
     "wof:name":"Dnestrovsc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

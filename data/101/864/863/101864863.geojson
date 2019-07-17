@@ -19,6 +19,9 @@
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u0421\u0443\u043a\u043b\u0435\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Sucleia"
+    ],
     "name:dan_x_preferred":[
         "Sucleia"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Sucleia"
+    ],
+    "name:spa_x_variant":[
+        "Br\u0103ne\u015fti"
     ],
     "name:swe_x_preferred":[
         "Sucleia"
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":101864863,
-    "wof:lastmodified":1561840323,
+    "wof:lastmodified":1563374991,
     "wof:name":"Sucleia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

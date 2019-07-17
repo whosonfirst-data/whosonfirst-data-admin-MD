@@ -17,16 +17,47 @@
     "mps:longitude":28.208943,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dancu"
+    ],
+    "name:dan_x_preferred":[
+        "Dancu"
+    ],
+    "name:deu_x_preferred":[
+        "Dancu"
+    ],
     "name:eng_x_preferred":[
         "Dan'ka"
     ],
     "name:eng_x_variant":[
-        "Danku"
+        "Danku",
+        "Dancu"
+    ],
+    "name:eus_x_preferred":[
+        "Dancu"
+    ],
+    "name:fra_x_preferred":[
+        "Dancu"
     ],
     "name:ita_x_preferred":[
         "Dancu"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10dc\u10d9\u10e3"
+    ],
     "name:nld_x_preferred":[
+        "Dancu"
+    ],
+    "name:nno_x_preferred":[
+        "Dancu"
+    ],
+    "name:nob_x_preferred":[
+        "Dancu"
+    ],
+    "name:pol_x_preferred":[
+        "Dancu"
+    ],
+    "name:por_x_preferred":[
         "Dancu"
     ],
     "name:ron_x_preferred":[
@@ -35,8 +66,17 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u043d\u043a\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Dancu"
+    ],
+    "name:swe_x_preferred":[
+        "Dancu"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u043a\u0443"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u043e\u043c\u0430\u0439"
     ],
     "name:und_x_preferred":[
         "Dancu"
@@ -92,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744169,
+    "wof:lastmodified":1563374774,
     "wof:name":"Dancu",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

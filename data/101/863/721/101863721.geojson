@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0435\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ialoveni"
+    ],
     "name:deu_x_preferred":[
         "Ialoveni"
     ],
@@ -33,14 +36,23 @@
         "Yalovyany",
         "Ialoveni"
     ],
+    "name:est_x_preferred":[
+        "Ialoveni"
+    ],
     "name:fin_x_preferred":[
         "Ialoveni"
     ],
     "name:fra_x_preferred":[
         "Ialoveni"
     ],
+    "name:hsb_x_preferred":[
+        "Ialoveni"
+    ],
     "name:ita_x_preferred":[
         "Ialoveni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10da\u10dd\u10d5\u10d4\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc774\uc54c\ub85c\ubca0\ub2c8"
@@ -74,6 +86,9 @@
     ],
     "name:swe_x_preferred":[
         "Ialoveni"
+    ],
+    "name:tat_x_preferred":[
+        "\u042f\u043b\u043e\u0432\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0435\u043d\u0438"
@@ -142,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840328,
+    "wof:lastmodified":1563375065,
     "wof:name":"Ialoveni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

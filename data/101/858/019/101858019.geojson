@@ -23,10 +23,20 @@
         "Miklaushany",
         "Miklausheni",
         "Miklausheny",
-        "Mikleusheny"
+        "Mikleusheny",
+        "Micleu\u0219eni"
     ],
     "name:ita_x_preferred":[
         "Micleu\u0219eni"
+    ],
+    "name:ita_x_variant":[
+        "Micleu\u015feni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10d9\u10da\u10d4\u10e3\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Micleu\u015feni"
     ],
     "name:ron_x_preferred":[
         "Micleu\u0219eni"
@@ -100,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744196,
+    "wof:lastmodified":1563374875,
     "wof:name":"Micleu\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

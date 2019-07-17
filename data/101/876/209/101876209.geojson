@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
+    "geom:area_square_m":1895994.087467,
     "geom:bbox":"28.5096147244,47.4569430025,28.5281092816,47.4720506863",
     "geom:latitude":47.464919,
     "geom:longitude":28.518767,
@@ -20,9 +21,19 @@
     ],
     "name:eng_x_variant":[
         "Sukhuluchen'",
-        "Sukhulucheni"
+        "Sukhulucheni",
+        "Suhuluceni"
+    ],
+    "name:fra_x_preferred":[
+        "Suhuluceni"
     ],
     "name:ita_x_preferred":[
+        "Suhuluceni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10f0\u10e3\u10da\u10e3\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Suhuluceni"
     ],
     "name:ron_x_preferred":[
@@ -87,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714918,
+    "wof:lastmodified":1563374914,
     "wof:name":"Suhuluceni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

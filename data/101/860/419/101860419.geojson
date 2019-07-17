@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "Mo\u0219ana"
     ],
+    "name:ita_x_variant":[
+        "Mo\u015fana"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10e8\u10d0\u10dc\u10d0"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840313,
+    "wof:lastmodified":1563374827,
     "wof:name":"Mo\u015fana",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

@@ -16,17 +16,62 @@
     "mps:longitude":28.012788,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:dan_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:deu_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:eng_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:eus_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:fra_x_preferred":[
+        "Elizaveta"
+    ],
     "name:ita_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10d6\u10d0\u10d5\u10d4\u10e2\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:nno_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:nob_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:pol_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:por_x_preferred":[
         "Elizaveta"
     ],
     "name:ron_x_preferred":[
         "Elizaveta"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Camenca"
     ],
     "name:rus_x_preferred":[
         "\u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u0430"
     ],
     "name:rus_x_variant":[
         "\u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u043e\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:swe_x_preferred":[
+        "Elizaveta"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0456\u0437\u0430\u0432\u0435\u0442\u0430"
@@ -84,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744277,
+    "wof:lastmodified":1563374863,
     "wof:name":"Elizaveta",
     "wof:parent_id":85686449,
     "wof:placetype":"locality",

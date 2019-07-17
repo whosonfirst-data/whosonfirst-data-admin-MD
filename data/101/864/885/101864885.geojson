@@ -20,10 +20,19 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041a\u0440\u0430\u0441\u043d\u0430\u0435"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Crasnoe"
+    ],
     "name:eng_x_preferred":[
         "Crasnoe"
     ],
     "name:fra_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:hsb_x_preferred":[
         "Crasnoe"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +46,9 @@
     ],
     "name:pol_x_preferred":[
         "Crasnoe"
+    ],
+    "name:pol_x_variant":[
+        "Krasnoje"
     ],
     "name:ron_x_preferred":[
         "Crasnoe"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":101864885,
-    "wof:lastmodified":1561840323,
+    "wof:lastmodified":1563374984,
     "wof:name":"Crasnoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

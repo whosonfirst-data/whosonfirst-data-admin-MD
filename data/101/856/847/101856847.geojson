@@ -43,6 +43,9 @@
     "name:unk_x_variant":[
         "Tarakliya de Salche"
     ],
+    "name:zho_x_preferred":[
+        "\u6070\u5fb7\u723e\u502b\u52a0"
+    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cahul",
     "qs:a1_alt":"Cahul",
@@ -90,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743591,
+    "wof:lastmodified":1563374795,
     "wof:name":"Taraclia de Salcie",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

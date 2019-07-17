@@ -21,13 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Kashkaliya",
-        "Koshkaliya"
+        "Koshkaliya",
+        "Co\u0219calia"
     ],
     "name:ita_x_preferred":[
         "Co\u0219calia"
     ],
+    "name:ita_x_variant":[
+        "Co\u015fcalia"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e8\u10d9\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Co\u015fcalia"
     ],
     "name:ron_x_preferred":[
         "Co\u0219calia"
@@ -98,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747125,
+    "wof:lastmodified":1563375048,
     "wof:name":"Co\u015fcalia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

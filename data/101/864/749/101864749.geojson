@@ -19,11 +19,20 @@
     "name:ace_x_preferred":[
         "Pa\u015fcani"
     ],
+    "name:ace_x_variant":[
+        "Pa\u0219cani"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0634\u0643\u0627\u0646\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u0634\u06a9\u0646 \u060c"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Municipiul Pa\u0219cani"
     ],
     "name:deu_x_preferred":[
         "Pa\u0219cani"
@@ -32,7 +41,8 @@
         "Pashkan'"
     ],
     "name:eng_x_variant":[
-        "Pashkany"
+        "Pashkany",
+        "Pa\u0219cani"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0634\u06a9\u0646"
@@ -49,11 +59,53 @@
     "name:ind_x_preferred":[
         "Pa\u015fcani"
     ],
+    "name:ind_x_variant":[
+        "Pa\u0219cani"
+    ],
+    "name:ita_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30b7\u30e5\u30ab\u30cb"
+    ],
+    "name:lit_x_preferred":[
+        "Pa\u0161kanis"
+    ],
+    "name:min_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:msa_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:nld_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:pol_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:por_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:ron_x_preferred":[
+        "Pa\u0219cani"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
+    ],
     "name:spa_x_preferred":[
         "Pa\u0219cani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u044c"
     ],
     "name:und_x_colloquial":[
         "Pascani"
@@ -63,6 +115,12 @@
     ],
     "name:unk_x_variant":[
         "Pashkan\u2019"
+    ],
+    "name:vie_x_preferred":[
+        "Pascani"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u4ec0\u5361\u5c3c"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*H\u00eence\u015fti",
@@ -110,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747686,
+    "wof:lastmodified":1563374967,
     "wof:name":"Pa\u015fcani",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

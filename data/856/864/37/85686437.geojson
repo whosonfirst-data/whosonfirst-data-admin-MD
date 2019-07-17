@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Districte de Fale\u015fti"
     ],
+    "name:ceb_x_preferred":[
+        "F\u0103le\u0219ti"
+    ],
     "name:ces_x_preferred":[
         "Okres F\u0103le\u0219ti"
     ],
@@ -61,6 +64,9 @@
     "name:fra_x_preferred":[
         "Raion de Fale\u0219ti"
     ],
+    "name:fra_x_variant":[
+        "Fale\u0219ti"
+    ],
     "name:guj_x_preferred":[
         "\u0aab\u0ab2\u0ac7\u0ab8\u0acd\u0a9f\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ind_x_preferred":[
         "Raionul F\u0103le\u015fti"
+    ],
+    "name:ind_x_variant":[
+        "Raionul F\u0103le\u0219ti"
     ],
     "name:ita_x_preferred":[
         "distretto di F\u0103le\u015fti"
@@ -109,8 +118,14 @@
     "name:pol_x_preferred":[
         "Rejon F\u0103le\u015fti"
     ],
+    "name:pol_x_variant":[
+        "Rejon F\u0103le\u0219ti"
+    ],
     "name:por_x_preferred":[
         "Condado de F\u0103le\u015fti"
+    ],
+    "name:por_x_variant":[
+        "F\u0103le\u0219ti"
     ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0424\u044d\u043b\u0435\u0448\u0442\u044c"
@@ -118,7 +133,8 @@
     "name:ron_x_variant":[
         "Raionul F\u0103le\u0219ti",
         "Raionul F\u0103le\u015fti",
-        "raionul F\u0103le\u0219ti"
+        "raionul F\u0103le\u0219ti",
+        "F\u0103le\u0219ti"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u043b\u0435\u0448\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
@@ -129,14 +145,23 @@
     "name:slk_x_preferred":[
         "F\u0103le\u015fti"
     ],
+    "name:slk_x_variant":[
+        "F\u0103le\u0219ti"
+    ],
     "name:spa_x_preferred":[
         "Distrito de F\u0103le\u0219ti"
     ],
     "name:sqi_x_preferred":[
         "Raionul Fale\u015fti"
     ],
+    "name:sqi_x_variant":[
+        "Raionul Fale\u0219ti"
+    ],
     "name:swe_x_preferred":[
         "F\u0103le\u015fti"
+    ],
+    "name:swe_x_variant":[
+        "F\u0103le\u0219ti"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bcd\u0bb8\u0bcd\u0ba4\u0bc0  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -146,6 +171,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e1f\u0e32\u0e40\u0e23\u0e2a\u0e15\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e1f\u0e2d\u0e40\u0e25\u0e0a\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Falesti District"
@@ -281,7 +309,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840306,
+    "wof:lastmodified":1563374673,
     "wof:name":"F\u0103le\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

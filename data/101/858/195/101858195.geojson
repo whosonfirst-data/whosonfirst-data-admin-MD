@@ -21,9 +21,19 @@
     ],
     "name:eng_x_variant":[
         "Gilichen'",
-        "Gilicheni"
+        "Gilicheni",
+        "Ghiliceni"
+    ],
+    "name:fra_x_preferred":[
+        "Ghiliceni"
     ],
     "name:ita_x_preferred":[
+        "Ghiliceni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10da\u10d8\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Ghiliceni"
     ],
     "name:ron_x_preferred":[
@@ -91,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744284,
+    "wof:lastmodified":1563374844,
     "wof:name":"Ghiliceni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

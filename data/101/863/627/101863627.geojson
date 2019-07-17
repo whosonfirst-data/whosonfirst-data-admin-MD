@@ -22,13 +22,20 @@
     "name:eng_x_variant":[
         "Raskaitsy",
         "Raskaytsy",
-        "Reskayts'"
+        "Reskayts'",
+        "R\u0103sc\u0103ie\u021bi"
     ],
     "name:ita_x_preferred":[
         "R\u0103sc\u0103ie\u021bi"
     ],
+    "name:ita_x_variant":[
+        "R\u0103sc\u0103ie\u0163i"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10e1\u10d9\u10d4\u10d8\u10d4\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "R\u0103sc\u0103ie\u0163i"
     ],
     "name:ron_x_preferred":[
         "R\u0103sc\u0103ie\u021bi"
@@ -99,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747102,
+    "wof:lastmodified":1563375016,
     "wof:name":"R\u0103sc\u0103ie\u0163i",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

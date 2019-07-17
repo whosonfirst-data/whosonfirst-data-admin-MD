@@ -20,13 +20,17 @@
         "Bakchaliya"
     ],
     "name:eng_x_variant":[
-        "Bakchealya"
+        "Bakchealya",
+        "Baccealia"
     ],
     "name:ita_x_preferred":[
         "Baccealia"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d9\u10e9\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Baccealia"
     ],
     "name:ron_x_preferred":[
         "Baccealia"
@@ -93,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747130,
+    "wof:lastmodified":1563375009,
     "wof:name":"Baccealia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -17,13 +17,136 @@
     "mps:longitude":28.29105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Soroca"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u0438"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0440\u043e\u043a\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Soroca"
+    ],
+    "name:ceb_x_preferred":[
+        "Soroca"
+    ],
+    "name:ces_x_preferred":[
+        "Soroca"
+    ],
+    "name:crh_x_preferred":[
+        "Soroka"
+    ],
+    "name:dan_x_preferred":[
+        "Soroca"
+    ],
+    "name:deu_x_preferred":[
+        "Soroca"
+    ],
     "name:eng_x_preferred":[
         "Soroka"
+    ],
+    "name:eng_x_variant":[
+        "Soroca"
+    ],
+    "name:est_x_preferred":[
+        "Soroca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Soroca"
+    ],
+    "name:fra_x_preferred":[
+        "Soroca"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e8\u05d5\u05e7\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Soroca"
+    ],
+    "name:hsb_x_preferred":[
+        "Soroca"
+    ],
+    "name:hun_x_preferred":[
+        "Soroca"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0580\u0578\u056f\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Soroca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30ed\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e0\u10dd\u10d9\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ub85c\uce74"
+    ],
+    "name:lav_x_preferred":[
+        "Soroka"
+    ],
+    "name:lit_x_preferred":[
+        "Soroka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Soroca"
+    ],
+    "name:nno_x_preferred":[
+        "Soroca"
+    ],
+    "name:nob_x_preferred":[
+        "Soroca"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u06a9\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Soroki"
+    ],
+    "name:por_x_preferred":[
+        "Soroca"
+    ],
+    "name:ron_x_preferred":[
+        "Soroca"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u0440\u043e\u043a\u0430"
     ],
     "name:rus_x_variant":[
+        "\u0421\u043e\u0440\u043e\u043a\u0438"
+    ],
+    "name:sah_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Soroca"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Soroca"
+    ],
+    "name:szl_x_preferred":[
+        "Soroca"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e2d\u0e42\u0e23\u0e01\u0e32"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u043e\u0440\u043e\u043a\u0438"
     ],
     "name:und_x_preferred":[
@@ -34,6 +157,9 @@
     ],
     "name:unk_x_variant":[
         "Soroki"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u7f85\u5361"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Soroca",
@@ -84,7 +210,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714911,
+    "wof:lastmodified":1563374902,
     "wof:name":"Soroca",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

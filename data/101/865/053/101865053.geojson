@@ -23,6 +23,12 @@
     "name:bel_x_variant":[
         "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Camenca"
+    ],
     "name:ces_x_preferred":[
         "Kamenka"
     ],
@@ -45,6 +51,9 @@
         "Camenca"
     ],
     "name:fra_x_preferred":[
+        "Camenca"
+    ],
+    "name:hsb_x_preferred":[
         "Camenca"
     ],
     "name:ita_x_preferred":[
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":101865053,
-    "wof:lastmodified":1561840319,
+    "wof:lastmodified":1563374923,
     "wof:name":"Camenca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -20,9 +20,19 @@
         "Syrkovo"
     ],
     "name:eng_x_variant":[
-        "Syrkova"
+        "Syrkova",
+        "S\u00eercova"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00eercova"
     ],
     "name:ita_x_preferred":[
+        "S\u00eercova"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10e0\u10d9\u10dd\u10d5\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "S\u00eercova"
     ],
     "name:ron_x_preferred":[
@@ -94,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747780,
+    "wof:lastmodified":1563374993,
     "wof:name":"S\u00eercova",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

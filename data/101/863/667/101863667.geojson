@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "Chirc\u0103ie\u0219tii Noi"
     ],
+    "name:ita_x_variant":[
+        "Chirc\u0103ie\u015ftii Noi"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10d9\u10d4\u10d4\u10e8\u10e2\u10d8-\u10dc\u10dd\u10d8"
     ],
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840325,
+    "wof:lastmodified":1563375020,
     "wof:name":"Chirc\u0103ie\u015ftii Noi",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

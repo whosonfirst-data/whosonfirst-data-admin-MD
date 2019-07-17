@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0427\u043e\u043a \u041c\u0430\u0439\u0434\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Cioc-Maidan"
+    ],
     "name:dan_x_preferred":[
         "Cioc-Maidan"
     ],
@@ -81,6 +84,9 @@
     "name:unk_x_variant":[
         "Chok-Meydan"
     ],
+    "name:zho_x_preferred":[
+        "\u65af\u6d1b\u535a\u9f4a\u4e9e"
+    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
@@ -127,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840321,
+    "wof:lastmodified":1563374963,
     "wof:name":"Cioc-Maidan",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

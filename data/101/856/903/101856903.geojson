@@ -24,12 +24,19 @@
         "Cortinul Nou",
         "Novyy Karten",
         "Svetloye",
-        "Svetlyy"
+        "Svetlyy",
+        "Svetl\u00eei"
+    ],
+    "name:fra_x_preferred":[
+        "Svetl\u00eei"
     ],
     "name:gag_x_preferred":[
         "Svetl\u0131y"
     ],
     "name:ita_x_preferred":[
+        "Svetl\u00eei"
+    ],
+    "name:nld_x_preferred":[
         "Svetl\u00eei"
     ],
     "name:ron_x_preferred":[
@@ -103,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743619,
+    "wof:lastmodified":1563374791,
     "wof:name":"Svetl\u00eei",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

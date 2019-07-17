@@ -20,10 +20,17 @@
         "Choresht'"
     ],
     "name:eng_x_variant":[
-        "Choreshty"
+        "Choreshty",
+        "Ciore\u0219ti"
     ],
     "name:ita_x_preferred":[
         "Ciore\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10e0\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ciore\u015fti"
     ],
     "name:ron_x_preferred":[
         "Ciore\u0219ti"
@@ -93,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744184,
+    "wof:lastmodified":1563374779,
     "wof:name":"Ciore\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

@@ -16,6 +16,15 @@
     "mps:longitude":28.449408,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:dan_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:deu_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
     "name:eng_x_preferred":[
         "Khadzhsi-Abduly"
     ],
@@ -23,16 +32,41 @@
         "Aleksandru Ioan Kuza",
         "Khadzhi-Abdul",
         "Kuza Voda",
-        "Suvorovo"
+        "Suvorovo",
+        "Alexandru Ioan Cuza"
+    ],
+    "name:eus_x_preferred":[
+        "Alexandru Ioan Cuza"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631\u0648 \u0644\u0648\u0627\u0646 \u06a9\u0648\u0632\u0627\u060c \u06a9\u0627\u0647\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631\u0648 \u0644\u0648\u0627\u0646 \u06a9\u0648\u0632\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Alexandru Ioan Cuza"
     ],
     "name:ita_x_preferred":[
         "Alexandru Ioan Cuza"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d4\u10e5\u10e1\u10d0\u10dc\u10d3\u10e0\u10e3-\u10d8\u10dd\u10d0\u10dc-\u10d9\u10e3\u10d6\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:nno_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:nob_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:pol_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:por_x_preferred":[
+        "Alexandru Ioan Cuza"
     ],
     "name:ron_x_preferred":[
         "Alexandru Ioan Cuza"
@@ -43,8 +77,17 @@
     "name:rus_x_variant":[
         "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
+    "name:swe_x_preferred":[
+        "Alexandru Ioan Cuza"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0443-\u0419\u043e\u0430\u043d-\u041a\u0443\u0437\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0456\u044f"
     ],
     "name:und_x_colloquial":[
         "Cuza-Voda",
@@ -106,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743574,
+    "wof:lastmodified":1563374784,
     "wof:name":"Alexandru Ioan Cuza",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

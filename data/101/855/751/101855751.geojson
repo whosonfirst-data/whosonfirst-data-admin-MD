@@ -24,13 +24,20 @@
         "Chebalakchiya",
         "Chobalakchiya",
         "Chobolakchiya",
-        "Chobolokchiya"
+        "Chobolokchiya",
+        "Ciobalaccia"
+    ],
+    "name:fra_x_preferred":[
+        "Ciobalaccia"
     ],
     "name:ita_x_preferred":[
         "Ciobalaccia"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10dd\u10d1\u10d0\u10da\u10d0\u10d9\u10e9\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ciobalaccia"
     ],
     "name:ron_x_preferred":[
         "Ciobalaccia"
@@ -97,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743055,
+    "wof:lastmodified":1563374939,
     "wof:name":"Ciobalaccia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

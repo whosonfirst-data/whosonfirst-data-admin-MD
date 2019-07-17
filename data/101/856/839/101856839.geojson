@@ -20,14 +20,83 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Taraclia"
+    ],
+    "name:deu_x_preferred":[
+        "Taraclia"
+    ],
+    "name:eng_x_preferred":[
+        "Taraclia"
+    ],
+    "name:est_x_preferred":[
+        "Taraclia"
+    ],
+    "name:fin_x_preferred":[
+        "Taraclia"
+    ],
+    "name:fra_x_preferred":[
+        "Taraclia"
+    ],
+    "name:hsb_x_preferred":[
+        "Taraclia"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0580\u0561\u056f\u056c\u056b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Taraclia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30e9\u30af\u30ea\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub77c\ud074\ub9ac\uc544"
+    ],
+    "name:lit_x_preferred":[
+        "Taraklija"
+    ],
+    "name:nld_x_preferred":[
+        "Taraclia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0631\u0627\u06a9\u0644\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Taraclia"
+    ],
+    "name:por_x_preferred":[
+        "Taraclia"
+    ],
+    "name:ron_x_preferred":[
+        "Taraclia"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:sah_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Taraclia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Taraclia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0456\u044f"
     ],
     "name:und_x_preferred":[
         "Tarakliya"
     ],
     "name:unk_x_variant":[
         "Tarakliya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u514b\u5229\u4e9e"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Taraclia",
@@ -82,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743588,
+    "wof:lastmodified":1563374798,
     "wof:name":"Taraclia",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

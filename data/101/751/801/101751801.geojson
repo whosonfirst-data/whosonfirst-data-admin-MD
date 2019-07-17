@@ -29,11 +29,17 @@
     "name:bul_x_preferred":[
         "\u0420\u044a\u0431\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00eebni\u0163a"
+    ],
     "name:ces_x_preferred":[
         "R\u00eebni\u021ba"
     ],
     "name:ces_x_variant":[
         "Rybnica"
+    ],
+    "name:crh_x_preferred":[
+        "R\u0131bnitsa"
     ],
     "name:dan_x_preferred":[
         "R\u00eebni\u0163a"
@@ -53,6 +59,12 @@
     "name:eng_x_preferred":[
         "R\u00eebni\u0163a"
     ],
+    "name:eng_x_variant":[
+        "R\u00eebni\u021ba"
+    ],
+    "name:est_x_preferred":[
+        "R\u00eebni\u021ba"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0628\u0646\u06cc\u062a\u0627"
     ],
@@ -70,6 +82,12 @@
     ],
     "name:hrv_x_preferred":[
         "R\u00eebni\u021ba"
+    ],
+    "name:hsb_x_preferred":[
+        "R\u00eebni\u021ba"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0562\u0576\u056b\u0581\u0561"
     ],
     "name:ind_x_preferred":[
         "R\u00eebni\u0163a"
@@ -157,6 +175,9 @@
     "name:zho_x_preferred":[
         "\u52d2\u5e03\u5c3c\u5bdf"
     ],
+    "name:zho_x_variant":[
+        "\u57fa\u5e0c\u8bb7\u4e4c"
+    ],
     "qs:a0":"Moldova",
     "qs:a1":"*UAT din St\u00eenga Nistrului",
     "qs:a1_alt":"Unitatile administrativ-teritoriale din stinga Nistrului",
@@ -215,7 +236,7 @@
         }
     ],
     "wof:id":101751801,
-    "wof:lastmodified":1561840317,
+    "wof:lastmodified":1563374896,
     "wof:name":"R\u00eebni\u0163a",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

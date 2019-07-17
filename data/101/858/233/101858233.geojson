@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "M\u0103rine\u0219ti"
     ],
+    "name:eng_x_preferred":[
+        "M\u0103rine\u015fti"
+    ],
     "name:ron_x_preferred":[
         "M\u0103rine\u0219ti"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101858233,
-    "wof:lastmodified":1544744303,
+    "wof:lastmodified":1563374860,
     "wof:name":"M\u0103rine\u015fti",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

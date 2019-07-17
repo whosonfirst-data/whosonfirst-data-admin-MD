@@ -24,11 +24,188 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:arg_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ast_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:bam_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:bar_x_preferred":[
+        "Nicolae Filip"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0456\u043a\u0430\u043b\u0430\u0439 \u0414\u0437\u043c\u0456\u0442\u0440\u044b\u0435\u0432\u0456\u0447 \u0424\u0456\u043b\u0456\u043f"
     ],
+    "name:bre_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:cat_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ces_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:cos_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:cym_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:dan_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:deu_x_preferred":[
+        "Nicolae Filip"
+    ],
     "name:eng_x_preferred":[
         "Balti"
+    ],
+    "name:eng_x_variant":[
+        "Nicolae Filip"
+    ],
+    "name:epo_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:est_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:eus_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:fin_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:fra_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:frc_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:frp_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:fur_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:gla_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:gle_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:glg_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:gsw_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:hrv_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:hun_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u056c\u0561\u0575 \u0556\u056b\u056c\u056b\u057a"
+    ],
+    "name:ido_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ile_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ina_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ind_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ita_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:jam_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:kab_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:kon_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:lav_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:lij_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:lim_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:lit_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ltz_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:min_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:mlg_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:msa_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:nap_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:nds_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:nld_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:nno_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:nob_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:nrm_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:oci_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:pap_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:pcd_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:pms_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:pol_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:por_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:prg_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:rgn_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:roh_x_preferred":[
+        "Nicolae Filip"
     ],
     "name:ron_x_preferred":[
         "Nicolae Filip"
@@ -36,8 +213,62 @@
     "name:rus_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u043f"
     ],
+    "name:scn_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:sco_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:slk_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:spa_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:sqi_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:srd_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:swa_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:swe_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:tur_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043b\u0430 \u0424\u0456\u043b\u0456\u043f"
+    ],
     "name:unk_x_variant":[
         "B\u0103l\u0163i"
+    ],
+    "name:vec_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:vie_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:vls_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:vmf_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:vol_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:wln_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:wol_x_preferred":[
+        "Nicolae Filip"
+    ],
+    "name:zul_x_preferred":[
+        "Nicolae Filip"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDA",
@@ -156,7 +387,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553550900,
+    "wof:lastmodified":1563374677,
     "wof:name":"mun.B\u0103l\u0163i",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

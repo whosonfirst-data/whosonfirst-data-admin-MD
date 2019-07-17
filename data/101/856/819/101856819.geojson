@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0447\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Copceac"
+    ],
     "name:dan_x_preferred":[
         "Copceac"
     ],
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840311,
+    "wof:lastmodified":1563374787,
     "wof:name":"Copceac",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

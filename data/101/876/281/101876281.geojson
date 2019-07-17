@@ -20,13 +20,20 @@
         "Kalarashovka"
     ],
     "name:eng_x_variant":[
-        "Kalarasheuka"
+        "Kalarasheuka",
+        "Calara\u0219ovca"
     ],
     "name:ita_x_preferred":[
         "Calara\u0219ovca"
     ],
+    "name:ita_x_variant":[
+        "Calara\u015fovca"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10da\u10d0\u10e0\u10d0\u10e8\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Calara\u015fovca"
     ],
     "name:ron_x_preferred":[
         "C\u0103l\u0103ra\u0219euca"
@@ -95,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714911,
+    "wof:lastmodified":1563374902,
     "wof:name":"Calara\u015fovca",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

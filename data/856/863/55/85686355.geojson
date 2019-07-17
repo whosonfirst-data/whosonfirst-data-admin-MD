@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Districte de Leova"
     ],
+    "name:ceb_x_preferred":[
+        "Leova"
+    ],
     "name:ces_x_preferred":[
         "Okres Leova"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Leova"
+    ],
+    "name:fra_x_variant":[
+        "Leova"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a93\u0ab5\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -114,6 +120,9 @@
     "name:por_x_preferred":[
         "Condado de Leova"
     ],
+    "name:por_x_variant":[
+        "Leova"
+    ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041b\u0435\u043e\u0432\u0430"
     ],
@@ -147,6 +156,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e25\u0e35\u0e42\u0e2d\u0e27\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e25\u0e2d\u0e2d\u0e27\u0e32"
     ],
     "name:tur_x_preferred":[
         "Leova District"
@@ -282,7 +294,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840307,
+    "wof:lastmodified":1563374685,
     "wof:name":"Leova",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

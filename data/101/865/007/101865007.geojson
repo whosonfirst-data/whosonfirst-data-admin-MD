@@ -20,9 +20,19 @@
         "Zhabka"
     ],
     "name:eng_x_variant":[
-        "Zhapka"
+        "Zhapka",
+        "Japca"
+    ],
+    "name:fra_x_preferred":[
+        "Japca"
     ],
     "name:ita_x_preferred":[
+        "Japca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10df\u10d0\u10de\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Japca"
     ],
     "name:ron_x_preferred":[
@@ -87,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747821,
+    "wof:lastmodified":1563374924,
     "wof:name":"Japca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

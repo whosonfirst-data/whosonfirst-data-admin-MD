@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Districte de Cantemir"
     ],
+    "name:ceb_x_preferred":[
+        "Cantemir"
+    ],
     "name:ces_x_preferred":[
         "Okres Cantemir"
     ],
@@ -134,6 +137,9 @@
     "name:por_x_preferred":[
         "Condado de Cantemir"
     ],
+    "name:por_x_variant":[
+        "Cantemir"
+    ],
     "name:ron_x_preferred":[
         "Cantemir"
     ],
@@ -171,6 +177,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e40\u0e0b\u0e19\u0e17\u0e34\u0e40\u0e21\u0e2d"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e31\u0e19\u0e40\u0e15\u0e21\u0e35\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Cantemir District"
@@ -310,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840307,
+    "wof:lastmodified":1563374682,
     "wof:name":"Cantemir",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

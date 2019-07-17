@@ -16,6 +16,9 @@
     "mps:longitude":28.54595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Ulmu"
+    ],
     "name:dan_x_preferred":[
         "Ulmu"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:eng_x_preferred":[
         "Ul'ma"
+    ],
+    "name:eng_x_variant":[
+        "Ulmu"
     ],
     "name:eus_x_preferred":[
         "Ulmu"
@@ -54,6 +60,9 @@
     ],
     "name:ron_x_preferred":[
         "Ulmu"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Chiperceni"
     ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u043c\u0443"
@@ -122,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840327,
+    "wof:lastmodified":1563375045,
     "wof:name":"Ulmu",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

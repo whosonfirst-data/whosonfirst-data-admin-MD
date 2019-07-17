@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "Cuhne\u0219ti"
     ],
+    "name:ita_x_variant":[
+        "Cuhne\u015fti"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10f0\u10dc\u10d4\u10e8\u10e2\u10d8"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840315,
+    "wof:lastmodified":1563374846,
     "wof:name":"Cuhne\u015fti",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

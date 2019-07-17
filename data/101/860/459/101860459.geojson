@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Lipnik"
     ],
+    "name:eng_x_variant":[
+        "Lipnic"
+    ],
     "name:ita_x_preferred":[
         "Lipnic"
     ],
@@ -90,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840314,
+    "wof:lastmodified":1563374838,
     "wof:name":"Lipnic",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

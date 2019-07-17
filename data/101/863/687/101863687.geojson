@@ -19,11 +19,20 @@
     "name:eng_x_preferred":[
         "Zayn"
     ],
+    "name:eng_x_variant":[
+        "Zaim"
+    ],
     "name:ita_x_preferred":[
         "Zaim"
     ],
     "name:kat_x_preferred":[
         "\u10d6\u10d0\u10d8\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Zaim"
+    ],
+    "name:pol_x_preferred":[
+        "Zaim"
     ],
     "name:ron_x_preferred":[
         "Zaim"
@@ -90,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747133,
+    "wof:lastmodified":1563375015,
     "wof:name":"Zaim",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

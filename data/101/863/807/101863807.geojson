@@ -16,23 +16,66 @@
     "mps:longitude":29.319807,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:dan_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:deu_x_preferred":[
+        "Ro\u0219cani"
+    ],
     "name:eng_x_preferred":[
         "Roshkany"
     ],
     "name:eng_x_variant":[
-        "Roshkan'"
+        "Roshkan'",
+        "Ro\u0219cani"
+    ],
+    "name:eus_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:fra_x_preferred":[
+        "Ro\u0219cani"
     ],
     "name:ita_x_preferred":[
         "Ro\u0219cani"
     ],
+    "name:ita_x_variant":[
+        "Ro\u015fcani"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10dd\u10e8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ro\u015fcani"
+    ],
+    "name:nno_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:nob_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:pol_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:por_x_preferred":[
+        "Ro\u0219cani"
     ],
     "name:ron_x_preferred":[
         "Ro\u0219cani"
     ],
+    "name:ron_x_variant":[
+        "Comuna Ucrainca"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0448\u043a\u0430\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Ro\u0219cani"
+    ],
+    "name:swe_x_preferred":[
+        "Ro\u0219cani"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0448\u043a\u0430\u043d\u044c"
@@ -93,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747196,
+    "wof:lastmodified":1563375053,
     "wof:name":"Ro\u015fcani",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

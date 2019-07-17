@@ -21,9 +21,19 @@
     ],
     "name:eng_x_variant":[
         "Novaya Synzhereya",
-        "Syngereniy Noy"
+        "Syngereniy Noy",
+        "S\u00eengereii Noi"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00eengereii Noi"
     ],
     "name:ita_x_preferred":[
+        "S\u00eengereii Noi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10ef\u10d4\u10e0\u10d4\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "S\u00eengereii Noi"
     ],
     "name:ron_x_preferred":[
@@ -98,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744304,
+    "wof:lastmodified":1563374855,
     "wof:name":"S\u00eengereii Noi",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

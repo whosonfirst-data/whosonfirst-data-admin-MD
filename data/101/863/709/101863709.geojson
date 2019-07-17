@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0647\u064a\u0646\u0633\u0634\u062a\u064a"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0425\u044b\u043d\u0447\u044d\u0448\u0446\u044c"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u044a\u043d\u0447\u0435\u0449"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00eence\u015fti"
     ],
     "name:eng_x_preferred":[
         "Khencheshti"
@@ -33,10 +39,16 @@
         "Kotovskoye",
         "H\u00eence\u0219ti"
     ],
+    "name:est_x_preferred":[
+        "H\u00eence\u0219ti"
+    ],
     "name:fin_x_preferred":[
         "H\u00eence\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "H\u00eence\u0219ti"
+    ],
+    "name:hsb_x_preferred":[
         "H\u00eence\u0219ti"
     ],
     "name:hye_x_preferred":[
@@ -77,6 +89,9 @@
     ],
     "name:spa_x_preferred":[
         "H\u00eence\u0219ti"
+    ],
+    "name:spa_x_variant":[
+        "H\u00eence\u015fti"
     ],
     "name:srp_x_preferred":[
         "\u0425\u0438\u043d\u0447\u0435\u0448\u0442\u0438"
@@ -156,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840324,
+    "wof:lastmodified":1563375006,
     "wof:name":"H\u00eence\u015fti",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

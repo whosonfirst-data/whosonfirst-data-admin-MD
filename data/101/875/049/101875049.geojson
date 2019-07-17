@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000265,
+    "geom:area_square_m":2229350.725549,
     "geom:bbox":"28.1120298305,47.1662235116,28.1304899894,47.1846828114",
     "geom:latitude":47.1755,
     "geom:longitude":28.121195,
@@ -18,8 +19,20 @@
     "name:eng_x_preferred":[
         "Chuteshty"
     ],
+    "name:eng_x_variant":[
+        "Ciute\u0219ti"
+    ],
     "name:ita_x_preferred":[
         "Ciute\u0219ti"
+    ],
+    "name:ita_x_variant":[
+        "Ciute\u015fti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10e2\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Ciute\u015fti"
     ],
     "name:ron_x_preferred":[
         "Ciute\u0219ti"
@@ -86,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527642575,
+    "wof:lastmodified":1563374761,
     "wof:name":"Ciute\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

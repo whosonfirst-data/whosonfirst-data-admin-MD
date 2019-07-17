@@ -16,6 +16,9 @@
     "mps:longitude":28.105411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "V\u00een\u0103tori"
+    ],
     "name:dan_x_preferred":[
         "V\u00een\u0103tori"
     ],
@@ -73,6 +76,9 @@
     "name:unk_x_variant":[
         "Vynatory"
     ],
+    "name:vol_x_preferred":[
+        "Sadova"
+    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Nisporeni",
     "qs:a1_alt":"Nisporeni",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":101858007,
-    "wof:lastmodified":1561840315,
+    "wof:lastmodified":1563374855,
     "wof:name":"V\u00een\u0103tori",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

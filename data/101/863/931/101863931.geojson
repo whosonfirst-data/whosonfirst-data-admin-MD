@@ -20,10 +20,20 @@
         "Biyesht'"
     ],
     "name:eng_x_variant":[
-        "Biyeshty"
+        "Biyeshty",
+        "Bie\u0219ti"
     ],
     "name:ita_x_preferred":[
         "Bie\u0219ti"
+    ],
+    "name:ita_x_variant":[
+        "Bie\u015fti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Bie\u015fti"
     ],
     "name:ron_x_preferred":[
         "Bie\u0219ti"
@@ -90,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747261,
+    "wof:lastmodified":1563375001,
     "wof:name":"Bie\u015fti",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

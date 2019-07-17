@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
+    "geom:area_square_m":2672767.716824,
     "geom:bbox":"27.6041079014,47.3107996976,27.6397610259,47.3374888076",
     "geom:latitude":47.324876,
     "geom:longitude":27.624212,
@@ -19,7 +20,28 @@
     "name:deu_x_preferred":[
         "Sculeni"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03bf\u03c5\u03bb\u03ad\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Sculeni"
+    ],
+    "name:fra_x_preferred":[
+        "Sculeni"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e7\u05d5\u05dc\u05e0\u05d9"
+    ],
     "name:ita_x_preferred":[
+        "Sculeni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30af\u30ec\u30cb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d9\u10e3\u10da\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Sculeni"
     ],
     "name:ron_x_preferred":[
@@ -30,6 +52,9 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u043a\u0443\u043b\u044f\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Sculeni"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0443\u043b\u0435\u043d\u044c"
@@ -81,7 +106,7 @@
         }
     ],
     "wof:id":101782581,
-    "wof:lastmodified":1527688319,
+    "wof:lastmodified":1563374888,
     "wof:name":"Sculeni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

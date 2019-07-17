@@ -21,9 +21,19 @@
     ],
     "name:eng_x_variant":[
         "Cotiugenii Mici",
-        "Kotyudzheni-Mich'"
+        "Kotyudzheni-Mich'",
+        "Cotiujenii Mici"
+    ],
+    "name:fra_x_preferred":[
+        "Cotiujenii Mici"
     ],
     "name:ita_x_preferred":[
+        "Cotiujenii Mici"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10d8\u10e3\u10df\u10d4\u10dc\u10d8-\u10db\u10d8\u10e9\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Cotiujenii Mici"
     ],
     "name:ron_x_preferred":[
@@ -91,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744736,
+    "wof:lastmodified":1563374770,
     "wof:name":"Cotiujenii Mici",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

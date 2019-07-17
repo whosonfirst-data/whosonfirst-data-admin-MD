@@ -20,13 +20,20 @@
         "Bashkany"
     ],
     "name:eng_x_variant":[
-        "Boshkana"
+        "Boshkana",
+        "Bo\u0219cana"
     ],
     "name:ita_x_preferred":[
         "Bo\u0219cana"
     ],
+    "name:ita_x_variant":[
+        "Bo\u015fcana"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10e8\u10d9\u10d0\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Bo\u015fcana"
     ],
     "name:ron_x_preferred":[
         "Bo\u0219cana"
@@ -93,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747225,
+    "wof:lastmodified":1563375055,
     "wof:name":"Bo\u015fcana",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

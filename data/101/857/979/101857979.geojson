@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0438\u0441\u043f\u043e\u0440\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Nisporeni"
+    ],
     "name:ces_x_preferred":[
         "Nisporeni"
     ],
@@ -29,10 +32,16 @@
     "name:eng_x_preferred":[
         "Nisporeni"
     ],
+    "name:est_x_preferred":[
+        "Nisporeni"
+    ],
     "name:fin_x_preferred":[
         "Nisporeni"
     ],
     "name:fra_x_preferred":[
+        "Nisporeni"
+    ],
+    "name:hsb_x_preferred":[
         "Nisporeni"
     ],
     "name:ita_x_preferred":[
@@ -138,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840310,
+    "wof:lastmodified":1563374777,
     "wof:name":"Nisporeni",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

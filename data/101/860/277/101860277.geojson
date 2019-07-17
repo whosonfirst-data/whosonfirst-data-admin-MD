@@ -16,6 +16,12 @@
     "mps:longitude":27.384598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u043f\u0447\u044b\u043d\u044c"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043f\u0447\u0438\u043d\u0438"
+    ],
     "name:cat_x_preferred":[
         "Cupcini"
     ],
@@ -26,7 +32,13 @@
         "Kupchino",
         "Cupcini"
     ],
+    "name:est_x_preferred":[
+        "Cupcini"
+    ],
     "name:fra_x_preferred":[
+        "Cupcini"
+    ],
+    "name:hsb_x_preferred":[
         "Cupcini"
     ],
     "name:ind_x_preferred":[
@@ -123,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840313,
+    "wof:lastmodified":1563374828,
     "wof:name":"Cupcini",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

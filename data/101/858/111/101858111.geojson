@@ -23,10 +23,20 @@
         "Hidiutii Noi",
         "Hiliutii Noi",
         "Khiliutsy",
-        "Novyye Khiliytsy"
+        "Novyye Khiliytsy",
+        "Hiliu\u021bi"
     ],
     "name:ita_x_preferred":[
         "Hiliu\u021bi"
+    ],
+    "name:ita_x_variant":[
+        "Hiliu\u0163i"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d8\u10da\u10d8\u10e3\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Hiliu\u0163i"
     ],
     "name:ron_x_preferred":[
         "Hiliu\u021bi"
@@ -96,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744241,
+    "wof:lastmodified":1563374862,
     "wof:name":"Hiliu\u0163i",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

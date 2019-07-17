@@ -19,11 +19,20 @@
     "name:eng_x_preferred":[
         "Kamenka"
     ],
+    "name:eng_x_variant":[
+        "Camenca"
+    ],
+    "name:fra_x_preferred":[
+        "Camenca"
+    ],
     "name:ita_x_preferred":[
         "Camenca"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10db\u10d4\u10dc\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Camenca"
     ],
     "name:ron_x_preferred":[
         "Camenca"
@@ -87,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744257,
+    "wof:lastmodified":1563374863,
     "wof:name":"Camenca",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "Ple\u0219eni"
     ],
+    "name:ita_x_variant":[
+        "Ple\u015feni"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10da\u10d4\u10e8\u10d4\u10dc\u10d8"
     ],
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840309,
+    "wof:lastmodified":1563374763,
     "wof:name":"Ple\u015feni",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

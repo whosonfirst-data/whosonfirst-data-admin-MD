@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
+    "geom:area_square_m":2022662.587349,
     "geom:bbox":"28.464729441,47.6063576531,28.4831860744,47.624858339",
     "geom:latitude":47.615079,
     "geom:longitude":28.474555,
@@ -20,10 +21,17 @@
     ],
     "name:eng_x_variant":[
         "Kazanesht'",
-        "Kazaneshti"
+        "Kazaneshti",
+        "C\u0103z\u0103ne\u0219ti"
     ],
     "name:ita_x_preferred":[
         "C\u0103z\u0103ne\u0219ti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10d6\u10d4\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0103z\u0103ne\u015fti"
     ],
     "name:ron_x_preferred":[
         "C\u0103z\u0103ne\u0219ti"
@@ -87,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714912,
+    "wof:lastmodified":1563374906,
     "wof:name":"C\u0103z\u0103ne\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

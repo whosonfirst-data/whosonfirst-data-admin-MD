@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000254,
+    "geom:area_square_m":2147921.794351,
     "geom:bbox":"29.0452241088,46.9066736137,29.0637167837,46.9251671984",
     "geom:latitude":46.915629,
     "geom:longitude":29.054119,
@@ -20,13 +21,17 @@
     ],
     "name:eng_x_variant":[
         "Ketros",
-        "Ketros Byk"
+        "Ketros Byk",
+        "Chetrosu"
     ],
     "name:ita_x_preferred":[
         "Chetrosu"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d4\u10e2\u10e0\u10dd\u10e1\u10e3"
+    ],
+    "name:nld_x_preferred":[
+        "Chetrosu"
     ],
     "name:ron_x_preferred":[
         "Chetrosu"
@@ -93,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714914,
+    "wof:lastmodified":1563374908,
     "wof:name":"Chetrosu",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

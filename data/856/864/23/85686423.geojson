@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Districte de C\u0103l\u0103ra\u0219i"
     ],
+    "name:ceb_x_preferred":[
+        "Raionul C\u0103l\u0103ra\u0219i"
+    ],
     "name:dan_x_preferred":[
         "Calarasi District"
     ],
@@ -51,11 +54,17 @@
     "name:eng_x_preferred":[
         "Calarasi"
     ],
+    "name:eng_x_variant":[
+        "C\u0103l\u0103ra\u0219i District"
+    ],
     "name:fin_x_preferred":[
         "C\u0103l\u0103ra\u0219in piiri"
     ],
     "name:fra_x_preferred":[
         "Raion de C\u0103l\u0103ra\u0219i"
+    ],
+    "name:fra_x_variant":[
+        "C\u0103l\u0103ra\u0219i"
     ],
     "name:glg_x_preferred":[
         "Distrito de C\u0103l\u0103ra\u0219i"
@@ -69,8 +78,14 @@
     "name:hun_x_preferred":[
         "C\u0103l\u0103ra\u015fi j\u00e1r\u00e1s"
     ],
+    "name:hun_x_variant":[
+        "C\u0103l\u0103ra\u0219i j\u00e1r\u00e1s"
+    ],
     "name:ind_x_preferred":[
         "Raionul C\u0103l\u0103ra\u015fi"
+    ],
+    "name:ind_x_variant":[
+        "Raionul C\u0103l\u0103ra\u0219i"
     ],
     "name:ita_x_preferred":[
         "distretto di C\u0103l\u0103ra\u0219i"
@@ -111,6 +126,9 @@
     "name:pol_x_preferred":[
         "Rejon C\u0103l\u0103ra\u015fi"
     ],
+    "name:pol_x_variant":[
+        "Rejon C\u0103l\u0103ra\u0219i"
+    ],
     "name:por_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
     ],
@@ -126,11 +144,17 @@
     "name:slk_x_preferred":[
         "C\u0103l\u0103ra\u015fi"
     ],
+    "name:slk_x_variant":[
+        "C\u0103l\u0103ra\u0219i"
+    ],
     "name:spa_x_preferred":[
         "Distrito de C\u0103l\u0103ra\u0219i"
     ],
     "name:sqi_x_preferred":[
         "Raionul C\u0103l\u0103ra\u015fi"
+    ],
+    "name:sqi_x_variant":[
+        "Raionul C\u0103l\u0103ra\u0219i"
     ],
     "name:swe_x_preferred":[
         "C\u0103l\u0103ra\u0219i"
@@ -143,6 +167,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e25\u0e32\u0e23\u0e32\u0e0a\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e01\u0e2d\u0e40\u0e25\u0e2d\u0e23\u0e31\u0e0a"
     ],
     "name:tur_x_preferred":[
         "Qu\u1eadn Calarasi"
@@ -279,7 +306,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840306,
+    "wof:lastmodified":1563374676,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

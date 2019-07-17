@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u043e\u043b\u0442\u0430\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Joltai"
+    ],
     "name:dan_x_preferred":[
         "Joltai"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:ron_x_preferred":[
         "Joltai"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Moscovei"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u043b\u0442\u0430\u0439"
@@ -130,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840311,
+    "wof:lastmodified":1563374792,
     "wof:name":"Joltai",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

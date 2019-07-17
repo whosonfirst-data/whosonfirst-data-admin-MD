@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Dobrudja"
     ],
+    "name:ceb_x_preferred":[
+        "Dobrogea"
+    ],
     "name:ces_x_preferred":[
         "Dobrud\u017ea"
     ],
@@ -100,6 +103,9 @@
     "name:ita_x_preferred":[
         "Dobrugia"
     ],
+    "name:ita_x_variant":[
+        "Dobrogea"
+    ],
     "name:jpn_x_preferred":[
         "\u30c9\u30d6\u30ed\u30b8\u30e3"
     ],
@@ -130,6 +136,9 @@
     "name:nno_x_preferred":[
         "Dobrudsja"
     ],
+    "name:nno_x_variant":[
+        "Dobrogea"
+    ],
     "name:nob_x_preferred":[
         "Dobrogea"
     ],
@@ -145,8 +154,14 @@
     "name:por_x_preferred":[
         "Dobruja"
     ],
+    "name:por_x_variant":[
+        "Dobrogea"
+    ],
     "name:ron_x_preferred":[
         "Dobrogea"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Tohatin"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0443\u0434\u0436\u0430"
@@ -163,17 +178,26 @@
     "name:spa_x_preferred":[
         "Dobruja"
     ],
+    "name:spa_x_variant":[
+        "Dobrogea"
+    ],
     "name:srp_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0443\u045f\u0430"
     ],
     "name:swe_x_preferred":[
         "Dobrudzja"
     ],
+    "name:swe_x_variant":[
+        "Dobrogea"
+    ],
     "name:tur_x_preferred":[
         "Dobruca"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0443\u0434\u0436\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u0434\u0436\u0430"
     ],
     "name:unk_x_variant":[
         "Dobruzha"
@@ -222,7 +246,7 @@
         }
     ],
     "wof:id":101864777,
-    "wof:lastmodified":1561840322,
+    "wof:lastmodified":1563374970,
     "wof:name":"Dobrogea",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

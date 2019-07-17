@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u042f\u0440\u0433\u0430\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Iargara"
+    ],
     "name:eng_x_preferred":[
         "Yargora"
     ],
@@ -28,8 +31,17 @@
         "Yargara",
         "Iargara"
     ],
+    "name:est_x_preferred":[
+        "Iargara"
+    ],
     "name:fra_x_preferred":[
         "Iargara"
+    ],
+    "name:hsb_x_preferred":[
+        "Iargara"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u0580\u0563\u0561\u0580\u0561"
     ],
     "name:ita_x_preferred":[
         "Iargara"
@@ -51,6 +63,9 @@
     ],
     "name:spa_x_preferred":[
         "Iargara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0430\u0440\u0433\u0430\u0440\u0430"
     ],
     "name:swe_x_preferred":[
         "Iargara"
@@ -126,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840320,
+    "wof:lastmodified":1563374947,
     "wof:name":"Iargara",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

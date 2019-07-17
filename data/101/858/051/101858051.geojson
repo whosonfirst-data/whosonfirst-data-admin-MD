@@ -23,10 +23,20 @@
         "Cholak",
         "Todiresht'",
         "Todireshty",
-        "Todoreshti"
+        "Todoreshti",
+        "Todire\u0219ti"
     ],
     "name:ita_x_preferred":[
         "Todire\u0219ti"
+    ],
+    "name:ita_x_variant":[
+        "Todire\u015fti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10d3\u10d8\u10e0\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Todire\u015fti"
     ],
     "name:ron_x_preferred":[
         "Todire\u0219ti"
@@ -93,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744212,
+    "wof:lastmodified":1563374882,
     "wof:name":"Todire\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

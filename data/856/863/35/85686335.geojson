@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Districte de Cahul"
     ],
+    "name:ceb_x_preferred":[
+        "Raionul Cahul"
+    ],
     "name:ces_x_preferred":[
         "Okres Cahul"
     ],
@@ -51,11 +54,17 @@
     "name:eng_x_preferred":[
         "Cahul"
     ],
+    "name:eng_x_variant":[
+        "Cahul District"
+    ],
     "name:fin_x_preferred":[
         "Cahulin piiri"
     ],
     "name:fra_x_preferred":[
         "Raion de Cahul"
+    ],
+    "name:fra_x_variant":[
+        "Cahul"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab9\u0ac1\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -114,6 +123,9 @@
     "name:por_x_preferred":[
         "Condado de Cahul"
     ],
+    "name:por_x_variant":[
+        "Cahul"
+    ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041a\u0430\u0445\u0443\u043b"
     ],
@@ -147,6 +159,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e04\u0e32\u0e2e\u0e39\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e2e\u0e38\u0e25"
     ],
     "name:tur_x_preferred":[
         "Cahul District"
@@ -280,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840307,
+    "wof:lastmodified":1563374680,
     "wof:name":"Cahul",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Districte de Nisporeni"
     ],
+    "name:ceb_x_preferred":[
+        "Nisporeni"
+    ],
     "name:dan_x_preferred":[
         "Nisporeni District"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Nisporeni"
+    ],
+    "name:fra_x_variant":[
+        "Nisporeni"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0ab8\u0acd\u0aaa\u0acb\u0ab0\u0ac7\u0aa8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -111,6 +117,9 @@
     "name:por_x_preferred":[
         "Condado de Nisporeni"
     ],
+    "name:por_x_variant":[
+        "Nisporeni"
+    ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041d\u0438\u0441\u043f\u043e\u0440\u0435\u043d\u044c"
     ],
@@ -144,6 +153,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e19\u0e34\u0e2a\u0e42\u0e1b\u0e40\u0e23\u0e19\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e19\u0e34\u0e2a\u0e1b\u0e2d\u0e40\u0e23\u0e19"
     ],
     "name:tur_x_preferred":[
         "Nisporeni District"
@@ -279,7 +291,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840307,
+    "wof:lastmodified":1563374682,
     "wof:name":"Nisporeni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -22,11 +22,17 @@
     "name:eng_x_preferred":[
         "Chumay"
     ],
+    "name:eng_x_variant":[
+        "Vinogradovca"
+    ],
     "name:ita_x_preferred":[
         "Vinogradovca"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10dc\u10dd\u10d2\u10e0\u10d0\u10d3\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Vinogradovca"
     ],
     "name:ron_x_preferred":[
         "Vinogradovca"
@@ -92,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743587,
+    "wof:lastmodified":1563374797,
     "wof:name":"Ciumai",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

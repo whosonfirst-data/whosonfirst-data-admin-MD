@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Baymakliya"
     ],
+    "name:eng_x_variant":[
+        "Baimaclia"
+    ],
     "name:fra_x_preferred":[
         "Baimaclia"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840327,
+    "wof:lastmodified":1563375054,
     "wof:name":"Baimaclia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

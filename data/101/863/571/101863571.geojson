@@ -20,19 +20,28 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u064a\u0634\u0644\u064a\u0627"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u0427\u044b\u043c\u0456\u0448\u043b\u0456\u044f"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u043c\u0438\u0448\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Cimi\u015flia"
+    ],
     "name:ces_x_preferred":[
         "Cimi\u015flia"
+    ],
+    "name:dan_x_preferred":[
+        "Cimi\u0219lia"
     ],
     "name:deu_x_preferred":[
         "Cimi\u015flia"
     ],
     "name:eng_x_preferred":[
+        "Cimi\u0219lia"
+    ],
+    "name:est_x_preferred":[
         "Cimi\u0219lia"
     ],
     "name:fin_x_preferred":[
@@ -41,11 +50,20 @@
     "name:fra_x_preferred":[
         "Cimi\u0219lia"
     ],
+    "name:hsb_x_preferred":[
+        "Cimi\u0219lia"
+    ],
     "name:ind_x_preferred":[
         "Cimi\u015flia"
     ],
     "name:ita_x_preferred":[
         "Cimi\u0219lia"
+    ],
+    "name:ita_x_variant":[
+        "Cimi\u015flia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30df\u30b7\u30ea\u30a2"
     ],
     "name:kor_x_preferred":[
         "\uce58\ubbf8\uc290\ub9ac\uc544"
@@ -73,6 +91,9 @@
     ],
     "name:spa_x_preferred":[
         "Cimi\u0219lia"
+    ],
+    "name:spa_x_variant":[
+        "Cimi\u015flia"
     ],
     "name:srp_x_preferred":[
         "\u0427\u0438\u043c\u0438\u0448\u043b\u0438\u0458\u0430"
@@ -153,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840328,
+    "wof:lastmodified":1563375062,
     "wof:name":"Cimi\u015flia",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

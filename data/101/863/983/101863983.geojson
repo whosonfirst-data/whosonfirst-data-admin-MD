@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Step'-Soch'"
     ],
+    "name:eng_x_variant":[
+        "Step-Soci"
+    ],
     "name:fra_x_preferred":[
         "Step-Soci"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840326,
+    "wof:lastmodified":1563375026,
     "wof:name":"Step-Soci",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -16,8 +16,14 @@
     "mps:longitude":29.504484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015eipca"
+    ],
     "name:ita_x_preferred":[
         "\u0218ipca"
+    ],
+    "name:ita_x_variant":[
+        "\u015eipca"
     ],
     "name:ron_x_preferred":[
         "\u0218ipca"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101864857,
-    "wof:lastmodified":1544747743,
+    "wof:lastmodified":1563374959,
     "wof:name":"\u015eipca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

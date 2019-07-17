@@ -16,16 +16,41 @@
     "mps:longitude":27.346705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Stolniceni"
+    ],
+    "name:deu_x_preferred":[
+        "Stolniceni"
+    ],
     "name:eng_x_preferred":[
         "Stol'nicheni"
     ],
     "name:eng_x_variant":[
         "Stol'nichany",
         "Stol'nichen'",
-        "Stol'nicheny"
+        "Stol'nicheny",
+        "Stolniceni"
+    ],
+    "name:fra_x_preferred":[
+        "Stolniceni"
+    ],
+    "name:ita_x_preferred":[
+        "Stolniceni"
+    ],
+    "name:nld_x_preferred":[
+        "Stolniceni"
+    ],
+    "name:ron_x_preferred":[
+        "Stolniceni"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u043b\u044c\u043d\u0438\u0447\u0435\u043d\u044b"
+    ],
+    "name:rus_x_variant":[
+        "\u0421\u0442\u043e\u043b\u043d\u0438\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u043d\u0456\u0447\u0435\u043d\u044c"
     ],
     "name:und_x_preferred":[
         "Stolniceni"
@@ -79,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745351,
+    "wof:lastmodified":1563374805,
     "wof:name":"Stolniceni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

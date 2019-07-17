@@ -19,7 +19,19 @@
     "name:eng_x_preferred":[
         "Lalovo"
     ],
+    "name:eng_x_variant":[
+        "Lalova"
+    ],
+    "name:fra_x_preferred":[
+        "Lalova"
+    ],
     "name:ita_x_preferred":[
+        "Lalova"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10da\u10dd\u10d5\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Lalova"
     ],
     "name:ron_x_preferred":[
@@ -87,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747788,
+    "wof:lastmodified":1563374996,
     "wof:name":"Lalova",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

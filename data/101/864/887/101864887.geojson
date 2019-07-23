@@ -16,6 +16,9 @@
     "mps:longitude":29.859175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Corotna"
+    ],
     "name:dan_x_preferred":[
         "Corotna"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:spa_x_preferred":[
         "Corotna"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0458\u0443"
     ],
     "name:swe_x_preferred":[
         "Corotna"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":101864887,
-    "wof:lastmodified":1561840321,
+    "wof:lastmodified":1563374955,
     "wof:name":"Corotna",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

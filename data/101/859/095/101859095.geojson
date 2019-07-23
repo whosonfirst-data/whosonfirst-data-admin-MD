@@ -55,6 +55,9 @@
     "name:ron_x_preferred":[
         "Moara de Piatr\u0103"
     ],
+    "name:ron_x_variant":[
+        "Comuna Bahmut"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0430\u0440\u0430 \u0434\u0435 \u041f\u044f\u0442\u0440\u044d"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101859095,
-    "wof:lastmodified":1561840310,
+    "wof:lastmodified":1563374772,
     "wof:name":"Moara de Piatr\u0103",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

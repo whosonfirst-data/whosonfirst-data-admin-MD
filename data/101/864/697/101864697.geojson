@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0448\u043a\u0430\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Ba\u0219calia"
+    ],
     "name:dan_x_preferred":[
         "Ba\u0219calia"
     ],
@@ -28,6 +31,9 @@
     "name:eng_x_preferred":[
         "Bashkaliya"
     ],
+    "name:eng_x_variant":[
+        "Ba\u0219calia"
+    ],
     "name:eus_x_preferred":[
         "Ba\u0219calia"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Ba\u0219calia"
+    ],
+    "name:ita_x_variant":[
+        "Ba\u015fcalia"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e8\u10d9\u10d0\u10da\u10d8\u10d0"
@@ -78,6 +87,9 @@
     ],
     "name:unk_x_variant":[
         "Bashkaliya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u06cc\u0627\u06a9"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Basarabeasca",
@@ -126,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840323,
+    "wof:lastmodified":1563374987,
     "wof:name":"Ba\u015fcalia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

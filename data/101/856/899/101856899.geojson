@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0435\u0442 \u041b\u0443\u043d\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chiriet-Lunga"
+    ],
     "name:dan_x_preferred":[
         "Chiriet-Lunga"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eng_x_preferred":[
         "Kiriyet-Lunga"
+    ],
+    "name:eng_x_variant":[
+        "Chiriet-Lunga"
     ],
     "name:eus_x_preferred":[
         "Chiriet-Lunga"
@@ -57,6 +63,9 @@
     ],
     "name:ron_x_preferred":[
         "Chiriet-Lunga"
+    ],
+    "name:ron_x_variant":[
+        "Comuna G\u0103v\u0103noasa"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0438\u0435\u0442-\u041b\u0443\u043d\u0433\u0430"
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840312,
+    "wof:lastmodified":1563374798,
     "wof:name":"Chiriet-Lunga",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

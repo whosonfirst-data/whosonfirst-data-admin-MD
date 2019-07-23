@@ -20,13 +20,17 @@
         "Parkova"
     ],
     "name:eng_x_variant":[
-        "Parkovo"
+        "Parkovo",
+        "Parcova"
     ],
     "name:ita_x_preferred":[
         "Parcova"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10e0\u10d9\u10dd\u10d5\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Parcova"
     ],
     "name:ron_x_preferred":[
         "Parcova"
@@ -90,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745360,
+    "wof:lastmodified":1563374835,
     "wof:name":"Parcova",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "mps:longitude":27.855339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cri\u0219c\u0103u\u021bi"
+    ],
     "name:dan_x_preferred":[
         "Cri\u0219c\u0103u\u021bi"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ita_x_preferred":[
         "Cri\u0219c\u0103u\u021bi"
+    ],
+    "name:ita_x_variant":[
+        "Cri\u015fc\u0103u\u0163i"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10d8\u10e8\u10d9\u10d4\u10e3\u10ea\u10d8"
@@ -70,6 +76,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u0448\u043a\u0430\u0443\u0446\u044c"
+    ],
+    "name:ukr_x_variant":[
+        "\u0426\u0430\u0443\u043b"
     ],
     "name:und_x_colloquial":[
         "Criscauti"
@@ -127,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840312,
+    "wof:lastmodified":1563374809,
     "wof:name":"Cri\u015fc\u0103u\u0163i",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

@@ -16,16 +16,157 @@
     "mps:longitude":29.397539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Teiu"
+    ],
+    "name:arg_x_preferred":[
+        "Teiu"
+    ],
+    "name:ast_x_preferred":[
+        "Teiu"
+    ],
+    "name:bar_x_preferred":[
+        "Teiu"
+    ],
+    "name:bre_x_preferred":[
+        "Teiu"
+    ],
+    "name:cat_x_preferred":[
+        "Teiu"
+    ],
+    "name:ceb_x_preferred":[
+        "Teiu"
+    ],
+    "name:ces_x_preferred":[
+        "Teiu"
+    ],
+    "name:cos_x_preferred":[
+        "Teiu"
+    ],
+    "name:cym_x_preferred":[
+        "Teiu"
+    ],
+    "name:dan_x_preferred":[
+        "Teiu"
+    ],
     "name:deu_x_preferred":[
+        "Teiu"
+    ],
+    "name:eng_x_preferred":[
         "Teiu"
     ],
     "name:epo_x_preferred":[
         "Teiu"
     ],
+    "name:est_x_preferred":[
+        "Teiu"
+    ],
+    "name:eus_x_preferred":[
+        "Teiu"
+    ],
+    "name:fin_x_preferred":[
+        "Teiu"
+    ],
+    "name:fra_x_preferred":[
+        "Teiu"
+    ],
+    "name:frp_x_preferred":[
+        "Teiu"
+    ],
+    "name:fur_x_preferred":[
+        "Teiu"
+    ],
+    "name:gla_x_preferred":[
+        "Teiu"
+    ],
+    "name:gle_x_preferred":[
+        "Teiu"
+    ],
+    "name:glg_x_preferred":[
+        "Teiu"
+    ],
+    "name:gsw_x_preferred":[
+        "Teiu"
+    ],
+    "name:hrv_x_preferred":[
+        "Teiu"
+    ],
     "name:hun_x_preferred":[
         "Teiu"
     ],
+    "name:ido_x_preferred":[
+        "Teiu"
+    ],
+    "name:ile_x_preferred":[
+        "Teiu"
+    ],
+    "name:ina_x_preferred":[
+        "Teiu"
+    ],
+    "name:ind_x_preferred":[
+        "Teiu"
+    ],
+    "name:isl_x_preferred":[
+        "Teiu"
+    ],
     "name:ita_x_preferred":[
+        "Teiu"
+    ],
+    "name:kon_x_preferred":[
+        "Teiu"
+    ],
+    "name:lij_x_preferred":[
+        "Teiu"
+    ],
+    "name:lim_x_preferred":[
+        "Teiu"
+    ],
+    "name:ltz_x_preferred":[
+        "Teiu"
+    ],
+    "name:min_x_preferred":[
+        "Teiu"
+    ],
+    "name:mlg_x_preferred":[
+        "Teiu"
+    ],
+    "name:msa_x_preferred":[
+        "Teiu"
+    ],
+    "name:nap_x_preferred":[
+        "Teiu"
+    ],
+    "name:nds_x_preferred":[
+        "Teiu"
+    ],
+    "name:nld_x_preferred":[
+        "Teiu"
+    ],
+    "name:nno_x_preferred":[
+        "Teiu"
+    ],
+    "name:nob_x_preferred":[
+        "Teiu"
+    ],
+    "name:nrm_x_preferred":[
+        "Teiu"
+    ],
+    "name:oci_x_preferred":[
+        "Teiu"
+    ],
+    "name:pcd_x_preferred":[
+        "Teiu"
+    ],
+    "name:pms_x_preferred":[
+        "Teiu"
+    ],
+    "name:pol_x_preferred":[
+        "Teiu"
+    ],
+    "name:por_x_preferred":[
+        "Teiu"
+    ],
+    "name:roh_x_preferred":[
         "Teiu"
     ],
     "name:ron_x_preferred":[
@@ -37,10 +178,55 @@
     "name:rus_x_preferred":[
         "\u0422\u0435\u044f"
     ],
+    "name:scn_x_preferred":[
+        "Teiu"
+    ],
+    "name:sco_x_preferred":[
+        "Teiu"
+    ],
+    "name:slk_x_preferred":[
+        "Teiu"
+    ],
+    "name:slv_x_preferred":[
+        "Teiu"
+    ],
+    "name:spa_x_preferred":[
+        "Teiu"
+    ],
+    "name:srd_x_preferred":[
+        "Teiu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u0458\u0443"
+    ],
+    "name:swa_x_preferred":[
+        "Teiu"
+    ],
+    "name:swe_x_preferred":[
+        "Teiu"
+    ],
     "name:unk_x_variant":[
         "Teia"
     ],
+    "name:vec_x_preferred":[
+        "Teiu"
+    ],
     "name:vie_x_preferred":[
+        "Teiu"
+    ],
+    "name:vls_x_preferred":[
+        "Teiu"
+    ],
+    "name:vol_x_preferred":[
+        "Teiu"
+    ],
+    "name:wln_x_preferred":[
+        "Teiu"
+    ],
+    "name:wol_x_preferred":[
+        "Teiu"
+    ],
+    "name:zul_x_preferred":[
         "Teiu"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +280,7 @@
         }
     ],
     "wof:id":101864845,
-    "wof:lastmodified":1544747737,
+    "wof:lastmodified":1563374955,
     "wof:name":"Teiu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

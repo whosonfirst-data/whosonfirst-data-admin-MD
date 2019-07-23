@@ -19,8 +19,20 @@
     "name:eng_x_preferred":[
         "Novyye Faleshty"
     ],
+    "name:eng_x_variant":[
+        "F\u0103le\u0219tii Noi"
+    ],
     "name:ita_x_preferred":[
         "F\u0103le\u0219tii Noi"
+    ],
+    "name:ita_x_variant":[
+        "F\u0103le\u015ftii Noi"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d4\u10da\u10d4\u10e8\u10e2\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "F\u0103le\u015ftii Noi"
     ],
     "name:ron_x_preferred":[
         "F\u0103le\u0219tii Noi"
@@ -92,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744228,
+    "wof:lastmodified":1563374850,
     "wof:name":"F\u0103le\u015ftii Noi",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

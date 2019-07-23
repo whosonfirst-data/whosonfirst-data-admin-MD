@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Okolina"
     ],
+    "name:eng_x_variant":[
+        "Ocolina"
+    ],
     "name:ita_x_preferred":[
         "Ocolina"
     ],
@@ -90,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840313,
+    "wof:lastmodified":1563374822,
     "wof:name":"Ocolina",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

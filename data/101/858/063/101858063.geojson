@@ -22,13 +22,20 @@
     "name:eng_x_variant":[
         "Oneshkany",
         "Onishkan'",
-        "Onishkany"
+        "Onishkany",
+        "Oni\u0219cani"
     ],
     "name:ita_x_preferred":[
         "Oni\u0219cani"
     ],
+    "name:ita_x_variant":[
+        "Oni\u015fcani"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10dc\u10d8\u10e8\u10d9\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Oni\u015fcani"
     ],
     "name:ron_x_preferred":[
         "Oni\u0219cani"
@@ -98,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744218,
+    "wof:lastmodified":1563374857,
     "wof:name":"Oni\u015fcani",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

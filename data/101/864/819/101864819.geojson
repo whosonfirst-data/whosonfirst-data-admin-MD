@@ -21,10 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Galesht'",
-        "Galeshty"
+        "Galeshty",
+        "G\u0103le\u0219ti"
     ],
     "name:ita_x_preferred":[
         "G\u0103le\u0219ti"
+    ],
+    "name:ita_x_variant":[
+        "G\u0103le\u015fti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10da\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "G\u0103le\u015fti"
     ],
     "name:ron_x_preferred":[
         "G\u0103le\u0219ti"
@@ -94,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747722,
+    "wof:lastmodified":1563374956,
     "wof:name":"G\u0103le\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

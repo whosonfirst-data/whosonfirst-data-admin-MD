@@ -19,11 +19,20 @@
     "name:eng_x_preferred":[
         "Kirka"
     ],
+    "name:eng_x_variant":[
+        "Chirca"
+    ],
+    "name:fra_x_preferred":[
+        "Chirca"
+    ],
     "name:ita_x_preferred":[
         "Chirca"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10e0\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Chirca"
     ],
     "name:ron_x_preferred":[
         "Chirca"
@@ -87,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747182,
+    "wof:lastmodified":1563375064,
     "wof:name":"Chirca",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

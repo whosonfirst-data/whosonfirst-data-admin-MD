@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u0430\u0439\u0442\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Musaitu"
+    ],
     "name:dan_x_preferred":[
         "Musaitu"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:ron_x_preferred":[
         "Musaitu"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Sad\u00eec"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u0430\u0438\u0442\u0443"
@@ -134,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840311,
+    "wof:lastmodified":1563374791,
     "wof:name":"Musaitu",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

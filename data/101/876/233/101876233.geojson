@@ -20,6 +20,12 @@
     "name:bel_x_variant":[
         "\u0420\u044b\u0448\u043a\u0430\u043d\u044c"
     ],
+    "name:bul_x_preferred":[
+        "\u0420\u044a\u0448\u043a\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u00ee\u015fcani"
+    ],
     "name:deu_x_preferred":[
         "R\u00ee\u0219cani"
     ],
@@ -32,8 +38,14 @@
     "name:fra_x_preferred":[
         "R\u00ee\u0219cani"
     ],
+    "name:hsb_x_preferred":[
+        "R\u00ee\u0219cani"
+    ],
     "name:ita_x_preferred":[
         "R\u00ee\u0219cani"
+    ],
+    "name:ita_x_variant":[
+        "R\u00ee\u015fcani"
     ],
     "name:kor_x_preferred":[
         "\ub974\uc288\uce74\ub2c8"
@@ -50,6 +62,9 @@
     "name:pol_x_preferred":[
         "R\u00ee\u0219cani"
     ],
+    "name:pol_x_variant":[
+        "Ryszkany"
+    ],
     "name:ron_x_preferred":[
         "R\u00ee\u0219cani"
     ],
@@ -58,6 +73,9 @@
     ],
     "name:spa_x_preferred":[
         "R\u00ee\u0219cani"
+    ],
+    "name:spa_x_variant":[
+        "R\u00ee\u015fcani"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0438\u0448\u043a\u0430\u043d\u0438"
@@ -127,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840318,
+    "wof:lastmodified":1563374906,
     "wof:name":"R\u00ee\u015fcani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

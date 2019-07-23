@@ -16,6 +16,9 @@
     "mps:longitude":29.298451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tocuz"
+    ],
     "name:dan_x_preferred":[
         "Tocuz"
     ],
@@ -71,6 +74,9 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043a\u0443\u0437"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u043e\u0448\u043a\u0430\u043d\u044c"
+    ],
     "name:und_x_preferred":[
         "Tocuz"
     ],
@@ -124,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840327,
+    "wof:lastmodified":1563375053,
     "wof:name":"Tocuz",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

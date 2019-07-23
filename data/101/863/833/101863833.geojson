@@ -17,14 +17,32 @@
     "mps:longitude":28.465006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Bucov\u0103\u0163"
+    ],
     "name:eng_x_preferred":[
         "Bykovets"
+    ],
+    "name:eng_x_variant":[
+        "Bucov\u0103\u021b"
     ],
     "name:fra_x_preferred":[
         "Bucov\u0103\u021b"
     ],
+    "name:hsb_x_preferred":[
+        "Bucov\u0103\u021b"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u056f\u0578\u057e\u0565\u0581"
+    ],
     "name:ita_x_preferred":[
         "Bucov\u0103\u021b"
+    ],
+    "name:ita_x_variant":[
+        "Bucov\u0103\u0163"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10d9\u10dd\u10d5\u10d4\u10ea\u10d8"
@@ -38,6 +56,9 @@
     "name:pol_x_preferred":[
         "Bucov\u0103\u021b"
     ],
+    "name:pol_x_variant":[
+        "Bucov\u0103\u0163"
+    ],
     "name:ron_x_preferred":[
         "Bucov\u0103\u021b"
     ],
@@ -46,6 +67,9 @@
     ],
     "name:spa_x_preferred":[
         "Bucov\u0103\u021b"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432a\u0446"
     ],
     "name:swe_x_preferred":[
         "Bucov\u0103\u0163"
@@ -117,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840325,
+    "wof:lastmodified":1563375023,
     "wof:name":"Bucov\u0103\u0163",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

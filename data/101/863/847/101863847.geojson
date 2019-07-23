@@ -19,7 +19,19 @@
     "name:eng_x_preferred":[
         "Lozovo"
     ],
+    "name:eng_x_variant":[
+        "Lozova"
+    ],
     "name:ita_x_preferred":[
+        "Lozova"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10d6\u10dd\u10d5\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Lozova"
+    ],
+    "name:pol_x_preferred":[
         "Lozova"
     ],
     "name:ron_x_preferred":[
@@ -33,6 +45,9 @@
     ],
     "name:spa_x_preferred":[
         "Lozova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0437\u043e\u0432\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0437\u043e\u0432\u0430"
@@ -90,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747216,
+    "wof:lastmodified":1563375050,
     "wof:name":"Lozova",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

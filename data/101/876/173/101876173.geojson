@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
+    "geom:area_square_m":1630516.189304,
     "geom:bbox":"28.9422886106,47.1323951701,28.9607878805,47.1450455422",
     "geom:latitude":47.138018,
     "geom:longitude":28.951508,
@@ -19,13 +20,20 @@
         "Grushevo"
     ],
     "name:eng_x_variant":[
-        "Grusheva"
+        "Grusheva",
+        "Hru\u0219ova"
     ],
     "name:ita_x_preferred":[
         "Hru\u0219ova"
     ],
+    "name:ita_x_variant":[
+        "Hru\u015fova"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10e0\u10e3\u10e8\u10dd\u10d5\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Hru\u015fova"
     ],
     "name:ron_x_preferred":[
         "Hru\u0219ova"
@@ -93,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714913,
+    "wof:lastmodified":1563374907,
     "wof:name":"Hru\u015fova",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

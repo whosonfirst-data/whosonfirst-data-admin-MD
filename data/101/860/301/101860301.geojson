@@ -21,13 +21,23 @@
     ],
     "name:eng_x_variant":[
         "Kukoneshti-Nouy",
-        "Kukoneshty-Novyye"
+        "Kukoneshty-Novyye",
+        "Cucone\u0219tii Noi"
     ],
     "name:ita_x_preferred":[
         "Cucone\u0219tii Noi"
     ],
+    "name:ita_x_variant":[
+        "Cucone\u015ftii Noi"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10d9\u10dd\u10dc\u10d4\u10e8\u10e2\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10d9\u10e3\u10d9\u10dd\u10dc\u10d4\u10e8\u10e2\u10d8\u10d8-\u10dc\u10dd\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Cucone\u015ftii Noi"
     ],
     "name:ron_x_preferred":[
         "Cucone\u0219tii Noi"
@@ -94,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745365,
+    "wof:lastmodified":1563374802,
     "wof:name":"Cucone\u015ftii Noi",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

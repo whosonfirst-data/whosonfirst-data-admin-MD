@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0631\u0648\u062a\u0634\u064a\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0440\u043e\u043a\u0456\u0435\u045e\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cd\u09b0\u09cb\u0995\u09be\u0987\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Drochia"
+    ],
+    "name:ceb_x_preferred":[
+        "Raionul Drochia"
     ],
     "name:dan_x_preferred":[
         "Drochia District"
@@ -57,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "Raion de Drochia"
+    ],
+    "name:fra_x_variant":[
+        "Drochia"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acd\u0ab0\u0acb\u0a9a\u0abf\u0aaf\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -112,6 +121,9 @@
     "name:por_x_preferred":[
         "Condado de Drochia"
     ],
+    "name:por_x_variant":[
+        "Drochia"
+    ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0414\u0440\u043e\u043a\u0438\u044f"
     ],
@@ -145,6 +157,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e42\u0e14\u0e23\u0e40\u0e0a\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e14\u0e23\u0e2d\u0e01\u0e35\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Drochia District"
@@ -280,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840306,
+    "wof:lastmodified":1563374671,
     "wof:name":"Drocia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

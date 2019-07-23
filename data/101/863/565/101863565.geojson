@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0431\u0430\u043a\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Abaclia"
+    ],
     "name:dan_x_preferred":[
         "Abaclia"
     ],
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840327,
+    "wof:lastmodified":1563375043,
     "wof:name":"Abaclia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

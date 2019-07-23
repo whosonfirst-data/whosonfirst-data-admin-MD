@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "Cos\u0103u\u021bi"
     ],
+    "name:ita_x_variant":[
+        "Cos\u0103u\u0163i"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30b5\u30a6\u30c6\u30a3"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840318,
+    "wof:lastmodified":1563374905,
     "wof:name":"Cos\u0103u\u0163i",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

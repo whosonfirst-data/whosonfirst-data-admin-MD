@@ -36,8 +36,17 @@
     "name:cat_x_preferred":[
         "Districte d'Ocni\u0163a"
     ],
+    "name:cat_x_variant":[
+        "districte d'Ocni\u021ba"
+    ],
+    "name:ceb_x_preferred":[
+        "Raionul Ocni\u021ba"
+    ],
     "name:ces_x_preferred":[
         "Okres Ocni\u0163a"
+    ],
+    "name:ces_x_variant":[
+        "Okres Ocni\u021ba"
     ],
     "name:dan_x_preferred":[
         "Ocni\u021ba District"
@@ -51,6 +60,9 @@
     "name:eng_x_preferred":[
         "Raionul Ocni\u0163a"
     ],
+    "name:eng_x_variant":[
+        "Ocni\u021ba District"
+    ],
     "name:fin_x_preferred":[
         "Ocni\u021ban piiri"
     ],
@@ -58,7 +70,8 @@
         "Raion de Ocni\u0163a"
     ],
     "name:fra_x_variant":[
-        "Raion d'Ocni\u021ba"
+        "Raion d'Ocni\u021ba",
+        "Ocni\u021ba"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0acd\u0aa8\u0ac0\u0a9f\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -68,6 +81,9 @@
     ],
     "name:ind_x_preferred":[
         "Raionul Ocni\u0163a"
+    ],
+    "name:ind_x_variant":[
+        "Raionul Ocni\u021ba"
     ],
     "name:ita_x_preferred":[
         "distretto di Ocni\u0163a"
@@ -111,8 +127,14 @@
     "name:pol_x_preferred":[
         "Rejon Ocni\u0163a"
     ],
+    "name:pol_x_variant":[
+        "Rejon Ocni\u021ba"
+    ],
     "name:por_x_preferred":[
         "Condado de Ocni\u0163a"
+    ],
+    "name:por_x_variant":[
+        "Ocni\u021ba"
     ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u041e\u043a\u043d\u0438\u0446\u044f"
@@ -130,14 +152,23 @@
     "name:slk_x_preferred":[
         "Ocni\u0163a"
     ],
+    "name:slk_x_variant":[
+        "Ocni\u021ba"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Ocni\u0163a"
     ],
     "name:sqi_x_preferred":[
         "Raionul Ocni\u0163a"
     ],
+    "name:sqi_x_variant":[
+        "Raionul Ocni\u021ba"
+    ],
     "name:swe_x_preferred":[
         "Raionul Ocni\u0163a"
+    ],
+    "name:swe_x_variant":[
+        "Raionul Ocni\u021ba"
     ],
     "name:tam_x_preferred":[
         "\u0b93\u0b95\u0bcd\u0ba8\u0bc0\u0ba4\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -147,6 +178,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2d\u0e47\u0e2d\u0e01\u0e19\u0e35\u0e15\u0e0b\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e2d\u0e2d\u0e01\u0e19\u0e34\u0e15\u0e0b\u0e32"
     ],
     "name:tur_x_preferred":[
         "Ornita District"
@@ -280,7 +314,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840305,
+    "wof:lastmodified":1563374666,
     "wof:name":"Ocni\u0163a",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -16,11 +16,29 @@
     "mps:longitude":29.046294,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0439\u043d\u0430\u0440\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:fra_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:hsb_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0575\u056b\u0576\u0561\u0580\u056b"
+    ],
     "name:ita_x_preferred":[
         "C\u0103inari"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d4\u10d8\u10dc\u10d0\u10e0\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "C\u0103inari"
     ],
     "name:pol_x_preferred":[
         "C\u0103inari"
@@ -33,6 +51,12 @@
     ],
     "name:rus_x_variant":[
         "\u0414\u0443\u043c\u0431\u0440\u0430\u0432\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "C\u0103inari"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0438\u043d\u0430\u0440\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0457\u043d\u0430\u0440\u0438"
@@ -96,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747120,
+    "wof:lastmodified":1563375024,
     "wof:name":"C\u0103inari",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

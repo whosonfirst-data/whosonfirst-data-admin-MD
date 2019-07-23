@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1665176.880172,
+    "geom:area_square_m":1665176.880175,
     "geom:bbox":"27.7200914542,48.4407455261,27.7385956594,48.4541725198",
     "geom:latitude":48.448034,
     "geom:longitude":27.729428,
@@ -19,11 +19,17 @@
     "name:eng_x_preferred":[
         "Volchinets"
     ],
+    "name:eng_x_variant":[
+        "V\u0103lcine\u0163"
+    ],
     "name:hye_x_preferred":[
         "\u054e\u0578\u056c\u0579\u056b\u0576\u0565\u0581"
     ],
     "name:ita_x_preferred":[
         "V\u0103lcine\u021b"
+    ],
+    "name:nld_x_preferred":[
+        "V\u0103lcine\u0163"
     ],
     "name:ron_x_preferred":[
         "V\u0103lcine\u021b"
@@ -86,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714916,
+    "wof:lastmodified":1563374911,
     "wof:name":"V\u0103lcine\u0163",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

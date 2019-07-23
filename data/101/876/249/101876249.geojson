@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
+    "geom:area_square_m":1774371.70922,
     "geom:bbox":"28.3451939996,47.8819623751,28.3606328726,47.8994321788",
     "geom:latitude":47.89035,
     "geom:longitude":28.353721,
@@ -21,9 +22,19 @@
     "name:eng_x_variant":[
         "Gura Kamenchiy",
         "Gura-Camenca",
-        "Gura-Kamenka"
+        "Gura-Kamenka",
+        "Gura Camencii"
+    ],
+    "name:fra_x_preferred":[
+        "Gura Camencii"
     ],
     "name:ita_x_preferred":[
+        "Gura Camencii"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10e0\u10d0-\u10d9\u10d0\u10db\u10d4\u10dc\u10e9\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Gura Camencii"
     ],
     "name:ron_x_preferred":[
@@ -85,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714917,
+    "wof:lastmodified":1563374912,
     "wof:name":"Gura Camencii",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

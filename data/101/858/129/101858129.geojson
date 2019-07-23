@@ -23,9 +23,19 @@
         "Cholaku-Nou",
         "Novaya Chelachovka",
         "Novyy Chiolaku",
-        "Novyy Cholak"
+        "Novyy Cholak",
+        "Ciolacu Nou"
+    ],
+    "name:fra_x_preferred":[
+        "Ciolacu Nou"
     ],
     "name:ita_x_preferred":[
+        "Ciolacu Nou"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10da\u10d0\u10d9\u10e3-\u10dc\u10dd\u10e3"
+    ],
+    "name:nld_x_preferred":[
         "Ciolacu Nou"
     ],
     "name:ron_x_preferred":[
@@ -93,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744250,
+    "wof:lastmodified":1563374862,
     "wof:name":"Ciolacu Nou",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

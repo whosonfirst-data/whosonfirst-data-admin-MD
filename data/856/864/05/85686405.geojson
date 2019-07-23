@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Districte de Str\u0103\u0219eni"
     ],
+    "name:ceb_x_preferred":[
+        "Raionul Str\u0103\u0219eni"
+    ],
     "name:dan_x_preferred":[
         "Str\u0103\u0219eni District"
     ],
@@ -61,6 +64,9 @@
     "name:fra_x_preferred":[
         "Raion de Str\u0103\u0219eni"
     ],
+    "name:fra_x_variant":[
+        "Str\u0103\u0219eni"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe\u0ab8\u0ac7\u0aa8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ind_x_preferred":[
         "Raionul Str\u0103\u015feni"
+    ],
+    "name:ind_x_variant":[
+        "Raionul Str\u0103\u0219eni"
     ],
     "name:ita_x_preferred":[
         "Distretto di Str\u0103\u0219eni"
@@ -112,6 +121,9 @@
     "name:por_x_preferred":[
         "Condado de Str\u0103\u015feni"
     ],
+    "name:por_x_variant":[
+        "Str\u0103\u0219eni"
+    ],
     "name:ron_x_preferred":[
         "Raionul Str\u0103\u0219eni"
     ],
@@ -127,14 +139,23 @@
     "name:slk_x_preferred":[
         "Str\u0103\u015feni"
     ],
+    "name:slk_x_variant":[
+        "Str\u0103\u0219eni"
+    ],
     "name:spa_x_preferred":[
         "Distrito de Str\u0103\u0219eni"
     ],
     "name:sqi_x_preferred":[
         "Raionul Str\u0103\u015feni"
     ],
+    "name:sqi_x_variant":[
+        "Raionul Str\u0103\u0219eni"
+    ],
     "name:swe_x_preferred":[
         "Raionul Str\u0103\u015feni"
+    ],
+    "name:swe_x_variant":[
+        "Raionul Str\u0103\u0219eni"
     ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0b9f\u0bb0\u0b9a\u0bc7\u0ba9\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -144,6 +165,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e2a\u0e15\u0e23\u0e32\u0e40\u0e0b\u0e19\u0e34"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e2a\u0e40\u0e15\u0e23\u0e2d\u0e40\u0e0a\u0e19"
     ],
     "name:tur_x_preferred":[
         "Straseni District"
@@ -279,7 +303,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840305,
+    "wof:lastmodified":1563374669,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

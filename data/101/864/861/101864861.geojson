@@ -16,6 +16,9 @@
     "mps:longitude":29.647632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Blijnii Hutor"
+    ],
     "name:dan_x_preferred":[
         "Blijnii Hutor"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043b\u0438\u0436\u043d\u0456\u0439 \u0425\u0443\u0442\u0456\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0443\u043d\u0433\u0430"
     ],
     "name:unk_x_variant":[
         "Klotova Balka"
@@ -122,7 +128,7 @@
         }
     ],
     "wof:id":101864861,
-    "wof:lastmodified":1561840321,
+    "wof:lastmodified":1563374959,
     "wof:name":"Blijnii Hutor",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

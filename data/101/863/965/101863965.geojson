@@ -16,6 +16,9 @@
     "mps:longitude":28.98975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Susleni"
+    ],
     "name:dan_x_preferred":[
         "Susleni"
     ],
@@ -120,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840324,
+    "wof:lastmodified":1563375003,
     "wof:name":"Susleni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

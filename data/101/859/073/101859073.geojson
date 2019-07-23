@@ -20,9 +20,16 @@
         "Zagarancha"
     ],
     "name:eng_x_variant":[
-        "Zagorancha"
+        "Zagorancha",
+        "Zagarancea"
     ],
     "name:ita_x_preferred":[
+        "Zagarancea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10d2\u10d0\u10e0\u10d0\u10dc\u10e9\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Zagarancea"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744727,
+    "wof:lastmodified":1563374771,
     "wof:name":"Zagarancea",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

@@ -19,11 +19,20 @@
     "name:eng_x_preferred":[
         "Bakhmut"
     ],
+    "name:eng_x_variant":[
+        "Bahmut"
+    ],
+    "name:fra_x_preferred":[
+        "Bahmut"
+    ],
     "name:ita_x_preferred":[
         "Bahmut"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10f0\u10db\u10e3\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Bahmut"
     ],
     "name:ron_x_preferred":[
         "Bahmut"
@@ -87,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744730,
+    "wof:lastmodified":1563374772,
     "wof:name":"Bahmut",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

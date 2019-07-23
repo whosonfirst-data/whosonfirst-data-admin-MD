@@ -23,10 +23,14 @@
         "Antonesht'"
     ],
     "name:eng_x_variant":[
-        "Antonovka"
+        "Antonovka",
+        "Antone\u015fti"
     ],
     "name:ita_x_preferred":[
         "Antone\u0219ti"
+    ],
+    "name:nld_x_preferred":[
+        "Antone\u015fti"
     ],
     "name:ron_x_preferred":[
         "Antone\u0219ti"
@@ -95,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747089,
+    "wof:lastmodified":1563375022,
     "wof:name":"Antone\u015fti",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

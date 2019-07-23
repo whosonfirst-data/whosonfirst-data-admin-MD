@@ -16,7 +16,40 @@
     "mps:longitude":29.029774,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Butuceni"
+    ],
+    "name:dan_x_preferred":[
+        "Butuceni"
+    ],
+    "name:deu_x_preferred":[
+        "Butuceni"
+    ],
+    "name:eng_x_preferred":[
+        "Butuceni"
+    ],
+    "name:eus_x_preferred":[
+        "Butuceni"
+    ],
+    "name:fra_x_preferred":[
+        "Butuceni"
+    ],
     "name:ita_x_preferred":[
+        "Butuceni"
+    ],
+    "name:nld_x_preferred":[
+        "Butuceni"
+    ],
+    "name:nno_x_preferred":[
+        "Butuceni"
+    ],
+    "name:nob_x_preferred":[
+        "Butuceni"
+    ],
+    "name:pol_x_preferred":[
+        "Butuceni"
+    ],
+    "name:por_x_preferred":[
         "Butuceni"
     ],
     "name:ron_x_preferred":[
@@ -24,6 +57,18 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0442\u0443\u0447\u0430\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Cerlina"
+    ],
+    "name:spa_x_variant":[
+        "Butuceni"
+    ],
+    "name:swe_x_preferred":[
+        "Butuceni"
+    ],
+    "name:tur_x_preferred":[
+        "Butuceni"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0443\u0447\u0430\u043d\u0438"
@@ -83,7 +128,7 @@
         }
     ],
     "wof:id":101865059,
-    "wof:lastmodified":1544747848,
+    "wof:lastmodified":1563374931,
     "wof:name":"Butuceni",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

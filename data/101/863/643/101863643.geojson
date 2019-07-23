@@ -16,17 +16,48 @@
     "mps:longitude":29.539421,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Popeasca"
+    ],
+    "name:dan_x_preferred":[
+        "Popeasca"
+    ],
+    "name:deu_x_preferred":[
+        "Popeasca"
+    ],
     "name:eng_x_preferred":[
         "Polyaska"
     ],
     "name:eng_x_variant":[
-        "Popovka"
+        "Popovka",
+        "Popeasca"
+    ],
+    "name:eus_x_preferred":[
+        "Popeasca"
+    ],
+    "name:fra_x_preferred":[
+        "Popeasca"
     ],
     "name:ita_x_preferred":[
         "Popeasca"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10de\u10d4\u10d0\u10e1\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Popeasca"
+    ],
+    "name:nno_x_preferred":[
+        "Popeasca"
+    ],
+    "name:nob_x_preferred":[
+        "Popeasca"
+    ],
+    "name:pol_x_preferred":[
+        "Popeasca"
+    ],
+    "name:por_x_preferred":[
+        "Popeasca"
     ],
     "name:ron_x_preferred":[
         "Popeasca"
@@ -40,8 +71,17 @@
     "name:rus_x_variant":[
         "\u041f\u043e\u043f\u043e\u0432\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Popeasca"
+    ],
+    "name:swe_x_preferred":[
+        "Popeasca"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u044f\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u043c\u0456\u0448\u0435\u043d\u044c"
     ],
     "name:und_x_preferred":[
         "Popeasca"
@@ -96,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747111,
+    "wof:lastmodified":1563375010,
     "wof:name":"Popeasca",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

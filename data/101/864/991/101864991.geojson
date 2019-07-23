@@ -21,10 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Novyye Prodaneshty",
-        "Prodaneshti-Nou"
+        "Prodaneshti-Nou",
+        "Prod\u0103ne\u0219ti"
     ],
     "name:ita_x_preferred":[
         "Prod\u0103ne\u0219ti"
+    ],
+    "name:ita_x_variant":[
+        "Prod\u0103ne\u015fti"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10dd\u10d3\u10d4\u10dc\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Prod\u0103ne\u015fti"
     ],
     "name:ron_x_preferred":[
         "Prod\u0103ne\u0219ti"
@@ -91,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747813,
+    "wof:lastmodified":1563374949,
     "wof:name":"Prod\u0103ne\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

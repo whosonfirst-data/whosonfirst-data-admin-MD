@@ -19,10 +19,16 @@
     "name:bul_x_preferred":[
         "\u0422\u0432\u044a\u0440\u0434\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tvardi\u0163a"
+    ],
     "name:eng_x_preferred":[
         "Tvardi\u021ba"
     ],
     "name:fra_x_preferred":[
+        "Tvardi\u021ba"
+    ],
+    "name:hsb_x_preferred":[
         "Tvardi\u021ba"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:spa_x_preferred":[
         "Tvardi\u021ba"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0432\u0440\u0434\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
         "Tvardi\u0163a"
@@ -104,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840311,
+    "wof:lastmodified":1563374789,
     "wof:name":"Tvardi\u0163a",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

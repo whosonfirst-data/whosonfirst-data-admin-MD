@@ -19,11 +19,17 @@
     "name:eng_x_preferred":[
         "Kaniya"
     ],
+    "name:eng_x_variant":[
+        "Cania"
+    ],
     "name:ita_x_preferred":[
         "Cania"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10dc\u10d8\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Cania"
     ],
     "name:ron_x_preferred":[
         "Cania"
@@ -87,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544751400,
+    "wof:lastmodified":1563374761,
     "wof:name":"Cania",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

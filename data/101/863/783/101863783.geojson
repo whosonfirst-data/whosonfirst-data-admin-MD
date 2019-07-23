@@ -21,13 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Chebanovka",
-        "Chobana"
+        "Chobana",
+        "Ciobanovca"
+    ],
+    "name:fra_x_preferred":[
+        "Ciobanovca"
     ],
     "name:ita_x_preferred":[
         "Ciobanovca"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d8\u10dd\u10d1\u10d0\u10dc\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Ciobanovca"
     ],
     "name:ron_x_preferred":[
         "Ciobanovca"
@@ -91,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747183,
+    "wof:lastmodified":1563375032,
     "wof:name":"Ciobanovca",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:ita_x_preferred":[
         "B\u0103l\u0103b\u0103ne\u0219ti"
     ],
+    "name:ita_x_variant":[
+        "B\u0103l\u0103b\u0103ne\u015fti"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10da\u10d4\u10d1\u10d4\u10dc\u10d4\u10e8\u10e2\u10d8"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "B\u0103l\u0103b\u0103ne\u0219ti"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0435\u0431\u0435\u043d\u0435\u0448\u0442\u044c"
@@ -101,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840323,
+    "wof:lastmodified":1563374986,
     "wof:name":"B\u0103l\u0103b\u0103ne\u015fti",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

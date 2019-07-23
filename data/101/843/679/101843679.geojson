@@ -16,11 +16,23 @@
     "mps:longitude":26.807429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u043f\u043a\u0430\u043d\u044c"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043f\u043a\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Lipcani"
+    ],
     "name:deu_x_preferred":[
         "Lipcani"
     ],
     "name:eng_x_preferred":[
         "Lipkanya"
+    ],
+    "name:eng_x_variant":[
+        "Lipcani"
     ],
     "name:epo_x_preferred":[
         "Lipcani"
@@ -30,6 +42,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e4\u05e7\u05d0\u05e0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Lipcani"
     ],
     "name:ita_x_preferred":[
         "Lipcani"
@@ -60,6 +75,9 @@
     ],
     "name:spa_x_preferred":[
         "Lipcani"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0438\u043f\u043a\u0430\u043d\u0438"
     ],
     "name:swe_x_preferred":[
         "Lipcani"
@@ -134,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840310,
+    "wof:lastmodified":1563374767,
     "wof:name":"Lipcani",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

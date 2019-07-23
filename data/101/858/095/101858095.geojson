@@ -16,7 +16,19 @@
     "mps:longitude":27.660499,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Obreja Veche"
+    ],
+    "name:fra_x_preferred":[
+        "Obreja Veche"
+    ],
     "name:ita_x_preferred":[
+        "Obreja Veche"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d1\u10e0\u10d4\u10df\u10d0-\u10d5\u10d4\u10d9\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Obreja Veche"
     ],
     "name:ron_x_preferred":[
@@ -84,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744234,
+    "wof:lastmodified":1563374878,
     "wof:name":"Obreja Veche",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

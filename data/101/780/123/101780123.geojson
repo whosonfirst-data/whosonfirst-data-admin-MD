@@ -19,6 +19,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0440\u044b\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Perer\u00eeta"
+    ],
     "name:ces_x_preferred":[
         "Perer\u00eeta"
     ],
@@ -31,6 +34,9 @@
     "name:eng_x_preferred":[
         "Pereryta"
     ],
+    "name:eng_x_variant":[
+        "Pererita"
+    ],
     "name:eus_x_preferred":[
         "Perer\u00eeta"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:ita_x_preferred":[
         "Perer\u00eeta"
+    ],
+    "name:ita_x_variant":[
+        "Pererita"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e0\u10d4\u10e0\u10d8\u10e2\u10d0"
@@ -75,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0440\u0438\u0442\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0440\u0435\u0440\u0456\u0442\u0430"
     ],
     "name:und_x_preferred":[
         "Pererita"
@@ -126,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840328,
+    "wof:lastmodified":1563375072,
     "wof:name":"Pererita",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

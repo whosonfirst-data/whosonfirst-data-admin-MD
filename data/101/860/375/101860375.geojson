@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Volovitsa"
     ],
+    "name:eng_x_variant":[
+        "Volovi\u021ba"
+    ],
     "name:ita_x_preferred":[
         "Volovi\u021ba"
+    ],
+    "name:ita_x_variant":[
+        "Volovi\u0163a"
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10dd\u10da\u10dd\u10d5\u10d8\u10ea\u10d0"
@@ -100,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840314,
+    "wof:lastmodified":1563374842,
     "wof:name":"Volovi\u0163a",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

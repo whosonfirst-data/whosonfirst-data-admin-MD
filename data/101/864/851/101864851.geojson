@@ -16,7 +16,40 @@
     "mps:longitude":29.480696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:dan_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:deu_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:eng_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:eus_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00eecioc"
+    ],
     "name:ita_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:nld_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:nno_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:nob_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:pol_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:por_x_preferred":[
         "B\u00eecioc"
     ],
     "name:ron_x_preferred":[
@@ -25,8 +58,20 @@
     "name:rus_x_preferred":[
         "\u0411\u044b\u0447\u043e\u043a"
     ],
+    "name:spa_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00eecioc"
+    ],
+    "name:tur_x_preferred":[
+        "B\u00eecioc"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0438\u0447\u043e\u043a"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0434\u0436\u0430\u043a"
     ],
     "name:unk_x_variant":[
         "B\u00e2cioc"
@@ -83,7 +128,7 @@
         }
     ],
     "wof:id":101864851,
-    "wof:lastmodified":1544747740,
+    "wof:lastmodified":1563374961,
     "wof:name":"B\u00eecioc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

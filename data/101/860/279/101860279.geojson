@@ -22,13 +22,17 @@
     "name:eng_x_variant":[
         "Bratushany",
         "Bratushen'",
-        "Staryye Bratushany"
+        "Staryye Bratushany",
+        "Br\u0103tu\u0219eni"
     ],
     "name:ita_x_preferred":[
         "Br\u0103tu\u0219eni"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e0\u10d4\u10e2\u10e3\u10e8\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Br\u0103tu\u015feni"
     ],
     "name:ron_x_preferred":[
         "Br\u0103tu\u0219eni"
@@ -98,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745355,
+    "wof:lastmodified":1563374829,
     "wof:name":"Br\u0103tu\u015feni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

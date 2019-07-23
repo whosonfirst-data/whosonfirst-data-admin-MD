@@ -21,9 +21,16 @@
     ],
     "name:eng_x_variant":[
         "Prazhila",
-        "Prazhilo"
+        "Prazhilo",
+        "Prajila"
     ],
     "name:ita_x_preferred":[
+        "Prajila"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d0\u10df\u10d8\u10da\u10d0"
+    ],
+    "name:nld_x_preferred":[
         "Prajila"
     ],
     "name:ron_x_preferred":[
@@ -88,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544744321,
+    "wof:lastmodified":1563374858,
     "wof:name":"Prajila",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

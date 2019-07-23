@@ -17,6 +17,9 @@
     "mps:longitude":28.997305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Izbi\u0219te"
+    ],
     "name:dan_x_preferred":[
         "Izbi\u0219te"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:ita_x_preferred":[
         "Izbi\u0219te"
+    ],
+    "name:ita_x_variant":[
+        "Izbi\u015fte"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10d6\u10d1\u10d8\u10e8\u10e2\u10d4"
@@ -67,6 +73,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0431\u0456\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u043e\u0431\u0443\u0440\u0447\u0456"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Criuleni",
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":101863879,
-    "wof:lastmodified":1561840327,
+    "wof:lastmodified":1563375046,
     "wof:name":"Izbi\u015fte",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

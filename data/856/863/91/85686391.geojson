@@ -27,6 +27,15 @@
     "name:eng_x_preferred":[
         "Chi\u0219in\u0103u Municipality"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d9\u05e0\u05d5\u05da \u05d1\u05de\u05d5\u05dc\u05d3\u05d5\u05d1\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30eb\u30c9\u30d0\u306e\u6559\u80b2"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d4b\u0d7e\u0d26\u0d4b\u0d35\u0d3e\u0d2f\u0d3f\u0d32\u0d46 \u0d35\u0d3f\u0d26\u0d4d\u0d2f\u0d3e\u0d2d\u0d4d\u0d2f\u0d3e\u0d38\u0d02"
+    ],
     "name:ron_x_preferred":[
         "Educa\u021bia \u00een Republica Moldova"
     ],
@@ -154,7 +163,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553550897,
+    "wof:lastmodified":1563374683,
     "wof:name":"mun.Chi\u015fin\u0103u",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

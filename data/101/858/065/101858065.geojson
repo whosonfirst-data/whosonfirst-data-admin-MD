@@ -16,11 +16,17 @@
     "mps:longitude":28.349657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "R\u0103ciula"
+    ],
     "name:ita_x_preferred":[
         "R\u0103ciula"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10e9\u10e3\u10da\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "R\u0103ciula"
     ],
     "name:ron_x_preferred":[
         "R\u0103ciula"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101858065,
-    "wof:lastmodified":1544744219,
+    "wof:lastmodified":1563374853,
     "wof:name":"R\u0103ciula",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

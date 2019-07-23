@@ -26,6 +26,9 @@
     "name:ita_x_preferred":[
         "Mere\u0219eni"
     ],
+    "name:ita_x_variant":[
+        "Mere\u015feni"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e0\u10d4\u10e8\u10d4\u10dc\u10d8"
     ],
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840322,
+    "wof:lastmodified":1563374966,
     "wof:name":"Mere\u015feni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000238,
+    "geom:area_square_m":1993219.397171,
     "geom:bbox":"29.0574096454,47.260946432,29.0759213732,47.2781926696",
     "geom:latitude":47.269858,
     "geom:longitude":29.066985,
@@ -19,13 +20,20 @@
         "Rakulesht'"
     ],
     "name:eng_x_variant":[
-        "Rakuleshty"
+        "Rakuleshty",
+        "R\u0103cule\u0219ti"
     ],
     "name:ita_x_preferred":[
         "R\u0103cule\u0219ti"
     ],
+    "name:ita_x_variant":[
+        "R\u0103cule\u015fti"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10d9\u10e3\u10da\u10d4\u10e8\u10e2\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "R\u0103cule\u015fti"
     ],
     "name:ron_x_preferred":[
         "R\u0103cule\u0219ti"
@@ -89,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714914,
+    "wof:lastmodified":1563374908,
     "wof:name":"R\u0103cule\u015fti",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

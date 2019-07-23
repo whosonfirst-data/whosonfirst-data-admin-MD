@@ -21,13 +21,20 @@
     ],
     "name:eng_x_variant":[
         "Ginkauts'",
-        "Ginkautsy"
+        "Ginkautsy",
+        "Hinc\u0103u\u021bi"
     ],
     "name:ita_x_preferred":[
         "Hinc\u0103u\u021bi"
     ],
+    "name:ita_x_variant":[
+        "Hinc\u0103u\u0163i"
+    ],
     "name:kat_x_preferred":[
         "\u10f0\u10d8\u10dc\u10d9\u10d4\u10e3\u10ea\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Hinc\u0103u\u0163i"
     ],
     "name:ron_x_preferred":[
         "Hinc\u0103u\u021bi"
@@ -98,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745357,
+    "wof:lastmodified":1563374831,
     "wof:name":"Hinc\u0103u\u0163i",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

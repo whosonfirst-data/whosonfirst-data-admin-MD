@@ -61,6 +61,9 @@
     "name:ron_x_preferred":[
         "Marianca de Jos"
     ],
+    "name:ron_x_variant":[
+        "Ratu\u015f"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u0436\u043d\u044f\u044f \u041c\u0430\u0440\u044c\u044f\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840325,
+    "wof:lastmodified":1563375013,
     "wof:name":"Marianca de Jos",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

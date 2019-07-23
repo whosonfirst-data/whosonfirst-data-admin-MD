@@ -39,11 +39,17 @@
     "name:ast_x_preferred":[
         "Chisin\u00e1u"
     ],
+    "name:ava_x_preferred":[
+        "\u041a\u0438\u0448\u0438\u043d\u0451\u0432"
+    ],
     "name:aze_x_preferred":[
         "Ki\u015finyov"
     ],
     "name:bak_x_preferred":[
         "\u041a\u0438\u0448\u0438\u043d\u0451\u0432"
+    ],
+    "name:bcl_x_preferred":[
+        "Chi\u0219in\u0103u"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0456\u0448\u044b\u043d\u0451\u045e"
@@ -75,6 +81,9 @@
     "name:cdo_x_preferred":[
         "Chi\u0219in\u0103u"
     ],
+    "name:ceb_x_preferred":[
+        "Chi\u0219in\u0103u"
+    ],
     "name:ces_x_preferred":[
         "Ki\u0161in\u011bv"
     ],
@@ -89,6 +98,9 @@
     ],
     "name:cos_x_preferred":[
         "Chi\u015fin\u0103u"
+    ],
+    "name:crh_x_preferred":[
+        "Ki\u015fineu"
     ],
     "name:cym_x_preferred":[
         "Chi\u015fin\u0103u"
@@ -126,6 +138,9 @@
     "name:est_x_preferred":[
         "Chi\u015fin\u0103u"
     ],
+    "name:est_x_variant":[
+        "Chi\u0219in\u0103u"
+    ],
     "name:eus_x_preferred":[
         "Chisinau"
     ],
@@ -137,6 +152,9 @@
     ],
     "name:fin_x_preferred":[
         "Chi\u015fin\u0103u"
+    ],
+    "name:fin_x_variant":[
+        "Chi\u0219in\u0103u"
     ],
     "name:fra_x_preferred":[
         "Chi\u015fin\u0103u"
@@ -159,8 +177,14 @@
     "name:glg_x_preferred":[
         "Chisinau"
     ],
+    "name:glg_x_variant":[
+        "Chi\u0219in\u0103u"
+    ],
     "name:glv_x_preferred":[
         "Chi\u0219in\u0103u"
+    ],
+    "name:grn_x_preferred":[
+        "Chisin\u00e1u"
     ],
     "name:gsw_x_preferred":[
         "Kischinau"
@@ -180,6 +204,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e9\u05d9\u05e0\u05d0\u05d5"
     ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05e9\u05d9\u05e0\u05d1"
+    ],
     "name:hif_x_preferred":[
         "Chi\u015fin\u0103u"
     ],
@@ -195,11 +222,17 @@
     "name:hun_x_preferred":[
         "Kisinyov"
     ],
+    "name:hun_x_variant":[
+        "Chi\u0219in\u0103u"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0577\u056b\u0576\u0575\u0578\u057e"
     ],
     "name:hye_x_variant":[
         "\u0554\u056b\u0577\u0576\u0587"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u056b\u0577\u0576\u0565\u0582"
     ],
     "name:ido_x_preferred":[
         "Chisinau"
@@ -218,6 +251,9 @@
     ],
     "name:ita_x_preferred":[
         "Chi\u015fin\u0103u"
+    ],
+    "name:ita_x_variant":[
+        "Chi\u0219in\u0103u"
     ],
     "name:jav_x_preferred":[
         "Chi\u015fin\u0103u"
@@ -249,6 +285,9 @@
     "name:lat_x_preferred":[
         "Chisinau"
     ],
+    "name:lat_x_variant":[
+        "Chisinovia"
+    ],
     "name:lav_x_preferred":[
         "Ki\u0161i\u0146eva"
     ],
@@ -269,6 +308,9 @@
     ],
     "name:ltz_x_preferred":[
         "Chi\u015fin\u0103u"
+    ],
+    "name:mal_x_preferred":[
+        "Chi\u0219in\u0103u"
     ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0936\u093f\u0928\u093e\u0909"
@@ -339,11 +381,17 @@
     "name:por_x_preferred":[
         "Chi\u015fin\u0103u"
     ],
+    "name:por_x_variant":[
+        "Chi\u0219in\u0103u"
+    ],
     "name:que_x_preferred":[
         "Chi\u015fin\u0103u"
     ],
     "name:roh_x_preferred":[
         "Chisinau"
+    ],
+    "name:roh_x_variant":[
+        "Chi\u0219in\u0103u"
     ],
     "name:ron_x_preferred":[
         "Chi\u0219in\u0103u"
@@ -393,6 +441,9 @@
     "name:spa_x_preferred":[
         "Chi\u0219in\u0103u"
     ],
+    "name:spa_x_variant":[
+        "Chisin\u00e1u"
+    ],
     "name:sqi_x_preferred":[
         "Chi\u015fin\u0103u"
     ],
@@ -409,6 +460,9 @@
         "Kishineu"
     ],
     "name:swe_x_preferred":[
+        "Chi\u0219in\u0103u"
+    ],
+    "name:szl_x_preferred":[
         "Chi\u0219in\u0103u"
     ],
     "name:tam_x_preferred":[
@@ -629,7 +683,7 @@
         }
     ],
     "wof:id":101751793,
-    "wof:lastmodified":1561840317,
+    "wof:lastmodified":1563374895,
     "wof:megacity":0,
     "wof:name":"Chisinau",
     "wof:parent_id":85686391,

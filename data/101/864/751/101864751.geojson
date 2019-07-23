@@ -16,6 +16,9 @@
     "mps:longitude":28.375645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pereni"
+    ],
     "name:dan_x_preferred":[
         "Pereni"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:ron_x_preferred":[
         "Pereni"
+    ],
+    "name:ron_x_variant":[
+        "Comuna R\u0103zeni"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043d\u044b"
@@ -121,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840322,
+    "wof:lastmodified":1563374976,
     "wof:name":"Pereni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -20,13 +20,20 @@
         "Gizdita"
     ],
     "name:eng_x_variant":[
-        "Fyntynitsa"
+        "Fyntynitsa",
+        "F\u00eent\u00eeni\u021ba"
     ],
     "name:ita_x_preferred":[
         "F\u00eent\u00eeni\u021ba"
     ],
+    "name:ita_x_variant":[
+        "F\u00eent\u00eeni\u0163a"
+    ],
     "name:kat_x_preferred":[
         "\u10e4\u10d8\u10dc\u10e2\u10d8\u10dc\u10d8\u10ea\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "F\u00eent\u00eeni\u0163a"
     ],
     "name:ron_x_preferred":[
         "F\u00eent\u00eeni\u021ba"
@@ -99,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745330,
+    "wof:lastmodified":1563374817,
     "wof:name":"F\u00eent\u00eeni\u0163a",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

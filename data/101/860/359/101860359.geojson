@@ -20,10 +20,20 @@
         "Galoshnitsa"
     ],
     "name:eng_x_variant":[
-        "Goloshnitsa"
+        "Goloshnitsa",
+        "Holo\u0219ni\u021ba"
     ],
     "name:ita_x_preferred":[
         "Holo\u0219ni\u021ba"
+    ],
+    "name:ita_x_variant":[
+        "Holo\u015fni\u0163a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10dd\u10da\u10dd\u10e8\u10dc\u10d8\u10ea\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Holo\u015fni\u0163a"
     ],
     "name:ron_x_preferred":[
         "Holo\u0219ni\u021ba"
@@ -90,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745396,
+    "wof:lastmodified":1563374823,
     "wof:name":"Holo\u015fni\u0163a",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

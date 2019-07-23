@@ -16,6 +16,9 @@
     "mps:longitude":28.247579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "P\u00eerjolteni"
+    ],
     "name:dan_x_preferred":[
         "P\u00eerjolteni"
     ],
@@ -75,6 +78,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0438\u0440\u0436\u043e\u043b\u0442\u0435\u043d\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u0423\u043d\u0446\u0435\u0448\u0442\u044c"
+    ],
     "name:und_x_colloquial":[
         "Parjolteni",
         "Pirjolteni"
@@ -132,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840309,
+    "wof:lastmodified":1563374763,
     "wof:name":"P\u00eerjolteni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

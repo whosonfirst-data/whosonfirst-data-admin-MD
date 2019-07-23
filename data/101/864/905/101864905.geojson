@@ -23,8 +23,14 @@
     "name:cat_x_preferred":[
         "Orhei"
     ],
+    "name:ceb_x_preferred":[
+        "Orhei"
+    ],
     "name:ces_x_preferred":[
         "Orhei"
+    ],
+    "name:crh_x_preferred":[
+        "Orhey"
     ],
     "name:dan_x_preferred":[
         "Orhei"
@@ -50,6 +56,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e8\u05d7\u05d9\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Orhei"
     ],
     "name:hun_x_preferred":[
         "Orhei"
@@ -107,6 +116,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0433\u0435\u0435\u0432"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0440\u0445\u0435\u0439"
     ],
     "name:sah_x_preferred":[
         "\u041e\u0440\u0445\u0435\u0439"
@@ -192,7 +204,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840322,
+    "wof:lastmodified":1563374978,
     "wof:name":"Orhei",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -17,6 +17,24 @@
     "mps:longitude":29.689909,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cioburciu"
+    ],
+    "name:ita_x_preferred":[
+        "Cioburciu"
+    ],
+    "name:nld_x_preferred":[
+        "Cioburciu"
+    ],
+    "name:ron_x_preferred":[
+        "Cioburciu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0431\u0443\u0440\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0431\u0443\u0440\u0447\u0456"
+    ],
     "qs:a0":"Moldova",
     "qs:a1":"*\u015etefan Vod\u0103",
     "qs:a1_alt":"Stefan Voda",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":101863613,
-    "wof:lastmodified":1544747094,
+    "wof:lastmodified":1563375045,
     "wof:name":"Cioburciu",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

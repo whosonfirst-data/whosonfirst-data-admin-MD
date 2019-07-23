@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Baltsata"
     ],
+    "name:eng_x_variant":[
+        "B\u0103l\u0163ata"
+    ],
     "name:ron_x_preferred":[
         "B\u0103l\u021bata"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747205,
+    "wof:lastmodified":1563375052,
     "wof:name":"B\u0103l\u0163ata",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

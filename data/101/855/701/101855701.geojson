@@ -80,6 +80,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0440\u0443\u0448\u0443\u043b-\u0434\u0435-\u0421\u0443\u0441"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u0440\u0442\u0430\u0443\u043b"
+    ],
     "name:und_x_colloquial":[
         "Andrusul de Sus"
     ],
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840319,
+    "wof:lastmodified":1563374933,
     "wof:name":"Andru\u015ful de Sus",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

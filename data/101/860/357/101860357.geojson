@@ -26,6 +26,9 @@
     "name:ita_x_preferred":[
         "D\u0103rc\u0103u\u021bi"
     ],
+    "name:ita_x_variant":[
+        "D\u0103rc\u0103u\u0163i"
+    ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10e0\u10d9\u10d4\u10e3\u10ea\u10d8"
     ],
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840313,
+    "wof:lastmodified":1563374823,
     "wof:name":"D\u0103rc\u0103u\u0163i",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ita_x_preferred":[
         "Cuhure\u0219tii de Sus"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10f0\u10e3\u10e0\u10d4\u10e8\u10e2\u10d8-\u10d3\u10d4-\u10e1\u10e3\u10e1\u10d8"
+    ],
     "name:ron_x_preferred":[
         "Cuhure\u0219tii de Sus"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544751409,
+    "wof:lastmodified":1563374756,
     "wof:name":"Cuhure\u015ftii de Sus",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

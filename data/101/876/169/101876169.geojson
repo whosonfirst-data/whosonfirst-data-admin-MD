@@ -23,8 +23,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0443\u043b\u044f\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Criuleni"
+    ],
+    "name:dan_x_preferred":[
+        "Criuleni"
+    ],
     "name:deu_x_preferred":[
         "Criuleni"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b9\u03bf\u03c5\u03bb\u03ad\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kriulyany"
@@ -36,6 +45,9 @@
         "Criuleni",
         "Kriuleni"
     ],
+    "name:est_x_preferred":[
+        "Criuleni"
+    ],
     "name:fin_x_preferred":[
         "Criuleni"
     ],
@@ -44,6 +56,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d9\u05d5\u05dc\u05e0\u05d9"
+    ],
+    "name:hsb_x_preferred":[
+        "Criuleni"
     ],
     "name:ita_x_preferred":[
         "Criuleni"
@@ -72,11 +87,17 @@
     "name:rus_x_preferred":[
         "\u041a\u0440\u0438\u0443\u043b\u044f\u043d\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0440\u0438\u0443\u043b\u0435\u043d\u044c"
+    ],
     "name:sco_x_preferred":[
         "Criuleni"
     ],
     "name:spa_x_preferred":[
         "Criuleni"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0438\u0443\u043b\u0435\u043d\u0438"
     ],
     "name:swe_x_preferred":[
         "Criuleni"
@@ -163,7 +184,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840317,
+    "wof:lastmodified":1563374898,
     "wof:name":"Criuleni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

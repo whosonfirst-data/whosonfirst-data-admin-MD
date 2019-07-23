@@ -16,6 +16,12 @@
     "mps:longitude":28.463399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Vadul-Leca"
+    ],
+    "name:crh_x_preferred":[
+        "Ciorna"
+    ],
     "name:dan_x_preferred":[
         "Vadul-Leca"
     ],
@@ -24,6 +30,9 @@
     ],
     "name:eng_x_preferred":[
         "Vaduleka"
+    ],
+    "name:eng_x_variant":[
+        "Vadul-Leca"
     ],
     "name:eus_x_preferred":[
         "Vadul-Leca"
@@ -113,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840318,
+    "wof:lastmodified":1563374904,
     "wof:name":"Vadul-Leca",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

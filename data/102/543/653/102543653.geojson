@@ -12,17 +12,35 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chadyr Lunga Airport"
+    ],
+    "name:eng_x_preferred":[
+        "Chadyr Lunga Airport"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0627\u062f\u06cc\u0631 \u0644\u0648\u0646\u06af\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30c9\u30a5\u30eb\uff1d\u30eb\u30f3\u30ac\u7a7a\u6e2f"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Cead\u00eer-Lunga"
     ],
+    "name:pol_x_variant":[
+        "Port lotniczy Czadyr \u0141unga"
+    ],
     "name:ron_x_preferred":[
         "Aeroportul Cead\u00eer-Lunga"
     ],
+    "name:ron_x_variant":[
+        "Aeroportul Cead\u00e2r-Lunga"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0427\u0430\u0434\u044b\u0440-\u041b\u0443\u043d\u0433\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Chadyr Lunga Airport"
     ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0447\u043e\u0434\u0438\u0440 \u043b\u0443\u043d\u0433\u043e"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":102543653,
-    "wof:lastmodified":1543846097,
+    "wof:lastmodified":1563374647,
     "wof:name":"Chadyr-Lunga Airport",
     "wof:parent_id":85686349,
     "wof:placetype":"campus",

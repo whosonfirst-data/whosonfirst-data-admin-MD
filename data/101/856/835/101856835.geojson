@@ -19,11 +19,44 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:dan_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:deu_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:eng_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:eus_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:fra_x_preferred":[
+        "Novosiolovca"
+    ],
     "name:ita_x_preferred":[
         "Novosiolovca"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10d5\u10dd\u10e1\u10d8\u10dd\u10da\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:nno_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:nob_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:pol_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:por_x_preferred":[
+        "Novosiolovca"
     ],
     "name:ron_x_preferred":[
         "Novosiolovca"
@@ -34,8 +67,17 @@
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u043a\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Novosiolovca"
+    ],
+    "name:swe_x_preferred":[
+        "Novosiolovca"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0422\u0432\u0430\u0440\u0434\u0456\u0446\u0430"
     ],
     "name:und_x_preferred":[
         "Novosiolovca"
@@ -90,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544743586,
+    "wof:lastmodified":1563374789,
     "wof:name":"Novosiolovca",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

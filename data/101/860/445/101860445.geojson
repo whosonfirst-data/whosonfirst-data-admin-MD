@@ -19,11 +19,17 @@
     "name:eng_x_preferred":[
         "Denzhany"
     ],
+    "name:eng_x_variant":[
+        "D\u00eengeni"
+    ],
     "name:ita_x_preferred":[
         "D\u00eengeni"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d8\u10dc\u10ef\u10d4\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "D\u00eengeni"
     ],
     "name:ron_x_preferred":[
         "D\u00eengeni"
@@ -94,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544745440,
+    "wof:lastmodified":1563374832,
     "wof:name":"D\u00eengeni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

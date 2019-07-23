@@ -23,6 +23,15 @@
     "name:bel_x_variant":[
         "\u0421\u0442\u0440\u044d\u0448\u044d\u043d\u044c"
     ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u044a\u0440\u0448\u0435\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Stra\u015feni"
+    ],
+    "name:crh_x_preferred":[
+        "Stra\u015fen\u0131"
+    ],
     "name:eng_x_preferred":[
         "Str\u0103\u0219eni"
     ],
@@ -35,11 +44,20 @@
     "name:glg_x_preferred":[
         "Str\u0103\u015feni"
     ],
+    "name:hsb_x_preferred":[
+        "Str\u0103\u0219eni"
+    ],
     "name:ind_x_preferred":[
         "Str\u0103\u015feni"
     ],
     "name:ita_x_preferred":[
         "Str\u0103\u0219eni"
+    ],
+    "name:ita_x_variant":[
+        "Str\u0103\u015feni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30e9\u30bb\u30cb"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10e0\u10d0\u10e8\u10d4\u10dc\u10d8"
@@ -73,6 +91,9 @@
     ],
     "name:spa_x_preferred":[
         "Str\u0103\u0219eni"
+    ],
+    "name:spa_x_variant":[
+        "Str\u0103\u015feni"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0448\u0435\u043d\u0438"
@@ -141,7 +162,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840328,
+    "wof:lastmodified":1563375059,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

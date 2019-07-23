@@ -20,13 +20,20 @@
         "Telits"
     ],
     "name:eng_x_variant":[
-        "Telitsa"
+        "Telitsa",
+        "Teli\u021ba"
     ],
     "name:ita_x_preferred":[
         "Teli\u021ba"
     ],
+    "name:ita_x_variant":[
+        "Teli\u0163a"
+    ],
     "name:kat_x_preferred":[
         "\u10e2\u10d4\u10da\u10d8\u10ea\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Teli\u0163a"
     ],
     "name:ron_x_preferred":[
         "Teli\u021ba"
@@ -93,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747201,
+    "wof:lastmodified":1563375014,
     "wof:name":"Teli\u0163a",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

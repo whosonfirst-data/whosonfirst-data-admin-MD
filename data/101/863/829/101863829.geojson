@@ -16,6 +16,12 @@
     "mps:longitude":29.128906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Cimi\u0219eni"
+    ],
+    "name:ceb_x_preferred":[
+        "Cimi\u0219eni"
+    ],
     "name:dan_x_preferred":[
         "Cimi\u0219eni"
     ],
@@ -39,6 +45,9 @@
     "name:ita_x_preferred":[
         "Cimi\u0219eni"
     ],
+    "name:ita_x_variant":[
+        "Cimi\u015feni"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d8\u10db\u10d8\u10e8\u10d4\u10dc\u10d8"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:ron_x_preferred":[
         "Cimi\u0219eni"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Baccealia"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u043c\u0438\u0448\u0435\u043d\u044b"
@@ -128,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840324,
+    "wof:lastmodified":1563375010,
     "wof:name":"Cimi\u015feni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

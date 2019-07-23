@@ -55,6 +55,9 @@
     "name:cat_x_preferred":[
         "Tiraspol"
     ],
+    "name:ceb_x_preferred":[
+        "Tiraspolul"
+    ],
     "name:ces_x_preferred":[
         "Tiraspol"
     ],
@@ -229,6 +232,9 @@
     "name:slk_x_preferred":[
         "Tiraspol"
     ],
+    "name:slv_x_preferred":[
+        "Tiraspol"
+    ],
     "name:spa_x_preferred":[
         "Tir\u00e1spol"
     ],
@@ -243,6 +249,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbf\u0bb0\u0b9a\u0bc1\u0baa\u0bcd\u0baa\u0bcb\u0bb2\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0bbf\u0bb0\u0b9a\u0bc1\u0baa\u0bcb\u0bb2\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c"
@@ -431,7 +440,7 @@
         }
     ],
     "wof:id":101751797,
-    "wof:lastmodified":1561840317,
+    "wof:lastmodified":1563374891,
     "wof:name":"Tiraspol",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

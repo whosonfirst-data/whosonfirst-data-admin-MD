@@ -24,13 +24,17 @@
         "Gertop-Mare",
         "Gyrtop-Mare",
         "Gyrtopul-Mare",
-        "Khirtopu"
+        "Khirtopu",
+        "H\u00eertopul Mare"
     ],
     "name:ita_x_preferred":[
         "H\u00eertopul Mare"
     ],
     "name:kat_x_preferred":[
         "\u10f0\u10d8\u10e0\u10e2\u10dd\u10de\u10e3\u10da-\u10db\u10d0\u10e0\u10d4"
+    ],
+    "name:nld_x_preferred":[
+        "H\u00eertopul Mare"
     ],
     "name:ron_x_preferred":[
         "H\u00eertopul Mare"
@@ -103,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747233,
+    "wof:lastmodified":1563375046,
     "wof:name":"H\u00eertopul Mare",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:cat_x_preferred":[
         "Districte de R\u00ee\u015fcani"
     ],
+    "name:ceb_x_preferred":[
+        "R\u00ee\u0219cani"
+    ],
     "name:dan_x_preferred":[
         "R\u00ee\u0219cani District"
     ],
@@ -58,6 +61,9 @@
     "name:fra_x_preferred":[
         "Raion de R\u00ee\u0219cani"
     ],
+    "name:fra_x_variant":[
+        "R\u00ee\u0219cani"
+    ],
     "name:glg_x_preferred":[
         "Distrito de R\u00ee\u0219cani"
     ],
@@ -69,6 +75,9 @@
     ],
     "name:ind_x_preferred":[
         "Raionul R\u00ee\u015fcani"
+    ],
+    "name:ind_x_variant":[
+        "Raionul R\u00ee\u0219cani"
     ],
     "name:ita_x_preferred":[
         "Distretto di R\u00ee\u0219cani"
@@ -109,8 +118,14 @@
     "name:pol_x_preferred":[
         "Rejon R\u00ee\u015fcani"
     ],
+    "name:pol_x_variant":[
+        "Rejon R\u00ee\u0219cani"
+    ],
     "name:por_x_preferred":[
         "Condado de R\u00ee\u015fcani"
+    ],
+    "name:por_x_variant":[
+        "R\u00ee\u0219cani"
     ],
     "name:ron_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d\u0443\u043b \u0420\u044b\u0448\u043a\u0430\u043d\u044c"
@@ -128,14 +143,23 @@
     "name:slk_x_preferred":[
         "R\u00ee\u015fcani"
     ],
+    "name:slk_x_variant":[
+        "R\u00ee\u0219cani"
+    ],
     "name:spa_x_preferred":[
         "Distrito de R\u00ee\u0219cani"
     ],
     "name:sqi_x_preferred":[
         "Raionul R\u00ee\u015fcani"
     ],
+    "name:sqi_x_variant":[
+        "Raionul R\u00ee\u0219cani"
+    ],
     "name:swe_x_preferred":[
         "R\u00ee\u015fcani"
+    ],
+    "name:swe_x_variant":[
+        "R\u00ee\u0219cani"
     ],
     "name:tam_x_preferred":[
         "\u0bb0\u0bbf\u0bb8\u0bcd\u0b95\u0bc7\u0ba3\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -145,6 +169,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e23\u0e34\u0e0a\u0e04\u0e32\u0e19\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e23\u0e36\u0e0a\u0e01\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Riscani District"
@@ -278,7 +305,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1561840306,
+    "wof:lastmodified":1563374674,
     "wof:name":"R\u00ee\u015fcani",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

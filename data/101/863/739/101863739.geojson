@@ -23,13 +23,23 @@
         "Malyye Mileshty"
     ],
     "name:eng_x_variant":[
-        "Mileshti Mich'"
+        "Mileshti Mich'",
+        "Mile\u0219tii Mici"
+    ],
+    "name:fra_x_preferred":[
+        "Mile\u0219tii Mici"
     ],
     "name:ita_x_preferred":[
         "Mile\u0219tii Mici"
     ],
+    "name:ita_x_variant":[
+        "Mile\u015ftii Mici"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10da\u10d4\u10e8\u10e2\u10d8-\u10db\u10d8\u10e9\u10d8"
+    ],
+    "name:kat_x_variant":[
+        "\u10db\u10d8\u10da\u10d4\u10e8\u10e2\u10d8\u10d8-\u10db\u10d8\u10e9\u10d8"
     ],
     "name:nld_x_preferred":[
         "Mile\u0219tii Mici"
@@ -104,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747160,
+    "wof:lastmodified":1563375003,
     "wof:name":"Mile\u015ftii Mici",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

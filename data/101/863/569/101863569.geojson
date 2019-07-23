@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0434\u0430\u043a\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Sadaclia"
+    ],
     "name:dan_x_preferred":[
         "Sadaclia"
     ],
@@ -27,6 +30,9 @@
     ],
     "name:eng_x_preferred":[
         "Sadakliya"
+    ],
+    "name:eng_x_variant":[
+        "Sadaclia"
     ],
     "name:eus_x_preferred":[
         "Sadaclia"
@@ -57,6 +63,9 @@
     ],
     "name:ron_x_preferred":[
         "Sadaclia"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Bie\u0219ti"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u0434\u0430\u043a\u043b\u0438\u044f"
@@ -126,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840324,
+    "wof:lastmodified":1563375001,
     "wof:name":"Sadaclia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

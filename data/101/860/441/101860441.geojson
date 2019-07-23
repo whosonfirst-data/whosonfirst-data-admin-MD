@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u043e\u043a\u0443\u0448\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Clocu\u0219na"
+    ],
     "name:dan_x_preferred":[
         "Clocu\u0219na"
     ],
@@ -28,6 +31,9 @@
     "name:eng_x_preferred":[
         "Klokushna"
     ],
+    "name:eng_x_variant":[
+        "Clocu\u0219na"
+    ],
     "name:eus_x_preferred":[
         "Clocu\u0219na"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:ita_x_preferred":[
         "Clocu\u0219na"
+    ],
+    "name:ita_x_variant":[
+        "Clocu\u015fna"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10da\u10dd\u10d9\u10e3\u10e8\u10dc\u10d0"
@@ -51,6 +60,9 @@
     ],
     "name:pol_x_preferred":[
         "Clocu\u015fna"
+    ],
+    "name:pol_x_variant":[
+        "Clocu\u0219na"
     ],
     "name:por_x_preferred":[
         "Clocu\u0219na"
@@ -72,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043b\u043e\u043a\u0443\u0448\u043d\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u0456\u043a\u043e\u0440\u0435\u043d\u044c"
     ],
     "name:und_x_colloquial":[
         "Clocusna"
@@ -129,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840312,
+    "wof:lastmodified":1563374807,
     "wof:name":"Clocu\u015fna",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

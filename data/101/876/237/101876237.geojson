@@ -20,13 +20,31 @@
     "name:bak_x_preferred":[
         "\u0420\u0435\u0437\u0438\u043d\u0430"
     ],
+    "name:bel_x_preferred":[
+        "\u0420\u044d\u0437\u0456\u043d\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0437\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Rezina"
+    ],
+    "name:crh_x_preferred":[
+        "Rezina"
+    ],
     "name:eng_x_preferred":[
         "Rezina-Turg"
+    ],
+    "name:eng_x_variant":[
+        "Rezina"
     ],
     "name:fin_x_preferred":[
         "Rezina"
     ],
     "name:fra_x_preferred":[
+        "Rezina"
+    ],
+    "name:hsb_x_preferred":[
         "Rezina"
     ],
     "name:ita_x_preferred":[
@@ -133,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840319,
+    "wof:lastmodified":1563374917,
     "wof:name":"Rezina",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

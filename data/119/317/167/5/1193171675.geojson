@@ -25,8 +25,14 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "T\u0103n\u0103tarii Noi"
+    ],
     "name:ron_x_preferred":[
         "T\u0103n\u0103tarti Noi"
+    ],
+    "name:ron_x_variant":[
+        "Comuna T\u0103n\u0103tarii Noi"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u044b\u0435 \u0422\u0430\u043d\u0430\u0442\u0430\u0440\u044b"
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1193171675,
-    "wof:lastmodified":1537664331,
+    "wof:lastmodified":1564167451,
     "wof:name":"Tanatarti Noi",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

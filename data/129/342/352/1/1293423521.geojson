@@ -25,6 +25,9 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Popovca"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u043a\u0430"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293423521,
-    "wof:lastmodified":1537664325,
+    "wof:lastmodified":1564167415,
     "wof:name":"Popovca",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

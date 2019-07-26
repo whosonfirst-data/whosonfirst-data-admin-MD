@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Zorile"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Zorile"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1360321315,
-    "wof:lastmodified":1537568296,
+    "wof:lastmodified":1564167473,
     "wof:name":"Zorile",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

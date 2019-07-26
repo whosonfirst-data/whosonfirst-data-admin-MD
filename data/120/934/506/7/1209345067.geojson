@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Izvoare"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Izvoare"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u044b"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209345067,
-    "wof:lastmodified":1537664356,
+    "wof:lastmodified":1564167445,
     "wof:name":"Izvoare",
     "wof:parent_id":85633287,
     "wof:placetype":"locality",

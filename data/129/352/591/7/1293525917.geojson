@@ -25,8 +25,20 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gag_x_preferred":[
+        "K\u0131rlannar"
+    ],
+    "name:ita_x_preferred":[
+        "Cotovscoe"
+    ],
+    "name:ron_x_preferred":[
+        "Cotovscoe"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0432\u0441\u043a\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0442\u043e\u0432\u0441\u044c\u043a\u0435"
     ],
     "name:und_x_variant":[
         "C\u00eerl\u0103neni",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293525917,
-    "wof:lastmodified":1537664356,
+    "wof:lastmodified":1564167404,
     "wof:name":"Cotovscoe",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

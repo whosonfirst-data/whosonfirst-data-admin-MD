@@ -28,8 +28,14 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0436\u043e\u0432\u0430"
     ],
+    "name:ita_x_preferred":[
+        "Corjova"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e0\u10df\u10dd\u10d5\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Corjova"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u0436\u0435\u0432\u043e"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1276694043,
-    "wof:lastmodified":1537664350,
+    "wof:lastmodified":1564167424,
     "wof:name":"Corjova",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

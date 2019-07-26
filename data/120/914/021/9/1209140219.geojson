@@ -26,6 +26,15 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Colosova"
+    ],
+    "name:ita_x_preferred":[
+        "Colosova"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Colosova"
+    ],
     "name:und_x_variant":[
         "Bergdorf",
         "Kolosovo Pos\u00eblok",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209140219,
-    "wof:lastmodified":1537664352,
+    "wof:lastmodified":1564167440,
     "wof:name":"Colosova",
     "wof:parent_id":85633287,
     "wof:placetype":"locality",

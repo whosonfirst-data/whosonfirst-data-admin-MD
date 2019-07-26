@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Saharna Nou\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Saharna Nou\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u043d\u0430"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243587613,
-    "wof:lastmodified":1537664335,
+    "wof:lastmodified":1564167498,
     "wof:name":"Saharna Noua",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Enichioi"
+    ],
     "name:ron_x_preferred":[
         "Enichioi"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Enichioi"
     ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0438\u043a\u0438\u043e\u0439"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226679845,
-    "wof:lastmodified":1537664301,
+    "wof:lastmodified":1564167522,
     "wof:name":"Enichioi",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

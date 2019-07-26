@@ -25,8 +25,14 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Crasn\u00eei Octeabri"
+    ],
     "name:ron_x_preferred":[
         "Crasn\u0103i Octeabri"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Crasn\u00eei Octeabri"
     ],
     "name:rus_x_preferred":[
         "Krasnyy Oktyabr\u2019"
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1276473405,
-    "wof:lastmodified":1537664349,
+    "wof:lastmodified":1564167426,
     "wof:name":"Crasnai Octeabri",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

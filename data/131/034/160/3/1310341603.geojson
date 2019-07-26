@@ -25,8 +25,14 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Goianul Nou"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u044b\u0439 \u0413\u043e\u044f\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0435 \u0413\u043e\u044f\u043d\u044b"
     ],
     "name:und_x_variant":[
         "Novyye Goyany",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1310341603,
-    "wof:lastmodified":1537664330,
+    "wof:lastmodified":1564167467,
     "wof:name":"Goianul Nou",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

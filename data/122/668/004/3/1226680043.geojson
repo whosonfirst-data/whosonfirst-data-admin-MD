@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bucuria"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Bucuria"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u043a\u0443\u0440\u0438\u044f"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226680043,
-    "wof:lastmodified":1537664370,
+    "wof:lastmodified":1564167523,
     "wof:name":"Bucuria",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

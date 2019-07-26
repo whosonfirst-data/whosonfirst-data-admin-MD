@@ -25,8 +25,20 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Beloci"
+    ],
+    "name:pol_x_preferred":[
+        "Bie\u0142ocz"
+    ],
+    "name:ron_x_preferred":[
+        "Beloci"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u043e\u0447"
     ],
     "name:und_x_variant":[
         "Bieloc",
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1226379697,
-    "wof:lastmodified":1537664375,
+    "wof:lastmodified":1564167539,
     "wof:name":"Beloci",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Sevirova"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Sevirova"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0438\u0440\u043e\u0432\u043e"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343692877,
-    "wof:lastmodified":1537664319,
+    "wof:lastmodified":1564167392,
     "wof:name":"Sevirova",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -25,12 +25,69 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Picus"
+    ],
+    "name:deu_x_preferred":[
+        "Picus"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03ba\u03bf\u03c5\u03c2"
+    ],
+    "name:fin_x_preferred":[
+        "Picus"
+    ],
+    "name:fra_x_preferred":[
+        "Picus"
+    ],
+    "name:glg_x_preferred":[
+        "Pico"
+    ],
+    "name:ita_x_preferred":[
+        "Pico"
+    ],
+    "name:lat_x_preferred":[
+        "Picus"
+    ],
+    "name:lit_x_preferred":[
+        "Pikas"
+    ],
+    "name:nld_x_preferred":[
+        "Picus"
+    ],
+    "name:pol_x_preferred":[
+        "Pikus"
+    ],
+    "name:por_x_preferred":[
+        "Pico"
+    ],
+    "name:ron_x_preferred":[
+        "Picus"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u043a\u0443\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u041f\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Pico"
+    ],
+    "name:swe_x_preferred":[
+        "Picus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043a"
     ],
     "name:und_x_variant":[
         "Pikus",
         "Picus"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u5e93\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +110,7 @@
         }
     ],
     "wof:id":1209749505,
-    "wof:lastmodified":1537664326,
+    "wof:lastmodified":1564167446,
     "wof:name":"Picus",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

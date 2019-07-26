@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ciobanovca"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ciobanovca"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0431\u0430\u043d\u043a\u0430"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1260323723,
-    "wof:lastmodified":1537664369,
+    "wof:lastmodified":1564167457,
     "wof:name":"Ciobanovca",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

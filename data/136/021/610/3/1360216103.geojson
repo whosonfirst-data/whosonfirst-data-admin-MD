@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pereni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pereni"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0435\u043d\u044b"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360216103,
-    "wof:lastmodified":1537664328,
+    "wof:lastmodified":1564167472,
     "wof:name":"Pereni",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

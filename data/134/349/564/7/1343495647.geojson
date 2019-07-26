@@ -25,8 +25,20 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Iujnoe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10dd\u10df\u10dc\u10dd\u10d4"
+    ],
+    "name:ron_x_preferred":[
+        "Iujnoe"
+    ],
     "name:rus_x_preferred":[
         "\u042e\u0436\u043d\u043e\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u0436\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Trubayevka",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343495647,
-    "wof:lastmodified":1537664308,
+    "wof:lastmodified":1564167389,
     "wof:name":"Iujnoe",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

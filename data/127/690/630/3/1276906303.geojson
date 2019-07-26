@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "B\u0103lc\u0103u\u021bi"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna B\u0103lc\u0103u\u021bi"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u0443\u0446\u044b"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276906303,
-    "wof:lastmodified":1537664375,
+    "wof:lastmodified":1564167429,
     "wof:name":"Balcauti",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

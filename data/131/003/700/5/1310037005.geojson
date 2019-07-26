@@ -25,6 +25,9 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Valea Verde"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u0412\u0435\u0440\u0434\u0435"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1310037005,
-    "wof:lastmodified":1537664396,
+    "wof:lastmodified":1564167466,
     "wof:name":"Valea Verde",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Hore\u0219ti"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Hore\u0219ti"
+    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u0435\u0448\u0442\u044b"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1310240739,
-    "wof:lastmodified":1537664360,
+    "wof:lastmodified":1564167458,
     "wof:name":"Horesti",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

@@ -25,7 +25,19 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dubna"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10d1\u10dc\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Dubna"
+    ],
     "name:rus_x_preferred":[
+        "\u0414\u0443\u0431\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043d\u043e"
     ],
     "name:und_x_variant":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1309740709,
-    "wof:lastmodified":1537664366,
+    "wof:lastmodified":1564167486,
     "wof:name":"Dubna",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

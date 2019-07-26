@@ -25,6 +25,15 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mihailovca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10f0\u10d0\u10d8\u10da\u10dd\u10d5\u10d9\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Mihailovca"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1276263679,
-    "wof:lastmodified":1537664341,
+    "wof:lastmodified":1564167421,
     "wof:name":"Mihailovca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "R\u0103deni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna R\u0103deni"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0434\u0435\u043d\u044b"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360316883,
-    "wof:lastmodified":1537664323,
+    "wof:lastmodified":1564167469,
     "wof:name":"Radeni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

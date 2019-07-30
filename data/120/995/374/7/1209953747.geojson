@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Crihana"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Crihana"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0442\u043e\u0432\u0441\u043a\u043e\u0435"
     ],
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1209953747,
-    "wof:lastmodified":1537664334,
+    "wof:lastmodified":1564167441,
     "wof:name":"Crihana",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

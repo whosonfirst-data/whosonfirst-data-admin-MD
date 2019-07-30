@@ -25,8 +25,20 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pohorniceni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10f0\u10dd\u10e0\u10dc\u10d8\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Pohorniceni"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u0433\u043e\u0440\u043d\u0438\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0433\u043e\u0440\u043d\u0456\u0447\u0435\u043d\u044c"
     ],
     "name:und_x_variant":[
         "Pogornicheny",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1293919679,
-    "wof:lastmodified":1537664325,
+    "wof:lastmodified":1564167401,
     "wof:name":"Paharniceni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

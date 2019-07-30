@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Petreni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Petreni"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0435\u043d\u044b"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209142259,
-    "wof:lastmodified":1537664327,
+    "wof:lastmodified":1564167440,
     "wof:name":"Petreni",
     "wof:parent_id":85633287,
     "wof:placetype":"locality",

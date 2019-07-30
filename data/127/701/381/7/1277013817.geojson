@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "B\u00eerl\u0103deni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna B\u00eerl\u0103deni"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u044b\u0440\u043b\u0430\u0434\u044f\u043d\u044b"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1277013817,
-    "wof:lastmodified":1537664369,
+    "wof:lastmodified":1564167419,
     "wof:name":"Birladeni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

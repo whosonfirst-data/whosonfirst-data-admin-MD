@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vatici"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vatici"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0442\u0438\u0447"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1259720029,
-    "wof:lastmodified":1537664305,
+    "wof:lastmodified":1564167518,
     "wof:name":"Vatici",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

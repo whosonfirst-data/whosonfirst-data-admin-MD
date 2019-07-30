@@ -25,8 +25,41 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0430\u0435"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:hsb_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:ita_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:lit_x_preferred":[
+        "Krasnoj\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:ron_x_preferred":[
+        "Crasnoe"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u043e\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Crasnoe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Krasnoye",
@@ -62,7 +95,7 @@
         }
     ],
     "wof:id":1226276661,
-    "wof:lastmodified":1537664396,
+    "wof:lastmodified":1564167520,
     "wof:name":"Crasnoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bisericani"
+    ],
+    "name:deu_x_preferred":[
+        "Bisericani"
+    ],
+    "name:hun_x_preferred":[
+        "Bisericani"
+    ],
+    "name:ron_x_preferred":[
+        "Bisericani"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0441\u0435\u0440\u0438\u043a\u0430\u043d\u044c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0441\u0435\u0440\u0438\u043a\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Biserikany",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310442337,
-    "wof:lastmodified":1537664374,
+    "wof:lastmodified":1564167463,
     "wof:name":"Bisericani",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

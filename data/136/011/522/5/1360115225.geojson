@@ -25,8 +25,20 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lipceni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10de\u10e9\u10d4\u10dc\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Lipceni"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043f\u0447\u0435\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043f\u0447\u0435\u043d\u044c"
     ],
     "name:und_x_variant":[
         "Lipch\u00ebny",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1360115225,
-    "wof:lastmodified":1537664346,
+    "wof:lastmodified":1564167472,
     "wof:name":"Lipceni",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

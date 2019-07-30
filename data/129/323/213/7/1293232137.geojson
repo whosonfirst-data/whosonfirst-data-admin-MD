@@ -25,8 +25,20 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "C\u00ee\u0219la"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e8\u10da\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "C\u00ee\u0219la"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0448\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0448\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Kyshla",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293232137,
-    "wof:lastmodified":1537664347,
+    "wof:lastmodified":1564167407,
     "wof:name":"Cisla",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

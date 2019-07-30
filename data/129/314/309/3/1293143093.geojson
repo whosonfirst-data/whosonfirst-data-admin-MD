@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Duruitoarea Nou\u0103"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Duruitoarea Nou\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u044b\u0435 \u0414\u0440\u0443\u0438\u0442\u043e\u0440\u044b"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293143093,
-    "wof:lastmodified":1537664332,
+    "wof:lastmodified":1564167411,
     "wof:name":"Duruitoarea Noua",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

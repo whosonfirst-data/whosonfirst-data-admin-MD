@@ -25,6 +25,9 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Antonovca"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327365151,
-    "wof:lastmodified":1537664377,
+    "wof:lastmodified":1564167366,
     "wof:name":"Antonovca",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

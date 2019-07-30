@@ -25,6 +25,9 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Vasilievca"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u043a\u0430"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327470027,
-    "wof:lastmodified":1537664305,
+    "wof:lastmodified":1564167372,
     "wof:name":"Vasilievca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

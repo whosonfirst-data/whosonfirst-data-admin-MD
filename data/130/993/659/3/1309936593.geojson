@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Vladimirovca"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vladimirovca"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043a\u0430"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309936593,
-    "wof:lastmodified":1537664303,
+    "wof:lastmodified":1564167484,
     "wof:name":"Vladimirovca",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

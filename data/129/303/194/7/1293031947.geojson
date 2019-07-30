@@ -28,8 +28,14 @@
     "name:hun_x_preferred":[
         "Cs\u00f6b\u00f6rcs\u00f6k"
     ],
+    "name:ita_x_preferred":[
+        "Cioburciu"
+    ],
     "name:lit_x_preferred":[
         "\u010cobur\u010du"
+    ],
+    "name:ron_x_preferred":[
+        "Cioburciu"
     ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u0431\u0440\u0443\u0447\u0438"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1293031947,
-    "wof:lastmodified":1537664368,
+    "wof:lastmodified":1564167412,
     "wof:name":"Cioburciu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

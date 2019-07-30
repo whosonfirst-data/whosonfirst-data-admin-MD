@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Boghenii Noi"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Boghenii Noi"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u044b\u0435 \u0411\u043e\u0433\u0435\u043d\u044b"
     ],
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343693063,
-    "wof:lastmodified":1537664333,
+    "wof:lastmodified":1564167391,
     "wof:name":"Boghenii Noi",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

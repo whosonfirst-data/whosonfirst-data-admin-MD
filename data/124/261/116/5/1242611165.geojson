@@ -25,8 +25,26 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Parcani"
+    ],
+    "name:deu_x_preferred":[
+        "Parcani"
+    ],
+    "name:fra_x_preferred":[
+        "Parcani"
+    ],
+    "name:ita_x_preferred":[
+        "Parcani"
+    ],
+    "name:ron_x_preferred":[
+        "Parcani"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0440\u043a\u0430\u043d\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u043a\u0430\u043d\u0438"
     ],
     "name:und_x_variant":[
         "Parkany",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1242611165,
-    "wof:lastmodified":1537664380,
+    "wof:lastmodified":1564167495,
     "wof:name":"Parcani",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

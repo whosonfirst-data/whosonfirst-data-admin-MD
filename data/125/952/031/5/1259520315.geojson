@@ -25,6 +25,12 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Elizavetovca"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Elizavetovca"
+    ],
     "name:rus_x_preferred":[
         "\u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u043e\u0432\u043a\u0430"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259520315,
-    "wof:lastmodified":1537664301,
+    "wof:lastmodified":1564167510,
     "wof:name":"Elizavetovca",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

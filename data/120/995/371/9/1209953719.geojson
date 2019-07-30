@@ -25,6 +25,9 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Alexandrovca"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043a\u0430"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209953719,
-    "wof:lastmodified":1537664379,
+    "wof:lastmodified":1564167440,
     "wof:name":"Alexandrovca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

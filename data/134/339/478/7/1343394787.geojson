@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Pelivan"
     ],
+    "name:ita_x_preferred":[
+        "Pelivan"
+    ],
     "name:ron_x_preferred":[
         "Pelivan"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Pelivan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343394787,
-    "wof:lastmodified":1537664345,
+    "wof:lastmodified":1564167383,
     "wof:name":"Pelivan",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

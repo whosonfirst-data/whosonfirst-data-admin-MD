@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":45.957049,
     "lbl:longitude":28.265058,
     "mps:latitude":45.957049,
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374680,
+    "wof:lastmodified":1565727311,
     "wof:name":"Cahul",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

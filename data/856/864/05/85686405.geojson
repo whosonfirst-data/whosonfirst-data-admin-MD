@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":47.161213,
     "lbl:longitude":28.569689,
     "mps:latitude":47.161213,
@@ -303,7 +306,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374669,
+    "wof:lastmodified":1565727309,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LE"
+    ],
     "lbl:latitude":46.517352,
     "lbl:longitude":28.415386,
     "mps:latitude":46.517352,
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374685,
+    "wof:lastmodified":1565727311,
     "wof:name":"Leova",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

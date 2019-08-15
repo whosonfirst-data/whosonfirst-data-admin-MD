@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RZ"
+    ],
     "lbl:latitude":47.69631,
     "lbl:longitude":28.868593,
     "mps:latitude":47.69631,
@@ -215,7 +218,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374669,
+    "wof:lastmodified":1565727309,
     "wof:name":"Rezina",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

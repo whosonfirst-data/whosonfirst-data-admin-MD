@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IA"
+    ],
     "lbl:latitude":46.800777,
     "lbl:longitude":28.843591,
     "mps:latitude":46.800777,
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374686,
+    "wof:lastmodified":1565727312,
     "wof:name":"Ialoveni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

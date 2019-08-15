@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DB"
+    ],
     "lbl:latitude":47.330784,
     "lbl:longitude":29.110677,
     "mps:latitude":47.330784,
@@ -227,7 +230,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374670,
+    "wof:lastmodified":1565727309,
     "wof:name":"Dub\u0103sari",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",

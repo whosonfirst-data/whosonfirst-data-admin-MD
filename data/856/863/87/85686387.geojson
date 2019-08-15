@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":47.088653,
     "lbl:longitude":28.136722,
     "mps:latitude":47.088653,
@@ -291,7 +294,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374682,
+    "wof:lastmodified":1565727311,
     "wof:name":"Nisporeni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

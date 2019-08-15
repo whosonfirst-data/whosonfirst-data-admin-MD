@@ -14,6 +14,9 @@
     "itu:country_code":[
         "373"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "lbl:latitude":47.435,
     "lbl:longitude":28.487904,
     "mps:latitude":47.435,
@@ -1169,16 +1172,13 @@
         }
     ],
     "wof:id":85633287,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "ron"
     ],
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374665,
+    "wof:lastmodified":1565727308,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

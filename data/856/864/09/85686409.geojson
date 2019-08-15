@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UG"
+    ],
     "lbl:latitude":47.312507,
     "lbl:longitude":27.875458,
     "mps:latitude":47.312507,
@@ -304,7 +307,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374672,
+    "wof:lastmodified":1565727309,
     "wof:name":"Ungheni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

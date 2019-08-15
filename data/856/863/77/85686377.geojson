@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HI"
+    ],
     "lbl:latitude":46.860422,
     "lbl:longitude":28.40664,
     "mps:latitude":46.860422,
@@ -305,7 +308,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374685,
+    "wof:lastmodified":1565727312,
     "wof:name":"H\u00eence\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

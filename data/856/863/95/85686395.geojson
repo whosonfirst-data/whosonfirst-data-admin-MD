@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":46.894658,
     "lbl:longitude":29.20969,
     "mps:latitude":46.894658,
@@ -301,7 +304,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374678,
+    "wof:lastmodified":1565727310,
     "wof:name":"Anenii Noi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

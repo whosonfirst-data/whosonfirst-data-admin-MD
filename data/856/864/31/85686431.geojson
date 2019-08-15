@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "territorial unit"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":47.205491,
     "lbl:longitude":29.441365,
     "mps:latitude":47.205491,
@@ -88,7 +91,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1553550900,
+    "wof:lastmodified":1565727309,
     "wof:name":"UAT din St\u00eenga Nistrului",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",

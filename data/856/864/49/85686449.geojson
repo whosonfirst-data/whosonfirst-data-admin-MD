@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BT"
+    ],
     "lbl:latitude":47.766819,
     "lbl:longitude":27.928928,
     "mps:latitude":47.766819,
@@ -387,7 +390,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374677,
+    "wof:lastmodified":1565727310,
     "wof:name":"mun.B\u0103l\u0163i",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

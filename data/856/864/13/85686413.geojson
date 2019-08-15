@@ -11,7 +11,13 @@
     "geom:longitude":29.023902,
     "iso:country":"MD",
     "label:eng_x_preferred_longname":[
-        "Criuleni Raion (Municipiu)"
+        "Criuleni District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
     ],
     "lbl:latitude":47.203167,
     "lbl:longitude":28.971394,
@@ -200,11 +206,12 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374678,
+    "wof:lastmodified":1565904105,
     "wof:name":"Criuleni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-md",
+    "wof:shortcode":"CR",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85686401

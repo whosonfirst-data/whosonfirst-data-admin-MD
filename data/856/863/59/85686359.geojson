@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":46.579407,
     "lbl:longitude":28.754952,
     "mps:latitude":46.579407,
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374679,
+    "wof:lastmodified":1565727311,
     "wof:name":"Cimi\u015flia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":47.827052,
     "lbl:longitude":28.687608,
     "mps:latitude":47.827052,
@@ -316,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374671,
+    "wof:lastmodified":1565727309,
     "wof:name":"Sold\u0103ne\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":46.168838,
     "lbl:longitude":28.676164,
     "mps:latitude":46.168838,
@@ -375,7 +378,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374686,
+    "wof:lastmodified":1565727312,
     "wof:name":"Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

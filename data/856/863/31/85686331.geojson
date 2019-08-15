@@ -11,7 +11,13 @@
     "geom:longitude":28.680884,
     "iso:country":"MD",
     "label:eng_x_preferred_longname":[
-        "Taraclia Raion (Municipiu)"
+        "Taraclia District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
     ],
     "lbl:latitude":45.903506,
     "lbl:longitude":28.557145,
@@ -203,11 +209,12 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374683,
+    "wof:lastmodified":1565904109,
     "wof:name":"Taraclia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-md",
+    "wof:shortcode":"TR",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85686339

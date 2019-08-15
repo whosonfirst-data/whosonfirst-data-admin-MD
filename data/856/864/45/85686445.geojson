@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GL"
+    ],
     "lbl:latitude":47.74691,
     "lbl:longitude":27.507732,
     "mps:latitude":47.74691,
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374671,
+    "wof:lastmodified":1565727309,
     "wof:name":"Glodeni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

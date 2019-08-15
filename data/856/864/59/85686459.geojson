@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SI"
+    ],
     "lbl:latitude":47.679191,
     "lbl:longitude":28.114537,
     "mps:latitude":47.679191,
@@ -292,7 +295,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1563374668,
+    "wof:lastmodified":1565727309,
     "wof:name":"S\u00eengerei",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -10,12 +10,16 @@
     "geom:latitude":46.681988,
     "geom:longitude":29.526833,
     "iso:country":"MD",
+    "lbl:bbox":"29.506833,46.661988,29.546833,46.701988",
     "lbl:latitude":46.681988,
     "lbl:longitude":29.526833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.681988,
     "mps:longitude":29.526833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Plop-\u0218tiubei"
     ],
@@ -84,14 +88,8 @@
         "Plop-Stiubei",
         "Plop-Stubei"
     ],
-    "name:und_x_preferred":[
-        "Plop-\u015etiubei"
-    ],
     "name:und_x_variant":[
         "Plop-\u015etubei"
-    ],
-    "name:unk_x_variant":[
-        "Plop-Shtyubey"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103u\u015feni",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a526c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617583,
         "gp:id":481119,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1982517",
         "wk:page":"Plop-\u0218tiubei"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375035,
+    "wof:lastmodified":1566603087,
     "wof:name":"Plop-\u015etiubei",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

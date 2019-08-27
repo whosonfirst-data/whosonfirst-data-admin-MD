@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.877258,
     "lbl:longitude":28.315049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.877258,
     "mps:longitude":28.315049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "V\u0103rv\u0103reuca"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0440\u0432\u0435\u0440\u0435\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "V\u00e2rv\u0103reni"
     ],
     "qs:a0":"Moldova",
@@ -54,7 +57,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:concordances":{
         "gn:id":617147,
         "gp:id":480563,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1985533"
     },
     "wof:country":"MD",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101876255,
-    "wof:lastmodified":1563374917,
+    "wof:lastmodified":1566603063,
     "wof:name":"V\u0103rv\u0103reuca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

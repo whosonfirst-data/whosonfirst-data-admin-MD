@@ -10,12 +10,16 @@
     "geom:latitude":48.248863,
     "geom:longitude":27.429232,
     "iso:country":"MD",
+    "lbl:bbox":"27.409232,48.228863,27.449232,48.268863",
     "lbl:latitude":48.248863,
     "lbl:longitude":27.429232,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.248863,
     "mps:longitude":27.429232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ruzhnitsa"
     ],
@@ -47,11 +51,8 @@
     "name:und_x_colloquial":[
         "Rujnita"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Rujni\u0163a"
-    ],
-    "name:unk_x_variant":[
-        "Ruzhnitsa"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ocni\u0163a",
@@ -70,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -82,7 +83,7 @@
         "fct:id":"01a538ce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617487,
         "gp:id":481215,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1975110"
     },
     "wof:country":"MD",
@@ -99,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374813,
+    "wof:lastmodified":1566603040,
     "wof:name":"Rujni\u0163a",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.395844,
     "geom:longitude":28.212708,
     "iso:country":"MD",
+    "lbl:bbox":"28.192708,47.375844,28.232708,47.415844",
     "lbl:latitude":47.395844,
     "lbl:longitude":28.212708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.395844,
     "mps:longitude":28.212708,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "R\u0103deni"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Redeni"
     ],
     "name:zho_x_preferred":[
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":617515,
         "gp:id":481171,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2455003",
         "wk:page":"R\u0103deni, C\u0103l\u0103ra\u0219i"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101858069,
-    "wof:lastmodified":1563374881,
+    "wof:lastmodified":1566603055,
     "wof:name":"R\u0103deni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

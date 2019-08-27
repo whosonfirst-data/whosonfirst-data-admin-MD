@@ -10,12 +10,16 @@
     "geom:latitude":46.57761,
     "geom:longitude":28.621649,
     "iso:country":"MD",
+    "lbl:bbox":"28.601649,46.55761,28.641649,46.59761",
     "lbl:latitude":46.57761,
     "lbl:longitude":28.621649,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.57761,
     "mps:longitude":28.621649,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yalpuzhen'"
     ],
@@ -25,10 +29,8 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a"
     ],
-    "name:und_x_preferred":[
-        "Ialpugeni"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Ialpugeni",
         "Pervomaysk"
     ],
     "qs:a0":"Moldova",
@@ -48,7 +50,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":473,
     "wof:belongsto":[
         102191581,
@@ -60,7 +62,7 @@
         "fct:id":"01a4e82e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617084,
         "gp:id":480726,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q7898966"
     },
     "wof:country":"MD",
@@ -77,7 +79,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1544747080,
+    "wof:lastmodified":1566603093,
     "wof:name":"Ialpugeni",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.976141,
     "geom:longitude":28.8131,
     "iso:country":"MD",
+    "lbl:bbox":"28.7931,46.956141,28.8331,46.996141",
     "lbl:latitude":46.976141,
     "lbl:longitude":28.8131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.976141,
     "mps:longitude":28.8131,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u041a\u043e\u0434\u0440\u0443"
     ],
@@ -70,10 +74,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0434\u0440\u0443"
     ],
-    "name:und_x_preferred":[
-        "Codru"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Schinoasa"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.975278,
     "wd:longitude":28.819444,
     "wd:wordcount":33,
@@ -108,7 +109,6 @@
         "fct:id":"01a4a3a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618054,
         "gp:id":480358,
-        "qs:id":468150,
         "qs_pg:id":468150,
         "wd:id":"Q642008",
         "wk:page":"Codru, Moldova"
@@ -127,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374998,
+    "wof:lastmodified":1566603079,
     "wof:name":"Codru",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

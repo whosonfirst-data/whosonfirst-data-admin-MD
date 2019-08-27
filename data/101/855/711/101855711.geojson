@@ -10,12 +10,16 @@
     "geom:latitude":45.953755,
     "geom:longitude":28.196198,
     "iso:country":"MD",
+    "lbl:bbox":"28.176198,45.933755,28.216198,45.973755",
     "lbl:latitude":45.953755,
     "lbl:longitude":28.196198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.953755,
     "mps:longitude":28.196198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ro\u0219u"
     ],
@@ -84,13 +88,7 @@
         "Rosu",
         "Rosul"
     ],
-    "name:und_x_preferred":[
-        "Ro\u015fu"
-    ],
     "name:und_x_variant":[
-        "Ro\u015ful"
-    ],
-    "name:unk_x_variant":[
         "Ro\u015ful"
     ],
     "qs:a0":"Moldova",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":117,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a537ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617493,
         "gp:id":481210,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2437972",
         "wk:page":"Ro\u0219u, Cahul"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374942,
+    "wof:lastmodified":1566603069,
     "wof:name":"Ro\u015fu",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

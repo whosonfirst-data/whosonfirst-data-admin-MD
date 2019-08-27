@@ -10,12 +10,16 @@
     "geom:latitude":47.654351,
     "geom:longitude":27.375941,
     "iso:country":"MD",
+    "lbl:bbox":"27.355941,47.634351,27.395941,47.674351",
     "lbl:latitude":47.654351,
     "lbl:longitude":27.375941,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.654351,
     "mps:longitude":27.375941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kukhneshty"
     ],
@@ -48,10 +52,7 @@
     "name:und_x_colloquial":[
         "Cuhnesti"
     ],
-    "name:und_x_preferred":[
-        "Cuhne\u015fti"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kukhnesht\u2019"
     ],
     "qs:a0":"Moldova",
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -83,7 +84,7 @@
         "fct:id":"01a4b5b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617954,
         "gp:id":480458,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1985542",
         "wk:page":"Cuhne\u0219ti"
     },
@@ -101,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374846,
+    "wof:lastmodified":1566603047,
     "wof:name":"Cuhne\u015fti",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

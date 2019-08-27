@@ -10,12 +10,16 @@
     "geom:latitude":47.616989,
     "geom:longitude":27.446574,
     "iso:country":"MD",
+    "lbl:bbox":"27.426574,47.596989,27.466574,47.636989",
     "lbl:latitude":47.616989,
     "lbl:longitude":27.446574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.616989,
     "mps:longitude":27.446574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vii\u0219oara"
     ],
@@ -63,11 +67,8 @@
     "name:und_x_colloquial":[
         "Viisoara"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Vii\u015foara"
-    ],
-    "name:unk_x_variant":[
-        "Viishoara"
     ],
     "name:vol_x_preferred":[
         "Vii\u0219oara"
@@ -89,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":203,
     "wof:belongsto":[
         102191581,
@@ -101,7 +102,7 @@
         "fct:id":"01a5769a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617124,
         "gp:id":481577,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q298823"
     },
     "wof:country":"MD",
@@ -118,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374886,
+    "wof:lastmodified":1566603057,
     "wof:name":"Vii\u015foara",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

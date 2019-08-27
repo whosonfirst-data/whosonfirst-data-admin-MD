@@ -10,12 +10,16 @@
     "geom:latitude":46.632984,
     "geom:longitude":29.859175,
     "iso:country":"MD",
+    "lbl:bbox":"29.839175,46.612984,29.879175,46.652984",
     "lbl:latitude":46.632984,
     "lbl:longitude":29.859175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.632984,
     "mps:longitude":29.859175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corotna"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korotna"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101864887,
-    "wof:lastmodified":1563374955,
+    "wof:lastmodified":1566603071,
     "wof:name":"Corotna",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

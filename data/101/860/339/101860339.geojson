@@ -10,12 +10,16 @@
     "geom:latitude":48.392082,
     "geom:longitude":27.090061,
     "iso:country":"MD",
+    "lbl:bbox":"27.070061,48.372082,27.110061,48.412082",
     "lbl:latitude":48.392082,
     "lbl:longitude":27.090061,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.392082,
     "mps:longitude":27.090061,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Grim\u0103nc\u0103u\u021bi"
     ],
@@ -80,10 +84,7 @@
     "name:und_x_colloquial":[
         "Grimancauti"
     ],
-    "name:und_x_preferred":[
-        "Grim\u0103nc\u0103u\u0163i"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grimankauts\u2019-Bayya"
     ],
     "qs:a0":"Moldova",
@@ -103,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191581,
@@ -115,7 +116,7 @@
         "fct:id":"01a4d78a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618229,
         "gp:id":480636,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2437696",
         "wk:page":"Grim\u0103nc\u0103u\u021bi"
     },
@@ -133,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374802,
+    "wof:lastmodified":1566603037,
     "wof:name":"Grim\u0103nc\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

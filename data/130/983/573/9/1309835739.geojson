@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.26363,46.09248,28.30363,46.13248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0420\u0443\u043c\u044f\u043d\u0446\u0435\u0432\u043e"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309835739,
-    "wof:lastmodified":1537664377,
+    "wof:lastmodified":1566603096,
     "wof:name":"Rumeantev",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

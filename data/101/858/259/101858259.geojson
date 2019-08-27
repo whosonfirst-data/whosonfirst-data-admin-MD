@@ -10,12 +10,16 @@
     "geom:latitude":47.8815,
     "geom:longitude":27.779192,
     "iso:country":"MD",
+    "lbl:bbox":"27.759192,47.8615,27.799192,47.9015",
     "lbl:latitude":47.8815,
     "lbl:longitude":27.779192,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.8815,
     "mps:longitude":27.779192,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grinautsi"
     ],
@@ -52,14 +56,8 @@
         "Granaut",
         "Grinauti"
     ],
-    "name:und_x_preferred":[
-        "Grin\u0103u\u0163i"
-    ],
     "name:und_x_variant":[
         "Gr\u00e2n\u0103u\u0163"
-    ],
-    "name:unk_x_variant":[
-        "Grinautsi"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*R\u00ee\u015fcani",
@@ -79,7 +77,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -91,7 +89,6 @@
         "fct:id":"01a4d820-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618227,
         "gp:id":480639,
-        "qs:id":1095922,
         "qs_pg:id":1095922,
         "wd:id":"Q2448347",
         "wk:page":"Grin\u0103u\u021bi, R\u00ee\u0219cani"
@@ -110,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374854,
+    "wof:lastmodified":1566603049,
     "wof:name":"Grin\u0103u\u0163i",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

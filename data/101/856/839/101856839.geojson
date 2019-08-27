@@ -11,12 +11,16 @@
     "geom:longitude":28.65893,
     "gn:population":13512,
     "iso:country":"MD",
+    "lbl:bbox":"28.63893,45.882766,28.67893,45.922766",
     "lbl:latitude":45.902766,
     "lbl:longitude":28.65893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":45.902766,
     "mps:longitude":28.65893,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
     ],
@@ -89,10 +93,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043a\u043b\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Tarakliya"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tarakliya"
     ],
     "name:zho_x_preferred":[
@@ -116,7 +117,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":45.9,
     "wd:longitude":28.668889,
@@ -132,7 +133,6 @@
         "fct:id":"01a58a04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617270,
         "gp:id":481425,
-        "qs:id":81209,
         "qs_pg:id":81209,
         "wd:id":"Q2006121",
         "wk:page":"Taraclia"
@@ -151,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374798,
+    "wof:lastmodified":1566603036,
     "wof:name":"Taraclia",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

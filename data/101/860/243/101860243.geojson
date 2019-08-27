@@ -9,14 +9,18 @@
     "geom:bbox":"27.801937,48.035025,27.801937,48.035025",
     "geom:latitude":48.035025,
     "geom:longitude":27.801937,
-    "geonames:id":"618370,618371",
+    "gn:id":"618370,618371",
     "iso:country":"MD",
+    "lbl:bbox":"27.781937,48.015025,27.821937,48.055025",
     "lbl:latitude":48.035025,
     "lbl:longitude":27.801937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.035025,
     "mps:longitude":27.801937,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0414\u0440\u043e\u043a\u0456\u044f"
     ],
@@ -101,7 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u043e\u043a\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drokiya Sat"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +133,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.114167,
     "wd:longitude":27.808333,
     "wd:wordcount":318,
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":101860243,
-    "wof:lastmodified":1563374808,
+    "wof:lastmodified":1566603039,
     "wof:name":"Drochia",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

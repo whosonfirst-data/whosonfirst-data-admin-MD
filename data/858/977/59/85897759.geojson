@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":21654933.789671,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.837983,47.027955,28.837983,47.027955",
     "geom:latitude":47.027955,
     "geom:longitude":28.837983,
     "gn:id":"",
     "iso:country":"MD",
+    "lbl:bbox":"28.832983,47.022955,28.842983,47.032955",
     "lbl:latitude":47.027955,
     "lbl:longitude":28.837983,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.023864,
     "mps:longitude":28.82868,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Ryshkanovka"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ryshkanovka"
     ],
     "qs:gn_adm0_cc":"MD",
@@ -55,7 +54,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751793,
@@ -65,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":481222,
-        "qs:id":337546,
         "qs_pg:id":337546
     },
     "wof:country":"MD",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931935,
+    "wof:lastmodified":1566602988,
     "wof:name":"Ryshkanovka",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

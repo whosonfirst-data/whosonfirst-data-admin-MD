@@ -10,12 +10,16 @@
     "geom:latitude":47.847412,
     "geom:longitude":27.652552,
     "iso:country":"MD",
+    "lbl:bbox":"27.632552,47.827412,27.672552,47.867412",
     "lbl:latitude":47.847412,
     "lbl:longitude":27.652552,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.847412,
     "mps:longitude":27.652552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aluni\u0219"
     ],
@@ -82,12 +86,6 @@
     "name:und_x_colloquial":[
         "Alunis"
     ],
-    "name:und_x_preferred":[
-        "Aluni\u015f"
-    ],
-    "name:unk_x_variant":[
-        "Alunish"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*R\u00ee\u015fcani",
     "qs:a1_alt":"Riscani",
@@ -105,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -117,7 +115,7 @@
         "fct:id":"01a46566-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618640,
         "gp:id":480014,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2447701",
         "wk:page":"Aluni\u0219, R\u00ee\u0219cani"
     },
@@ -135,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374873,
+    "wof:lastmodified":1566603054,
     "wof:name":"Aluni\u015f",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

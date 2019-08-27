@@ -9,14 +9,18 @@
     "geom:bbox":"28.89611,47.145,28.89611,47.145",
     "geom:latitude":47.145,
     "geom:longitude":28.89611,
-    "gn:gn_country":"MD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MD",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MD",
+    "lbl:bbox":"28.87611,47.125,28.91611,47.165",
     "lbl:latitude":47.145,
     "lbl:longitude":28.89611,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "F\u0103ure\u0219ti"
@@ -66,7 +70,7 @@
     "name:ukr_x_variant":[
         "Telene\u015fti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Faureshty"
     ],
     "qs_pg:aaroncc":"MD",
@@ -90,7 +94,7 @@
     "qs_pg:woe_adm0":23424885,
     "qs_pg:woe_id":480550,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424885,
     "woe:name_adm0":"Moldova",
     "woe:name_adm1":"Chisinau",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1126000821,
-    "wof:lastmodified":1563375082,
+    "wof:lastmodified":1566603099,
     "wof:name":"F\u0103ure\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.956798,
     "geom:longitude":29.397539,
     "iso:country":"MD",
+    "lbl:bbox":"29.377539,46.936798,29.417539,46.976798",
     "lbl:latitude":46.956798,
     "lbl:longitude":29.397539,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.956798,
     "mps:longitude":29.397539,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Teiu"
     ],
@@ -205,7 +209,7 @@
     "name:swe_x_preferred":[
         "Teiu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Teia"
     ],
     "name:vec_x_preferred":[
@@ -247,7 +251,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -280,7 +284,7 @@
         }
     ],
     "wof:id":101864845,
-    "wof:lastmodified":1563374955,
+    "wof:lastmodified":1566603071,
     "wof:name":"Teiu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

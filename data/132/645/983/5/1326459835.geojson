@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.15806,46.11139,28.19806,46.15139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novyye Goteshty"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1326459835,
-    "wof:lastmodified":1537664332,
+    "wof:lastmodified":1566602969,
     "wof:name":"Gotestii Noi",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

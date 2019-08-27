@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"29.51729,47.2133,29.55729,47.2533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0424\u0435\u0434\u043e\u0441\u0435\u0435\u0432\u043a\u0430"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310442483,
-    "wof:lastmodified":1537664365,
+    "wof:lastmodified":1566603021,
     "wof:name":"Fedoseevca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

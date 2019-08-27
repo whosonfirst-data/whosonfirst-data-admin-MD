@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.52729,47.26101,28.56729,47.30101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "One\u0219ti"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243206827,
-    "wof:lastmodified":1564167504,
+    "wof:lastmodified":1566603107,
     "wof:name":"Onesti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.679321,
     "geom:longitude":27.660499,
     "iso:country":"MD",
+    "lbl:bbox":"27.640499,47.659321,27.680499,47.699321",
     "lbl:latitude":47.679321,
     "lbl:longitude":27.660499,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.679321,
     "mps:longitude":27.660499,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Obreja Veche"
     ],
@@ -43,10 +47,8 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0440\u0435\u0436\u0430-\u0412\u0435\u043a\u0435"
     ],
-    "name:und_x_preferred":[
-        "Obrezha"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Obrezha",
         "Obrezha Staraya"
     ],
     "qs:a0":"Moldova",
@@ -66,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191581,
@@ -78,7 +80,7 @@
         "fct:id":"01a51632-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617351,
         "gp:id":481026,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2440234",
         "wk:page":"Obreja Veche"
     },
@@ -96,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374878,
+    "wof:lastmodified":1566603055,
     "wof:name":"Obreja Veche",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

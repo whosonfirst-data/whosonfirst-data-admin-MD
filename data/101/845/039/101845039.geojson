@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":45.710449,
     "lbl:longitude":28.174904,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.710449,
     "mps:longitude":28.174904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coliba\u0219i"
     ],
@@ -73,10 +76,8 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0456\u0431\u0430\u0448\u0438"
     ],
-    "name:und_x_preferred":[
-        "Kolibash"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Kolibash",
         "Goliba\u015fi"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -93,7 +94,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -105,7 +106,7 @@
         "fct:id":"01a4f24c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618047,
         "gp:id":480363,
-        "qs:id":1213405,
+        "qs_pg:id":1213405,
         "wd:id":"Q2420066",
         "wk:page":"Coliba\u0219i, Cahul"
     },
@@ -123,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374756,
+    "wof:lastmodified":1566603027,
     "wof:name":"Coliba\u015fi",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

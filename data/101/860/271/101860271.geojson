@@ -10,12 +10,16 @@
     "geom:latitude":48.073334,
     "geom:longitude":27.258486,
     "iso:country":"MD",
+    "lbl:bbox":"27.238486,48.053334,27.278486,48.093334",
     "lbl:latitude":48.073334,
     "lbl:longitude":27.258486,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.073334,
     "mps:longitude":27.258486,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Z\u0103briceni"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0431\u0440\u0456\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zabrichen\u2019"
     ],
     "qs:a0":"Moldova",
@@ -57,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":617061,
         "gp:id":481612,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2440326",
         "wk:page":"Z\u0103briceni"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":101860271,
-    "wof:lastmodified":1563374831,
+    "wof:lastmodified":1566603044,
     "wof:name":"Z\u0103briceni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

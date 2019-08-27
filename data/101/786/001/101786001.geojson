@@ -13,10 +13,13 @@
     "iso:country":"MD",
     "lbl:latitude":46.4766,
     "lbl:longitude":28.250567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.4766,
     "mps:longitude":28.250567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041b\u0435\u043e\u0432\u0430"
     ],
@@ -104,12 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043e\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Leova"
-    ],
-    "name:unk_x_variant":[
-        "Levo"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u0648\u0627"
     ],
@@ -132,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":45.0,
     "wd:latitude":46.478611,
@@ -148,7 +145,6 @@
         "fct:id":"01a4f6de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617904,
         "gp:id":480835,
-        "qs:id":1213458,
         "qs_pg:id":1213458,
         "wd:id":"Q2199004",
         "wk:page":"Leova"
@@ -167,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375071,
+    "wof:lastmodified":1566603095,
     "wof:name":"Leova",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

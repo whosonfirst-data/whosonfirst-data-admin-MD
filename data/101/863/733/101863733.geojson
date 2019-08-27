@@ -9,14 +9,18 @@
     "geom:bbox":"28.493067,47.046574,28.493067,47.046574",
     "geom:latitude":47.046574,
     "geom:longitude":28.493067,
-    "geonames:id":"618245,864913",
+    "gn:id":"618245,864913",
     "iso:country":"MD",
+    "lbl:bbox":"28.473067,47.026574,28.513067,47.066574",
     "lbl:latitude":47.046574,
     "lbl:longitude":28.493067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.046574,
     "mps:longitude":28.493067,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horodca"
     ],
@@ -91,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -101,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":480705,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q768278"
     },
     "wof:country":"MD",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":101863733,
-    "wof:lastmodified":1563375036,
+    "wof:lastmodified":1566603087,
     "wof:name":"Horodca",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

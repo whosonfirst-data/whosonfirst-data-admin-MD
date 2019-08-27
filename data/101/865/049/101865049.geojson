@@ -10,12 +10,16 @@
     "geom:latitude":48.000419,
     "geom:longitude":28.748548,
     "iso:country":"MD",
+    "lbl:bbox":"28.728548,47.980419,28.768548,48.020419",
     "lbl:latitude":48.000419,
     "lbl:longitude":28.748548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.000419,
     "mps:longitude":28.748548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Podoimi\u021ba"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u0434\u043e\u0439\u043c\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Podoymitsa"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":101865049,
-    "wof:lastmodified":1563374922,
+    "wof:lastmodified":1566603065,
     "wof:name":"Podoimi\u0163a",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

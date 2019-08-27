@@ -10,12 +10,16 @@
     "geom:latitude":46.923985,
     "geom:longitude":29.480696,
     "iso:country":"MD",
+    "lbl:bbox":"29.460696,46.903985,29.500696,46.943985",
     "lbl:latitude":46.923985,
     "lbl:longitude":29.480696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.923985,
     "mps:longitude":29.480696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "B\u00eecioc"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0443\u0434\u0436\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00e2cioc"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101864851,
-    "wof:lastmodified":1563374961,
+    "wof:lastmodified":1566603072,
     "wof:name":"B\u00eecioc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

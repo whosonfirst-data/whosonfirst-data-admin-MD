@@ -10,12 +10,16 @@
     "geom:latitude":47.65783,
     "geom:longitude":27.480105,
     "iso:country":"MD",
+    "lbl:bbox":"27.460105,47.63783,27.500105,47.67783",
     "lbl:latitude":47.65783,
     "lbl:longitude":27.480105,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.65783,
     "mps:longitude":27.480105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ciuciulea"
     ],
@@ -76,12 +80,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0435\u0442\u0440\u0443\u043d\u044f"
     ],
-    "name:und_x_preferred":[
-        "Ciuciulea"
-    ],
-    "name:unk_x_variant":[
-        "Chuchulya"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Glodeni",
     "qs:a1_alt":"Glodeni",
@@ -99,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -111,7 +109,7 @@
         "fct:id":"01a49e3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618415,
         "gp:id":480332,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1984988",
         "wk:page":"Ciuciulea"
     },
@@ -129,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374865,
+    "wof:lastmodified":1566603052,
     "wof:name":"Ciuciulea",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

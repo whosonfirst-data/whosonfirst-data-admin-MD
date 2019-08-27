@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.16563,47.44022,28.20563,47.48022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0443\u0447\u043e\u0430\u044f"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343597491,
-    "wof:lastmodified":1537664348,
+    "wof:lastmodified":1566602978,
     "wof:name":"Cucioaia",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

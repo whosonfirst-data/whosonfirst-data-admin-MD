@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"29.23785,46.85197,29.27785,46.89197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Brezok",
         "Ber\u00ebzki",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259717361,
-    "wof:lastmodified":1537664374,
+    "wof:lastmodified":1566603110,
     "wof:name":"Beriozchi",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

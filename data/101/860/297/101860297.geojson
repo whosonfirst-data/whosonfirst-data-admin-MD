@@ -10,12 +10,16 @@
     "geom:latitude":48.008133,
     "geom:longitude":27.144016,
     "iso:country":"MD",
+    "lbl:bbox":"27.124016,47.988133,27.164016,48.028133",
     "lbl:latitude":48.008133,
     "lbl:longitude":27.144016,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.008133,
     "mps:longitude":27.144016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corpaci"
     ],
@@ -78,12 +82,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0440\u043f\u0430\u0447"
     ],
-    "name:und_x_preferred":[
-        "Corpaci"
-    ],
-    "name:unk_x_variant":[
-        "Korpach"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Edine\u0163",
     "qs:a1_alt":"Edinet",
@@ -101,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":78,
     "wof:belongsto":[
         102191581,
@@ -113,7 +111,7 @@
         "fct:id":"01a4a9fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":829581,
         "gp:id":480397,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1984006",
         "wk:page":"Corpaci"
     },
@@ -131,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374838,
+    "wof:lastmodified":1566603046,
     "wof:name":"Corpaci",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.475402,
     "lbl:longitude":29.090426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.475402,
     "mps:longitude":29.090426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zhora-de-Mizhlok"
     ],
@@ -46,12 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u043e\u0440\u0430-\u0434\u0435-\u041c\u0456\u0436\u043b\u043e\u043a"
     ],
-    "name:und_x_preferred":[
-        "Jora de Mijloc"
-    ],
-    "name:unk_x_variant":[
-        "Sredniye Zhory"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Orhei",
     "qs:a1_alt":"Orhei",
@@ -66,7 +63,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -78,7 +75,7 @@
         "fct:id":"01a4ef86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617359,
         "gp:id":480768,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2447121",
         "wk:page":"Jora de Mijloc"
     },
@@ -96,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840318,
+    "wof:lastmodified":1566603062,
     "wof:name":"Jora de Mijloc",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

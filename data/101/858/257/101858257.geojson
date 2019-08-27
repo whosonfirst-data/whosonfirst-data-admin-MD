@@ -10,12 +10,16 @@
     "geom:latitude":47.89452,
     "geom:longitude":27.673094,
     "iso:country":"MD",
+    "lbl:bbox":"27.653094,47.87452,27.693094,47.91452",
     "lbl:latitude":47.89452,
     "lbl:longitude":27.673094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.89452,
     "mps:longitude":27.673094,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Recha"
     ],
@@ -43,12 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0447\u0430"
     ],
-    "name:und_x_preferred":[
-        "Recea"
-    ],
-    "name:unk_x_variant":[
-        "Recha"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*R\u00ee\u015fcani",
     "qs:a1_alt":"Riscani",
@@ -66,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -78,7 +76,7 @@
         "fct:id":"01a53388-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617520,
         "gp:id":481186,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2448227",
         "wk:page":"Recea, R\u00ee\u0219cani"
     },
@@ -96,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374853,
+    "wof:lastmodified":1566603049,
     "wof:name":"Recea",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

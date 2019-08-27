@@ -13,10 +13,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.254201,
     "lbl:longitude":28.313812,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.254201,
     "mps:longitude":28.313812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041a\u044d\u043b\u044d\u0440\u0430\u0448"
     ],
@@ -97,13 +100,8 @@
         "Calarasi",
         "Calarasi-Targ"
     ],
-    "name:und_x_preferred":[
-        "C\u0103l\u0103ra\u015fi"
-    ],
     "name:und_x_variant":[
-        "C\u00e6l\u00e6rasi-Targ"
-    ],
-    "name:unk_x_variant":[
+        "C\u00e6l\u00e6rasi-Targ",
         "Kalarash"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.254444,
     "wd:longitude":28.308056,
@@ -147,7 +145,6 @@
         "fct:id":"01a48776-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618454,
         "gp:id":480216,
-        "qs:id":1010483,
         "qs_pg:id":1010483,
         "wd:id":"Q1014367",
         "wk:page":"C\u0103l\u0103ra\u0219i, Moldova"
@@ -166,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374920,
+    "wof:lastmodified":1566603064,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

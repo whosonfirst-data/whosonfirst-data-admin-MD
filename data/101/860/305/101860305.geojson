@@ -10,12 +10,16 @@
     "geom:latitude":48.155514,
     "geom:longitude":27.494888,
     "iso:country":"MD",
+    "lbl:bbox":"27.474888,48.135514,27.514888,48.175514",
     "lbl:latitude":48.155514,
     "lbl:longitude":27.494888,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.155514,
     "mps:longitude":27.494888,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ga\u0219par"
     ],
@@ -76,11 +80,8 @@
     "name:und_x_colloquial":[
         "Gaspar"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Ga\u015fpar"
-    ],
-    "name:unk_x_variant":[
-        "Gashpar"
     ],
     "name:vep_x_preferred":[
         "Tabani"
@@ -102,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -114,7 +115,7 @@
         "fct:id":"01a4ceb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618300,
         "gp:id":480591,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1984336",
         "wk:page":"Ga\u0219par"
     },
@@ -132,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374826,
+    "wof:lastmodified":1566603043,
     "wof:name":"Ga\u015fpar",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

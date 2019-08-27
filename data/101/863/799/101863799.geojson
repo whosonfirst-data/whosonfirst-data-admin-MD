@@ -10,12 +10,16 @@
     "geom:latitude":46.843094,
     "geom:longitude":29.358303,
     "iso:country":"MD",
+    "lbl:bbox":"29.338303,46.823094,29.378303,46.863094",
     "lbl:latitude":46.843094,
     "lbl:longitude":29.358303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.843094,
     "mps:longitude":29.358303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "H\u00eerbov\u0103\u021b"
     ],
@@ -87,15 +91,9 @@
         "Harbovat",
         "Hirbovat"
     ],
-    "name:und_x_preferred":[
-        "H\u00eerbov\u0103\u0163"
-    ],
     "name:und_x_variant":[
         "G\u00e2rbov\u00e6t",
         "H\u00e2rbov\u0103\u0163"
-    ],
-    "name:unk_x_variant":[
-        "Gerbovets"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Anenii Noi",
@@ -114,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -126,7 +124,7 @@
         "fct:id":"01a4df96-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618207,
         "gp:id":480679,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2437562",
         "wk:page":"H\u00eerbov\u0103\u021b"
     },
@@ -144,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375002,
+    "wof:lastmodified":1566603080,
     "wof:name":"H\u00eerbov\u0103\u0163",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

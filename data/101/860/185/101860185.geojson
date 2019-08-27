@@ -10,12 +10,16 @@
     "geom:latitude":48.040051,
     "geom:longitude":27.616284,
     "iso:country":"MD",
+    "lbl:bbox":"27.596284,48.020051,27.636284,48.060051",
     "lbl:latitude":48.040051,
     "lbl:longitude":27.616284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.040051,
     "mps:longitude":27.616284,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mih\u0103ileni"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0435\u0439\u043b\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mikhaylyany"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191581,
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":617807,
         "gp:id":480922,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2448422",
         "wk:page":"Mih\u0103ileni, R\u00ee\u0219cani"
     },
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":101860185,
-    "wof:lastmodified":1563374843,
+    "wof:lastmodified":1566603047,
     "wof:name":"Mih\u0103ileni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

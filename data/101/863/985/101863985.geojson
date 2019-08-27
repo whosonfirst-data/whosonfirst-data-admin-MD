@@ -10,12 +10,16 @@
     "geom:latitude":47.431355,
     "geom:longitude":29.073632,
     "iso:country":"MD",
+    "lbl:bbox":"29.053632,47.411355,29.093632,47.451355",
     "lbl:latitude":47.431355,
     "lbl:longitude":29.073632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.431355,
     "mps:longitude":29.073632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u00ee\u0219c\u0103u\u021bi"
     ],
@@ -82,14 +86,9 @@
         "Vascauti",
         "Viscauti"
     ],
-    "name:und_x_preferred":[
-        "V\u00ee\u015fc\u0103u\u0163i"
-    ],
     "name:und_x_variant":[
+        "V\u00ee\u015fc\u0103u\u0163i",
         "V\u00e2\u015fc\u0103u\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Vaskoutsi"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Orhei",
@@ -109,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -138,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375031,
+    "wof:lastmodified":1566603086,
     "wof:name":"V\u00ee\u015fc\u0103u\u0163i",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

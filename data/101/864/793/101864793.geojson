@@ -11,12 +11,16 @@
     "geom:longitude":28.731283,
     "gn:population":3800,
     "iso:country":"MD",
+    "lbl:bbox":"28.711283,47.056599,28.751283,47.096599",
     "lbl:latitude":47.076599,
     "lbl:longitude":28.731283,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.076599,
     "mps:longitude":28.731283,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0442\u0440\u0430"
     ],
@@ -65,10 +69,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0442\u0440\u0430"
     ],
-    "name:und_x_preferred":[
-        "Vatra"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gara Ghidighici"
     ],
     "qs:a0":"Moldova",
@@ -89,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.073889,
     "wd:longitude":28.735,
@@ -104,7 +105,6 @@
         "fct:id":"01a57500-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":824134,
         "gp:id":481570,
-        "qs:id":53934,
         "qs_pg:id":53934,
         "wd:id":"Q1117303",
         "wk:page":"Vatra, Moldova"
@@ -123,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374974,
+    "wof:lastmodified":1566603075,
     "wof:name":"Vatra",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

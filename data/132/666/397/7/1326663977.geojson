@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.20134,47.30439,28.24134,47.34439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "H\u00eerjauca"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "H\u00e2rjauca",
         "Gyrzhauka",
-        "Gyrzhavka",
-        "H\u00eerjauca"
+        "Gyrzhavka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326663977,
-    "wof:lastmodified":1564167369,
+    "wof:lastmodified":1566602970,
     "wof:name":"Hirjauca",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

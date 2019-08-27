@@ -10,12 +10,16 @@
     "geom:latitude":47.959648,
     "geom:longitude":28.117161,
     "iso:country":"MD",
+    "lbl:bbox":"28.097161,47.939648,28.137161,47.979648",
     "lbl:latitude":47.959648,
     "lbl:longitude":28.117161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.959648,
     "mps:longitude":28.117161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Frumu\u0219ica"
     ],
@@ -52,12 +56,6 @@
     "name:und_x_colloquial":[
         "Frumusica"
     ],
-    "name:und_x_preferred":[
-        "Frumu\u015fica"
-    ],
-    "name:unk_x_variant":[
-        "Frumushika"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Flore\u015fti",
     "qs:a1_alt":"Floresti",
@@ -75,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":75,
     "wof:belongsto":[
         102191581,
@@ -87,7 +85,7 @@
         "fct:id":"01a4cc18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618322,
         "gp:id":480576,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q441420"
     },
     "wof:country":"MD",
@@ -104,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374825,
+    "wof:lastmodified":1566603043,
     "wof:name":"Frumu\u015fica",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.851,47.78852,28.891,47.82852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Lipceni"
     ],
@@ -44,7 +48,6 @@
         "Lipch\u00ebny",
         "Lipchen\u2019",
         "Lipcheni",
-        "Lipceni",
         "Lipcheny"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1360115225,
-    "wof:lastmodified":1564167472,
+    "wof:lastmodified":1566603025,
     "wof:name":"Lipceni",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

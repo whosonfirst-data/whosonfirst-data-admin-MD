@@ -10,12 +10,16 @@
     "geom:latitude":47.316532,
     "geom:longitude":27.819575,
     "iso:country":"MD",
+    "lbl:bbox":"27.799575,47.296532,27.839575,47.336532",
     "lbl:latitude":47.316532,
     "lbl:longitude":27.819575,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.316532,
     "mps:longitude":27.819575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Todireshti"
     ],
@@ -50,12 +54,6 @@
     "name:und_x_colloquial":[
         "Todiresti"
     ],
-    "name:und_x_preferred":[
-        "Todire\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Cholak"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
     "qs:a1_alt":"Ungheni",
@@ -73,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -85,7 +83,7 @@
         "fct:id":"01a565d8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617235,
         "gp:id":481484,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2453741",
         "wk:page":"Todire\u0219ti, Ungheni"
     },
@@ -103,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374882,
+    "wof:lastmodified":1566603056,
     "wof:name":"Todire\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

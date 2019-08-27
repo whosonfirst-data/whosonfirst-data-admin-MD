@@ -10,12 +10,16 @@
     "geom:latitude":47.724175,
     "geom:longitude":28.063188,
     "iso:country":"MD",
+    "lbl:bbox":"28.043188,47.704175,28.083188,47.744175",
     "lbl:latitude":47.724175,
     "lbl:longitude":28.063188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.724175,
     "mps:longitude":28.063188,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "M\u0103rine\u0219ti"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marineshty"
     ],
     "qs:a0":"Moldova",
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":831061,
         "gp:id":481302,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1240756"
     },
     "wof:country":"MD",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101858233,
-    "wof:lastmodified":1563374860,
+    "wof:lastmodified":1566603051,
     "wof:name":"M\u0103rine\u015fti",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

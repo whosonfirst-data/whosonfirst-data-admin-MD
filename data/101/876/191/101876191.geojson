@@ -13,10 +13,13 @@
     "iso:country":"MD",
     "lbl:latitude":46.731391,
     "lbl:longitude":29.961503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.731391,
     "mps:longitude":29.961503,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pervomaisc"
     ],
@@ -80,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pervomayskoye"
     ],
     "qs:a0":"Moldova",
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":57,
     "wof:belongsto":[
@@ -113,7 +116,6 @@
     "wof:concordances":{
         "gn:id":617602,
         "gp:id":481091,
-        "qs:id":126269,
         "qs_pg:id":126269,
         "wd:id":"Q2632598",
         "wk:page":"Pervomaisc, Transnistria"
@@ -137,7 +139,7 @@
         }
     ],
     "wof:id":101876191,
-    "wof:lastmodified":1563374909,
+    "wof:lastmodified":1566603061,
     "wof:name":"Pervomaisc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

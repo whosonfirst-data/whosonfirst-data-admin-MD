@@ -11,12 +11,16 @@
     "geom:longitude":27.512831,
     "gn:population":10146,
     "iso:country":"MD",
+    "lbl:bbox":"27.492831,47.756704,27.532831,47.796704",
     "lbl:latitude":47.776704,
     "lbl:longitude":27.512831,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.776704,
     "mps:longitude":27.512831,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0413\u043b\u043e\u0434\u0435\u043d\u0438"
     ],
@@ -85,12 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0434\u044f\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Glodeni"
-    ],
-    "name:unk_x_variant":[
-        "Glodyany"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0644\u0648\u062f\u06cc\u0646\u06cc"
     ],
@@ -115,7 +113,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.770833,
     "wd:longitude":27.514444,
@@ -130,7 +128,6 @@
         "fct:id":"01a4d384-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618261,
         "gp:id":480616,
-        "qs:id":260709,
         "qs_pg:id":260709,
         "wd:id":"Q2292609",
         "wk:page":"Glodeni"
@@ -149,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374868,
+    "wof:lastmodified":1566603053,
     "wof:name":"Glodeni",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

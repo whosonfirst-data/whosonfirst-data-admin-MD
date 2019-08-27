@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.165359,
     "lbl:longitude":28.135596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.165359,
     "mps:longitude":28.135596,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Selishtya"
     ],
@@ -46,13 +49,8 @@
         "Seliste",
         "Silistea Veche"
     ],
-    "name:und_x_preferred":[
-        "Seli\u015fte"
-    ],
     "name:und_x_variant":[
-        "Sili\u015ftea Veche"
-    ],
-    "name:unk_x_variant":[
+        "Seli\u015fte",
         "Sili\u015ftea Veche"
     ],
     "qs:a0":"Moldova",
@@ -69,7 +67,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191581,
@@ -81,7 +79,7 @@
         "fct:id":"01a54422-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617445,
         "gp:id":481278,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2447531",
         "wk:page":"Seli\u0219te, Nisporeni"
     },
@@ -99,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374762,
+    "wof:lastmodified":1566603028,
     "wof:name":"Seli\u015fte",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

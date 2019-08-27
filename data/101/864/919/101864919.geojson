@@ -10,12 +10,16 @@
     "geom:latitude":47.714725,
     "geom:longitude":28.707733,
     "iso:country":"MD",
+    "lbl:bbox":"28.687733,47.694725,28.727733,47.734725",
     "lbl:latitude":47.714725,
     "lbl:longitude":28.707733,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.714725,
     "mps:longitude":28.707733,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Peci\u0219te"
     ],
@@ -86,13 +90,7 @@
         "Pecestea",
         "Peciste"
     ],
-    "name:und_x_preferred":[
-        "Peci\u015fte"
-    ],
     "name:und_x_variant":[
-        "Pece\u015ftea"
-    ],
-    "name:unk_x_variant":[
         "Pece\u015ftea"
     ],
     "qs:a0":"Moldova",
@@ -112,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -124,7 +122,7 @@
         "fct:id":"01a51eb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617617,
         "gp:id":481075,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1987818",
         "wk:page":"Peci\u0219te"
     },
@@ -142,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374996,
+    "wof:lastmodified":1566603079,
     "wof:name":"Peci\u015fte",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

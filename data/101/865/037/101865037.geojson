@@ -10,12 +10,16 @@
     "geom:latitude":47.597728,
     "geom:longitude":29.011463,
     "iso:country":"MD",
+    "lbl:bbox":"28.991463,47.577728,29.031463,47.617728",
     "lbl:latitude":47.597728,
     "lbl:longitude":29.011463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.597728,
     "mps:longitude":29.011463,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Popencu"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043f\u0435\u043d\u043a\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Popenki"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101865037,
-    "wof:lastmodified":1563374926,
+    "wof:lastmodified":1566603065,
     "wof:name":"Popencu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

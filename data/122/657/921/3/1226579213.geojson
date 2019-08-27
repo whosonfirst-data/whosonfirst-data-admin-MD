@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.92528,47.94917,27.96528,47.98917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mih\u0103ileni"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226579213,
-    "wof:lastmodified":1537664392,
+    "wof:lastmodified":1566603116,
     "wof:name":"Mikhaylyany",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

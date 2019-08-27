@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"29.0569,47.46574,29.0969,47.50574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u0416\u043e\u0440\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209745725,
-    "wof:lastmodified":1537664304,
+    "wof:lastmodified":1566603012,
     "wof:name":"Jora de Sus",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

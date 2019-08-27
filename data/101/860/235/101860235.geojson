@@ -10,12 +10,16 @@
     "geom:latitude":48.149746,
     "geom:longitude":27.79262,
     "iso:country":"MD",
+    "lbl:bbox":"27.77262,48.129746,27.81262,48.169746",
     "lbl:latitude":48.149746,
     "lbl:longitude":27.79262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.149746,
     "mps:longitude":27.79262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00eend\u00eec"
     ],
@@ -85,13 +89,8 @@
         "Mandac",
         "Mindic"
     ],
-    "name:und_x_preferred":[
-        "M\u00eend\u00eec"
-    ],
     "name:und_x_variant":[
-        "M\u00e2nd\u00e2c"
-    ],
-    "name:unk_x_variant":[
+        "M\u00e2nd\u00e2c",
         "Liveden\u2019"
     ],
     "qs:a0":"Moldova",
@@ -111,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -123,7 +122,7 @@
         "fct:id":"01a5096c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617893,
         "gp:id":480937,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q782782",
         "wk:page":"M\u00eend\u00eec"
     },
@@ -141,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374813,
+    "wof:lastmodified":1566603040,
     "wof:name":"M\u00eend\u00eec",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

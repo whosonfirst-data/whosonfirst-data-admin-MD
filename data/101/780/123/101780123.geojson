@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":48.203874,
     "lbl:longitude":26.917531,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.203874,
     "mps:longitude":26.917531,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0435\u0440\u0430\u0440\u044b\u0442\u0430"
     ],
@@ -88,12 +91,6 @@
     "name:ukr_x_variant":[
         "\u041f\u0435\u0440\u0435\u0440\u0456\u0442\u0430"
     ],
-    "name:und_x_preferred":[
-        "Pererita"
-    ],
-    "name:unk_x_variant":[
-        "Pereryta"
-    ],
     "qs:a0":"Rom\u00e2nia",
     "qs:a1":"*Briceni",
     "qs:a1r":"0",
@@ -108,7 +105,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -120,7 +117,7 @@
         "fct:id":"01a52096-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617610,
         "gp:id":481084,
-        "qs:id":293059,
+        "qs_pg:id":293059,
         "wd:id":"Q781575",
         "wk:page":"Perer\u00eeta"
     },
@@ -138,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375072,
+    "wof:lastmodified":1566603095,
     "wof:name":"Pererita",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.106306,
     "lbl:longitude":28.183869,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.106306,
     "mps:longitude":28.183869,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Varzareshty"
     ],
@@ -50,12 +53,6 @@
     "name:und_x_colloquial":[
         "Varzaresti"
     ],
-    "name:und_x_preferred":[
-        "V\u0103rz\u0103re\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Varzareshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Nisporeni",
     "qs:a1_alt":"Nisporeni",
@@ -70,7 +67,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -82,7 +79,7 @@
         "fct:id":"01a5733e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617145,
         "gp:id":481561,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2367237"
     },
     "wof:country":"MD",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374762,
+    "wof:lastmodified":1566603028,
     "wof:name":"V\u0103rz\u0103re\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

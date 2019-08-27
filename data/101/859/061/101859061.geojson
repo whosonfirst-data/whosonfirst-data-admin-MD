@@ -10,12 +10,16 @@
     "geom:latitude":46.82748,
     "geom:longitude":28.277696,
     "iso:country":"MD",
+    "lbl:bbox":"28.257696,46.80748,28.297696,46.84748",
     "lbl:latitude":46.82748,
     "lbl:longitude":28.277696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.82748,
     "mps:longitude":28.277696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Krasnoarmeyskoye"
     ],
@@ -50,14 +54,8 @@
         "Geamaena",
         "Geamana"
     ],
-    "name:und_x_preferred":[
-        "Crasnoarmeiscoe"
-    ],
     "name:und_x_variant":[
         "Geam\u00e6na"
-    ],
-    "name:unk_x_variant":[
-        "Princhipele Karol"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*H\u00eence\u015fti",
@@ -77,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -106,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374772,
+    "wof:lastmodified":1566603031,
     "wof:name":"Crasnoarmeiscoe",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

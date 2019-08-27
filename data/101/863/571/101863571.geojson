@@ -11,12 +11,16 @@
     "geom:longitude":28.783159,
     "gn:population":12464,
     "iso:country":"MD",
+    "lbl:bbox":"28.763159,46.50114,28.803159,46.54114",
     "lbl:latitude":46.52114,
     "lbl:longitude":28.783159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.52114,
     "mps:longitude":28.783159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u064a\u0634\u0644\u064a\u0627"
     ],
@@ -107,13 +111,7 @@
     "name:und_x_colloquial":[
         "Cimislia"
     ],
-    "name:und_x_preferred":[
-        "Chimishliya"
-    ],
     "name:und_x_variant":[
-        "Cimi\u015flia"
-    ],
-    "name:unk_x_variant":[
         "Chimishliya"
     ],
     "name:urd_x_preferred":[
@@ -140,7 +138,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.52,
     "wd:longitude":28.784167,
@@ -155,7 +153,6 @@
         "fct:id":"01a4928e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618406,
         "gp:id":480271,
-        "qs:id":126293,
         "qs_pg:id":126293,
         "wd:id":"Q2019719",
         "wk:page":"Cimi\u0219lia"
@@ -174,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375062,
+    "wof:lastmodified":1566603093,
     "wof:name":"Cimi\u015flia",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

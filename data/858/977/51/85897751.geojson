@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":16623657.60244,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.85909,47.001203,28.85909,47.001203",
     "geom:latitude":47.001203,
     "geom:longitude":28.85909,
     "gn:id":"",
     "iso:country":"MD",
+    "lbl:bbox":"28.85409,46.996203,28.86409,47.006203",
     "lbl:latitude":47.001203,
     "lbl:longitude":28.85909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":46.991802,
     "mps:longitude":28.860213,
     "mz:hierarchy_label":0,
@@ -36,10 +38,7 @@
     "name:spa_x_preferred":[
         "Rhododendron-Park Bremen"
     ],
-    "name:und_x_preferred":[
-        "Botanika"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Botanika"
     ],
     "qs:gn_adm0_cc":"MD",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":502,
     "wof:belongsto":[
         102191581,
@@ -78,7 +77,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":480136,
-        "qs:id":1077994,
         "qs_pg:id":1077994
     },
     "wof:country":"MD",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931933,
+    "wof:lastmodified":1566602988,
     "wof:name":"Botanika",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

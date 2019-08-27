@@ -10,12 +10,16 @@
     "geom:latitude":46.567463,
     "geom:longitude":28.246254,
     "iso:country":"MD",
+    "lbl:bbox":"28.226254,46.547463,28.266254,46.587463",
     "lbl:latitude":46.567463,
     "lbl:longitude":28.246254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.567463,
     "mps:longitude":28.246254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tochile-R\u0103ducani"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043a\u0456\u043b\u0435-\u0420\u0435\u0434\u0443\u043a\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tokile-Radukany"
     ],
     "qs:a0":"Moldova",
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":71,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":617233,
         "gp:id":481480,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q278456",
         "wk:page":"Tochile-R\u0103ducani"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101857955,
-    "wof:lastmodified":1563374776,
+    "wof:lastmodified":1566603032,
     "wof:name":"Tochile-R\u0103ducani",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

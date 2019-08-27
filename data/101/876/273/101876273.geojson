@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":48.138615,
     "lbl:longitude":28.285913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.138615,
     "mps:longitude":28.285913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zast\u00eenca"
     ],
@@ -76,10 +79,7 @@
     "name:und_x_colloquial":[
         "Zastinca"
     ],
-    "name:und_x_preferred":[
-        "Zast\u00eenca"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zastynka"
     ],
     "qs:a0":"Moldova",
@@ -96,7 +96,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -108,7 +108,7 @@
         "fct:id":"01a5800e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":824096,
         "gp:id":481625,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2445621",
         "wk:page":"Zast\u00eenca"
     },
@@ -126,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374899,
+    "wof:lastmodified":1566603059,
     "wof:name":"Zast\u00eenca",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

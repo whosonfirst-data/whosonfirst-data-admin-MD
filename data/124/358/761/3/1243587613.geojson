@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.93578,47.65677,28.97578,47.69677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Saharna Nou\u0103"
     ],
@@ -35,8 +39,7 @@
         "\u041d\u043e\u0432\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Novaya Sakharna",
-        "Saharna Nou\u0103"
+        "Novaya Sakharna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243587613,
-    "wof:lastmodified":1564167498,
+    "wof:lastmodified":1566603105,
     "wof:name":"Saharna Noua",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

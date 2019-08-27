@@ -10,12 +10,16 @@
     "geom:latitude":48.231205,
     "geom:longitude":27.519043,
     "iso:country":"MD",
+    "lbl:bbox":"27.499043,48.211205,27.539043,48.251205",
     "lbl:latitude":48.231205,
     "lbl:longitude":27.519043,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.231205,
     "mps:longitude":27.519043,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rediul Mare"
     ],
@@ -77,12 +81,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0434\u0456\u0443\u043b-\u041c\u0430\u0440\u0435"
     ],
-    "name:und_x_preferred":[
-        "Rediul Mare"
-    ],
-    "name:unk_x_variant":[
-        "Redyu-Mare"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Dondu\u015feni",
     "qs:a1_alt":"Donduseni",
@@ -100,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -112,7 +110,7 @@
         "fct:id":"01a53428-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617514,
         "gp:id":481189,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2439628",
         "wk:page":"Rediul Mare"
     },
@@ -130,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374810,
+    "wof:lastmodified":1566603039,
     "wof:name":"Rediul Mare",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

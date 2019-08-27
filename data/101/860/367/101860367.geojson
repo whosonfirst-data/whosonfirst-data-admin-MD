@@ -10,12 +10,16 @@
     "geom:latitude":48.199531,
     "geom:longitude":28.157122,
     "iso:country":"MD",
+    "lbl:bbox":"28.137122,48.179531,28.177122,48.219531",
     "lbl:latitude":48.199531,
     "lbl:longitude":28.157122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.199531,
     "mps:longitude":28.157122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0218eptelici"
     ],
@@ -84,12 +88,6 @@
     "name:und_x_colloquial":[
         "Septelici"
     ],
-    "name:und_x_preferred":[
-        "\u015eeptelici"
-    ],
-    "name:unk_x_variant":[
-        "Sheptelich"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Soroca",
     "qs:a1_alt":"Soroca",
@@ -107,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -119,7 +117,7 @@
         "fct:id":"01a54558-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617429,
         "gp:id":481284,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2446147",
         "wk:page":"\u0218eptelici"
     },
@@ -137,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374825,
+    "wof:lastmodified":1566603043,
     "wof:name":"\u015eeptelici",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":45.849788,
     "geom:longitude":28.693959,
     "iso:country":"MD",
+    "lbl:bbox":"28.673959,45.829788,28.713959,45.869788",
     "lbl:latitude":45.849788,
     "lbl:longitude":28.693959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.849788,
     "mps:longitude":28.693959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0447\u0430\u043a"
     ],
@@ -85,12 +89,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0447\u0430\u043a"
     ],
-    "name:und_x_preferred":[
-        "Copceac"
-    ],
-    "name:unk_x_variant":[
-        "Tatar Copcezc"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
@@ -108,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -120,7 +118,7 @@
         "fct:id":"01a4a79c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618028,
         "gp:id":480382,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2638544",
         "wk:page":"Copceac, Gagauzia"
     },
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374787,
+    "wof:lastmodified":1566603034,
     "wof:name":"Copceac",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

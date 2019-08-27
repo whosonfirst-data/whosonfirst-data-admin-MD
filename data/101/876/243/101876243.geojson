@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
+    "geom:area_square_m":2216405.921782,
     "geom:bbox":"28.7916239059,47.9411481202,28.8101603826,47.9596850266",
     "geom:latitude":47.950373,
     "geom:longitude":28.800832,
     "iso:country":"MD",
     "lbl:latitude":47.950417,
     "lbl:longitude":28.800655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.950417,
     "mps:longitude":28.800655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nizhniye Klimautsy"
     ],
@@ -40,11 +44,8 @@
     "name:und_x_colloquial":[
         "Climautii de Jos"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Clim\u0103u\u0163ii de Jos"
-    ],
-    "name:unk_x_variant":[
-        "Nizhniye Klimautsy"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Sold\u0103ne\u015fti",
@@ -60,7 +61,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -72,7 +73,7 @@
         "fct:id":"01a4a09e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617749,
         "gp:id":480343,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1990720",
         "wk:page":"Clim\u0103u\u021bii de Jos"
     },
@@ -90,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527714911,
+    "wof:lastmodified":1566603059,
     "wof:name":"Clim\u0103u\u0163ii de Jos",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

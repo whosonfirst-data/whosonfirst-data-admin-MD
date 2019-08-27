@@ -11,12 +11,16 @@
     "geom:longitude":28.276659,
     "gn:population":9280,
     "iso:country":"MD",
+    "lbl:bbox":"28.256659,47.482667,28.296659,47.522667",
     "lbl:latitude":47.502667,
     "lbl:longitude":28.276659,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.502667,
     "mps:longitude":28.276659,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041c\u044b\u043d\u0434\u0440\u044d\u0448\u0446\u044c"
     ],
@@ -62,13 +66,7 @@
         "Mandresti",
         "Mindresti"
     ],
-    "name:und_x_preferred":[
-        "M\u00eendre\u015fti"
-    ],
     "name:und_x_variant":[
-        "M\u00e2ndre\u015fti"
-    ],
-    "name:unk_x_variant":[
         "M\u00e2ndre\u015fti"
     ],
     "qs:a0":"Moldova",
@@ -90,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":34,
     "wof:belongsto":[
@@ -103,7 +101,6 @@
         "fct:id":"01a509d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617778,
         "gp:id":480939,
-        "qs:id":1213467,
         "qs_pg:id":1213467,
         "wd:id":"Q2452877",
         "wk:page":"M\u00eendre\u0219ti"
@@ -122,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374861,
+    "wof:lastmodified":1566603051,
     "wof:name":"M\u00eendre\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

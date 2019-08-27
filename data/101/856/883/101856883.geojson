@@ -10,12 +10,16 @@
     "geom:latitude":46.23238,
     "geom:longitude":28.777647,
     "iso:country":"MD",
+    "lbl:bbox":"28.757647,46.21238,28.797647,46.25238",
     "lbl:latitude":46.23238,
     "lbl:longitude":28.777647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.23238,
     "mps:longitude":28.777647,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ferapontievca"
     ],
@@ -81,12 +85,6 @@
     "name:ukr_x_variant":[
         "\u0416\u043e\u043b\u0442\u0430\u0439"
     ],
-    "name:und_x_preferred":[
-        "Ferapontievca"
-    ],
-    "name:unk_x_variant":[
-        "Ferapotyanka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
@@ -104,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":106,
     "wof:belongsto":[
         102191581,
@@ -116,7 +114,7 @@
         "fct:id":"01a4c7c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618339,
         "gp:id":480552,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2638556",
         "wk:page":"Ferapontievca"
     },
@@ -134,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374792,
+    "wof:lastmodified":1566603035,
     "wof:name":"Ferapontievca",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.203145,
     "geom:longitude":28.065535,
     "iso:country":"MD",
+    "lbl:bbox":"28.045535,47.183145,28.085535,47.223145",
     "lbl:latitude":47.203145,
     "lbl:longitude":28.065535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.203145,
     "mps:longitude":28.065535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Balanesht'"
     ],
@@ -44,11 +48,8 @@
     "name:und_x_colloquial":[
         "Balanesti"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "B\u0103l\u0103ne\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Balaneshty"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Nisporeni",
@@ -67,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":28,
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         "fct:id":"01a46ba6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618613,
         "gp:id":480048,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2444614",
         "wk:page":"B\u0103l\u0103ne\u0219ti, Nisporeni"
     },
@@ -97,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374855,
+    "wof:lastmodified":1566603050,
     "wof:name":"B\u0103l\u0103ne\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

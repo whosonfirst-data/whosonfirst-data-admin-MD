@@ -10,12 +10,16 @@
     "geom:latitude":48.037617,
     "geom:longitude":28.424799,
     "iso:country":"MD",
+    "lbl:bbox":"28.404799,48.017617,28.444799,48.057617",
     "lbl:latitude":48.037617,
     "lbl:longitude":28.424799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.037617,
     "mps:longitude":28.424799,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "V\u0103r\u0103nc\u0103u"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0430\u043d\u043a\u0435\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kremenya"
     ],
     "qs:a0":"Moldova",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191581,
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":617385,
         "gp:id":481324,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1990887"
     },
     "wof:country":"MD",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101865071,
-    "wof:lastmodified":1563374922,
+    "wof:lastmodified":1566603064,
     "wof:name":"Slobozia-Cremene",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.590744,
     "geom:longitude":29.095215,
     "iso:country":"MD",
+    "lbl:bbox":"29.075215,46.570744,29.115215,46.610744",
     "lbl:latitude":46.590744,
     "lbl:longitude":29.095215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.590744,
     "mps:longitude":29.095215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Baymakliya"
     ],
@@ -43,12 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u043c\u0430\u043a\u043b\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Baimaclia"
-    ],
-    "name:unk_x_variant":[
-        "Baymakliya"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103u\u015feni",
     "qs:a1_alt":"Causeni",
@@ -66,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":41,
     "wof:belongsto":[
         102191581,
@@ -78,7 +76,7 @@
         "fct:id":"01a46aa2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618586,
         "gp:id":480043,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2437990",
         "wk:page":"Baimaclia, C\u0103u\u0219eni"
     },
@@ -96,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375054,
+    "wof:lastmodified":1566603092,
     "wof:name":"Baimaclia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

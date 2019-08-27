@@ -11,12 +11,16 @@
     "geom:longitude":29.605629,
     "gn:population":9000,
     "iso:country":"MD",
+    "lbl:bbox":"29.585629,46.756638,29.625629,46.796638",
     "lbl:latitude":46.776638,
     "lbl:longitude":29.605629,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":46.776638,
     "mps:longitude":29.605629,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u041a\u0456\u0446\u043a\u0430\u043d\u044b"
     ],
@@ -94,12 +98,6 @@
     "name:und_x_colloquial":[
         "Chitcani"
     ],
-    "name:und_x_preferred":[
-        "Chi\u0163cani"
-    ],
-    "name:unk_x_variant":[
-        "Kitskan'"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103u\u015feni",
     "qs:a1_alt":"Causeni",
@@ -119,7 +117,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":429,
     "wof:belongsto":[
@@ -132,7 +130,6 @@
         "fct:id":"01a496bc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618067,
         "gp:id":480294,
-        "qs:id":292681,
         "qs_pg:id":292681,
         "wd:id":"Q2626650",
         "wk:page":"Chi\u021bcani"
@@ -151,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375052,
+    "wof:lastmodified":1566603091,
     "wof:name":"Chi\u0163cani",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

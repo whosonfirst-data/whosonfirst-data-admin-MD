@@ -10,12 +10,16 @@
     "geom:latitude":46.647964,
     "geom:longitude":29.142489,
     "iso:country":"MD",
+    "lbl:bbox":"29.122489,46.627964,29.162489,46.667964",
     "lbl:latitude":46.647964,
     "lbl:longitude":29.142489,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.647964,
     "mps:longitude":29.142489,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novyye Kyrnatseny"
     ],
@@ -50,13 +54,7 @@
         "Carnatenii Noi",
         "Cirnatenii Noi"
     ],
-    "name:und_x_preferred":[
-        "C\u00eern\u0103\u0163enii Noi"
-    ],
     "name:und_x_variant":[
-        "C\u00e2rn\u0103\u0163enii Noi"
-    ],
-    "name:unk_x_variant":[
         "C\u00e2rn\u0103\u0163enii Noi"
     ],
     "qs:a0":"Moldova",
@@ -76,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -88,7 +86,7 @@
         "fct:id":"01a49ca2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617680,
         "gp:id":480324,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1982509",
         "wk:page":"C\u00eern\u0103\u021benii Noi"
     },
@@ -106,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375009,
+    "wof:lastmodified":1566603082,
     "wof:name":"C\u00eern\u0103\u0163enii Noi",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.118218,
     "geom:longitude":28.558443,
     "iso:country":"MD",
+    "lbl:bbox":"28.538443,48.098218,28.578443,48.138218",
     "lbl:latitude":48.118218,
     "lbl:longitude":28.558443,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.118218,
     "mps:longitude":28.558443,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hru\u0219ca"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0443\u0448\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khrushka"
     ],
     "qs:a0":"Moldova",
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":74,
     "wof:belongsto":[
         102191581,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101865017,
-    "wof:lastmodified":1563374929,
+    "wof:lastmodified":1566603066,
     "wof:name":"Hru\u015fca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

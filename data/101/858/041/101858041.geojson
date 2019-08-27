@@ -10,12 +10,16 @@
     "geom:latitude":47.411594,
     "geom:longitude":27.953777,
     "iso:country":"MD",
+    "lbl:bbox":"27.933777,47.391594,27.973777,47.431594",
     "lbl:latitude":47.411594,
     "lbl:longitude":27.953777,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.411594,
     "mps:longitude":27.953777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Te\u0219cureni"
     ],
@@ -87,12 +91,6 @@
     "name:und_x_colloquial":[
         "Tescureni"
     ],
-    "name:und_x_preferred":[
-        "Te\u015fcureni"
-    ],
-    "name:unk_x_variant":[
-        "Geshkureni"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
     "qs:a1_alt":"Ungheni",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a56056-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617246,
         "gp:id":481452,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2452930",
         "wk:page":"Te\u0219cureni"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374848,
+    "wof:lastmodified":1566603048,
     "wof:name":"Te\u015fcureni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.667572,
     "geom:longitude":28.326238,
     "iso:country":"MD",
+    "lbl:bbox":"28.306238,46.647572,28.346238,46.687572",
     "lbl:latitude":46.667572,
     "lbl:longitude":28.326238,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.667572,
     "mps:longitude":28.326238,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mingir"
     ],
@@ -40,10 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u043d\u0434\u0436\u0438\u0440"
     ],
-    "name:und_x_preferred":[
-        "Mingir"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minzhir"
     ],
     "qs:a0":"Moldova",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -75,7 +76,7 @@
         "fct:id":"01a50a02-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617803,
         "gp:id":480940,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2443185",
         "wk:page":"Mingir"
     },
@@ -93,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374780,
+    "wof:lastmodified":1566603033,
     "wof:name":"Mingir",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

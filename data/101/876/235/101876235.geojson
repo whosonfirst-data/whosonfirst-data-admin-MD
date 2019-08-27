@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.767808,
     "lbl:longitude":28.974551,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.767808,
     "mps:longitude":28.974551,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0420\u0435\u0437\u0438\u043d\u0430"
     ],
@@ -93,11 +96,8 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0437\u0438\u043d\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Ciorna"
-    ],
-    "name:unk_x_variant":[
-        "Chorna"
     ],
     "name:zho_x_preferred":[
         "\u96f7\u6fdf\u7d0d"
@@ -116,7 +116,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.749167,
     "wd:longitude":28.962222,
     "wd:wordcount":560,
@@ -130,7 +130,7 @@
         "fct:id":"01a49bda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618418,
         "gp:id":480320,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2281181"
     },
     "wof:country":"MD",
@@ -147,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374904,
+    "wof:lastmodified":1566603060,
     "wof:name":"Ciorna",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

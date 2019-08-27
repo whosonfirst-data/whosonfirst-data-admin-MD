@@ -10,12 +10,16 @@
     "geom:latitude":46.109787,
     "geom:longitude":28.386513,
     "iso:country":"MD",
+    "lbl:bbox":"28.366513,46.089787,28.406513,46.129787",
     "lbl:latitude":46.109787,
     "lbl:longitude":28.386513,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.109787,
     "mps:longitude":28.386513,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Co\u0219tangalia"
     ],
@@ -81,10 +85,8 @@
     "name:und_x_colloquial":[
         "Costangalia"
     ],
-    "name:und_x_preferred":[
-        "Co\u015ftangalia"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Co\u015ftangalia",
         "Bol\u2019shaya Kashtangaliya"
     ],
     "qs:a0":"Moldova",
@@ -104,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -116,7 +118,7 @@
         "fct:id":"01a4ac56-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618005,
         "gp:id":480408,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1776379"
     },
     "wof:country":"MD",
@@ -133,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374796,
+    "wof:lastmodified":1566603036,
     "wof:name":"Co\u015ftangalia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

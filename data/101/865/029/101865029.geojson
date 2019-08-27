@@ -10,12 +10,16 @@
     "geom:latitude":47.627983,
     "geom:longitude":29.150768,
     "iso:country":"MD",
+    "lbl:bbox":"29.130768,47.607983,29.170768,47.647983",
     "lbl:latitude":47.627983,
     "lbl:longitude":29.150768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.627983,
     "mps:longitude":29.150768,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mocra"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mokraya"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101865029,
-    "wof:lastmodified":1563374928,
+    "wof:lastmodified":1566603066,
     "wof:name":"Mocra",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

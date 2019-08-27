@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.35619,45.73665,28.39619,45.77665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Nicolaevca"
     ],
@@ -36,8 +40,7 @@
     ],
     "name:und_x_variant":[
         "Necul\u0103eni",
-        "Nikolayevka",
-        "Nicolaevca"
+        "Nikolayevka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1209445931,
-    "wof:lastmodified":1564167447,
+    "wof:lastmodified":1566603012,
     "wof:name":"Nicolaevca",
     "wof:parent_id":85633287,
     "wof:placetype":"locality",

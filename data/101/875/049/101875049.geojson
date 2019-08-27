@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.175453,
     "lbl:longitude":28.121019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.175453,
     "mps:longitude":28.121019,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chuteshty"
     ],
@@ -49,12 +52,6 @@
     "name:und_x_colloquial":[
         "Ciutesti"
     ],
-    "name:und_x_preferred":[
-        "Ciute\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Chuteshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Nisporeni",
     "qs:a1_alt":"Nisporeni",
@@ -69,7 +66,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -81,7 +78,7 @@
         "fct:id":"01a49fa4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618408,
         "gp:id":480339,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2444633",
         "wk:page":"Ciute\u0219ti"
     },
@@ -99,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374761,
+    "wof:lastmodified":1566603028,
     "wof:name":"Ciute\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

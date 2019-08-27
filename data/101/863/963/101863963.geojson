@@ -10,12 +10,16 @@
     "geom:latitude":47.336006,
     "geom:longitude":28.756708,
     "iso:country":"MD",
+    "lbl:bbox":"28.736708,47.316006,28.776708,47.356006",
     "lbl:latitude":47.336006,
     "lbl:longitude":28.756708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.336006,
     "mps:longitude":28.756708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Luc\u0103\u0219euca"
     ],
@@ -74,14 +78,9 @@
         "Lucaseuca",
         "Lukashevka"
     ],
-    "name:und_x_preferred":[
-        "Luc\u0103\u015feuca"
-    ],
     "name:und_x_variant":[
+        "Luc\u0103\u015feuca",
         "Lukash\u00ebvka"
-    ],
-    "name:unk_x_variant":[
-        "Lukashovka"
     ],
     "name:zho_x_preferred":[
         "\u4ea8\u5207\u4ec0\u8482"
@@ -103,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191581,
@@ -115,7 +114,7 @@
         "fct:id":"01a4fbb6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617880,
         "gp:id":480860,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4268804"
     },
     "wof:country":"MD",
@@ -132,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375007,
+    "wof:lastmodified":1566603081,
     "wof:name":"Luc\u0103\u015feuca",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

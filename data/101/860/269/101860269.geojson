@@ -10,12 +10,16 @@
     "geom:latitude":48.06559,
     "geom:longitude":27.277185,
     "iso:country":"MD",
+    "lbl:bbox":"27.257185,48.04559,27.297185,48.08559",
     "lbl:latitude":48.06559,
     "lbl:longitude":27.277185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.06559,
     "mps:longitude":27.277185,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "One\u015fti"
     ],
@@ -136,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0435\u0448\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Onesht\u2019"
     ],
     "name:vie_x_preferred":[
@@ -162,7 +166,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         102191581,
@@ -173,7 +177,7 @@
     "wof:concordances":{
         "gn:id":617564,
         "gp:id":481612,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q543436"
     },
     "wof:country":"MD",
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":101860269,
-    "wof:lastmodified":1563374816,
+    "wof:lastmodified":1566603041,
     "wof:name":"One\u015fti",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

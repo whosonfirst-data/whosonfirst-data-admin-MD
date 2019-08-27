@@ -10,12 +10,16 @@
     "geom:latitude":47.930187,
     "geom:longitude":27.387743,
     "iso:country":"MD",
+    "lbl:bbox":"27.367743,47.910187,27.407743,47.950187",
     "lbl:latitude":47.930187,
     "lbl:longitude":27.387743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.930187,
     "mps:longitude":27.387743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hiliu\u021bi"
     ],
@@ -89,12 +93,6 @@
     "name:und_x_colloquial":[
         "Hiliuti"
     ],
-    "name:und_x_preferred":[
-        "Hiliu\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Giliutsi"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*R\u00ee\u015fcani",
     "qs:a1_alt":"Riscani",
@@ -112,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -124,7 +122,7 @@
         "fct:id":"01a58540-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618098,
         "gp:id":480675,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1989064",
         "wk:page":"Hiliu\u021bi, R\u00ee\u0219cani"
     },
@@ -142,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374758,
+    "wof:lastmodified":1566603028,
     "wof:name":"Hiliu\u0163i",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

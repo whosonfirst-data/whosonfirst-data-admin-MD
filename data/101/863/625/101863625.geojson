@@ -10,12 +10,16 @@
     "geom:latitude":46.537152,
     "geom:longitude":29.862408,
     "iso:country":"MD",
+    "lbl:bbox":"29.842408,46.517152,29.882408,46.557152",
     "lbl:latitude":46.537152,
     "lbl:longitude":29.862408,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.537152,
     "mps:longitude":29.862408,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Purkar'"
     ],
@@ -44,12 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0440\u043a\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Purcari"
-    ],
-    "name:unk_x_variant":[
-        "Purkary"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*\u015etefan Vod\u0103",
     "qs:a1_alt":"Stefan Voda",
@@ -67,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":101,
     "wof:belongsto":[
         102191581,
@@ -79,7 +77,7 @@
         "fct:id":"01a52f28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617542,
         "gp:id":481164,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2445290",
         "wk:page":"Purcari"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375046,
+    "wof:lastmodified":1566603090,
     "wof:name":"Purcari",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.964192,
     "geom:longitude":28.466928,
     "iso:country":"MD",
+    "lbl:bbox":"28.446928,47.944192,28.486928,47.984192",
     "lbl:latitude":47.964192,
     "lbl:longitude":28.466928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.964192,
     "mps:longitude":28.466928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerni\u021ba"
     ],
@@ -83,14 +87,8 @@
         "Cernita",
         "Chernitsa"
     ],
-    "name:und_x_preferred":[
-        "Cerni\u0163a"
-    ],
     "name:und_x_variant":[
         "Ch\u00ebrnitsa"
-    ],
-    "name:unk_x_variant":[
-        "Chornitsa"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Flore\u015fti",
@@ -109,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         102191581,
@@ -121,7 +119,7 @@
         "fct:id":"01a4902c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618438,
         "gp:id":480259,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1984511"
     },
     "wof:country":"MD",
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374999,
+    "wof:lastmodified":1566603079,
     "wof:name":"Cerni\u0163a",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

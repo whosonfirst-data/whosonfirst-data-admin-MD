@@ -11,12 +11,16 @@
     "geom:longitude":28.829541,
     "gn:population":24918,
     "iso:country":"MD",
+    "lbl:bbox":"28.809541,47.349858,28.849541,47.389858",
     "lbl:latitude":47.369858,
     "lbl:longitude":28.829541,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.369858,
     "mps:longitude":28.829541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0445\u0435\u0439"
     ],
@@ -138,13 +142,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0433\u0456\u0457\u0432"
     ],
-    "name:und_x_preferred":[
-        "Orgeyev"
-    ],
     "name:und_x_variant":[
-        "Orhei"
-    ],
-    "name:unk_x_variant":[
         "Orgeyev"
     ],
     "name:zho_x_preferred":[
@@ -169,7 +167,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.383056,
     "wd:longitude":28.823056,
@@ -185,7 +183,6 @@
         "fct:id":"01a51ac4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617638,
         "gp:id":481050,
-        "qs:id":118857,
         "qs_pg:id":118857,
         "wd:id":"Q423258",
         "wk:page":"Orhei"
@@ -204,7 +201,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374978,
+    "wof:lastmodified":1566603076,
     "wof:name":"Orhei",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

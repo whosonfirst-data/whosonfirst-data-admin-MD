@@ -10,12 +10,16 @@
     "geom:latitude":46.41402,
     "geom:longitude":28.91252,
     "iso:country":"MD",
+    "lbl:bbox":"28.89252,46.39402,28.93252,46.43402",
     "lbl:latitude":46.41402,
     "lbl:longitude":28.91252,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.41402,
     "mps:longitude":28.91252,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0435\u0442\u043e\u0432\u043a\u0430"
     ],
@@ -85,14 +89,9 @@
         "Carabateni",
         "Carabeteni"
     ],
-    "name:und_x_preferred":[
-        "Carabetovca"
-    ],
     "name:und_x_variant":[
         "Carabe\u0163eni",
-        "Carab\u0103\u0163eni"
-    ],
-    "name:unk_x_variant":[
+        "Carab\u0103\u0163eni",
         "Karabaten\u2019"
     ],
     "qs:a0":"Moldova",
@@ -113,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191581,
@@ -142,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375002,
+    "wof:lastmodified":1566603080,
     "wof:name":"Carabetovca",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

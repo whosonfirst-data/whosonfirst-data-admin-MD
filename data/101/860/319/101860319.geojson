@@ -10,12 +10,16 @@
     "geom:latitude":48.244198,
     "geom:longitude":26.961548,
     "iso:country":"MD",
+    "lbl:bbox":"26.941548,48.224198,26.981548,48.264198",
     "lbl:latitude":48.244198,
     "lbl:longitude":26.961548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.244198,
     "mps:longitude":26.961548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balasine\u0219ti"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0440\u0456\u043e\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balasineshti"
     ],
     "qs:a0":"Moldova",
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -106,7 +110,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":618609,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2437487",
         "wk:page":"Balasine\u0219ti"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":101860319,
-    "wof:lastmodified":1563374842,
+    "wof:lastmodified":1566603046,
     "wof:name":"Balasine\u015fti",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

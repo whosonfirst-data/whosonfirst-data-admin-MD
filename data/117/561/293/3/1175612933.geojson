@@ -9,14 +9,17 @@
     "geom:bbox":"29.2916249971,47.0909538849,29.325350427,47.1414078863",
     "geom:latitude":47.116119,
     "geom:longitude":29.308493,
-    "geonames:id":"618396,618397",
+    "gn:id":"618396,618397",
     "iso:country":"MD",
     "lbl:latitude":47.132149,
     "lbl:longitude":29.316333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.132149,
     "mps:longitude":29.316333,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Delac\u0103u"
     ],
@@ -50,7 +53,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1175612933,
-    "wof:lastmodified":1563374739,
+    "wof:lastmodified":1566603018,
     "wof:name":"Delac\u0103u",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

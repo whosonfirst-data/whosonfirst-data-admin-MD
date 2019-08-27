@@ -10,12 +10,16 @@
     "geom:latitude":46.45385,
     "geom:longitude":28.477224,
     "iso:country":"MD",
+    "lbl:bbox":"28.457224,46.43385,28.497224,46.47385",
     "lbl:latitude":46.45385,
     "lbl:longitude":28.477224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.45385,
     "mps:longitude":28.477224,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bayush"
     ],
@@ -50,12 +54,6 @@
     "name:und_x_colloquial":[
         "Baius"
     ],
-    "name:und_x_preferred":[
-        "B\u0103iu\u015f"
-    ],
-    "name:unk_x_variant":[
-        "Bayusha"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Leova",
     "qs:a1_alt":"Leova",
@@ -73,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -85,7 +83,7 @@
         "fct:id":"01a46ad4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618585,
         "gp:id":480044,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q527832",
         "wk:page":"B\u0103iu\u0219"
     },
@@ -103,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374995,
+    "wof:lastmodified":1566603079,
     "wof:name":"B\u0103iu\u015f",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

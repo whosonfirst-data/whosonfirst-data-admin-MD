@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14525832.842283,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.84463,47.050243,28.84463,47.050243",
     "geom:latitude":47.050243,
     "geom:longitude":28.84463,
     "gn:id":"",
     "iso:country":"MD",
+    "lbl:bbox":"28.83963,47.045243,28.84963,47.055243",
     "lbl:latitude":47.050243,
     "lbl:longitude":28.84463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.056265,
     "mps:longitude":28.855121,
     "mz:hierarchy_label":0,
@@ -30,10 +32,7 @@
     "name:eng_x_variant":[
         "Sloboda Kishinevskaya Pochta"
     ],
-    "name:und_x_preferred":[
-        "Staraya Pochta"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Pochta"
     ],
     "qs:gn_adm0_cc":"MD",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101751793,
@@ -72,7 +71,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":481359,
-        "qs:id":1055682,
         "qs_pg:id":1055682
     },
     "wof:country":"MD",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931935,
+    "wof:lastmodified":1566602988,
     "wof:name":"Staraya Pochta",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

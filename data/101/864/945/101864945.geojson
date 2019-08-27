@@ -10,12 +10,16 @@
     "geom:latitude":47.562836,
     "geom:longitude":29.018288,
     "iso:country":"MD",
+    "lbl:bbox":"28.998288,47.542836,29.038288,47.582836",
     "lbl:latitude":47.562836,
     "lbl:longitude":29.018288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.562836,
     "mps:longitude":29.018288,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lalovo"
     ],
@@ -43,12 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043b\u043e\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Lalova"
-    ],
-    "name:unk_x_variant":[
-        "Lalovo"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0644\u0648\u0648\u0627"
     ],
@@ -69,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -81,7 +79,7 @@
         "fct:id":"01a4f44a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617923,
         "gp:id":480817,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2446794",
         "wk:page":"Lalova"
     },
@@ -99,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374996,
+    "wof:lastmodified":1566603079,
     "wof:name":"Lalova",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.138778,
     "lbl:longitude":28.951508,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.138778,
     "mps:longitude":28.951508,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grushevo"
     ],
@@ -48,14 +51,8 @@
         "Gruseva",
         "Hrusova"
     ],
-    "name:und_x_preferred":[
-        "Hru\u015fova"
-    ],
     "name:und_x_variant":[
         "Gru\u015feva"
-    ],
-    "name:unk_x_variant":[
-        "Grushevo"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Criuleni",
@@ -71,7 +68,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -83,7 +80,7 @@
         "fct:id":"01a4e5fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618221,
         "gp:id":480715,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1983226",
         "wk:page":"Hru\u0219ova"
     },
@@ -101,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374907,
+    "wof:lastmodified":1566603061,
     "wof:name":"Hru\u015fova",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

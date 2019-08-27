@@ -10,12 +10,16 @@
     "geom:latitude":47.312481,
     "geom:longitude":29.069467,
     "iso:country":"MD",
+    "lbl:bbox":"29.049467,47.292481,29.089467,47.332481",
     "lbl:latitude":47.312481,
     "lbl:longitude":29.069467,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.312481,
     "mps:longitude":29.069467,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Holercani"
     ],
@@ -76,10 +80,8 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u0435\u0440\u043a\u0430\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Golerkany"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Golerkany",
         "Kholerkani"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191581,
@@ -112,7 +114,7 @@
         "fct:id":"01a4d4b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618258,
         "gp:id":480622,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2439609",
         "wk:page":"Holercani"
     },
@@ -138,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375027,
+    "wof:lastmodified":1566603085,
     "wof:name":"Holercani",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

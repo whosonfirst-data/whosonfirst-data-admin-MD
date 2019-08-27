@@ -9,14 +9,17 @@
     "geom:bbox":"28.0652011101,46.9898410497,28.088596652,47.0031121872",
     "geom:latitude":46.996568,
     "geom:longitude":28.077754,
-    "geonames:id":"676633,618222",
+    "gn:id":"676633,618222",
     "iso:country":"MD",
     "lbl:latitude":46.997733,
     "lbl:longitude":28.077931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.997733,
     "mps:longitude":28.077931,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Groze\u0219ti"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0437\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grozeshty"
     ],
     "name:vol_x_preferred":[
@@ -95,7 +98,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -106,7 +109,7 @@
     "wof:concordances":{
         "gn:id":618222,
         "gp:id":873307,
-        "qs:id":410929,
+        "qs_pg:id":410929,
         "wd:id":"Q2445177",
         "wk:page":"Groze\u0219ti, Nisporeni"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":101843675,
-    "wof:lastmodified":1563374765,
+    "wof:lastmodified":1566603029,
     "wof:name":"Groze\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

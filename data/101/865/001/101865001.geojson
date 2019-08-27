@@ -10,12 +10,16 @@
     "geom:latitude":47.979229,
     "geom:longitude":28.50164,
     "iso:country":"MD",
+    "lbl:bbox":"28.48164,47.959229,28.52164,47.999229",
     "lbl:latitude":47.979229,
     "lbl:longitude":28.50164,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.979229,
     "mps:longitude":28.50164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Temeleu\u021bi"
     ],
@@ -86,10 +90,7 @@
     "name:und_x_colloquial":[
         "Temeleuti"
     ],
-    "name:und_x_preferred":[
-        "Temeleu\u0163i"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Telemeuts\u2019"
     ],
     "qs:a0":"Moldova",
@@ -109,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -121,7 +122,7 @@
         "fct:id":"01a55fc0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617249,
         "gp:id":481449,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1984394"
     },
     "wof:country":"MD",
@@ -138,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374926,
+    "wof:lastmodified":1566603065,
     "wof:name":"Temeleu\u0163i",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

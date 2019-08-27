@@ -10,12 +10,16 @@
     "geom:latitude":47.882934,
     "geom:longitude":27.504356,
     "iso:country":"MD",
+    "lbl:bbox":"27.484356,47.862934,27.524356,47.902934",
     "lbl:latitude":47.882934,
     "lbl:longitude":27.504356,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.882934,
     "mps:longitude":27.504356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Malinovscoe"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0456\u043d\u043e\u0432\u0441\u043a\u043e\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0103lani"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":617858,
         "gp:id":480047,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2448215",
         "wk:page":"Malinovscoe"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101858253,
-    "wof:lastmodified":1561840316,
+    "wof:lastmodified":1566603055,
     "wof:name":"Malinovscoe",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

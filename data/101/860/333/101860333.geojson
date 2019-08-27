@@ -10,12 +10,16 @@
     "geom:latitude":48.309845,
     "geom:longitude":27.099814,
     "iso:country":"MD",
+    "lbl:bbox":"27.079814,48.289845,27.119814,48.329845",
     "lbl:latitude":48.309845,
     "lbl:longitude":27.099814,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.309845,
     "mps:longitude":27.099814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tabani"
     ],
@@ -77,12 +81,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0430\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Tabani"
-    ],
-    "name:unk_x_variant":[
-        "Tabany"
-    ],
     "name:vep_x_preferred":[
         "Tabani"
     ],
@@ -103,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -115,7 +113,7 @@
         "fct:id":"01a558f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617275,
         "gp:id":481410,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2626003",
         "wk:page":"Tabani, Briceni"
     },
@@ -133,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374826,
+    "wof:lastmodified":1566603043,
     "wof:name":"Tabani",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

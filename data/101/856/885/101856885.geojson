@@ -11,12 +11,16 @@
     "geom:longitude":28.813658,
     "gn:population":22700,
     "iso:country":"MD",
+    "lbl:bbox":"28.793658,46.043155,28.833658,46.083155",
     "lbl:latitude":46.063155,
     "lbl:longitude":28.813658,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":46.063155,
     "mps:longitude":28.813658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:aze_x_preferred":[
         "\u00c7ad\u0131r"
     ],
@@ -117,13 +121,8 @@
         "Ceadar-Lunga",
         "Ceadir-Lunga"
     ],
-    "name:und_x_preferred":[
-        "Cead\u00eer-Lunga"
-    ],
     "name:und_x_variant":[
-        "Cead\u00e2r-Lunga"
-    ],
-    "name:unk_x_variant":[
+        "Cead\u00e2r-Lunga",
         "Chadyr-Lunga"
     ],
     "name:urd_x_preferred":[
@@ -149,7 +148,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.055,
     "wd:longitude":28.830278,
@@ -164,7 +163,7 @@
         "fct:id":"01a48ec4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618450,
         "gp:id":480264,
-        "qs:id":1010496,
+        "qs_pg:id":1010496,
         "wd:id":"Q1012924",
         "wk:page":"Cead\u00eer-Lunga"
     },
@@ -182,7 +181,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374794,
+    "wof:lastmodified":1566603036,
     "wof:name":"Cead\u00eer-Lunga",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

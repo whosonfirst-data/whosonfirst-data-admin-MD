@@ -10,12 +10,16 @@
     "geom:latitude":47.271038,
     "geom:longitude":28.487999,
     "iso:country":"MD",
+    "lbl:bbox":"28.467999,47.251038,28.507999,47.291038",
     "lbl:latitude":47.271038,
     "lbl:longitude":28.487999,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.271038,
     "mps:longitude":28.487999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Voinova"
     ],
@@ -80,12 +84,6 @@
     "name:ukr_x_variant":[
         "\u0423\u043b\u043c\u0443"
     ],
-    "name:und_x_preferred":[
-        "Voinova"
-    ],
-    "name:unk_x_variant":[
-        "Voynova"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Str\u0103\u015feni",
     "qs:a1_alt":"Straseni",
@@ -103,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         102191581,
@@ -115,7 +113,7 @@
         "fct:id":"01a57abe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617098,
         "gp:id":481592,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2619105",
         "wk:page":"Voinova"
     },
@@ -133,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375045,
+    "wof:lastmodified":1566603089,
     "wof:name":"Voinova",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

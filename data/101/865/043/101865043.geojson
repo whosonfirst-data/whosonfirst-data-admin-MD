@@ -10,12 +10,16 @@
     "geom:latitude":47.803333,
     "geom:longitude":29.007473,
     "iso:country":"MD",
+    "lbl:bbox":"28.987473,47.783333,29.027473,47.823333",
     "lbl:latitude":47.803333,
     "lbl:longitude":29.007473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.803333,
     "mps:longitude":29.007473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "H\u00eerj\u0103u"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0440\u0436\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yerzhev"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":64,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101865043,
-    "wof:lastmodified":1563374928,
+    "wof:lastmodified":1566603066,
     "wof:name":"H\u00eerj\u0103u",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

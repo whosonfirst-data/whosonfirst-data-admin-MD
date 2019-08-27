@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.41639,45.80083,28.45639,45.84083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paru\u015feni"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259519837,
-    "wof:lastmodified":1537664328,
+    "wof:lastmodified":1566603112,
     "wof:name":"Parushovka",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

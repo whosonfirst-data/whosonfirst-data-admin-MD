@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.88945,47.11415,28.92945,47.15415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Goian"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Krikova-Noue",
         "Goyan",
-        "Goyana Veke",
-        "Goian"
+        "Goyana Veke"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1259419269,
-    "wof:lastmodified":1564167512,
+    "wof:lastmodified":1566603110,
     "wof:name":"Goian",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

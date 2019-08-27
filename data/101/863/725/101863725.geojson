@@ -10,12 +10,16 @@
     "geom:latitude":46.864898,
     "geom:longitude":28.767519,
     "iso:country":"MD",
+    "lbl:bbox":"28.747519,46.844898,28.787519,46.884898",
     "lbl:latitude":46.864898,
     "lbl:longitude":28.767519,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.864898,
     "mps:longitude":28.767519,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coste\u0219ti"
     ],
@@ -76,10 +80,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u0448\u0442\u044c"
     ],
-    "name:und_x_preferred":[
-        "Kosteshty"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kosteshty"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -111,7 +112,7 @@
         "fct:id":"01a4f314-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618001,
         "gp:id":480803,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2443359",
         "wk:page":"Coste\u0219ti, Ialoveni"
     },
@@ -129,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375026,
+    "wof:lastmodified":1566603085,
     "wof:name":"Coste\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

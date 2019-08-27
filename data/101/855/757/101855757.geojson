@@ -10,12 +10,16 @@
     "geom:latitude":46.144455,
     "geom:longitude":28.171247,
     "iso:country":"MD",
+    "lbl:bbox":"28.151247,46.124455,28.191247,46.164455",
     "lbl:latitude":46.144455,
     "lbl:longitude":28.171247,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.144455,
     "mps:longitude":28.171247,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Goteshty"
     ],
@@ -47,12 +51,6 @@
     "name:und_x_colloquial":[
         "Gotesti"
     ],
-    "name:und_x_preferred":[
-        "Gote\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Ion Gheorghe"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cantemir",
     "qs:a1_alt":"Cantemir",
@@ -70,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191581,
@@ -82,7 +80,7 @@
         "fct:id":"01a4d550-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618244,
         "gp:id":480625,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2438687",
         "wk:page":"Gote\u0219ti"
     },
@@ -100,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374940,
+    "wof:lastmodified":1566603068,
     "wof:name":"Gote\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

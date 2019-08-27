@@ -10,12 +10,16 @@
     "geom:latitude":45.810997,
     "geom:longitude":28.428198,
     "iso:country":"MD",
+    "lbl:bbox":"28.408198,45.790997,28.448198,45.830997",
     "lbl:latitude":45.810997,
     "lbl:longitude":28.428198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.810997,
     "mps:longitude":28.428198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Alexanderfeld"
     ],
@@ -86,13 +90,9 @@
         "Campeni",
         "Cimpeni"
     ],
-    "name:und_x_preferred":[
-        "C\u00eempeni"
-    ],
     "name:und_x_variant":[
-        "C\u00e2mpeni"
-    ],
-    "name:unk_x_variant":[
+        "C\u00eempeni",
+        "C\u00e2mpeni",
         "Kympen\u2019"
     ],
     "qs:a0":"Moldova",
@@ -112,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":107,
     "wof:belongsto":[
         102191581,
@@ -124,7 +124,7 @@
         "fct:id":"01a49888-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617933,
         "gp:id":480304,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1775354",
         "wk:page":"Alexanderfeld, Cahul"
     },
@@ -142,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374797,
+    "wof:lastmodified":1566603036,
     "wof:name":"Alexanderfeld",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

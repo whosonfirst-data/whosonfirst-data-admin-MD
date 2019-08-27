@@ -10,12 +10,16 @@
     "geom:latitude":47.21579,
     "geom:longitude":28.665907,
     "iso:country":"MD",
+    "lbl:bbox":"28.645907,47.19579,28.685907,47.23579",
     "lbl:latitude":47.21579,
     "lbl:longitude":28.665907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.21579,
     "mps:longitude":28.665907,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dr\u0103gu\u0219eni"
     ],
@@ -52,7 +56,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u0433\u0443\u0448\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beleshty"
     ],
     "name:vol_x_preferred":[
@@ -75,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":618583,
         "gp:id":480793,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q442707"
     },
     "wof:country":"MD",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":101864811,
-    "wof:lastmodified":1563374954,
+    "wof:lastmodified":1566603071,
     "wof:name":"Dr\u0103gu\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

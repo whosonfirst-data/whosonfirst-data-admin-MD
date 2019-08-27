@@ -9,15 +9,18 @@
     "geom:bbox":"27.79583,47.20417,27.79583,47.20417",
     "geom:latitude":47.20417,
     "geom:longitude":27.79583,
-    "gn:gn_country":"MD",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":34422,
+    "gn:country":"MD",
+    "gn:fcode":"PPLA",
     "gn:population":34422,
     "iso:country":"MD",
+    "lbl:bbox":"27.77583,47.18417,27.81583,47.22417",
     "lbl:latitude":47.20417,
     "lbl:longitude":27.79583,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0423\u043d\u0433\u0435\u043d"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0433\u0435\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ungen\u2019 Tyrg"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +86,7 @@
     "qs_pg:woe_adm0":23424885,
     "qs_pg:woe_id":481521,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424885,
     "woe:name_adm0":"Moldova",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125862345,
-    "wof:lastmodified":1509396712,
+    "wof:lastmodified":1566603098,
     "wof:name":"Ungeny",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

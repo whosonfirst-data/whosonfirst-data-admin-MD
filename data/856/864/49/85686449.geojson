@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.766819,
     "lbl:longitude":27.928928,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.766819,
     "mps:longitude":27.928928,
     "mz:hierarchy_label":1,
@@ -246,7 +247,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043b\u0430 \u0424\u0456\u043b\u0456\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0103l\u0163i"
     ],
     "name:vec_x_preferred":[
@@ -343,9 +344,9 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-05",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -390,11 +391,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727310,
+    "wof:lastmodified":1566602985,
     "wof:name":"mun.B\u0103l\u0163i",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":127673,
     "wof:population_rank":9,

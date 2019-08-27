@@ -10,12 +10,16 @@
     "geom:latitude":47.852604,
     "geom:longitude":28.551655,
     "iso:country":"MD",
+    "lbl:bbox":"28.531655,47.832604,28.571655,47.872604",
     "lbl:latitude":47.852604,
     "lbl:longitude":28.551655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.852604,
     "mps:longitude":28.551655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cotiugenii Mari"
     ],
@@ -49,10 +53,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u044e\u0436\u0435\u043d\u0456\u0439-\u041c\u0430\u0440\u0456"
     ],
-    "name:und_x_preferred":[
-        "Cotiujenii Mari"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bol\u2019shiye Kotyuzhany"
     ],
     "qs:a0":"Moldova",
@@ -73,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -102,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374977,
+    "wof:lastmodified":1566603075,
     "wof:name":"Cotiujenii Mari",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

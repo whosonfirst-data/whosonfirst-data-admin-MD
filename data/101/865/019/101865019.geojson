@@ -10,12 +10,16 @@
     "geom:latitude":47.712181,
     "geom:longitude":28.976406,
     "iso:country":"MD",
+    "lbl:bbox":"28.956406,47.692181,28.996406,47.732181",
     "lbl:latitude":47.712181,
     "lbl:longitude":28.976406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.712181,
     "mps:longitude":28.976406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ghidirim"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u0434\u0456\u0440\u0456\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giderim"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101865019,
-    "wof:lastmodified":1563374929,
+    "wof:lastmodified":1566603066,
     "wof:name":"Ghidirim",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

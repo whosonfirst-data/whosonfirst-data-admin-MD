@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.614553,
     "lbl:longitude":28.47473,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.614553,
     "mps:longitude":28.47473,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kazaneshty"
     ],
@@ -45,12 +48,6 @@
     "name:und_x_colloquial":[
         "Cazanesti"
     ],
-    "name:und_x_preferred":[
-        "C\u0103z\u0103ne\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Kazaneshti"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Telene\u015fti",
     "qs:a1_alt":"Telenesti",
@@ -65,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -77,7 +74,7 @@
         "fct:id":"01a48e24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618112,
         "gp:id":480249,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2452754",
         "wk:page":"C\u0103z\u0103ne\u0219ti, Telene\u0219ti"
     },
@@ -95,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374906,
+    "wof:lastmodified":1566603061,
     "wof:name":"C\u0103z\u0103ne\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

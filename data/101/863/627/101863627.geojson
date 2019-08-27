@@ -10,12 +10,16 @@
     "geom:latitude":46.57592,
     "geom:longitude":29.770037,
     "iso:country":"MD",
+    "lbl:bbox":"29.750037,46.55592,29.790037,46.59592",
     "lbl:latitude":46.57592,
     "lbl:longitude":29.770037,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.57592,
     "mps:longitude":29.770037,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Raskayetsy"
     ],
@@ -50,14 +54,8 @@
         "Rascaeti",
         "Rascaieti"
     ],
-    "name:und_x_preferred":[
-        "R\u0103sc\u0103ie\u0163i"
-    ],
     "name:und_x_variant":[
         "R\u0103sc\u0103e\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Raskaitsy"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*\u015etefan Vod\u0103",
@@ -77,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -106,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375016,
+    "wof:lastmodified":1566603083,
     "wof:name":"R\u0103sc\u0103ie\u0163i",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

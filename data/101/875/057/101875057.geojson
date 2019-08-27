@@ -9,14 +9,18 @@
     "geom:bbox":"27.809761,47.211823,27.809761,47.211823",
     "geom:latitude":47.211823,
     "geom:longitude":27.809761,
-    "geonames:id":"617180,664266",
+    "gn:id":"617180,664266",
     "iso:country":"MD",
+    "lbl:bbox":"27.789761,47.191823,27.829761,47.231823",
     "lbl:latitude":47.211823,
     "lbl:longitude":27.809761,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.211823,
     "mps:longitude":27.809761,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0423\u043d\u0433\u0435\u043d\u044c"
     ],
@@ -136,7 +140,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.204167,
     "wd:longitude":27.795833,
@@ -150,7 +154,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":481521,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q858713"
     },
     "wof:country":"MD",
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":101875057,
-    "wof:lastmodified":1563374765,
+    "wof:lastmodified":1566603029,
     "wof:name":"Ungheni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

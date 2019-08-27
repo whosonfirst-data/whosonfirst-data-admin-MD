@@ -12,6 +12,7 @@
     "iso:country":"MD",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Chadyr Lunga Airport"
     ],
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":102543653,
-    "wof:lastmodified":1563374647,
+    "wof:lastmodified":1566602974,
     "wof:name":"Chadyr-Lunga Airport",
     "wof:parent_id":85686349,
     "wof:placetype":"campus",

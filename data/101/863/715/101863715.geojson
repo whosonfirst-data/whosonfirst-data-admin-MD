@@ -10,12 +10,16 @@
     "geom:latitude":46.752358,
     "geom:longitude":28.642889,
     "iso:country":"MD",
+    "lbl:bbox":"28.622889,46.732358,28.662889,46.772358",
     "lbl:latitude":46.752358,
     "lbl:longitude":28.642889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.752358,
     "mps:longitude":28.642889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Boziyeny"
     ],
@@ -42,10 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0437\u0456\u0454\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Bozieni"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boziyen\u2019"
     ],
     "qs:a0":"Moldova",
@@ -66,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -95,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840326,
+    "wof:lastmodified":1566603086,
     "wof:name":"Bozieni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

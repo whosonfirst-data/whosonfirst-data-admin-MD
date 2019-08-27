@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.59142,47.17425,28.63142,47.21425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Saca"
     ],
@@ -47,8 +51,7 @@
         "Saca"
     ],
     "name:und_x_variant":[
-        "Saka",
-        "Saca"
+        "Saka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293523429,
-    "wof:lastmodified":1564167404,
+    "wof:lastmodified":1566602991,
     "wof:name":"Saca",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

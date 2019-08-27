@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.55222,47.66222,28.59222,47.70222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tyrshitsey-Nou",
         "Tyrshitsey",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260220343,
-    "wof:lastmodified":1537664331,
+    "wof:lastmodified":1566603015,
     "wof:name":"Tarsiteii Noui",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

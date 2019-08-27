@@ -10,12 +10,16 @@
     "geom:latitude":47.838314,
     "geom:longitude":27.936533,
     "iso:country":"MD",
+    "lbl:bbox":"27.916533,47.818314,27.956533,47.858314",
     "lbl:latitude":47.838314,
     "lbl:longitude":27.936533,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.838314,
     "mps:longitude":27.936533,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Staraya Dobrudzha"
     ],
@@ -46,12 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0434\u0436\u0430-\u0412\u0435\u043a\u0435"
     ],
-    "name:und_x_preferred":[
-        "Dobrogea Veche"
-    ],
-    "name:unk_x_variant":[
-        "Staraya Dobrudzha"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*S\u00eengerei",
     "qs:a1_alt":"Singerei",
@@ -69,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -81,7 +79,7 @@
         "fct:id":"01a4bbd8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617355,
         "gp:id":480490,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2449740",
         "wk:page":"Dobrogea Veche"
     },
@@ -99,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374851,
+    "wof:lastmodified":1566603049,
     "wof:name":"Dobrogea Veche",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

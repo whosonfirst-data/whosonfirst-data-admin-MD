@@ -9,15 +9,18 @@
     "geom:bbox":"28.36556,47.49972,28.36556,47.49972",
     "geom:latitude":47.49972,
     "geom:longitude":28.36556,
-    "gn:gn_country":"MD",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":6633,
+    "gn:country":"MD",
+    "gn:fcode":"PPLA",
     "gn:population":6633,
     "iso:country":"MD",
+    "lbl:bbox":"28.34556,47.47972,28.38556,47.51972",
     "lbl:latitude":47.49972,
     "lbl:longitude":28.36556,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043d\u0435\u0449\u0438"
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Telene\u015fti T\u00e2rg"
     ],
     "name:zho_x_preferred":[
@@ -105,7 +108,7 @@
     "qs_pg:woe_adm0":23424885,
     "qs_pg:woe_id":481443,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424885,
     "woe:name_adm0":"Moldova",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1126003015,
-    "wof:lastmodified":1563375081,
+    "wof:lastmodified":1566603099,
     "wof:name":"Telene\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

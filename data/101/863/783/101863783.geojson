@@ -10,12 +10,16 @@
     "geom:latitude":46.814182,
     "geom:longitude":29.198929,
     "iso:country":"MD",
+    "lbl:bbox":"29.178929,46.794182,29.218929,46.834182",
     "lbl:latitude":46.814182,
     "lbl:longitude":29.198929,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.814182,
     "mps:longitude":29.198929,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ciobana"
     ],
@@ -45,12 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0431\u0430\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:und_x_preferred":[
-        "Ciobanovca"
-    ],
-    "name:unk_x_variant":[
-        "Chebanovka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Anenii Noi",
     "qs:a1_alt":"Anenii Noi",
@@ -68,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -80,7 +78,7 @@
         "fct:id":"01a499d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618446,
         "gp:id":480310,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2437526",
         "wk:page":"Ciobanovca"
     },
@@ -98,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375032,
+    "wof:lastmodified":1566603086,
     "wof:name":"Ciobanovca",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.581737,
     "geom:longitude":28.746953,
     "iso:country":"MD",
+    "lbl:bbox":"28.726953,46.561737,28.766953,46.601737",
     "lbl:latitude":46.581737,
     "lbl:longitude":28.746953,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.581737,
     "mps:longitude":28.746953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Yekaterinyanka"
     ],
@@ -42,12 +46,6 @@
     "name:ukr_x_preferred":[
         "\u0404\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
-    "name:und_x_preferred":[
-        "Ecaterinovca"
-    ],
-    "name:unk_x_variant":[
-        "Yekaterinyanka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cimi\u015flia",
     "qs:a1_alt":"Cimislia",
@@ -66,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -95,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840328,
+    "wof:lastmodified":1566603094,
     "wof:name":"Ecaterinovca",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

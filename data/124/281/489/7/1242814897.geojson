@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.53556,46.61833,28.57556,46.65833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fundul-S\u0103r\u0103tichei",
         "Fundu S\u0103ratichei"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242814897,
-    "wof:lastmodified":1537664363,
+    "wof:lastmodified":1566603103,
     "wof:name":"Fund Saratsika",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

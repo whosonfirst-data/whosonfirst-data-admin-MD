@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.22561,47.87614,27.26561,47.91614",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Duruitoarea Nou\u0103"
     ],
@@ -38,8 +42,7 @@
         "Novyye Druitory",
         "Ivanovka",
         "Novyye Duruitory",
-        "Duritoarya Noua",
-        "Duruitoarea Nou\u0103"
+        "Duritoarya Noua"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1293143093,
-    "wof:lastmodified":1564167411,
+    "wof:lastmodified":1566602994,
     "wof:name":"Duruitoarea Noua",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

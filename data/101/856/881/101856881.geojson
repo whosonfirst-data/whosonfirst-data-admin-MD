@@ -10,12 +10,16 @@
     "geom:latitude":46.186016,
     "geom:longitude":28.765056,
     "iso:country":"MD",
+    "lbl:bbox":"28.745056,46.166016,28.785056,46.206016",
     "lbl:latitude":46.186016,
     "lbl:longitude":28.765056,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.186016,
     "mps:longitude":28.765056,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0439"
     ],
@@ -82,12 +86,6 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u043f\u0447\u0430\u043a"
     ],
-    "name:und_x_preferred":[
-        "Tomai"
-    ],
-    "name:unk_x_variant":[
-        "Tomay"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
@@ -105,7 +103,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":92,
     "wof:belongsto":[
         102191581,
@@ -117,7 +115,7 @@
         "fct:id":"01a56646-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617230,
         "gp:id":481486,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2639010",
         "wk:page":"Tomai, Gagauzia"
     },
@@ -135,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374787,
+    "wof:lastmodified":1566603034,
     "wof:name":"Tomai",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.308941,
     "geom:longitude":27.149618,
     "iso:country":"MD",
+    "lbl:bbox":"27.129618,48.288941,27.169618,48.328941",
     "lbl:latitude":48.308941,
     "lbl:longitude":27.149618,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.308941,
     "mps:longitude":27.149618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kolikautsy"
     ],
@@ -49,12 +53,6 @@
     "name:und_x_colloquial":[
         "Colicauti"
     ],
-    "name:und_x_preferred":[
-        "Colic\u0103u\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Kalikautsy"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Briceni",
     "qs:a1_alt":"Briceni",
@@ -72,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -84,7 +82,7 @@
         "fct:id":"01a4a4d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618046,
         "gp:id":480364,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q384974",
         "wk:page":"Colic\u0103u\u021bi"
     },
@@ -102,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374843,
+    "wof:lastmodified":1566603047,
     "wof:name":"Colic\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

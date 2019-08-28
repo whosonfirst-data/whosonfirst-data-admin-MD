@@ -10,12 +10,16 @@
     "geom:latitude":47.228145,
     "geom:longitude":29.413677,
     "iso:country":"MD",
+    "lbl:bbox":"29.393677,47.208145,29.433677,47.248145",
     "lbl:latitude":47.228145,
     "lbl:longitude":29.413677,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.228145,
     "mps:longitude":29.413677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hlinaia"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u043e\u0442\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glinnoje"
     ],
     "qs:a0":"Moldova",
@@ -100,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":60,
     "wof:belongsto":[
         102191581,
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":101864837,
-    "wof:lastmodified":1563374989,
+    "wof:lastmodified":1566603077,
     "wof:name":"Hlinaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

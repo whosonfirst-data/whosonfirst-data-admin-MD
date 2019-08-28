@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.412479,
     "lbl:longitude":28.792897,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.412479,
     "mps:longitude":28.792897,
     "mz:hierarchy_label":1,
@@ -156,7 +157,7 @@
         "Orhei rajon"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb0\u0bcd\u0bb9\u0bc6\u0baf\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0bb9\u0bc6\u0baf\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c30\u0c4d\u0c39\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0433\u0456\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orgeyevskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -255,9 +256,9 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-05",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -301,11 +302,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727310,
+    "wof:lastmodified":1566602985,
     "wof:name":"Orhei",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":116296,
     "wof:population_rank":9,

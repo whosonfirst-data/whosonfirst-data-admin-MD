@@ -10,12 +10,16 @@
     "geom:latitude":48.08678,
     "geom:longitude":27.616804,
     "iso:country":"MD",
+    "lbl:bbox":"27.596804,48.06678,27.636804,48.10678",
     "lbl:latitude":48.08678,
     "lbl:longitude":27.616804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.08678,
     "mps:longitude":27.616804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baraboi"
     ],
@@ -77,12 +81,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0430\u0431\u043e\u0439"
     ],
-    "name:und_x_preferred":[
-        "Baraboi"
-    ],
-    "name:unk_x_variant":[
-        "Baraboy"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Dondu\u015feni",
     "qs:a1_alt":"Donduseni",
@@ -100,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.085833,
     "wd:longitude":27.6175,
     "wd:wordcount":69,
@@ -114,7 +112,7 @@
         "fct:id":"01a46e76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618600,
         "gp:id":480063,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2439319",
         "wk:page":"Baraboi, Dondu\u0219eni"
     },
@@ -132,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374814,
+    "wof:lastmodified":1566603040,
     "wof:name":"Baraboi",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

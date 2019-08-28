@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.33,47.64667,27.37,47.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tomeshty",
         "Tome\u015ftii Noi"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193173951,
-    "wof:lastmodified":1537664309,
+    "wof:lastmodified":1566603015,
     "wof:name":"Tomestii Noi",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

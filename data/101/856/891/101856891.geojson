@@ -10,12 +10,16 @@
     "geom:latitude":46.164639,
     "geom:longitude":28.646662,
     "iso:country":"MD",
+    "lbl:bbox":"28.626662,46.144639,28.666662,46.184639",
     "lbl:latitude":46.164639,
     "lbl:longitude":28.646662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.164639,
     "mps:longitude":28.646662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0448\u0430\u043b\u043c\u0430"
     ],
@@ -85,12 +89,6 @@
     "name:und_x_colloquial":[
         "Besalma"
     ],
-    "name:und_x_preferred":[
-        "Be\u015falma"
-    ],
-    "name:unk_x_variant":[
-        "Beshalma"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "qs:a1_alt":"Unitatea Teritotriala Autonoma Gagauzia",
@@ -109,7 +107,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         102191581,
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374796,
+    "wof:lastmodified":1566603036,
     "wof:name":"Be\u015falma",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

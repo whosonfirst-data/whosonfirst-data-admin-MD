@@ -10,12 +10,16 @@
     "geom:latitude":47.341397,
     "geom:longitude":27.967459,
     "iso:country":"MD",
+    "lbl:bbox":"27.947459,47.321397,27.987459,47.361397",
     "lbl:latitude":47.341397,
     "lbl:longitude":27.967459,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.341397,
     "mps:longitude":27.967459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bumb\u0103ta"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u0421\u0442\u0443\u0440\u0437\u043e\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bumbota"
     ],
     "qs:a0":"Moldova",
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":77,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":618481,
         "gp:id":480187,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2452845",
         "wk:page":"Bumb\u0103ta"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101858023,
-    "wof:lastmodified":1563374847,
+    "wof:lastmodified":1566603048,
     "wof:name":"Bumb\u0103ta",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

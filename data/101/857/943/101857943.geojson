@@ -10,12 +10,16 @@
     "geom:latitude":46.301396,
     "geom:longitude":28.320514,
     "iso:country":"MD",
+    "lbl:bbox":"28.300514,46.281396,28.340514,46.321396",
     "lbl:latitude":46.301396,
     "lbl:longitude":28.320514,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.301396,
     "mps:longitude":28.320514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "L\u0103rgu\u021ba"
     ],
@@ -76,10 +80,7 @@
     "name:ukr_x_variant":[
         "\u041f\u043e\u0440\u0443\u043c\u0431\u0435\u0448\u0442\u044c"
     ],
-    "name:und_x_preferred":[
-        "Largutsa"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Largutsa"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191581,
@@ -111,7 +112,7 @@
         "fct:id":"01a4f5e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617918,
         "gp:id":480826,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1775951",
         "wk:page":"L\u0103rgu\u021ba"
     },
@@ -129,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374782,
+    "wof:lastmodified":1566603033,
     "wof:name":"L\u0103rgu\u0163a",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.45333,46.42194,28.49333,46.46194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novaya Kochulika",
         "Novyye Kochulei",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209549777,
-    "wof:lastmodified":1537664404,
+    "wof:lastmodified":1566603005,
     "wof:name":"Cociulia Noua",
     "wof:parent_id":85633287,
     "wof:placetype":"locality",

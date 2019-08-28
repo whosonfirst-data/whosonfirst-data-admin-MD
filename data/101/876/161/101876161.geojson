@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.238435,
     "lbl:longitude":28.526529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.238435,
     "mps:longitude":28.526529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Zubre\u0219ti"
     ],
@@ -86,12 +89,6 @@
     "name:und_x_colloquial":[
         "Zubresti"
     ],
-    "name:und_x_preferred":[
-        "Zubre\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Zubreshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Str\u0103\u015feni",
     "qs:a1_alt":"Straseni",
@@ -106,7 +103,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":70,
     "wof:belongsto":[
         102191581,
@@ -118,7 +115,7 @@
         "fct:id":"01a581da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617035,
         "gp:id":481637,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q768989",
         "wk:page":"Zubre\u0219ti"
     },
@@ -136,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374897,
+    "wof:lastmodified":1566603058,
     "wof:name":"Zubre\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

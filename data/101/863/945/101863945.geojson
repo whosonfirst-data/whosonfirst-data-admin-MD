@@ -10,12 +10,16 @@
     "geom:latitude":47.362355,
     "geom:longitude":28.691719,
     "iso:country":"MD",
+    "lbl:bbox":"28.671719,47.342355,28.711719,47.382355",
     "lbl:latitude":47.362355,
     "lbl:longitude":28.691719,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.362355,
     "mps:longitude":28.691719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Necul\u0103ieuca"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_variant":[
         "\u0427\u0438\u0433\u0438\u0440\u043b\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nikolayevka"
     ],
     "qs:a0":"Moldova",
@@ -93,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191581,
@@ -103,7 +107,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":831039,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1987802",
         "wk:page":"Necul\u0103ieuca"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":101863945,
-    "wof:lastmodified":1563375066,
+    "wof:lastmodified":1566603094,
     "wof:name":"Necul\u0103ieuca",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":48.071926,
     "geom:longitude":28.026333,
     "iso:country":"MD",
+    "lbl:bbox":"28.006333,48.051926,28.046333,48.091926",
     "lbl:latitude":48.071926,
     "lbl:longitude":28.026333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.071926,
     "mps:longitude":28.026333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Pope\u0219tii de Jos"
     ],
@@ -84,13 +88,8 @@
         "Popestii Noui",
         "Popestii de Jos"
     ],
-    "name:und_x_preferred":[
-        "Pope\u015ftii de Jos"
-    ],
     "name:und_x_variant":[
-        "Pope\u015ftii Noui"
-    ],
-    "name:unk_x_variant":[
+        "Pope\u015ftii Noui",
         "Popeshty"
     ],
     "qs:a0":"Moldova",
@@ -110,7 +109,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -122,7 +121,7 @@
         "fct:id":"01a52b54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":829701,
         "gp:id":481139,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q772155",
         "wk:page":"Pope\u0219tii de Jos"
     },
@@ -140,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374806,
+    "wof:lastmodified":1566603039,
     "wof:name":"Pope\u015ftii de Jos",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.009526,
     "geom:longitude":29.128906,
     "iso:country":"MD",
+    "lbl:bbox":"29.108906,46.989526,29.148906,47.029526",
     "lbl:latitude":47.009526,
     "lbl:longitude":29.128906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.009526,
     "mps:longitude":29.128906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cimi\u0219eni"
     ],
@@ -87,12 +91,6 @@
     "name:und_x_colloquial":[
         "Cimiseni"
     ],
-    "name:und_x_preferred":[
-        "Cimi\u015feni"
-    ],
-    "name:unk_x_variant":[
-        "Chimisheni"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Criuleni",
     "qs:a1_alt":"Criuleni",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a49856-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618432,
         "gp:id":480302,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1983286",
         "wk:page":"Cimi\u0219eni"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375010,
+    "wof:lastmodified":1566603082,
     "wof:name":"Cimi\u015feni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

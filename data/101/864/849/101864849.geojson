@@ -10,12 +10,16 @@
     "geom:latitude":46.964218,
     "geom:longitude":29.458191,
     "iso:country":"MD",
+    "lbl:bbox":"29.438191,46.944218,29.478191,46.984218",
     "lbl:latitude":46.964218,
     "lbl:longitude":29.458191,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.964218,
     "mps:longitude":29.458191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Crasnogorca"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_variant":[
         "\u0420\u043e\u043c\u0435\u043d\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krasnogorka"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101864849,
-    "wof:lastmodified":1563374983,
+    "wof:lastmodified":1566603076,
     "wof:name":"Crasnogorca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

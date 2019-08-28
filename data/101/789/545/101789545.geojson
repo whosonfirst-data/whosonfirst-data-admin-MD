@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":45.672893,
     "lbl:longitude":28.173696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.672893,
     "mps:longitude":28.173696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Br\u00eenza"
     ],
@@ -80,14 +83,8 @@
         "Branza",
         "Brinza"
     ],
-    "name:und_x_preferred":[
-        "Br\u00eenza"
-    ],
     "name:und_x_variant":[
         "Br\u00e2nza"
-    ],
-    "name:unk_x_variant":[
-        "Brynza"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cahul",
@@ -104,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":88,
     "wof:belongsto":[
         102191581,
@@ -116,7 +113,7 @@
         "fct:id":"01a47d76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618504,
         "gp:id":480158,
-        "qs:id":51022,
+        "qs_pg:id":51022,
         "wd:id":"Q1775385",
         "wk:page":"Br\u00eenza"
     },
@@ -134,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375073,
+    "wof:lastmodified":1566603095,
     "wof:name":"Br\u00eenza",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

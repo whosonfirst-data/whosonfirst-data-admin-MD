@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"29.65056,46.83583,29.69056,46.87583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kolkotova Balka",
         "Klotovaya Balka"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326966559,
-    "wof:lastmodified":1537664356,
+    "wof:lastmodified":1566602973,
     "wof:name":"Kalkatova Balka",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

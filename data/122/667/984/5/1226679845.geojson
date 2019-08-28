@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.39562,46.199,28.43562,46.239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Enichioi"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Yenikoy",
         "En\u0103che\u015fti",
-        "Yenikioy",
-        "Enichioi"
+        "Yenikioy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226679845,
-    "wof:lastmodified":1564167522,
+    "wof:lastmodified":1566603114,
     "wof:name":"Enichioi",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

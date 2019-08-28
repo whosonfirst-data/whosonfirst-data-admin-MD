@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":48.259551,
     "lbl:longitude":26.807429,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.259551,
     "mps:longitude":26.807429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u043f\u043a\u0430\u043d\u044c"
     ],
@@ -88,14 +91,8 @@
     "name:und_x_colloquial":[
         "Lipcani Targ"
     ],
-    "name:und_x_preferred":[
-        "Lipcani"
-    ],
     "name:und_x_variant":[
         "Lipcani T\u00e2rg"
-    ],
-    "name:unk_x_variant":[
-        "Lipkany"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u067e\u06a9\u0627\u0646\u06cc"
@@ -118,7 +115,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.265278,
     "wd:longitude":26.803889,
@@ -134,7 +131,7 @@
         "fct:id":"01a4f8b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617897,
         "gp:id":480845,
-        "qs:id":1010518,
+        "qs_pg:id":1010518,
         "wd:id":"Q1827367",
         "wk:page":"Lipcani"
     },
@@ -152,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374767,
+    "wof:lastmodified":1566603030,
     "wof:name":"Lipcani",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

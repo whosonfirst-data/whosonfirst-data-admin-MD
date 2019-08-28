@@ -13,10 +13,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.810281,
     "lbl:longitude":28.068936,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.810281,
     "mps:longitude":28.068936,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0440\u0443\u0438\u043d\u0446\u0430"
     ],
@@ -77,12 +80,6 @@
     "name:und_x_colloquial":[
         "Biruinta"
     ],
-    "name:und_x_preferred":[
-        "Biruin\u0163a"
-    ],
-    "name:unk_x_variant":[
-        "Biruintsa"
-    ],
     "name:zho_x_preferred":[
         "\u6bd4\u9b6f\u56e0\u5bdf"
     ],
@@ -102,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.816111,
     "wd:longitude":28.068611,
@@ -117,7 +114,6 @@
         "fct:id":"01a474f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":830975,
         "gp:id":480103,
-        "qs:id":129734,
         "qs_pg:id":129734,
         "wd:id":"Q2626898",
         "wk:page":"Biruin\u021ba"
@@ -136,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374912,
+    "wof:lastmodified":1566603062,
     "wof:name":"Biruin\u0163a",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

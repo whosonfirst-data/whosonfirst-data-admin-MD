@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":48.136098,
     "lbl:longitude":28.418728,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.136098,
     "mps:longitude":28.418728,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vasilc\u0103u"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0456\u043b\u043a\u0435\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasikeu"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +63,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":617143,
         "gp:id":481566,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2446081",
         "wk:page":"Vasilc\u0103u"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101876271,
-    "wof:lastmodified":1561840318,
+    "wof:lastmodified":1566603063,
     "wof:name":"Vasilc\u0103u",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

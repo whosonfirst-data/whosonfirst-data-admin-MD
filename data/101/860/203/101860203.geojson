@@ -10,12 +10,16 @@
     "geom:latitude":47.944591,
     "geom:longitude":27.862833,
     "iso:country":"MD",
+    "lbl:bbox":"27.842833,47.924591,27.882833,47.964591",
     "lbl:latitude":47.944591,
     "lbl:longitude":27.862833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.944591,
     "mps:longitude":27.862833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u0444\u0456\u044f"
     ],
@@ -80,12 +84,6 @@
     "name:ukr_x_variant":[
         "\u041c\u0438\u043d\u0434\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Sofia"
-    ],
-    "name:unk_x_variant":[
-        "Anfisovka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Drocia",
     "qs:a1_alt":"Drochia",
@@ -103,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -115,7 +113,7 @@
         "fct:id":"01a54e9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617378,
         "gp:id":481338,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2439075",
         "wk:page":"Sofia, Drochia"
     },
@@ -133,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374813,
+    "wof:lastmodified":1566603040,
     "wof:name":"Sofia",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.830239,
     "geom:longitude":27.501183,
     "iso:country":"MD",
+    "lbl:bbox":"27.481183,47.810239,27.521183,47.850239",
     "lbl:latitude":47.830239,
     "lbl:longitude":27.501183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.830239,
     "mps:longitude":27.501183,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Danul Vechiu"
     ],
@@ -45,12 +49,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u0443"
     ],
-    "name:und_x_preferred":[
-        "Danu"
-    ],
-    "name:unk_x_variant":[
-        "Danul Vechiu"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Glodeni",
     "qs:a1_alt":"Glodeni",
@@ -68,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -80,7 +78,7 @@
         "fct:id":"01a4b91c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618399,
         "gp:id":480476,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1985175",
         "wk:page":"Danu, Glodeni"
     },
@@ -98,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840317,
+    "wof:lastmodified":1566603057,
     "wof:name":"Danu",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

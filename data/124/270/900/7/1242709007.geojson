@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.43417,45.83694,28.47417,45.87694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novaya Karboliya"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242709007,
-    "wof:lastmodified":1537664336,
+    "wof:lastmodified":1566603105,
     "wof:name":"Carbalia Noua",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

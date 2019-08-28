@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.39923,47.87296,27.43923,47.91296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u044b\u0435 \u041a\u0443\u043a\u0443\u0435\u0446\u044b"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343806449,
-    "wof:lastmodified":1537664331,
+    "wof:lastmodified":1566602981,
     "wof:name":"Cucuietii Noi",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

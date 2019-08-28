@@ -10,12 +10,16 @@
     "geom:latitude":46.518844,
     "geom:longitude":29.026579,
     "iso:country":"MD",
+    "lbl:bbox":"29.006579,46.498844,29.046579,46.538844",
     "lbl:latitude":46.518844,
     "lbl:longitude":29.026579,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.518844,
     "mps:longitude":29.026579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Troi\u021bcoe"
     ],
@@ -78,13 +82,7 @@
         "Troita",
         "Troitcoe"
     ],
-    "name:und_x_preferred":[
-        "Troi\u0163coe"
-    ],
     "name:und_x_variant":[
-        "Troi\u0163a"
-    ],
-    "name:unk_x_variant":[
         "Troi\u0163a"
     ],
     "name:zho_x_preferred":[
@@ -107,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -119,7 +117,7 @@
         "fct:id":"01a569de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617213,
         "gp:id":481508,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q1982796",
         "wk:page":"Troi\u021bcoe"
     },
@@ -137,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374952,
+    "wof:lastmodified":1566603070,
     "wof:name":"Troi\u0163coe",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

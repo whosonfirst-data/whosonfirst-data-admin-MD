@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.26139,46.79417,28.30139,46.83417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Novyye Talayeshty"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209549821,
-    "wof:lastmodified":1537664405,
+    "wof:lastmodified":1566603006,
     "wof:name":"Talaiestii-Vechi",
     "wof:parent_id":85633287,
     "wof:placetype":"locality",

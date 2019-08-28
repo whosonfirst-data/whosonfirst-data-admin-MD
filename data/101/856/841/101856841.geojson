@@ -10,12 +10,16 @@
     "geom:latitude":45.913845,
     "geom:longitude":28.373505,
     "iso:country":"MD",
+    "lbl:bbox":"28.353505,45.893845,28.393505,45.933845",
     "lbl:latitude":45.913845,
     "lbl:longitude":28.373505,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.913845,
     "mps:longitude":28.373505,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Moscovei"
     ],
@@ -37,10 +41,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0441\u043a\u043e\u0432\u0435\u0439"
     ],
-    "name:und_x_preferred":[
-        "Moskovey-Chikur"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Moskovey-Chikur",
         "Moskovey"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":95,
     "wof:belongsto":[
         102191581,
@@ -72,7 +74,7 @@
         "fct:id":"01a50f34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617784,
         "gp:id":480971,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1774970",
         "wk:page":"Moscovei"
     },
@@ -90,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374792,
+    "wof:lastmodified":1566603035,
     "wof:name":"Moscovei",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

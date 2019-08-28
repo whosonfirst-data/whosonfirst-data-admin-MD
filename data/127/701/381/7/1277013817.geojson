@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.40448,48.24504,27.44448,48.28504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "B\u00eerl\u0103deni"
     ],
@@ -39,8 +43,7 @@
         "Byrladyany",
         "Barlyadyany",
         "B\u00e2rl\u0103deni",
-        "Borladyany",
-        "B\u00eerl\u0103deni"
+        "Borladyany"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1277013817,
-    "wof:lastmodified":1564167419,
+    "wof:lastmodified":1566602998,
     "wof:name":"Birladeni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

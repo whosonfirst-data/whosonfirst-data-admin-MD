@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.34476,45.76764,28.38476,45.80764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Vladimirovca"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Gevenoasa Noua",
         "Vladimire\u015fti",
-        "Vladimirovka",
-        "Vladimirovca"
+        "Vladimirovka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1309936593,
-    "wof:lastmodified":1564167484,
+    "wof:lastmodified":1566603097,
     "wof:name":"Vladimirovca",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

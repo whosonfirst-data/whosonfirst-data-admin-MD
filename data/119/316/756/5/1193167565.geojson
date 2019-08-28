@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.19307,46.09055,28.23307,46.13055",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043a\u0430"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193167565,
-    "wof:lastmodified":1537664351,
+    "wof:lastmodified":1566603015,
     "wof:name":"Constantinesti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":46.360208,
     "lbl:longitude":28.335812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.360208,
     "mps:longitude":28.335812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Plesheny"
     ],
@@ -48,12 +51,6 @@
     "name:und_x_colloquial":[
         "Pleseni"
     ],
-    "name:und_x_preferred":[
-        "Ple\u015feni"
-    ],
-    "name:unk_x_variant":[
-        "Pleshcheni"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cantemir",
     "qs:a1_alt":"Cantemir",
@@ -68,7 +65,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -80,7 +77,7 @@
         "fct:id":"01a5265e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617586,
         "gp:id":481117,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1775910",
         "wk:page":"Ple\u0219eni"
     },
@@ -98,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374763,
+    "wof:lastmodified":1566603029,
     "wof:name":"Ple\u015feni",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.018181,
     "geom:longitude":28.761007,
     "iso:country":"MD",
+    "lbl:bbox":"28.741007,46.998181,28.781007,47.038181",
     "lbl:latitude":47.018181,
     "lbl:longitude":28.761007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.018181,
     "mps:longitude":28.761007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_variant":[
         "\u0414\u0443\u0440\u043b\u044d\u0448\u0446\u044c"
     ],
@@ -80,12 +84,6 @@
     "name:und_x_colloquial":[
         "Durlesti"
     ],
-    "name:und_x_preferred":[
-        "Durle\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Durleshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*mun.Chi\u015fin\u0103u",
     "qs:a1_alt":"Chisinau",
@@ -104,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.017778,
     "wd:longitude":28.7625,
     "wd:wordcount":32,
@@ -118,7 +116,6 @@
         "fct:id":"01a4c308-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618356,
         "gp:id":480526,
-        "qs:id":1165577,
         "qs_pg:id":1165577,
         "wd:id":"Q2708692"
     },
@@ -136,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374950,
+    "wof:lastmodified":1566603070,
     "wof:name":"Durle\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

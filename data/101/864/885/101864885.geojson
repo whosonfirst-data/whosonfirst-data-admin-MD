@@ -11,12 +11,16 @@
     "geom:longitude":29.825115,
     "gn:population":4200,
     "iso:country":"MD",
+    "lbl:bbox":"29.805115,46.62386,29.845115,46.66386",
     "lbl:latitude":46.64386,
     "lbl:longitude":29.825115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":46.64386,
     "mps:longitude":29.825115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041a\u0440\u0430\u0441\u043d\u0430\u0435"
     ],
@@ -65,7 +69,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Crasna"
     ],
     "qs:a0":"Moldova",
@@ -87,7 +91,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.651389,
     "wd:longitude":29.804722,
@@ -101,7 +105,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":617973,
-        "qs:id":126287,
         "qs_pg:id":126287,
         "wd:id":"Q2708419",
         "wk:page":"Crasnoe"
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101864885,
-    "wof:lastmodified":1563374984,
+    "wof:lastmodified":1566603077,
     "wof:name":"Crasnoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

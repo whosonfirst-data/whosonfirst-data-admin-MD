@@ -10,12 +10,16 @@
     "geom:latitude":47.488472,
     "geom:longitude":28.017153,
     "iso:country":"MD",
+    "lbl:bbox":"27.997153,47.468472,28.037153,47.508472",
     "lbl:latitude":47.488472,
     "lbl:longitude":28.017153,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.488472,
     "mps:longitude":28.017153,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bursuchen'"
     ],
@@ -47,10 +51,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0441\u0443\u0447\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Bursuceni"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bursuchen\u2019"
     ],
     "qs:a0":"Moldova",
@@ -70,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191581,
@@ -82,7 +83,7 @@
         "fct:id":"01a4837a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":831226,
         "gp:id":480194,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2449656",
         "wk:page":"Bursuceni"
     },
@@ -100,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374874,
+    "wof:lastmodified":1566603054,
     "wof:name":"Bursuceni",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

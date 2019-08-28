@@ -13,10 +13,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.958924,
     "lbl:longitude":27.553167,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.958924,
     "mps:longitude":27.553167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_variant":[
         "\u0420\u044b\u0448\u043a\u0430\u043d\u044c"
     ],
@@ -86,10 +89,8 @@
     "name:ukr_x_preferred":[
         "\u0420\u0438\u0448\u043a\u0430\u043d\u0438"
     ],
-    "name:und_x_preferred":[
-        "Ryshkany"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Ryshkany",
         "Rashkani-Tyrg"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.957222,
     "wd:longitude":27.553889,
@@ -126,7 +127,6 @@
         "fct:id":"01a53a04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617482,
         "gp:id":481196,
-        "qs:id":215366,
         "qs_pg:id":215366,
         "wd:id":"Q1022131",
         "wk:page":"R\u00ee\u0219cani"
@@ -145,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374906,
+    "wof:lastmodified":1566603061,
     "wof:name":"R\u00ee\u015fcani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

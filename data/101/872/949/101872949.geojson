@@ -10,12 +10,16 @@
     "geom:latitude":46.770043,
     "geom:longitude":28.354686,
     "iso:country":"MD",
+    "lbl:bbox":"28.334686,46.750043,28.374686,46.790043",
     "lbl:latitude":46.770043,
     "lbl:longitude":28.354686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.770043,
     "mps:longitude":28.354686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "C\u0103rpineni"
     ],
@@ -40,10 +44,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0440\u043f\u0456\u043d\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Karpineny"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karpineny"
     ],
     "qs:a0":"Moldova",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -75,7 +76,7 @@
         "fct:id":"01a4f0e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618129,
         "gp:id":480779,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2328841",
         "wk:page":"C\u0103rpineni"
     },
@@ -93,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374757,
+    "wof:lastmodified":1566603028,
     "wof:name":"C\u0103rpineni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.24678,
     "geom:longitude":27.770152,
     "iso:country":"MD",
+    "lbl:bbox":"27.750152,47.22678,27.790152,47.26678",
     "lbl:latitude":47.24678,
     "lbl:longitude":27.770152,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.24678,
     "mps:longitude":27.770152,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zagarancha"
     ],
@@ -44,12 +48,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0433\u0430\u0440\u0430\u043d\u0447\u0430"
     ],
-    "name:und_x_preferred":[
-        "Zagarancea"
-    ],
-    "name:unk_x_variant":[
-        "Zagarancha"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
     "qs:a1_alt":"Ungheni",
@@ -67,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -79,7 +77,7 @@
         "fct:id":"01a57e1a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617058,
         "gp:id":481613,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2453726",
         "wk:page":"Zagarancea"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374771,
+    "wof:lastmodified":1566603031,
     "wof:name":"Zagarancea",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

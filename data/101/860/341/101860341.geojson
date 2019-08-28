@@ -11,12 +11,16 @@
     "geom:longitude":27.09935,
     "gn:population":9900,
     "iso:country":"MD",
+    "lbl:bbox":"27.07935,48.337109,27.11935,48.377109",
     "lbl:latitude":48.357109,
     "lbl:longitude":27.09935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.357109,
     "mps:longitude":27.09935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0440\u044b\u0447\u044d\u043d\u044c"
     ],
@@ -95,17 +99,11 @@
     "name:und_x_colloquial":[
         "Briceni-Targ"
     ],
-    "name:und_x_preferred":[
-        "Briceni"
-    ],
     "name:und_x_variant":[
         "Briceni-T\u00e2rg",
         "Brichany",
         "Brichen' Sat",
         "Bricheni Sat"
-    ],
-    "name:unk_x_variant":[
-        "Briceni-T\u00e2rg"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u91cc\u5207\u5c3c"
@@ -128,7 +126,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":48.362778,
     "wd:longitude":27.085,
@@ -144,10 +142,12 @@
         "fct:id":"01a47d12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618512,
         "gp:id":480151,
-        "qs:id":9,
-        "qs_pg:id":215316,
+        "qs_pg:id":9,
         "wd:id":"Q2019727",
         "wk:page":"Briceni"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":215316
     },
     "wof:country":"MD",
     "wof:geomhash":"26c82d0886ad7ae7c653e760f75cf168",
@@ -163,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374818,
+    "wof:lastmodified":1566603041,
     "wof:name":"Briceni",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.788154,
     "geom:longitude":28.685654,
     "iso:country":"MD",
+    "lbl:bbox":"28.665654,46.768154,28.705654,46.808154",
     "lbl:latitude":46.788154,
     "lbl:longitude":28.685654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.788154,
     "mps:longitude":28.685654,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "F\u00eerl\u0103deni"
     ],
@@ -37,7 +41,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0438\u0440\u043b\u0435\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fyrlandany"
     ],
     "qs:a0":"Moldova",
@@ -58,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":101864761,
-    "wof:lastmodified":1563374979,
+    "wof:lastmodified":1566603076,
     "wof:name":"F\u00eerl\u0103deni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

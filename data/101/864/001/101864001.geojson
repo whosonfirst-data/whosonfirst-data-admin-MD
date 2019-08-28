@@ -10,12 +10,16 @@
     "geom:latitude":47.534847,
     "geom:longitude":28.467341,
     "iso:country":"MD",
+    "lbl:bbox":"28.447341,47.514847,28.487341,47.554847",
     "lbl:latitude":47.534847,
     "lbl:longitude":28.467341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.534847,
     "mps:longitude":28.467341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Verejeni"
     ],
@@ -81,10 +85,7 @@
     "name:ukr_x_variant":[
         "\u0427\u043e\u043a-\u041c\u0430\u0439\u0434\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Verejeni"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Verezhen\u2019"
     ],
     "qs:a0":"Moldova",
@@ -104,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":605,
     "wof:belongsto":[
         102191581,
@@ -116,7 +117,7 @@
         "fct:id":"01a57532-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617137,
         "gp:id":481571,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2449915",
         "wk:page":"Verejeni"
     },
@@ -134,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374963,
+    "wof:lastmodified":1566603073,
     "wof:name":"Verejeni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

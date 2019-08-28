@@ -10,12 +10,16 @@
     "geom:latitude":46.057789,
     "geom:longitude":28.511316,
     "iso:country":"MD",
+    "lbl:bbox":"28.491316,46.037789,28.531316,46.077789",
     "lbl:latitude":46.057789,
     "lbl:longitude":28.511316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.057789,
     "mps:longitude":28.511316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Borceag"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0447\u0430\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Borchag"
     ],
     "qs:a0":"Moldova",
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101856849,
-    "wof:lastmodified":1563374793,
+    "wof:lastmodified":1566603035,
     "wof:name":"Borceag",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":46.534744,
     "lbl:longitude":29.647076,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.534744,
     "mps:longitude":29.647076,
     "mz:hierarchy_label":1,
@@ -182,7 +183,7 @@
         "Raionul \u0218tefan Vod\u0103"
     ],
     "name:tam_x_preferred":[
-        "\u0bb8\u0bcd\u0b9f\u0bc0\u0baa\u0ba9\u0bcd  \u0bb5\u0bcb\u0b9f\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb8\u0bcd\u0b9f\u0bc0\u0baa\u0ba9\u0bcd \u0bb5\u0bcb\u0b9f\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c1f\u0c46\u0c2b\u0c3e\u0c28\u0c4d \u0c35\u0c4b\u0c21\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -199,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0435\u0444\u0430\u043d-\u0412\u043e\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015etefan-Vod\u0103"
     ],
     "name:urd_x_preferred":[
@@ -281,9 +282,9 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-05",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -327,11 +328,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727311,
+    "wof:lastmodified":1566602987,
     "wof:name":"\u015etefan Vod\u0103",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":70620,
     "wof:population_rank":8,

@@ -10,12 +10,16 @@
     "geom:latitude":47.018375,
     "geom:longitude":28.54595,
     "iso:country":"MD",
+    "lbl:bbox":"28.52595,46.998375,28.56595,47.038375",
     "lbl:latitude":47.018375,
     "lbl:longitude":28.54595,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.018375,
     "mps:longitude":28.54595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ulmu"
     ],
@@ -76,10 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u043c\u0443"
     ],
-    "name:und_x_preferred":[
-        "Ulmu"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ul\u2019ma"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.026111,
     "wd:longitude":28.596667,
     "wd:wordcount":442,
@@ -113,7 +114,7 @@
         "fct:id":"01a56baa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617182,
         "gp:id":481519,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2442836",
         "wk:page":"Ulmu, Ialoveni"
     },
@@ -131,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375045,
+    "wof:lastmodified":1566603089,
     "wof:name":"Ulmu",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

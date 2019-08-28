@@ -10,12 +10,16 @@
     "geom:latitude":47.824684,
     "geom:longitude":27.855343,
     "iso:country":"MD",
+    "lbl:bbox":"27.835343,47.804684,27.875343,47.844684",
     "lbl:latitude":47.824684,
     "lbl:longitude":27.855343,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.824684,
     "mps:longitude":27.855343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Singureni"
     ],
@@ -77,12 +81,6 @@
     "name:ukr_x_variant":[
         "\u0406\u043b\u0435\u043d\u0443\u0446\u0430"
     ],
-    "name:und_x_preferred":[
-        "Singureni"
-    ],
-    "name:unk_x_variant":[
-        "Syngureny"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*R\u00ee\u015fcani",
     "qs:a1_alt":"Riscani",
@@ -101,7 +99,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -130,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374883,
+    "wof:lastmodified":1566603056,
     "wof:name":"Singureni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

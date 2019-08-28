@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.41264,47.88782,27.45264,47.92782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u044b\u0435 \u041a\u0443\u043a\u0443\u0435\u0446\u044b"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293039087,
-    "wof:lastmodified":1537664314,
+    "wof:lastmodified":1566602994,
     "wof:name":"Cucuietii Vechi",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

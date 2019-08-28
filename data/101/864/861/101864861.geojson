@@ -10,12 +10,16 @@
     "geom:latitude":46.885369,
     "geom:longitude":29.647632,
     "iso:country":"MD",
+    "lbl:bbox":"29.627632,46.865369,29.667632,46.905369",
     "lbl:latitude":46.885369,
     "lbl:longitude":29.647632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.885369,
     "mps:longitude":29.647632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Blijnii Hutor"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_variant":[
         "\u041b\u0443\u043d\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klotova Balka"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101864861,
-    "wof:lastmodified":1563374959,
+    "wof:lastmodified":1566603072,
     "wof:name":"Blijnii Hutor",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

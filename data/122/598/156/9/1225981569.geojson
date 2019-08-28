@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.21882,47.24051,28.25882,47.28051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041f\u043e\u0434\u0443-\u041b\u0443\u043d\u0433"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225981569,
-    "wof:lastmodified":1537664390,
+    "wof:lastmodified":1566603117,
     "wof:name":"Podul Lung",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

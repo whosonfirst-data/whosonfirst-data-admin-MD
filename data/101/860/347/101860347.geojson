@@ -10,12 +10,16 @@
     "geom:latitude":48.364247,
     "geom:longitude":26.791921,
     "iso:country":"MD",
+    "lbl:bbox":"26.771921,48.344247,26.811921,48.384247",
     "lbl:latitude":48.364247,
     "lbl:longitude":26.791921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.364247,
     "mps:longitude":26.791921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Medvezha"
     ],
@@ -41,12 +45,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
     ],
-    "name:und_x_preferred":[
-        "Medveja"
-    ],
-    "name:unk_x_variant":[
-        "Medvezha"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Briceni",
     "qs:a1_alt":"Briceni",
@@ -64,7 +62,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -76,7 +74,7 @@
         "fct:id":"01a503d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617827,
         "gp:id":480907,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2437649",
         "wk:page":"Medveja, Moldova"
     },
@@ -94,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840313,
+    "wof:lastmodified":1566603042,
     "wof:name":"Medveja",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

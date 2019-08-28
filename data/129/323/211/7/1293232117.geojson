@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.30321,47.10176,28.34321,47.14176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0413\u0443\u0437\u0443\u043d"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293232117,
-    "wof:lastmodified":1537664358,
+    "wof:lastmodified":1566602992,
     "wof:name":"Huzun",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

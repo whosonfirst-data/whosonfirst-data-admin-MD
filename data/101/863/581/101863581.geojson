@@ -10,12 +10,16 @@
     "geom:latitude":46.604058,
     "geom:longitude":28.758342,
     "iso:country":"MD",
+    "lbl:bbox":"28.738342,46.584058,28.778342,46.624058",
     "lbl:latitude":46.604058,
     "lbl:longitude":28.758342,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.604058,
     "mps:longitude":28.758342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gradishche"
     ],
@@ -52,13 +56,7 @@
         "Gradiste",
         "Gradistea"
     ],
-    "name:und_x_preferred":[
-        "Gradi\u015fte"
-    ],
     "name:und_x_variant":[
-        "Gr\u0103di\u015ftea"
-    ],
-    "name:unk_x_variant":[
         "Gr\u0103di\u015ftea"
     ],
     "qs:a0":"Moldova",
@@ -78,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -90,7 +88,7 @@
         "fct:id":"01a4d5b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618241,
         "gp:id":480627,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2438661",
         "wk:page":"Gradi\u0219te"
     },
@@ -108,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375028,
+    "wof:lastmodified":1566603085,
     "wof:name":"Gradi\u015fte",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

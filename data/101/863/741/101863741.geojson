@@ -10,12 +10,16 @@
     "geom:latitude":46.786686,
     "geom:longitude":28.775921,
     "iso:country":"MD",
+    "lbl:bbox":"28.755921,46.766686,28.795921,46.806686",
     "lbl:latitude":46.786686,
     "lbl:longitude":28.775921,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.786686,
     "mps:longitude":28.775921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mole\u0219ti"
     ],
@@ -84,12 +88,6 @@
     "name:und_x_colloquial":[
         "Molesti"
     ],
-    "name:und_x_preferred":[
-        "Mole\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Malayeshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ialoveni",
     "qs:a1_alt":"Ialoveni",
@@ -107,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":44,
     "wof:belongsto":[
         102191581,
@@ -119,7 +117,7 @@
         "fct:id":"01a50d04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617864,
         "gp:id":480958,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2443275",
         "wk:page":"Mole\u0219ti"
     },
@@ -137,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375035,
+    "wof:lastmodified":1566603087,
     "wof:name":"Mole\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

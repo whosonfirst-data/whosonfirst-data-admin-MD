@@ -11,8 +11,11 @@
     "geom:longitude":29.146851,
     "gn:population":23254,
     "iso:country":"MD",
+    "lbl:bbox":"29.126851,47.254308,29.166851,47.294308",
     "lbl:latitude":47.274308,
     "lbl:longitude":29.146851,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":47.274308,
     "mps:longitude":29.146851,
     "mz:hierarchy_label":1,
@@ -126,9 +129,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0441\u0441\u0430\u0440\u0438"
-    ],
-    "name:unk_x_variant":[
-        "Dubossary"
     ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0628\u0627\u0633\u0627\u0631\u06cc"
@@ -249,7 +249,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:latitude":47.266667,
     "wd:longitude":29.166667,
@@ -265,7 +265,7 @@
     "wof:concordances":{
         "gn:id":618365,
         "gp:id":480514,
-        "qs:id":1064783,
+        "qs_pg:id":1064783,
         "wd:id":"Q688654",
         "wk:page":"Dub\u0103sari"
     },
@@ -288,7 +288,7 @@
         }
     ],
     "wof:id":101864893,
-    "wof:lastmodified":1563374962,
+    "wof:lastmodified":1566603072,
     "wof:name":"Dub\u0103sari",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

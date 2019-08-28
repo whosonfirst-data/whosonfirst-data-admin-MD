@@ -11,12 +11,16 @@
     "geom:longitude":28.868879,
     "gn:population":5700,
     "iso:country":"MD",
+    "lbl:bbox":"28.848879,47.07409,28.888879,47.11409",
     "lbl:latitude":47.09409,
     "lbl:longitude":28.868879,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.09409,
     "mps:longitude":28.868879,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "St\u0103uceni"
     ],
@@ -68,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0435\u0443\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stavcheny"
     ],
     "qs:a0":"Moldova",
@@ -89,7 +93,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":617317,
         "gp:id":481365,
-        "qs:id":489845,
+        "qs_pg:id":489845,
         "wd:id":"Q2387813",
         "wk:page":"St\u0103uceni, Chi\u0219in\u0103u"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":101863767,
-    "wof:lastmodified":1563375037,
+    "wof:lastmodified":1566603087,
     "wof:name":"St\u0103uceni",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

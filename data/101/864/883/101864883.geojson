@@ -11,12 +11,16 @@
     "geom:longitude":29.910904,
     "gn:population":10426,
     "iso:country":"MD",
+    "lbl:bbox":"29.890904,46.602476,29.930904,46.642476",
     "lbl:latitude":46.622476,
     "lbl:longitude":29.910904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.622476,
     "mps:longitude":29.910904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u043d\u044f\u0441\u0442\u0440\u043e\u045e\u0441\u043a"
     ],
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043d\u0456\u0441\u0442\u0440\u043e\u0432\u0441\u044c\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dnestrovsk"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.622222,
     "wd:longitude":29.913333,
@@ -126,7 +130,6 @@
     "wof:concordances":{
         "gn:id":618387,
         "gp:id":480987,
-        "qs:id":126291,
         "qs_pg:id":126291,
         "wd:id":"Q219547",
         "wk:page":"Dnestrovsc"
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101864883,
-    "wof:lastmodified":1563374982,
+    "wof:lastmodified":1566603076,
     "wof:name":"Dnestrovsc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

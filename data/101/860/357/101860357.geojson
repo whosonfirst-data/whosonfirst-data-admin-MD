@@ -10,12 +10,16 @@
     "geom:latitude":48.22578,
     "geom:longitude":27.983614,
     "iso:country":"MD",
+    "lbl:bbox":"27.963614,48.20578,28.003614,48.24578",
     "lbl:latitude":48.22578,
     "lbl:longitude":27.983614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.22578,
     "mps:longitude":27.983614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Darkauts'"
     ],
@@ -47,12 +51,6 @@
     "name:und_x_colloquial":[
         "Darcauti"
     ],
-    "name:und_x_preferred":[
-        "D\u0103rc\u0103u\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Derkautsy"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Soroca",
     "qs:a1_alt":"Soroca",
@@ -70,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -82,7 +80,7 @@
         "fct:id":"01a4b958-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618392,
         "gp:id":480478,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1990658",
         "wk:page":"D\u0103rc\u0103u\u021bi"
     },
@@ -100,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374823,
+    "wof:lastmodified":1566603042,
     "wof:name":"D\u0103rc\u0103u\u0163i",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

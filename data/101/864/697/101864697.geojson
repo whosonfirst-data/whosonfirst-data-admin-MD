@@ -10,12 +10,16 @@
     "geom:latitude":46.306514,
     "geom:longitude":28.785248,
     "iso:country":"MD",
+    "lbl:bbox":"28.765248,46.286514,28.805248,46.326514",
     "lbl:latitude":46.306514,
     "lbl:longitude":28.785248,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.306514,
     "mps:longitude":28.785248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0448\u043a\u0430\u043b\u0438\u044f"
     ],
@@ -82,12 +86,6 @@
     "name:und_x_colloquial":[
         "Bascalia"
     ],
-    "name:und_x_preferred":[
-        "Ba\u015fcalia"
-    ],
-    "name:unk_x_variant":[
-        "Bashkaliya"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u06cc\u0627\u06a9"
     ],
@@ -108,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191581,
@@ -120,7 +118,7 @@
         "fct:id":"01a46fa2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618593,
         "gp:id":480071,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2626791",
         "wk:page":"Ba\u0219calia"
     },
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374987,
+    "wof:lastmodified":1566603077,
     "wof:name":"Ba\u015fcalia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

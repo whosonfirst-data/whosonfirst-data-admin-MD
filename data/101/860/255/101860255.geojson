@@ -10,12 +10,16 @@
     "geom:latitude":48.166748,
     "geom:longitude":27.099556,
     "iso:country":"MD",
+    "lbl:bbox":"27.079556,48.146748,27.119556,48.186748",
     "lbl:latitude":48.166748,
     "lbl:longitude":27.099556,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.166748,
     "mps:longitude":27.099556,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fete\u0219ti"
     ],
@@ -83,12 +87,6 @@
     "name:und_x_colloquial":[
         "Fetesti"
     ],
-    "name:und_x_preferred":[
-        "Fete\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Feteshty"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u5c3c\u5bdf"
     ],
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -122,10 +120,12 @@
         "fct:id":"01a4c830-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618337,
         "gp:id":872097,
-        "qs:id":2,
-        "qs_pg:id":1091888,
+        "qs_pg:id":2,
         "wd:id":"Q1984026",
         "wk:page":"Fete\u0219ti, Edine\u021b"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1091888
     },
     "wof:country":"MD",
     "wof:geomhash":"010cd554c9dd2ff0c67bb3b3c042737a",
@@ -141,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374839,
+    "wof:lastmodified":1566603046,
     "wof:name":"Fete\u015fti",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

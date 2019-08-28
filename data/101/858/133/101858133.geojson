@@ -10,12 +10,16 @@
     "geom:latitude":47.386769,
     "geom:longitude":27.588303,
     "iso:country":"MD",
+    "lbl:bbox":"27.568303,47.366769,27.608303,47.406769",
     "lbl:latitude":47.386769,
     "lbl:longitude":27.588303,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.386769,
     "mps:longitude":27.588303,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Taksobeny"
     ],
@@ -46,10 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043a\u0441\u043e\u0431\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Taxobeni"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taksoben\u2019"
     ],
     "qs:a0":"Moldova",
@@ -69,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -81,7 +82,7 @@
         "fct:id":"01a55e58-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617274,
         "gp:id":481441,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2441133",
         "wk:page":"Taxobeni"
     },
@@ -99,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374846,
+    "wof:lastmodified":1566603047,
     "wof:name":"Taxobeni",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

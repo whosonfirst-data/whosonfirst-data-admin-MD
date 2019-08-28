@@ -10,12 +10,16 @@
     "geom:latitude":47.916313,
     "geom:longitude":27.259964,
     "iso:country":"MD",
+    "lbl:bbox":"27.239964,47.896313,27.279964,47.936313",
     "lbl:latitude":47.916313,
     "lbl:longitude":27.259964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.916313,
     "mps:longitude":27.259964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "V\u0103ratic"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u0420\u0435\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veratek"
     ],
     "qs:a0":"Moldova",
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101858263,
-    "wof:lastmodified":1563374882,
+    "wof:lastmodified":1566603055,
     "wof:name":"V\u0103ratic",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

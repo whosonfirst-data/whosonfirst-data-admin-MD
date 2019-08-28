@@ -10,12 +10,16 @@
     "geom:latitude":46.831528,
     "geom:longitude":29.882544,
     "iso:country":"MD",
+    "lbl:bbox":"29.862544,46.811528,29.902544,46.851528",
     "lbl:latitude":46.831528,
     "lbl:longitude":29.882544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.831528,
     "mps:longitude":29.882544,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0443\u043d\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shayki"
     ],
     "qs:a0":"Moldova",
@@ -76,7 +80,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":48.4075,
     "wd:longitude":27.598611,
     "wd:wordcount":48,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":101864877,
-    "wof:lastmodified":1563374981,
+    "wof:lastmodified":1566603076,
     "wof:name":"Frunz\u0103",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

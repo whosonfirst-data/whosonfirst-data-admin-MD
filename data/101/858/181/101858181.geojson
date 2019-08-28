@@ -10,12 +10,16 @@
     "geom:latitude":47.78471,
     "geom:longitude":28.012788,
     "iso:country":"MD",
+    "lbl:bbox":"27.992788,47.76471,28.032788,47.80471",
     "lbl:latitude":47.78471,
     "lbl:longitude":28.012788,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.78471,
     "mps:longitude":28.012788,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elizaveta"
     ],
@@ -76,10 +80,8 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0456\u0437\u0430\u0432\u0435\u0442\u0430"
     ],
-    "name:und_x_preferred":[
-        "Elisaveta"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Elisaveta",
         "Styrcha"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -111,7 +113,7 @@
         "fct:id":"01a4c538-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617069,
         "gp:id":480538,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1999757",
         "wk:page":"Elizaveta"
     },
@@ -129,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374863,
+    "wof:lastmodified":1566603052,
     "wof:name":"Elizaveta",
     "wof:parent_id":85686449,
     "wof:placetype":"locality",

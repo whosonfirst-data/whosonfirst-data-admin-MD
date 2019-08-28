@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"27.49452,48.01095,27.53452,48.05095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0428\u0442\u044e\u0431\u0435\u044f\u043d\u044b"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276924673,
-    "wof:lastmodified":1537664318,
+    "wof:lastmodified":1566603000,
     "wof:name":"Stiubeieni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.318622,
     "geom:longitude":27.878231,
     "iso:country":"MD",
+    "lbl:bbox":"27.858231,47.298622,27.898231,47.338622",
     "lbl:latitude":47.318622,
     "lbl:longitude":27.878231,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.318622,
     "mps:longitude":27.878231,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Pyrlitsa Satul"
     ],
@@ -50,15 +54,9 @@
         "Parliti",
         "Pirlita"
     ],
-    "name:und_x_preferred":[
-        "P\u00eerli\u0163a"
-    ],
     "name:und_x_variant":[
         "P\u00e2rli\u0163a",
         "P\u00e2rli\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "P\u00e2rli\u0163a"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
@@ -77,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -89,7 +87,7 @@
         "fct:id":"01a52532-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617537,
         "gp:id":481111,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2453151",
         "wk:page":"P\u00eerli\u021ba, Ungheni"
     },
@@ -107,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374768,
+    "wof:lastmodified":1566603030,
     "wof:name":"P\u00eerli\u0163a",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

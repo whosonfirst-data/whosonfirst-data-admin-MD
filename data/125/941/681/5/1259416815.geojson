@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"29.13988,46.91004,29.17988,46.95004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u043e\u0442\u043d\u0430\u0440\u0435\u0448\u0442\u044b"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259416815,
-    "wof:lastmodified":1537664372,
+    "wof:lastmodified":1566603110,
     "wof:name":"Botnaresti",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

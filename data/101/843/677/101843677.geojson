@@ -9,14 +9,17 @@
     "geom:bbox":"27.9580401119,47.0316085486,28.0124561885,47.0655146692",
     "geom:latitude":47.046928,
     "geom:longitude":27.980338,
-    "geonames:id":"617870,674248",
+    "gn:id":"617870,674248",
     "iso:country":"MD",
     "lbl:latitude":47.051825,
     "lbl:longitude":27.970856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.051825,
     "mps:longitude":27.970856,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "M\u0103c\u0103re\u0219ti"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043a\u0435\u0440\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mekereshti"
     ],
     "qs:a0":"Rom\u00e2nia",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -72,7 +75,7 @@
     "wof:concordances":{
         "gn:id":617870,
         "gp:id":480867,
-        "qs:id":292958,
+        "qs_pg:id":292958,
         "wd:id":"Q2452952",
         "wk:page":"M\u0103c\u0103re\u0219ti, Ungheni"
     },
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101843677,
-    "wof:lastmodified":1563374767,
+    "wof:lastmodified":1566603030,
     "wof:name":"M\u0103c\u0103re\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

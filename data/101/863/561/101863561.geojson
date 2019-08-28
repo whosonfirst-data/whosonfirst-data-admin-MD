@@ -10,12 +10,16 @@
     "geom:latitude":46.331815,
     "geom:longitude":28.563804,
     "iso:country":"MD",
+    "lbl:bbox":"28.543804,46.311815,28.583804,46.351815",
     "lbl:latitude":46.331815,
     "lbl:longitude":28.563804,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.331815,
     "mps:longitude":28.563804,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gag_x_preferred":[
         "Kongaz\u00e7\u0131k Yukark\u0131"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0433\u0430\u0437\u0447\u0438\u043a\u0443\u043b-\u0434\u0435-\u0421\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kongazchik Verkhniy"
     ],
     "qs:a0":"Moldova",
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191581,
@@ -64,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":618037,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2638951",
         "wk:page":"Congazcicul de Sus"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101863561,
-    "wof:lastmodified":1544747067,
+    "wof:lastmodified":1566603081,
     "wof:name":"Congazcicul de Sus",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

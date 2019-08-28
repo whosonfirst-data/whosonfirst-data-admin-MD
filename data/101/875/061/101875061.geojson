@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.211056,
     "lbl:longitude":28.256383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.211056,
     "mps:longitude":28.256383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Horodi\u0219te"
     ],
@@ -85,14 +88,9 @@
         "Horodiste",
         "Horodistea"
     ],
-    "name:und_x_preferred":[
-        "Horodi\u015fte"
-    ],
     "name:und_x_variant":[
+        "Horodi\u015fte",
         "Horodi\u015ftea"
-    ],
-    "name:unk_x_variant":[
-        "Gorodeshty"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103l\u0103ra\u015fi",
@@ -108,7 +106,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":20,
     "wof:belongsto":[
         102191581,
@@ -120,7 +118,7 @@
         "fct:id":"01a4e496-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618249,
         "gp:id":480708,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2455062",
         "wk:page":"Horodi\u0219te, C\u0103l\u0103ra\u0219i"
     },
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374764,
+    "wof:lastmodified":1566603029,
     "wof:name":"Horodi\u015fte",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

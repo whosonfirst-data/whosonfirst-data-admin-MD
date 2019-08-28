@@ -10,12 +10,16 @@
     "geom:latitude":47.588173,
     "geom:longitude":28.343857,
     "iso:country":"MD",
+    "lbl:bbox":"28.323857,47.568173,28.363857,47.608173",
     "lbl:latitude":47.588173,
     "lbl:longitude":28.343857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.588173,
     "mps:longitude":28.343857,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Perepelitsa"
     ],
@@ -44,12 +48,6 @@
     "name:und_x_colloquial":[
         "Prepelita"
     ],
-    "name:und_x_preferred":[
-        "Prepeli\u0163a"
-    ],
-    "name:unk_x_variant":[
-        "Perepelitsa"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*S\u00eengerei",
     "qs:a1_alt":"Singerei",
@@ -67,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -79,7 +77,7 @@
         "fct:id":"01a52c94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617555,
         "gp:id":481150,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2449208",
         "wk:page":"Prepeli\u021ba"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374880,
+    "wof:lastmodified":1566603055,
     "wof:name":"Prepeli\u0163a",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

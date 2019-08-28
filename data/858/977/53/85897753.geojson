@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3657038.706216,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.863141,47.015988,28.863141,47.015988",
     "geom:latitude":47.015988,
     "geom:longitude":28.863141,
     "gn:id":"",
     "iso:country":"MD",
+    "lbl:bbox":"28.858141,47.010988,28.868141,47.020988",
     "lbl:latitude":47.015988,
     "lbl:longitude":28.863141,
+    "lbl:max_zoom":18.0,
     "mps:latitude":47.018936,
     "mps:longitude":28.884674,
     "mz:hierarchy_label":0,
@@ -37,10 +39,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Kozhevennaya"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kozhevennaya"
     ],
     "qs:gn_adm0_cc":"MD",
@@ -69,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":931,
     "wof:belongsto":[
         102191581,
@@ -82,7 +81,6 @@
     ],
     "wof:concordances":{
         "gp:id":480806,
-        "qs:id":473969,
         "qs_pg:id":473969,
         "wd:id":"Q13424730"
     },
@@ -101,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531931933,
+    "wof:lastmodified":1566602988,
     "wof:name":"Kozhevennaya",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

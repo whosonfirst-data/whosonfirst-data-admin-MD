@@ -11,12 +11,16 @@
     "geom:longitude":28.614886,
     "gn:population":19225,
     "iso:country":"MD",
+    "lbl:bbox":"28.594886,47.129017,28.634886,47.169017",
     "lbl:latitude":47.149017,
     "lbl:longitude":28.614886,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":47.149017,
     "mps:longitude":28.614886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bak_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0448\u0435\u043d\u044b"
     ],
@@ -104,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0448\u0435\u043d\u0438"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Strasheny"
     ],
     "name:zho_x_preferred":[
@@ -128,7 +132,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.141389,
     "wd:longitude":28.610278,
@@ -143,7 +147,6 @@
         "fct:id":"01a554c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617302,
         "gp:id":481386,
-        "qs:id":215382,
         "qs_pg:id":215382,
         "wd:id":"Q2006102",
         "wk:page":"Str\u0103\u0219eni"
@@ -162,7 +165,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375059,
+    "wof:lastmodified":1566603093,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

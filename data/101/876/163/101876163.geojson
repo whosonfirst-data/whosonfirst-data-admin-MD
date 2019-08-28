@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.214522,
     "lbl:longitude":27.913676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.214522,
     "mps:longitude":27.913676,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cetireni"
     ],
@@ -80,10 +83,8 @@
     "name:ukr_x_variant":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u044c\u043a"
     ],
-    "name:und_x_preferred":[
-        "Chirileni"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Chirileni",
         "Chitiren\u2019"
     ],
     "qs:a0":"Moldova",
@@ -100,7 +101,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -112,7 +113,7 @@
         "fct:id":"01a490f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618435,
         "gp:id":480263,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2453825",
         "wk:page":"Cetireni"
     },
@@ -130,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374909,
+    "wof:lastmodified":1566603062,
     "wof:name":"Cetireni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

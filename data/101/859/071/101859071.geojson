@@ -10,12 +10,16 @@
     "geom:latitude":47.130883,
     "geom:longitude":27.863339,
     "iso:country":"MD",
+    "lbl:bbox":"27.843339,47.110883,27.883339,47.150883",
     "lbl:latitude":47.130883,
     "lbl:longitude":27.863339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.130883,
     "mps:longitude":27.863339,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Valya-Mare"
     ],
@@ -43,12 +47,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u041c\u0430\u0440\u0435"
     ],
-    "name:und_x_preferred":[
-        "Valea Mare"
-    ],
-    "name:unk_x_variant":[
-        "Valya-Mare"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
     "qs:a1_alt":"Ungheni",
@@ -66,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191581,
@@ -78,7 +76,7 @@
         "fct:id":"01a57078-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617157,
         "gp:id":481546,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2453136",
         "wk:page":"Valea Mare, Ungheni"
     },
@@ -96,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374769,
+    "wof:lastmodified":1566603030,
     "wof:name":"Valea Mare",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

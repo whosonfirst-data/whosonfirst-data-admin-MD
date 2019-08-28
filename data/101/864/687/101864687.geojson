@@ -11,12 +11,16 @@
     "geom:longitude":28.44549,
     "gn:population":1800,
     "iso:country":"MD",
+    "lbl:bbox":"28.42549,46.314835,28.46549,46.354835",
     "lbl:latitude":46.334835,
     "lbl:longitude":28.44549,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":46.334835,
     "mps:longitude":28.44549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Vi\u0219niovca"
     ],
@@ -85,15 +89,9 @@
         "Visinesti",
         "Visniovca"
     ],
-    "name:und_x_preferred":[
-        "Vi\u015fine\u015fti"
-    ],
     "name:und_x_variant":[
-        "Vishn\u00ebvka",
-        "Vi\u015fniovca"
-    ],
-    "name:unk_x_variant":[
-        "Vi\u015fine\u015fti"
+        "Vi\u015fine\u015fti",
+        "Vishn\u00ebvka"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cantemir",
@@ -113,7 +111,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":16,
     "wof:belongsto":[
@@ -126,7 +124,6 @@
         "fct:id":"01a57960-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617118,
         "gp:id":481585,
-        "qs:id":126261,
         "qs_pg:id":126261,
         "wd:id":"Q2438669",
         "wk:page":"Vi\u0219niovca"
@@ -145,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374957,
+    "wof:lastmodified":1566603071,
     "wof:name":"Vi\u015fniovca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

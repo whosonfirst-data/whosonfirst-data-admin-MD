@@ -10,12 +10,16 @@
     "geom:latitude":47.507664,
     "geom:longitude":27.742157,
     "iso:country":"MD",
+    "lbl:bbox":"27.722157,47.487664,27.762157,47.527664",
     "lbl:latitude":47.507664,
     "lbl:longitude":27.742157,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.507664,
     "mps:longitude":27.742157,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "S\u0103rata Veche"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0430\u0442\u0430-\u0412\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sarata-Vek\u2019"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":38,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":617350,
         "gp:id":481252,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2441177",
         "wk:page":"S\u0103rata Veche"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101858119,
-    "wof:lastmodified":1563374863,
+    "wof:lastmodified":1566603052,
     "wof:name":"S\u0103rata Veche",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.725735,
     "geom:longitude":27.434838,
     "iso:country":"MD",
+    "lbl:bbox":"27.414838,47.705735,27.454838,47.745735",
     "lbl:latitude":47.725735,
     "lbl:longitude":27.434838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.725735,
     "mps:longitude":27.434838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cajba"
     ],
@@ -76,12 +80,6 @@
     "name:ukr_x_variant":[
         "\u041c\u0443\u0441\u0442\u044f\u0446\u0430"
     ],
-    "name:und_x_preferred":[
-        "Cajba"
-    ],
-    "name:unk_x_variant":[
-        "Kazhba"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Glodeni",
     "qs:a1_alt":"Glodeni",
@@ -99,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":58,
     "wof:belongsto":[
         102191581,
@@ -111,7 +109,7 @@
         "fct:id":"01a48708-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618110,
         "gp:id":480214,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1985020",
         "wk:page":"Cajba"
     },
@@ -129,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374884,
+    "wof:lastmodified":1566603056,
     "wof:name":"Cajba",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.13499,
     "geom:longitude":28.71304,
     "iso:country":"MD",
+    "lbl:bbox":"28.69304,47.11499,28.73304,47.15499",
     "lbl:latitude":47.13499,
     "lbl:longitude":28.71304,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.13499,
     "mps:longitude":28.71304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sire\u021bi"
     ],
@@ -87,14 +91,8 @@
         "Siret",
         "Sireti"
     ],
-    "name:und_x_preferred":[
-        "Sire\u0163i"
-    ],
     "name:und_x_variant":[
         "Sire\u0163"
-    ],
-    "name:unk_x_variant":[
-        "Seretsi"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Str\u0103\u015feni",
@@ -114,7 +112,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":90,
     "wof:belongsto":[
         102191581,
@@ -143,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375017,
+    "wof:lastmodified":1566603083,
     "wof:name":"Sire\u0163i",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.56327,
     "geom:longitude":28.091547,
     "iso:country":"MD",
+    "lbl:bbox":"28.071547,47.54327,28.111547,47.58327",
     "lbl:latitude":47.56327,
     "lbl:longitude":28.091547,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.56327,
     "mps:longitude":28.091547,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Iez\u0103renii Vechi"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0437\u0435\u0440\u0435\u043d\u0456\u0439-\u0412\u0435\u043a\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staryye Yezareny"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":65,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":617320,
         "gp:id":480732,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2449223",
         "wk:page":"Iez\u0103renii Vechi"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101858209,
-    "wof:lastmodified":1563374877,
+    "wof:lastmodified":1566603054,
     "wof:name":"Iez\u0103renii Vechi",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

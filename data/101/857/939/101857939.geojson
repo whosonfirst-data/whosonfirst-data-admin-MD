@@ -10,12 +10,16 @@
     "geom:latitude":46.332516,
     "geom:longitude":28.215393,
     "iso:country":"MD",
+    "lbl:bbox":"28.195393,46.312516,28.235393,46.352516",
     "lbl:latitude":46.332516,
     "lbl:longitude":28.215393,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.332516,
     "mps:longitude":28.215393,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shuvylka"
     ],
@@ -54,12 +58,6 @@
     "name:und_x_colloquial":[
         "Antonesti"
     ],
-    "name:und_x_preferred":[
-        "Antone\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Shuvylka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cantemir",
     "qs:a1_alt":"Cantemir",
@@ -77,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.309722,
     "wd:longitude":28.205,
     "wd:wordcount":17,
@@ -91,7 +89,7 @@
         "fct:id":"01a466e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618638,
         "gp:id":480021,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2439187",
         "wk:page":"Antone\u0219ti, Cantemir"
     },
@@ -109,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374774,
+    "wof:lastmodified":1566603032,
     "wof:name":"Antone\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.38455,47.97888,28.42455,48.01888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u043e\u043d\u0435\u0446"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226580175,
-    "wof:lastmodified":1537664317,
+    "wof:lastmodified":1566603114,
     "wof:name":"Solonet",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

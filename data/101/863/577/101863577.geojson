@@ -10,12 +10,16 @@
     "geom:latitude":46.440586,
     "geom:longitude":28.753576,
     "iso:country":"MD",
+    "lbl:bbox":"28.733576,46.420586,28.773576,46.460586",
     "lbl:latitude":46.440586,
     "lbl:longitude":28.753576,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.440586,
     "mps:longitude":28.753576,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ciucur-Mingir"
     ],
@@ -77,10 +81,8 @@
         "Chukur-Mindzhir",
         "\u0427\u0443\u0447\u0443\u0440-\u041c\u0456\u043d\u0433\u0456\u0440"
     ],
-    "name:und_x_preferred":[
-        "Chekur-Minzhir"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Chekur-Minzhir",
         "Chekur-Menzhir"
     ],
     "qs:a0":"Moldova",
@@ -100,7 +102,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191581,
@@ -112,7 +114,7 @@
         "fct:id":"01a49158-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618411,
         "gp:id":480265,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2438168",
         "wk:page":"Ciucur-Mingir"
     },
@@ -130,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375068,
+    "wof:lastmodified":1566603094,
     "wof:name":"Ciucur-Mingir",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

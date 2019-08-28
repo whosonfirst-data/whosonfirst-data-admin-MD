@@ -10,12 +10,16 @@
     "geom:latitude":45.583519,
     "geom:longitude":28.168196,
     "iso:country":"MD",
+    "lbl:bbox":"28.148196,45.563519,28.188196,45.603519",
     "lbl:latitude":45.583519,
     "lbl:longitude":28.168196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.583519,
     "mps:longitude":28.168196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Slobozia Mare"
     ],
@@ -84,12 +88,6 @@
     "name:ukr_x_variant":[
         "\u0423\u0440\u0441\u043e\u0430\u044f"
     ],
-    "name:und_x_preferred":[
-        "Slobozia Mare"
-    ],
-    "name:unk_x_variant":[
-        "Sloboziya Mare"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cahul",
     "qs:a1_alt":"Cahul",
@@ -107,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -119,7 +117,7 @@
         "fct:id":"01a54b5c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617384,
         "gp:id":481322,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2438708",
         "wk:page":"Slobozia Mare"
     },
@@ -137,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374937,
+    "wof:lastmodified":1566603067,
     "wof:name":"Slobozia Mare",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

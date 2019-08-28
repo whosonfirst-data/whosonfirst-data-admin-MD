@@ -10,12 +10,16 @@
     "geom:latitude":47.257065,
     "geom:longitude":29.123543,
     "iso:country":"MD",
+    "lbl:bbox":"29.103543,47.237065,29.143543,47.277065",
     "lbl:latitude":47.257065,
     "lbl:longitude":29.123543,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.257065,
     "mps:longitude":29.123543,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ustia"
     ],
@@ -76,10 +80,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0443\u043b\u0431\u043e\u0430\u043a\u0430"
     ],
-    "name:und_x_preferred":[
-        "Ustya"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ustya"
     ],
     "qs:a0":"Moldova",
@@ -99,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191581,
@@ -112,7 +113,7 @@
         "fct:id":"01a56e16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617170,
         "gp:id":481533,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2439097",
         "wk:page":"Ustia, Dub\u0103sari"
     },
@@ -138,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375032,
+    "wof:lastmodified":1566603086,
     "wof:name":"Ustia",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

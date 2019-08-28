@@ -10,12 +10,16 @@
     "geom:latitude":46.823788,
     "geom:longitude":28.87048,
     "iso:country":"MD",
+    "lbl:bbox":"28.85048,46.803788,28.89048,46.843788",
     "lbl:latitude":46.823788,
     "lbl:longitude":28.87048,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.823788,
     "mps:longitude":28.87048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hore\u0219ti"
     ],
@@ -84,14 +88,8 @@
         "Horasti",
         "Horesti"
     ],
-    "name:und_x_preferred":[
-        "Hore\u015fti"
-    ],
     "name:und_x_variant":[
         "Hor\u0103\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Goreshty"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ialoveni",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a4e360-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618251,
         "gp:id":480702,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2442817",
         "wk:page":"Hore\u0219ti, Ialoveni"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375008,
+    "wof:lastmodified":1566603081,
     "wof:name":"Hore\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

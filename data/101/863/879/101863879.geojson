@@ -9,14 +9,18 @@
     "geom:bbox":"28.997305,47.218998,28.997305,47.218998",
     "geom:latitude":47.218998,
     "geom:longitude":28.997305,
-    "geonames:id":"618170,864908",
+    "gn:id":"618170,864908",
     "iso:country":"MD",
+    "lbl:bbox":"28.977305,47.198998,29.017305,47.238998",
     "lbl:latitude":47.218998,
     "lbl:longitude":28.997305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.218998,
     "mps:longitude":28.997305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Izbi\u0219te"
     ],
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -104,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":480757,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2439139"
     },
     "wof:country":"MD",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":101863879,
-    "wof:lastmodified":1563375046,
+    "wof:lastmodified":1566603090,
     "wof:name":"Izbi\u015fte",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

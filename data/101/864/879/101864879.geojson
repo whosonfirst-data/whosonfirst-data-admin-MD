@@ -10,12 +10,16 @@
     "geom:latitude":46.602108,
     "geom:longitude":29.939015,
     "iso:country":"MD",
+    "lbl:bbox":"29.919015,46.582108,29.959015,46.622108",
     "lbl:latitude":46.602108,
     "lbl:longitude":29.939015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.602108,
     "mps:longitude":29.939015,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nezavertailovca"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0437\u0430\u0432\u0435\u0440\u0442\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nezavertaylovka"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101864879,
-    "wof:lastmodified":1563374981,
+    "wof:lastmodified":1566603076,
     "wof:name":"Nezavertailovca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

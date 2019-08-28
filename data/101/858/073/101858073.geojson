@@ -10,12 +10,16 @@
     "geom:latitude":47.253945,
     "geom:longitude":28.072884,
     "iso:country":"MD",
+    "lbl:bbox":"28.052884,47.233945,28.092884,47.273945",
     "lbl:latitude":47.253945,
     "lbl:longitude":28.072884,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.253945,
     "mps:longitude":28.072884,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Temeleu\u021bi"
     ],
@@ -87,12 +91,6 @@
     "name:und_x_colloquial":[
         "Temeleuti"
     ],
-    "name:und_x_preferred":[
-        "Temeleu\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Temeleutsy"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103l\u0103ra\u015fi",
     "qs:a1_alt":"Calarasi",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a55f8e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617250,
         "gp:id":481448,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2454370",
         "wk:page":"Temeleu\u021bi, C\u0103l\u0103ra\u0219i"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374870,
+    "wof:lastmodified":1566603053,
     "wof:name":"Temeleu\u0163i",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

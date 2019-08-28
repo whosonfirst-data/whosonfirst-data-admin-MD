@@ -11,12 +11,16 @@
     "geom:longitude":27.776791,
     "gn:population":8400,
     "iso:country":"MD",
+    "lbl:bbox":"27.756791,48.425717,27.796791,48.465717",
     "lbl:latitude":48.445717,
     "lbl:longitude":27.776791,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":48.445717,
     "mps:longitude":27.776791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0442\u0430\u0447"
     ],
@@ -87,12 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u043a\u0438"
     ],
-    "name:und_x_preferred":[
-        "Otaci"
-    ],
-    "name:unk_x_variant":[
-        "Ataki"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ocni\u0163a",
     "qs:a1_alt":"Ocnita",
@@ -111,7 +109,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":48.43,
     "wd:longitude":27.793889,
@@ -126,7 +124,6 @@
         "fct:id":"01a51b28-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618631,
         "gp:id":481053,
-        "qs:id":962714,
         "qs_pg:id":962714,
         "wd:id":"Q2608576",
         "wk:page":"Otaci"
@@ -145,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374812,
+    "wof:lastmodified":1566603040,
     "wof:name":"Otaci",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

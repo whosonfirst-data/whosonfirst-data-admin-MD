@@ -10,12 +10,16 @@
     "geom:latitude":48.203472,
     "geom:longitude":27.173748,
     "iso:country":"MD",
+    "lbl:bbox":"27.153748,48.183472,27.193748,48.223472",
     "lbl:latitude":48.203472,
     "lbl:longitude":27.173748,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.203472,
     "mps:longitude":27.173748,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "T\u00eernova"
     ],
@@ -51,14 +55,8 @@
         "Tarnova",
         "Tirnova"
     ],
-    "name:und_x_preferred":[
-        "T\u00eernova"
-    ],
     "name:und_x_variant":[
         "T\u00e2rnova"
-    ],
-    "name:unk_x_variant":[
-        "Tyrnovo"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Edine\u0163",
@@ -77,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191581,
@@ -89,7 +87,7 @@
         "fct:id":"01a56452-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617185,
         "gp:id":481476,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q537805"
     },
     "wof:country":"MD",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374836,
+    "wof:lastmodified":1566603045,
     "wof:name":"T\u00eernova",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

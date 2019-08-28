@@ -10,12 +10,16 @@
     "geom:latitude":47.269188,
     "geom:longitude":28.370577,
     "iso:country":"MD",
+    "lbl:bbox":"28.350577,47.249188,28.390577,47.289188",
     "lbl:latitude":47.269188,
     "lbl:longitude":28.370577,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.269188,
     "mps:longitude":28.370577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "P\u0103ule\u0219ti"
     ],
@@ -83,12 +87,6 @@
     "name:und_x_colloquial":[
         "Paulesti"
     ],
-    "name:und_x_preferred":[
-        "P\u0103ule\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Pauleshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103l\u0103ra\u015fi",
     "qs:a1_alt":"Calarasi",
@@ -106,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -118,7 +116,7 @@
         "fct:id":"01a51e84-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617619,
         "gp:id":481074,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2453794",
         "wk:page":"P\u0103ule\u0219ti, C\u0103l\u0103ra\u0219i"
     },
@@ -136,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375000,
+    "wof:lastmodified":1566603080,
     "wof:name":"P\u0103ule\u015fti",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

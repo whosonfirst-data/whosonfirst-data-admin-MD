@@ -10,12 +10,16 @@
     "geom:latitude":47.153321,
     "geom:longitude":28.521906,
     "iso:country":"MD",
+    "lbl:bbox":"28.501906,47.133321,28.541906,47.173321",
     "lbl:latitude":47.153321,
     "lbl:longitude":28.521906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.153321,
     "mps:longitude":28.521906,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Panasheshty"
     ],
@@ -51,12 +55,6 @@
     "name:und_x_colloquial":[
         "Panasesti"
     ],
-    "name:und_x_preferred":[
-        "P\u0103n\u0103\u015fe\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Panasheshty"
-    ],
     "name:zho_x_preferred":[
         "\u6f58\u90a3\u8b1d\u65af\u63d0"
     ],
@@ -77,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":102,
     "wof:belongsto":[
         102191581,
@@ -89,7 +87,7 @@
         "fct:id":"01a51c86-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617629,
         "gp:id":481062,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2450680",
         "wk:page":"P\u0103n\u0103\u0219e\u0219ti"
     },
@@ -107,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375020,
+    "wof:lastmodified":1566603084,
     "wof:name":"P\u0103n\u0103\u015fe\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.55567,47.52669,28.59567,47.56669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Codrul Nou"
     ],
@@ -44,8 +48,7 @@
         "\u041a\u043e\u0434\u0440\u0443\u043b-\u041d\u043e\u0443"
     ],
     "name:und_x_variant":[
-        "Kodrul-Nou",
-        "Codrul Nou"
+        "Kodrul-Nou"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1327064077,
-    "wof:lastmodified":1564167362,
+    "wof:lastmodified":1566602965,
     "wof:name":"Codrul Nou",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

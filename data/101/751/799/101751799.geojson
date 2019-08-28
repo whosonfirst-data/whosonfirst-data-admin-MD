@@ -13,6 +13,8 @@
     "iso:country":"MD",
     "lbl:latitude":47.767304,
     "lbl:longitude":27.922754,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":47.767304,
     "mps:longitude":27.922754,
     "mz:hierarchy_label":1,
@@ -310,14 +312,8 @@
     "name:und_x_colloquial":[
         "Balti"
     ],
-    "name:und_x_preferred":[
-        "Bel'tsy"
-    ],
     "name:und_x_variant":[
-        "B\u0103l\u0163i"
-    ],
-    "name:unk_x_variant":[
-        "Baltsy"
+        "Bel'tsy"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u062a\u0633\u06cc"
@@ -451,7 +447,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":59.0,
     "wd:latitude":47.761667,
@@ -468,7 +464,6 @@
         "fct:id":"01a58bd0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618605,
         "gp:id":480080,
-        "qs:id":1027171,
         "qs_pg:id":1027171,
         "wd:id":"Q37801"
     },
@@ -486,7 +481,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374891,
+    "wof:lastmodified":1566603058,
     "wof:name":"B\u0103l\u0163i",
     "wof:parent_id":85686449,
     "wof:placetype":"locality",

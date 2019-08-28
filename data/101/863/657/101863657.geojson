@@ -10,12 +10,16 @@
     "geom:latitude":46.786754,
     "geom:longitude":29.366094,
     "iso:country":"MD",
+    "lbl:bbox":"29.346094,46.766754,29.386094,46.806754",
     "lbl:latitude":46.786754,
     "lbl:longitude":29.366094,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.786754,
     "mps:longitude":29.366094,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "F\u00eerl\u0103deni"
     ],
@@ -34,7 +38,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0438\u0440\u043b\u0435\u0434\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ferladany"
     ],
     "qs:a0":"Moldova",
@@ -54,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":618343,
         "gp:id":480559,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q400469"
     },
     "wof:country":"MD",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":101863657,
-    "wof:lastmodified":1563375025,
+    "wof:lastmodified":1566603085,
     "wof:name":"F\u00eerl\u0103deni",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

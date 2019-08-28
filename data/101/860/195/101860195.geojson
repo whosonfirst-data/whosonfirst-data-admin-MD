@@ -10,12 +10,16 @@
     "geom:latitude":47.974476,
     "geom:longitude":27.364562,
     "iso:country":"MD",
+    "lbl:bbox":"27.344562,47.954476,27.384562,47.994476",
     "lbl:latitude":47.974476,
     "lbl:longitude":27.364562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.974476,
     "mps:longitude":27.364562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Z\u0103icani"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0439\u043a\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zagaykany"
     ],
     "qs:a0":"Moldova",
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":617049,
         "gp:id":481617,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2447790",
         "wk:page":"Z\u0103icani"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101860195,
-    "wof:lastmodified":1563374801,
+    "wof:lastmodified":1566603037,
     "wof:name":"Z\u0103icani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":47.808735,
     "geom:longitude":27.615746,
     "iso:country":"MD",
+    "lbl:bbox":"27.595746,47.788735,27.635746,47.828735",
     "lbl:latitude":47.808735,
     "lbl:longitude":27.615746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.808735,
     "mps:longitude":27.615746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Iabloana"
     ],
@@ -37,10 +41,7 @@
     "name:ukr_x_preferred":[
         "\u042f\u0431\u043b\u043e\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Iabloana"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Staraya Yablona"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +61,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -72,7 +73,7 @@
         "fct:id":"01a4e72a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617086,
         "gp:id":480721,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1985187",
         "wk:page":"Iabloana"
     },
@@ -90,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840315,
+    "wof:lastmodified":1566603051,
     "wof:name":"Iabloana",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.010764,
     "lbl:longitude":28.874915,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.010764,
     "mps:longitude":28.874915,
     "mz:hierarchy_label":1,
@@ -46,7 +47,7 @@
         "Municipiul Chi\u015fin\u0103u",
         "Municipiul Chi\u0219in\u0103u"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gorod Kishin\u00ebv"
     ],
     "ne:abbrev":"",
@@ -119,9 +120,9 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-05",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -166,11 +167,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727311,
+    "wof:lastmodified":1566602987,
     "wof:name":"mun.Chi\u015fin\u0103u",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:population":716530,
     "wof:population_rank":11,

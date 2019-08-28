@@ -12,10 +12,13 @@
     "iso:country":"MD",
     "lbl:latitude":47.140999,
     "lbl:longitude":28.826382,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.140999,
     "mps:longitude":28.826382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u0103gd\u0103ce\u0219ti"
     ],
@@ -76,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0433\u0434\u0435\u0447\u0435\u0448\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magdacheshty"
     ],
     "qs:a0":"Moldova",
@@ -93,7 +96,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":829809,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1983294",
         "wk:page":"M\u0103gd\u0103ce\u0219ti"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101876171,
-    "wof:lastmodified":1563374919,
+    "wof:lastmodified":1566603064,
     "wof:name":"M\u0103gd\u0103ce\u015fti",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

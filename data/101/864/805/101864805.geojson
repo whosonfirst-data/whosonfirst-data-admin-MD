@@ -10,12 +10,16 @@
     "geom:latitude":47.092991,
     "geom:longitude":29.171705,
     "iso:country":"MD",
+    "lbl:bbox":"29.151705,47.072991,29.191705,47.112991",
     "lbl:latitude":47.092991,
     "lbl:longitude":29.171705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.092991,
     "mps:longitude":29.171705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corjova"
     ],
@@ -84,12 +88,6 @@
     "name:ukr_x_variant":[
         "\u0412\u0435\u0440\u0435\u0436\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Corjova"
-    ],
-    "name:unk_x_variant":[
-        "Korzhovo"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Criuleni",
     "qs:a1_alt":"Criuleni",
@@ -107,7 +105,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":47.096389,
     "wd:longitude":29.171389,
     "wd:wordcount":22,
@@ -121,7 +119,7 @@
         "fct:id":"01a4a8d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618013,
         "gp:id":480389,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1983201",
         "wk:page":"Corjova, Criuleni"
     },
@@ -139,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374964,
+    "wof:lastmodified":1566603073,
     "wof:name":"Corjova",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

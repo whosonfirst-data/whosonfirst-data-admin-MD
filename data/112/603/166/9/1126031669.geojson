@@ -9,15 +9,18 @@
     "geom:bbox":"28.9725,47.30139,28.9725,47.30139",
     "geom:latitude":47.30139,
     "geom:longitude":28.9725,
-    "gn:gn_country":"MD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
-    "gn:population":239,
+    "gn:country":"MD",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MD",
+    "lbl:bbox":"28.9525,47.28139,28.9925,47.32139",
     "lbl:latitude":47.30139,
     "lbl:longitude":28.9725,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ita_x_preferred":[
         "Butuceni"
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0443\u0447\u0430\u043d\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Butuchen\u2019"
     ],
     "qs_pg:aaroncc":"MD",
@@ -61,7 +64,7 @@
     "qs_pg:woe_adm0":23424885,
     "qs_pg:woe_id":480203,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424885,
     "woe:name_adm0":"Moldova",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126031669,
-    "wof:lastmodified":1564167487,
+    "wof:lastmodified":1566603098,
     "wof:name":"Butuceni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

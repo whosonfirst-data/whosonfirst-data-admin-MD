@@ -10,12 +10,16 @@
     "geom:latitude":48.253231,
     "geom:longitude":27.707548,
     "iso:country":"MD",
+    "lbl:bbox":"27.687548,48.233231,27.727548,48.273231",
     "lbl:latitude":48.253231,
     "lbl:longitude":27.707548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.253231,
     "mps:longitude":27.707548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Plop"
     ],
@@ -77,12 +81,6 @@
     "name:ukr_x_variant":[
         "\u0424\u0435\u0442\u0435\u0448\u0442\u044c"
     ],
-    "name:und_x_preferred":[
-        "Plop"
-    ],
-    "name:unk_x_variant":[
-        "Plopy"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Dondu\u015feni",
     "qs:a1_alt":"Donduseni",
@@ -100,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":61,
     "wof:belongsto":[
         102191581,
@@ -112,7 +110,7 @@
         "fct:id":"01a52690-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617584,
         "gp:id":481118,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1983241",
         "wk:page":"Plop, Dondu\u0219eni"
     },
@@ -130,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374839,
+    "wof:lastmodified":1566603046,
     "wof:name":"Plop",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

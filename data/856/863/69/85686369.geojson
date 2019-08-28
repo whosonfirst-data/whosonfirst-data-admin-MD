@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":46.834408,
     "lbl:longitude":29.45542,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.834408,
     "mps:longitude":29.45542,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:ron_x_preferred":[
         "Municipiul Bender"
-    ],
-    "name:unk_x_variant":[
-        "Bender"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MDA",
@@ -110,8 +108,8 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "src:population:date":"2004-10-05",
+    "src:lbl_centroid":"mapshaper",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -152,11 +150,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727311,
+    "wof:lastmodified":1566602986,
     "wof:name":"mun.Bender",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"city",
     "wof:repo":"whosonfirst-data-admin-md",
     "wof:shortcode":"BD",

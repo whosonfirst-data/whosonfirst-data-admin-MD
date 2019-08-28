@@ -10,12 +10,16 @@
     "geom:latitude":48.134754,
     "geom:longitude":27.056168,
     "iso:country":"MD",
+    "lbl:bbox":"27.036168,48.114754,27.076168,48.154754",
     "lbl:latitude":48.134754,
     "lbl:longitude":27.056168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.134754,
     "mps:longitude":27.056168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lopatnic"
     ],
@@ -73,12 +77,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u043f\u0430\u0442\u043d\u0456\u043a"
     ],
-    "name:und_x_preferred":[
-        "Lopatnic"
-    ],
-    "name:unk_x_variant":[
-        "Lopatnik"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u514b\u5c3c\u5bdf"
     ],
@@ -99,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -111,7 +109,7 @@
         "fct:id":"01a4fb16-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617887,
         "gp:id":480857,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2440094",
         "wk:page":"Lopatnic"
     },
@@ -129,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374811,
+    "wof:lastmodified":1566603039,
     "wof:name":"Lopatnic",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

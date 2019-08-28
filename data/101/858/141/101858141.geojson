@@ -10,12 +10,16 @@
     "geom:latitude":47.693447,
     "geom:longitude":27.345644,
     "iso:country":"MD",
+    "lbl:bbox":"27.325644,47.673447,27.365644,47.713447",
     "lbl:latitude":47.693447,
     "lbl:longitude":27.345644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.693447,
     "mps:longitude":27.345644,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Balatina"
     ],
@@ -82,10 +86,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u0456\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Bolotino"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolotino"
     ],
     "qs:a0":"Moldova",
@@ -105,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -117,7 +118,7 @@
         "fct:id":"01a478a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618540,
         "gp:id":480128,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2441867",
         "wk:page":"Balatina"
     },
@@ -135,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374885,
+    "wof:lastmodified":1566603056,
     "wof:name":"Balatina",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

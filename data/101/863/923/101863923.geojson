@@ -10,12 +10,16 @@
     "geom:latitude":47.381077,
     "geom:longitude":29.116623,
     "iso:country":"MD",
+    "lbl:bbox":"29.096623,47.361077,29.136623,47.401077",
     "lbl:latitude":47.381077,
     "lbl:longitude":29.116623,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.381077,
     "mps:longitude":29.116623,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oxentea"
     ],
@@ -76,12 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0441\u0435\u043d\u0442\u044f"
     ],
-    "name:und_x_preferred":[
-        "Oxentea"
-    ],
-    "name:unk_x_variant":[
-        "Oksentiya"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Dub\u0103sari",
     "qs:a1_alt":"Dubasari",
@@ -99,7 +97,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -112,7 +110,7 @@
         "fct:id":"01a51b5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617654,
         "gp:id":481054,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2439116",
         "wk:page":"Oxentea"
     },
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375030,
+    "wof:lastmodified":1566603086,
     "wof:name":"Oxentea",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

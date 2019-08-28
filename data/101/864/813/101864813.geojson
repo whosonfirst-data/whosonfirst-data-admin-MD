@@ -10,12 +10,16 @@
     "geom:latitude":47.203674,
     "geom:longitude":28.723454,
     "iso:country":"MD",
+    "lbl:bbox":"28.703454,47.183674,28.743454,47.223674",
     "lbl:latitude":47.203674,
     "lbl:longitude":28.723454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.203674,
     "mps:longitude":28.723454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zamchozhi"
     ],
@@ -47,13 +51,9 @@
     "name:und_x_colloquial":[
         "Zamosi"
     ],
-    "name:und_x_preferred":[
-        "Zamcioji"
-    ],
     "name:und_x_variant":[
-        "Z\u0103mo\u015fi"
-    ],
-    "name:unk_x_variant":[
+        "Zamcioji",
+        "Z\u0103mo\u015fi",
         "Zamozh\u2019"
     ],
     "qs:a0":"Moldova",
@@ -73,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,7 @@
         "fct:id":"01a57f78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617051,
         "gp:id":481622,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2449770"
     },
     "wof:country":"MD",
@@ -102,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374985,
+    "wof:lastmodified":1566603077,
     "wof:name":"Zamciogi",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

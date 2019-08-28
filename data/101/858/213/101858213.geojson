@@ -10,12 +10,16 @@
     "geom:latitude":47.618115,
     "geom:longitude":28.201399,
     "iso:country":"MD",
+    "lbl:bbox":"28.181399,47.598115,28.221399,47.638115",
     "lbl:latitude":47.618115,
     "lbl:longitude":28.201399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.618115,
     "mps:longitude":28.201399,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Grigor\u0103uca"
     ],
@@ -40,7 +44,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0456\u0433\u043e\u0440\u0435\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grigoren\u2019"
     ],
     "qs:a0":"Moldova",
@@ -60,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":618232,
         "gp:id":480080,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2449679",
         "wk:page":"Grigor\u0103uca"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":101858213,
-    "wof:lastmodified":1563374875,
+    "wof:lastmodified":1566603054,
     "wof:name":"Grigor\u0103uca",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

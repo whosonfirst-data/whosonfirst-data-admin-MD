@@ -10,12 +10,16 @@
     "geom:latitude":47.987423,
     "geom:longitude":27.209383,
     "iso:country":"MD",
+    "lbl:bbox":"27.189383,47.967423,27.229383,48.007423",
     "lbl:latitude":47.987423,
     "lbl:longitude":27.209383,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.987423,
     "mps:longitude":27.209383,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Novyye Kukoneshty"
     ],
@@ -51,12 +55,6 @@
     "name:und_x_colloquial":[
         "Cuconestii Noi"
     ],
-    "name:und_x_preferred":[
-        "Cucone\u015ftii Noi"
-    ],
-    "name:unk_x_variant":[
-        "Novyye Kukoneshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Edine\u0163",
     "qs:a1_alt":"Edinet",
@@ -75,7 +73,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":24,
     "wof:belongsto":[
         102191581,
@@ -104,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374802,
+    "wof:lastmodified":1566603037,
     "wof:name":"Cucone\u015ftii Noi",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

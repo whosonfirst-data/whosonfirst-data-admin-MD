@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":47.435,
     "lbl:longitude":28.487904,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":47.435,
     "mps:longitude":28.487904,
     "mz:hierarchy_label":1,
@@ -942,15 +944,9 @@
     "name:ukr_x_variant":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u043e\u043b\u0434\u043e\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Moldavija"
-    ],
     "name:und_x_variant":[
-        "Moldavsko",
         "Moldav\u00eda",
-        "Republika Moldavija"
-    ],
-    "name:unk_x_variant":[
+        "Republika Moldavija",
         "Soviet Socialist Republic of Moldova"
     ],
     "name:urd_x_preferred":[
@@ -1112,7 +1108,7 @@
         "naturalearth"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"373",
     "statoids:ds":"MD",
@@ -1156,7 +1152,7 @@
         "mzb:id":"moldova",
         "ne:adm0_a3":"MDA",
         "nyt:id":"66261890117017249121",
-        "qs:id":81212,
+        "qs_pg:id":81212,
         "uncrt:id":"MD",
         "wd:id":"Q217",
         "wk:page":"Moldova",
@@ -1178,7 +1174,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727308,
+    "wof:lastmodified":1566602981,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

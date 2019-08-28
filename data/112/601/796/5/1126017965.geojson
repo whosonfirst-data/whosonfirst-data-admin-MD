@@ -9,14 +9,18 @@
     "geom:bbox":"28.56861,47.05667,28.56861,47.05667",
     "geom:latitude":47.05667,
     "geom:longitude":28.56861,
-    "gn:gn_country":"MD",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"MD",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"MD",
+    "lbl:bbox":"28.54861,47.03667,28.58861,47.07667",
     "lbl:latitude":47.05667,
     "lbl:longitude":28.56861,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Condri\u021ba"
@@ -72,7 +76,7 @@
     "name:ukr_x_variant":[
         "Dub\u00e6sari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kondritsa"
     ],
     "qs_pg:aaroncc":"MD",
@@ -96,7 +100,7 @@
     "qs_pg:woe_adm0":23424885,
     "qs_pg:woe_id":480372,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424885,
     "woe:name_adm0":"Moldova",
     "woe:name_adm1":"Straseni",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1126017965,
-    "wof:lastmodified":1563375081,
+    "wof:lastmodified":1566603099,
     "wof:name":"Condri\u0163a",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

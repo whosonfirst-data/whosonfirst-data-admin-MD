@@ -10,12 +10,16 @@
     "geom:latitude":47.315838,
     "geom:longitude":28.97428,
     "iso:country":"MD",
+    "lbl:bbox":"28.95428,47.295838,28.99428,47.335838",
     "lbl:latitude":47.315838,
     "lbl:longitude":28.97428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.315838,
     "mps:longitude":28.97428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u0422\u0440\u044d\u0431\u0443\u0436\u044d\u043d\u044b"
     ],
@@ -52,12 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0431\u0443\u0436\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Trebujeni"
-    ],
-    "name:unk_x_variant":[
-        "Trebuyeny"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Orhei",
     "qs:a1_alt":"Orhei",
@@ -76,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
         102191581,
@@ -88,7 +86,6 @@
         "fct:id":"01a56772-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617224,
         "gp:id":481495,
-        "qs:id":475584,
         "qs_pg:id":475584,
         "wd:id":"Q2447564",
         "wk:page":"Trebujeni"
@@ -107,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840327,
+    "wof:lastmodified":1566603089,
     "wof:name":"Trebujeni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

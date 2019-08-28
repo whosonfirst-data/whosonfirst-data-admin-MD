@@ -10,12 +10,16 @@
     "geom:latitude":48.126675,
     "geom:longitude":27.128134,
     "iso:country":"MD",
+    "lbl:bbox":"27.108134,48.106675,27.148134,48.146675",
     "lbl:latitude":48.126675,
     "lbl:longitude":27.128134,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.126675,
     "mps:longitude":27.128134,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Burlaneshti"
     ],
@@ -47,12 +51,6 @@
     "name:und_x_colloquial":[
         "Burlanesti"
     ],
-    "name:und_x_preferred":[
-        "Burl\u0103ne\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Burlaneshty"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Edine\u0163",
     "qs:a1_alt":"Edinet",
@@ -70,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         102191581,
@@ -82,7 +80,7 @@
         "fct:id":"01a482e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618476,
         "gp:id":480191,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q767229",
         "wk:page":"Burl\u0103ne\u0219ti"
     },
@@ -100,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374809,
+    "wof:lastmodified":1566603039,
     "wof:name":"Burl\u0103ne\u015fti",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

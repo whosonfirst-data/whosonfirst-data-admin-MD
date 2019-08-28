@@ -10,12 +10,16 @@
     "geom:latitude":47.238735,
     "geom:longitude":28.423409,
     "iso:country":"MD",
+    "lbl:bbox":"28.403409,47.218735,28.443409,47.258735",
     "lbl:latitude":47.238735,
     "lbl:longitude":28.423409,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.238735,
     "mps:longitude":28.423409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0456\u0442\u0443\u0448\u043a\u0430"
     ],
@@ -87,12 +91,6 @@
     "name:und_x_colloquial":[
         "Pitusca"
     ],
-    "name:und_x_preferred":[
-        "Pitu\u015fca"
-    ],
-    "name:unk_x_variant":[
-        "Pitushka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*C\u0103l\u0103ra\u015fi",
     "qs:a1_alt":"Calarasi",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a525fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617587,
         "gp:id":481115,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q773754",
         "wk:page":"Pitu\u0219ca"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374954,
+    "wof:lastmodified":1566603071,
     "wof:name":"Pitu\u015fca",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.31489,46.121,28.35489,46.161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "C\u00ee\u0219la"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343395577,
-    "wof:lastmodified":1564167382,
+    "wof:lastmodified":1566602975,
     "wof:name":"Cisla",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

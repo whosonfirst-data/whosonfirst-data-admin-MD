@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":47.330784,
     "lbl:longitude":29.110677,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.330784,
     "mps:longitude":29.110677,
     "mz:hierarchy_label":1,
@@ -142,7 +143,7 @@
         "Raionul Dub\u0103sari"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc2\u0baa\u0b9a\u0bb0\u0bbf  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9f\u0bc2\u0baa\u0b9a\u0bb0\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c41\u0c2c\u0c3e\u0c38\u0c3e\u0c30\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -180,9 +181,9 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-05",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -230,11 +231,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727309,
+    "wof:lastmodified":1566602983,
     "wof:name":"Dub\u0103sari",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":34004,
     "wof:population_rank":7,

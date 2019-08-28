@@ -10,12 +10,16 @@
     "geom:latitude":48.346023,
     "geom:longitude":27.478937,
     "iso:country":"MD",
+    "lbl:bbox":"27.458937,48.326023,27.498937,48.366023",
     "lbl:latitude":48.346023,
     "lbl:longitude":27.478937,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":48.346023,
     "mps:longitude":27.478937,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Denzhany"
     ],
@@ -44,13 +48,7 @@
         "Dangeni",
         "Dingeni"
     ],
-    "name:und_x_preferred":[
-        "D\u00eengeni"
-    ],
     "name:und_x_variant":[
-        "D\u00e2ngeni"
-    ],
-    "name:unk_x_variant":[
         "D\u00e2ngeni"
     ],
     "qs:a0":"Moldova",
@@ -70,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -82,7 +80,7 @@
         "fct:id":"01a4bb06-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618394,
         "gp:id":480486,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1987374",
         "wk:page":"D\u00eengeni"
     },
@@ -100,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374832,
+    "wof:lastmodified":1566603045,
     "wof:name":"D\u00eengeni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

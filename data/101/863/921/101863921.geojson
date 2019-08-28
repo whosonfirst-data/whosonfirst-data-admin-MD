@@ -10,12 +10,16 @@
     "geom:latitude":47.34478,
     "geom:longitude":29.090523,
     "iso:country":"MD",
+    "lbl:bbox":"29.070523,47.32478,29.110523,47.36478",
     "lbl:latitude":47.34478,
     "lbl:longitude":29.090523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.34478,
     "mps:longitude":29.090523,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Molovata Nou\u0103"
     ],
@@ -43,10 +47,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b\u043e\u0432\u0430\u0442\u0430-\u041d\u043e\u0443\u0430"
     ],
-    "name:und_x_preferred":[
-        "Malovatoye"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Malovatoye",
         "Malovata"
     ],
     "qs:a0":"Moldova",
@@ -66,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":145,
     "wof:belongsto":[
         102191581,
@@ -79,7 +81,7 @@
         "fct:id":"01a4ffc6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617855,
         "gp:id":480884,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2439042",
         "wk:page":"Molovata Nou\u0103"
     },
@@ -105,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375068,
+    "wof:lastmodified":1566603094,
     "wof:name":"Molovata Nou\u0103",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

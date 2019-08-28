@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.51593,47.93506,28.55593,47.97506",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Octeabriscoe"
     ],
@@ -35,8 +39,7 @@
         "Voroshilovka",
         "Oktyabr\u2019skoye",
         "Novyye Vaskovtsy",
-        "Myrzesht\u2019",
-        "Octeabriscoe"
+        "Myrzesht\u2019"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1309839621,
-    "wof:lastmodified":1564167482,
+    "wof:lastmodified":1566603096,
     "wof:name":"Octeabriscoe",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

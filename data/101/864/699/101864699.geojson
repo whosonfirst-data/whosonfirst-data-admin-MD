@@ -11,12 +11,16 @@
     "geom:longitude":28.964571,
     "gn:population":10809,
     "iso:country":"MD",
+    "lbl:bbox":"28.944571,46.308845,28.984571,46.348845",
     "lbl:latitude":46.328845,
     "lbl:longitude":28.964571,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":46.328845,
     "mps:longitude":28.964571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0627\u0631\u0627\u0628\u064a\u0627\u0633\u0643\u0627"
     ],
@@ -106,14 +110,8 @@
     "name:und_x_colloquial":[
         "Romanesti"
     ],
-    "name:und_x_preferred":[
-        "Basarabeasca"
-    ],
     "name:und_x_variant":[
         "Rom\u00e2ne\u015fti"
-    ],
-    "name:unk_x_variant":[
-        "Romanovo"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u85a9\u62c9\u8c9d\u4e9e\u65af\u5361"
@@ -135,7 +133,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":46.333333,
     "wd:longitude":28.966667,
@@ -150,7 +148,7 @@
         "fct:id":"01a46f70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618594,
         "gp:id":480092,
-        "qs:id":292591,
+        "qs_pg:id":292591,
         "wd:id":"Q809787",
         "wk:page":"Basarabeasca"
     },
@@ -168,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374986,
+    "wof:lastmodified":1566603077,
     "wof:name":"Basarabeasca",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

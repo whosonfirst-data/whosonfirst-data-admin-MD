@@ -10,12 +10,16 @@
     "geom:latitude":47.748001,
     "geom:longitude":27.57455,
     "iso:country":"MD",
+    "lbl:bbox":"27.55455,47.728001,27.59455,47.768001",
     "lbl:latitude":47.748001,
     "lbl:longitude":27.57455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.748001,
     "mps:longitude":27.57455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Petrunea"
     ],
@@ -76,12 +80,6 @@
     "name:ukr_x_variant":[
         "\u0413\u043b\u0456\u043d\u0436\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Petrunea"
-    ],
-    "name:unk_x_variant":[
-        "Petrunya"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Glodeni",
     "qs:a1_alt":"Glodeni",
@@ -100,7 +98,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -129,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374864,
+    "wof:lastmodified":1566603052,
     "wof:name":"Petrunea",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

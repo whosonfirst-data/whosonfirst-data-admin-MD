@@ -10,12 +10,16 @@
     "geom:latitude":47.131993,
     "geom:longitude":27.909254,
     "iso:country":"MD",
+    "lbl:bbox":"27.889254,47.111993,27.929254,47.151993",
     "lbl:latitude":47.131993,
     "lbl:longitude":27.909254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.131993,
     "mps:longitude":27.909254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Mareni-Nouy"
     ],
@@ -44,12 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
     ],
-    "name:und_x_preferred":[
-        "Morenii Noi"
-    ],
-    "name:unk_x_variant":[
-        "Mareni-Nouy"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
     "qs:a1_alt":"Ungheni",
@@ -67,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191581,
@@ -79,7 +77,7 @@
         "fct:id":"01a50dfe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617678,
         "gp:id":480964,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2453636",
         "wk:page":"Morenii Noi"
     },
@@ -97,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561840310,
+    "wof:lastmodified":1566603030,
     "wof:name":"Morenii Noi",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

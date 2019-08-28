@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.40976,46.50751,28.44976,46.54751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seliste"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1360218871,
-    "wof:lastmodified":1564167472,
+    "wof:lastmodified":1566603025,
     "wof:name":"Seliste",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

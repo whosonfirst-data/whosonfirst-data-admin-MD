@@ -10,12 +10,16 @@
     "geom:latitude":47.388356,
     "geom:longitude":27.810052,
     "iso:country":"MD",
+    "lbl:bbox":"27.790052,47.368356,27.830052,47.408356",
     "lbl:latitude":47.388356,
     "lbl:longitude":27.810052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.388356,
     "mps:longitude":27.810052,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bu\u0219ila"
     ],
@@ -85,12 +89,6 @@
     "name:und_x_colloquial":[
         "Busila"
     ],
-    "name:und_x_preferred":[
-        "Bu\u015fila"
-    ],
-    "name:unk_x_variant":[
-        "Stynzhineny"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Ungheni",
     "qs:a1_alt":"Ungheni",
@@ -108,7 +106,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191581,
@@ -120,7 +118,7 @@
         "fct:id":"01a483de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618472,
         "gp:id":480197,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2452795",
         "wk:page":"Bu\u0219ila"
     },
@@ -138,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374851,
+    "wof:lastmodified":1566603049,
     "wof:name":"Bu\u015fila",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

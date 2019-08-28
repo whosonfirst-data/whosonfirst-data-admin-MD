@@ -10,12 +10,16 @@
     "geom:latitude":46.966861,
     "geom:longitude":28.708596,
     "iso:country":"MD",
+    "lbl:bbox":"28.688596,46.946861,28.728596,46.986861",
     "lbl:latitude":46.966861,
     "lbl:longitude":28.708596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.966861,
     "mps:longitude":28.708596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "D\u0103nceni"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0447\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dancheny"
     ],
     "qs:a0":"Moldova",
@@ -96,7 +100,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":25,
     "wof:belongsto":[
         102191581,
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":618401,
         "gp:id":480474,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2442708",
         "wk:page":"D\u0103nceni"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":101863727,
-    "wof:lastmodified":1563375071,
+    "wof:lastmodified":1566603095,
     "wof:name":"D\u0103nceni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

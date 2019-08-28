@@ -10,12 +10,16 @@
     "geom:latitude":45.781091,
     "geom:longitude":28.566269,
     "iso:country":"MD",
+    "lbl:bbox":"28.546269,45.761091,28.586269,45.801091",
     "lbl:latitude":45.781091,
     "lbl:longitude":28.566269,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":45.781091,
     "mps:longitude":28.566269,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
     ],
@@ -46,11 +50,8 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u043e\u0432\u043a\u0430"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Ciumai"
-    ],
-    "name:unk_x_variant":[
-        "Chumay"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Taraclia",
@@ -69,7 +70,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":42,
     "wof:belongsto":[
         102191581,
@@ -81,7 +82,7 @@
         "fct:id":"01a49f72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618409,
         "gp:id":480338,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2452128"
     },
     "wof:country":"MD",
@@ -98,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374797,
+    "wof:lastmodified":1566603036,
     "wof:name":"Ciumai",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

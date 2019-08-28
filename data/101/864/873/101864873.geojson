@@ -10,12 +10,16 @@
     "geom:latitude":46.78101,
     "geom:longitude":29.68276,
     "iso:country":"MD",
+    "lbl:bbox":"29.66276,46.76101,29.70276,46.80101",
     "lbl:latitude":46.78101,
     "lbl:longitude":29.68276,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.78101,
     "mps:longitude":29.68276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Caraga\u0219"
     ],
@@ -76,7 +80,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0440\u043e\u0442\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karagash"
     ],
     "qs:a0":"Moldova",
@@ -97,7 +101,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":56,
     "wof:belongsto":[
         102191581,
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":101864873,
-    "wof:lastmodified":1563374955,
+    "wof:lastmodified":1566603071,
     "wof:name":"Caraga\u015f",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

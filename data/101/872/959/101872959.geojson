@@ -10,12 +10,16 @@
     "geom:latitude":47.932499,
     "geom:longitude":28.826856,
     "iso:country":"MD",
+    "lbl:bbox":"28.806856,47.912499,28.846856,47.952499",
     "lbl:latitude":47.932499,
     "lbl:longitude":28.826856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.932499,
     "mps:longitude":28.826856,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Vadul-Rashkov"
     ],
@@ -51,12 +55,6 @@
     "name:und_x_colloquial":[
         "Vadul-Rascov"
     ],
-    "name:und_x_preferred":[
-        "Vadul-Ra\u015fcov"
-    ],
-    "name:unk_x_variant":[
-        "Vadu-Rashku"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Sold\u0103ne\u015fti",
     "qs:a1_alt":"Soldanesti",
@@ -74,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191581,
@@ -86,7 +84,7 @@
         "fct:id":"01a56f74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617163,
         "gp:id":481540,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q1990699",
         "wk:page":"Vadul-Ra\u0219cov"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374758,
+    "wof:lastmodified":1566603028,
     "wof:name":"Vadul-Ra\u015fcov",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":46.577816,
     "geom:longitude":28.918924,
     "iso:country":"MD",
+    "lbl:bbox":"28.898924,46.557816,28.938924,46.597816",
     "lbl:latitude":46.577816,
     "lbl:longitude":28.918924,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.577816,
     "mps:longitude":28.918924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Selemet"
     ],
@@ -73,9 +77,6 @@
     "name:ukr_x_variant":[
         "\u0424\u043b\u043e\u0440\u0435\u043d\u044c"
     ],
-    "name:und_x_preferred":[
-        "Selemet"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Cimi\u015flia",
     "qs:a1_alt":"Cimislia",
@@ -93,7 +94,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":57,
     "wof:belongsto":[
         102191581,
@@ -105,7 +106,7 @@
         "fct:id":"01a5438c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617448,
         "gp:id":481275,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2439154",
         "wk:page":"Selemet"
     },
@@ -123,7 +124,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375038,
+    "wof:lastmodified":1566603088,
     "wof:name":"Selemet",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

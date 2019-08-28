@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":46.654191,
     "lbl:longitude":29.318244,
+    "lbl:min_zoom":8.0,
     "mps:latitude":46.654191,
     "mps:longitude":29.318244,
     "mz:hierarchy_label":1,
@@ -180,7 +181,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0443\u0448\u0435\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaushanskiy Rayon"
     ],
     "name:urd_x_preferred":[
@@ -262,9 +263,9 @@
     "qs:type":"Raion (Municipiu)",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-10-05",
+    "src:population_date":"2004-10-05",
     "statoids:area_km":"",
     "statoids:area_mi":"",
     "statoids:as_of_date":"2004-10-05",
@@ -308,11 +309,10 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1565727311,
+    "wof:lastmodified":1566602987,
     "wof:name":"C\u0103u\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":90616,
     "wof:population_rank":8,

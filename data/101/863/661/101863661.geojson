@@ -10,12 +10,16 @@
     "geom:latitude":46.680156,
     "geom:longitude":29.046294,
     "iso:country":"MD",
+    "lbl:bbox":"29.026294,46.660156,29.066294,46.700156",
     "lbl:latitude":46.680156,
     "lbl:longitude":29.046294,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.680156,
     "mps:longitude":29.046294,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u043d\u0430\u0440\u0438"
     ],
@@ -65,10 +69,8 @@
         "Kaynar",
         "Kaynar\u2019"
     ],
-    "name:und_x_preferred":[
-        "Kaynary"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Kaynary",
         "Keinari"
     ],
     "qs:a0":"Moldova",
@@ -88,7 +90,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":46.678889,
     "wd:longitude":29.046111,
     "wd:wordcount":53,
@@ -102,7 +104,7 @@
         "fct:id":"01a4f17a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618455,
         "gp:id":480785,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2377759",
         "wk:page":"C\u0103inari"
     },
@@ -120,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375024,
+    "wof:lastmodified":1566603085,
     "wof:name":"C\u0103inari",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

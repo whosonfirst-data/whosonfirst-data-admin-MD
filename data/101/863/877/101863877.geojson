@@ -10,12 +10,16 @@
     "geom:latitude":47.229019,
     "geom:longitude":28.940843,
     "iso:country":"MD",
+    "lbl:bbox":"28.920843,47.209019,28.960843,47.249019",
     "lbl:latitude":47.229019,
     "lbl:longitude":28.940843,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.229019,
     "mps:longitude":28.940843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Girtop"
     ],
@@ -50,14 +54,9 @@
         "Hartopul Mare",
         "Hirtopul Mare"
     ],
-    "name:und_x_preferred":[
-        "H\u00eertopul Mare"
-    ],
     "name:und_x_variant":[
         "H\u00e2rtop",
-        "H\u00e2rtopul Mare"
-    ],
-    "name:unk_x_variant":[
+        "H\u00e2rtopul Mare",
         "Bol\u2019shoy Girtop"
     ],
     "qs:a0":"Moldova",
@@ -77,7 +76,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -89,7 +88,7 @@
         "fct:id":"01a4e162-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618201,
         "gp:id":480690,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1983565",
         "wk:page":"H\u00eertopul Mare"
     },
@@ -107,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375046,
+    "wof:lastmodified":1566603090,
     "wof:name":"H\u00eertopul Mare",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

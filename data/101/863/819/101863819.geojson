@@ -10,12 +10,16 @@
     "geom:latitude":46.902435,
     "geom:longitude":29.138945,
     "iso:country":"MD",
+    "lbl:bbox":"29.118945,46.882435,29.158945,46.922435",
     "lbl:latitude":46.902435,
     "lbl:longitude":29.138945,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":46.902435,
     "mps:longitude":29.138945,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tsyntsaren'"
     ],
@@ -52,16 +56,10 @@
         "Tentareni",
         "Tintareni"
     ],
-    "name:und_x_preferred":[
-        "\u0162\u00een\u0163\u0103reni"
-    ],
     "name:und_x_variant":[
         "Tant\u00e6rem",
         "\u0162en\u0163areni",
         "\u0162\u00e2n\u0163\u0103reni"
-    ],
-    "name:unk_x_variant":[
-        "Tseptsereni"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*Anenii Noi",
@@ -81,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         102191581,
@@ -110,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375014,
+    "wof:lastmodified":1566603083,
     "wof:name":"\u0162\u00een\u0163\u0103reni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

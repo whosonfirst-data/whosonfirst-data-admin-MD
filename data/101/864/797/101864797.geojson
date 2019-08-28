@@ -11,12 +11,16 @@
     "geom:longitude":28.886141,
     "gn:population":6870,
     "iso:country":"MD",
+    "lbl:bbox":"28.866141,47.113141,28.906141,47.153141",
     "lbl:latitude":47.133141,
     "lbl:longitude":28.886141,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":47.133141,
     "mps:longitude":28.886141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ciorescu"
     ],
@@ -71,10 +75,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u0435\u0441\u043a\u0443"
     ],
-    "name:und_x_preferred":[
-        "Ciorescu"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krikova-Noue"
     ],
     "qs:a0":"Moldova",
@@ -94,7 +95,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -107,7 +108,7 @@
         "fct:id":"01a49b76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":824153,
         "gp:id":480318,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q428572",
         "wk:page":"Ciorescu"
     },
@@ -125,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374943,
+    "wof:lastmodified":1566603069,
     "wof:name":"Ciorescu",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

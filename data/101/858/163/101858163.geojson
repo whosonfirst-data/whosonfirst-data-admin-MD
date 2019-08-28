@@ -10,12 +10,16 @@
     "geom:latitude":47.719269,
     "geom:longitude":27.482345,
     "iso:country":"MD",
+    "lbl:bbox":"27.462345,47.699269,27.502345,47.739269",
     "lbl:latitude":47.719269,
     "lbl:longitude":27.482345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.719269,
     "mps:longitude":27.482345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Du\u0219mani"
     ],
@@ -89,12 +93,6 @@
     "name:und_x_colloquial":[
         "Dusmani"
     ],
-    "name:und_x_preferred":[
-        "Du\u015fmani"
-    ],
-    "name:unk_x_variant":[
-        "Voroshilovka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Glodeni",
     "qs:a1_alt":"Glodeni",
@@ -112,7 +110,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":19,
     "wof:belongsto":[
         102191581,
@@ -124,7 +122,7 @@
         "fct:id":"01a4c39e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617652,
         "gp:id":480529,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2442409",
         "wk:page":"Du\u0219mani"
     },
@@ -142,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563374866,
+    "wof:lastmodified":1566603052,
     "wof:name":"Du\u015fmani",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

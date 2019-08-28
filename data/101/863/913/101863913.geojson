@@ -11,12 +11,16 @@
     "geom:longitude":29.111342,
     "gn:population":4151,
     "iso:country":"MD",
+    "lbl:bbox":"29.091342,47.286263,29.131342,47.326263",
     "lbl:latitude":47.306263,
     "lbl:longitude":29.111342,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":47.306263,
     "mps:longitude":29.111342,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cocieri"
     ],
@@ -80,12 +84,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0447\u0456\u0454\u0440\u0438"
     ],
-    "name:und_x_preferred":[
-        "Cocieri"
-    ],
-    "name:unk_x_variant":[
-        "Kuchiyery"
-    ],
     "name:zho_x_preferred":[
         "\u79d1\u5207\u91cc"
     ],
@@ -106,7 +104,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":47.3,
     "wd:longitude":29.116666,
@@ -122,7 +120,7 @@
         "fct:id":"01a4a2a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":618057,
         "gp:id":480353,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2261598",
         "wk:page":"Cocieri"
     },
@@ -148,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375033,
+    "wof:lastmodified":1566603087,
     "wof:name":"Cocieri",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

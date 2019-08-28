@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
+    "lbl:bbox":"28.04163,48.22408,28.08163,48.26408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Valea"
     ],
@@ -50,8 +54,7 @@
         "\u0412\u0430\u043b\u044f"
     ],
     "name:und_x_variant":[
-        "Valya",
-        "Valea"
+        "Valya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226580487,
-    "wof:lastmodified":1564167521,
+    "wof:lastmodified":1566603114,
     "wof:name":"Valea",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

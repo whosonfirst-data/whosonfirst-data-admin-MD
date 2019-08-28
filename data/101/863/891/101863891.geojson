@@ -10,12 +10,16 @@
     "geom:latitude":47.165672,
     "geom:longitude":29.11966,
     "iso:country":"MD",
+    "lbl:bbox":"29.09966,47.145672,29.13966,47.185672",
     "lbl:latitude":47.165672,
     "lbl:longitude":29.11966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":47.165672,
     "mps:longitude":29.11966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Slobozia-Du\u0219ca"
     ],
@@ -87,12 +91,6 @@
     "name:und_x_colloquial":[
         "Slobozia-Dusca"
     ],
-    "name:und_x_preferred":[
-        "Slobozia-Du\u015fca"
-    ],
-    "name:unk_x_variant":[
-        "Dushka"
-    ],
     "qs:a0":"Moldova",
     "qs:a1":"*Criuleni",
     "qs:a1_alt":"Criuleni",
@@ -110,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":31,
     "wof:belongsto":[
         102191581,
@@ -122,7 +120,7 @@
         "fct:id":"01a54bfc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":617386,
         "gp:id":481325,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2534322",
         "wk:page":"Slobozia-Du\u0219ca"
     },
@@ -140,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563375056,
+    "wof:lastmodified":1566603092,
     "wof:name":"Slobozia-Du\u015fca",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

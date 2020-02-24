@@ -129,6 +129,9 @@
         "wk:page":"Coste\u0219ti, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c851498983407f114fe4a14a9edc6262",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Coste\u015fti",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

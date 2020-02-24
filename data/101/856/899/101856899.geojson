@@ -120,6 +120,9 @@
         "wk:page":"Chiriet-Lunga"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e95582f9867efe579036c2cec1515515",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Chiriet-Lunga",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

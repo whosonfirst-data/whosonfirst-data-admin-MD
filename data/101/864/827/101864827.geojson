@@ -113,6 +113,9 @@
         "wd:id":"Q4340564"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60e534dc943ed1d69db368ba1d5e6364",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Ohrincea",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

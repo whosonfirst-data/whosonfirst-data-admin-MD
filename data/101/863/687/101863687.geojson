@@ -84,6 +84,9 @@
         "wk:page":"Zaim, C\u0103u\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97f57379a43e63410b01abf7f801ae95",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Zaim",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

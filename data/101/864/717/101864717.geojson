@@ -80,6 +80,9 @@
         "wk:page":"Tigheci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a251ece1aef95350c138be8d7c67583",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Tigheci",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

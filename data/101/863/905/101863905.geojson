@@ -118,6 +118,9 @@
         "wk:page":"Bravicea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"958975c6b63c635352181c4068d35bd8",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Bravicea",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

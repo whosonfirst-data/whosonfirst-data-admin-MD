@@ -111,6 +111,9 @@
         "wk:page":"Tartaul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10b072f3c78df669c1a64be9ffdf6b27",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"Tartaul",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

@@ -135,6 +135,9 @@
         "wk:page":"Rezina"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b65f95fe92cda6f94279a81cfb93a63a",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603063,
+    "wof:lastmodified":1582343169,
     "wof:name":"Rezina",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

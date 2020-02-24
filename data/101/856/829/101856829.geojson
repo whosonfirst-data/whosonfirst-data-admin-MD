@@ -119,6 +119,9 @@
         "wk:page":"Cairaclia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8d61f7caeeecd90a22607fb56884dc7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343161,
     "wof:name":"Cairaclia",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

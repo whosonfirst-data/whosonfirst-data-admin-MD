@@ -85,6 +85,9 @@
         "wd:id":"Q1291732"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61d471b78f74b08ffb12c3e2dbaa0e5c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343175,
     "wof:name":"H\u00eertop",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

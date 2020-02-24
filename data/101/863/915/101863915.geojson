@@ -119,6 +119,9 @@
         "wk:page":"Holercani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"877a223710b003ec7d7659aa7e53b65c",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343177,
     "wof:name":"Holercani",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

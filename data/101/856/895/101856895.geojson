@@ -119,6 +119,9 @@
         "wk:page":"Cazaclia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4697f2c4a674adda57e2579744f03056",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Cazaclia",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

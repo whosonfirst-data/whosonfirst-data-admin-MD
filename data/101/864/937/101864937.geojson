@@ -121,6 +121,9 @@
         "wk:page":"Ign\u0103\u021bei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f2b7e0d896bf8741122a1eb5c91e884",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Ign\u0103\u0163ei",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

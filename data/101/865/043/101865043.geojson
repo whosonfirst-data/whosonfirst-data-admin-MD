@@ -114,6 +114,9 @@
         "wk:page":"H\u00eerj\u0103u"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f92f15cd67e6e269ba518fc06938c0c2",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865043,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"H\u00eerj\u0103u",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -123,6 +123,9 @@
         "wk:page":"Stoianovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e9900df5e424a441359781666bd6a49",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343171,
     "wof:name":"Stoianovca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

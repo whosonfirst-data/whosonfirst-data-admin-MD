@@ -125,6 +125,9 @@
         "wk:page":"Domulgeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df1025257f433451390fc553cacf8780",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Domulgeni",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

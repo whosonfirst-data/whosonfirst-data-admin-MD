@@ -79,6 +79,9 @@
         "wk:page":"Schineni, Soroca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21585c81886055927e2bb32c7a8b0b25",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Schineni",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

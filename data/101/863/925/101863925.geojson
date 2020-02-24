@@ -118,6 +118,9 @@
         "wk:page":"Ustia, Dub\u0103sari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4cd1aea91953fc75ebabf71189d74e21",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Ustia",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

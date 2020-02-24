@@ -116,6 +116,9 @@
         "wk:page":"R\u0103dulenii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35e9cd1559dca01c954efd2c67eef5df",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101860201,
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"R\u0103dulenii Vechi",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

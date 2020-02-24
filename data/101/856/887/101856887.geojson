@@ -114,6 +114,9 @@
         "wk:page":"Avdarma"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6630e76fd13775ad44be3ba55bfea711",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Avdarma",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

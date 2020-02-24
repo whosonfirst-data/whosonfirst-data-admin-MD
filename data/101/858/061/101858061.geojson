@@ -127,6 +127,9 @@
         "wk:page":"Ni\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64183aec9a5fc111639b22ae0e60503f",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Ni\u015fcani",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

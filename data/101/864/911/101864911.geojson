@@ -118,6 +118,9 @@
         "wk:page":"Zahoreni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c420cd9611a0fa8b38278a836c8f4ff1",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Zahoreni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

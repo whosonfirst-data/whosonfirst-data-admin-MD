@@ -115,6 +115,9 @@
         "wk:page":"Tocuz"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5869475999dc45b55bed7efac626468a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343178,
     "wof:name":"Tocuz",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

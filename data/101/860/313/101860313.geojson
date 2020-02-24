@@ -124,6 +124,9 @@
         "wk:page":"Hlina"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3cf4778b8b4c58336d1405df3fabce43",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Hlina",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

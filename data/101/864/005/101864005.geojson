@@ -128,6 +128,9 @@
         "wk:page":"Ine\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef10a29ab15165d152ab853f5d9995a5",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Ine\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

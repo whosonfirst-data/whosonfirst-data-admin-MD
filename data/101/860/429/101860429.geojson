@@ -82,6 +82,9 @@
         "wk:page":"Lenc\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d33a8e21c760ce5aa4d3fd82f19a3e4",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Lenc\u0103u\u0163i",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

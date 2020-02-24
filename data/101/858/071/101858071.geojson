@@ -93,6 +93,9 @@
         "wk:page":"Sipoteni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d527b99c2254dda74fe73f57c8013296",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Sipoteni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

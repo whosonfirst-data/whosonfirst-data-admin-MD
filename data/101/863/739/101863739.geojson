@@ -98,6 +98,10 @@
         "wk:page":"Mile\u0219tii Mici"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c764bb8b83101ff03ccea08b2157b519",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Mile\u015ftii Mici",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

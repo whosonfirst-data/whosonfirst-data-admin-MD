@@ -121,6 +121,9 @@
         "wd:id":"Q4493173"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2fd5023eadeb2a1d29956f66ee3564c6",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Fr\u0103sine\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

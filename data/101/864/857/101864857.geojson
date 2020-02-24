@@ -71,6 +71,9 @@
         "wd:id":"Q8082536"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"082c598d954bd923feb4c60061562c8f",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101864857,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"\u015eipca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Ustia, Glodeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4395a3da52e015bfb7cb0db1b68fdb95",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"Ustia",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

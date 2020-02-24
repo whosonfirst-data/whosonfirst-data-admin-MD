@@ -91,6 +91,9 @@
         "wk:page":"Cepeleu\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b73d5aca897093994a823b7e775df6f",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Cepeleu\u0163i",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

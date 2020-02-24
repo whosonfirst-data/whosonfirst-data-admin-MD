@@ -121,6 +121,9 @@
         "wk:page":"Tele\u0219eu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c3842e235fb64f52653a9639725a3a0",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343178,
     "wof:name":"Tele\u015feu",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

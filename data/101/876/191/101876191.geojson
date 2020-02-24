@@ -121,6 +121,9 @@
         "wk:page":"Pervomaisc, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"040da198ed721c765b2189f7c7ce9b1c",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":101876191,
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1582343169,
     "wof:name":"Pervomaisc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

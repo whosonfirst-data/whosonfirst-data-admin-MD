@@ -113,6 +113,9 @@
         "wk:page":"Dub\u0103sarii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3fbea9736434f8e9ab0dc014d021d712",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863831,
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343178,
     "wof:name":"Dub\u0103sarii Vechi",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

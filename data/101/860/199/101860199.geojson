@@ -92,6 +92,9 @@
         "wd:id":"Q773611"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9456cfc86ea4d809c81ba85787cf342",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Iliciovca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

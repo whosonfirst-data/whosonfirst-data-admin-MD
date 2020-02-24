@@ -120,6 +120,9 @@
         "wk:page":"Cupcini"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff07050bef76722847524903f9dd991f",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Cupcini",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

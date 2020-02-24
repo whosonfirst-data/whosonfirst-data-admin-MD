@@ -220,6 +220,9 @@
         "wk:page":"R\u00eebni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e805676e7bd3de4f50e1099c1eee268c",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":101751801,
-    "wof:lastmodified":1566603058,
+    "wof:lastmodified":1582343169,
     "wof:name":"R\u00eebni\u0163a",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

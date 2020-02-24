@@ -107,6 +107,9 @@
         "wk:page":"B\u0103cioi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ea73204a1362c2da78bb086cfbd012c",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101863769,
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"B\u0103cioi",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

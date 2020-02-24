@@ -127,6 +127,9 @@
         "wk:page":"Corten, Taraclia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4237f3943851eb482a9ec3d3cead2bb",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Corten",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

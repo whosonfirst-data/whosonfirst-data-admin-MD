@@ -99,6 +99,10 @@
         "wk:page":"Bilicenii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2dcbc2710e28c178144b340eaabcef00",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Bilicenii Vechi",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

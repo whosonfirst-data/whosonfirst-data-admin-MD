@@ -91,6 +91,9 @@
         "wk:page":"Burlacu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c5836931de441c75c2cc3eace8db156",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343161,
     "wof:name":"Burlacu",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

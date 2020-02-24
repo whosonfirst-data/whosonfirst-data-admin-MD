@@ -66,6 +66,9 @@
         "wd:id":"Q7898966"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07c0f65975e075fcc41c9dfa83825eec",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Ialpugeni",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

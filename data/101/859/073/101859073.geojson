@@ -82,6 +82,9 @@
         "wk:page":"Zagarancea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21134157d2d8780eef4e1a2382f64dec",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Zagarancea",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

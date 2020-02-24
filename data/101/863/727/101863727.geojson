@@ -116,6 +116,9 @@
         "wk:page":"D\u0103nceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b8222df58bdb5de381ac9dfddbc52b2",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101863727,
-    "wof:lastmodified":1566603095,
+    "wof:lastmodified":1582343180,
     "wof:name":"D\u0103nceni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

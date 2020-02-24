@@ -81,6 +81,9 @@
         "wk:page":"Manta, Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e76833b4c7e9a6c4164c2766f015b24e",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343171,
     "wof:name":"Manta",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

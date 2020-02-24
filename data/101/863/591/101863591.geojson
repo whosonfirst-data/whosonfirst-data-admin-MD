@@ -88,6 +88,9 @@
         "wk:page":"Lipoveni, Cimi\u0219lia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8637562dcd622196af5822337be43073",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Lipoveni",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

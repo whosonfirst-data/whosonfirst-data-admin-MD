@@ -122,6 +122,9 @@
         "wk:page":"Troi\u021bcoe"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"efa76a078727b8f54bf89c06cdcef184",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Troi\u0163coe",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

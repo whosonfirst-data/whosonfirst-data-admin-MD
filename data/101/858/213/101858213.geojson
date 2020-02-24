@@ -80,6 +80,9 @@
         "wk:page":"Grigor\u0103uca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b309b21adf4609abe684289afd0ee64",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101858213,
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Grigor\u0103uca",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

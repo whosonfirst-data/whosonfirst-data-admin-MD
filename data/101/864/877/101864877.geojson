@@ -97,6 +97,9 @@
         "wd:id":"Q2377728"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5c611589a19742e15841a47b998d30a",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101864877,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Frunz\u0103",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

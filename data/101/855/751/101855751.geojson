@@ -89,6 +89,9 @@
         "wk:page":"Ciobalaccia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02c986c9631a28b693340bbae58a32ca",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Ciobalaccia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

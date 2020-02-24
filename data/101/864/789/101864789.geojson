@@ -114,6 +114,10 @@
         "wk:page":"Codru, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"49b9b7792d0ce5866bc7288948538669",
     "wof:hierarchy":[
         {
@@ -127,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Codru",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

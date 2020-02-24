@@ -127,6 +127,9 @@
         "wk:page":"C\u0103lim\u0103ne\u0219ti, Nisporeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5be84f77a822810a821f6586dfe5c498",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"C\u0103lim\u0103ne\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

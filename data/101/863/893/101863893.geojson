@@ -113,6 +113,9 @@
         "wk:page":"Z\u0103icana"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a50b82812b4fe0a840eeea78a7aedb6b",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863893,
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Z\u0103icana",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

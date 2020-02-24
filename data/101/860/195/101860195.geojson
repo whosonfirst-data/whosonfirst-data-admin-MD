@@ -116,6 +116,9 @@
         "wk:page":"Z\u0103icani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b918fc9f22c6d2dd267ab5690230d53e",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101860195,
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Z\u0103icani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

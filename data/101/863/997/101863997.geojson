@@ -128,6 +128,9 @@
         "wk:page":"\u021a\u00een\u021b\u0103reni, Telene\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5721ca99605418a53daf026ab55e0291",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"\u0162\u00een\u0163\u0103reni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

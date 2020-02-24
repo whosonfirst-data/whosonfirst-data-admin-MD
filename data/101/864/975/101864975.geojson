@@ -84,6 +84,9 @@
         "wk:page":"Alcedar"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71da61d6e17005ba2e29a57d2bd8d445",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Alcedar",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

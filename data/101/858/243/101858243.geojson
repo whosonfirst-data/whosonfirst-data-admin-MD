@@ -130,6 +130,9 @@
         "wk:page":"Petru\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7a6489fe99639d6d1ff28fdb69e888f",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Petru\u015feni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

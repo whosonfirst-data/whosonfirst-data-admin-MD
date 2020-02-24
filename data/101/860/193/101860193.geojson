@@ -126,6 +126,9 @@
         "wk:page":"Borosenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f6261a668d62356b9c8f46322b34ea2",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"Borosenii Noi",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

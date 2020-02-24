@@ -110,6 +110,9 @@
         "wk:page":"G\u0103uzeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0e349a0805ddb32c51cccf922743a5d",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101864951,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"G\u0103uzeni",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

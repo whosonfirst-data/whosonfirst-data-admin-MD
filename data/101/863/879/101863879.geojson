@@ -112,6 +112,9 @@
         "wd:id":"Q2439139"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"702bed01043d528a7d9dc80b4127f7c5",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101863879,
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Izbi\u015fte",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

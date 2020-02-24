@@ -124,6 +124,9 @@
         "wk:page":"Ro\u0219cani, Anenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3237386aa801ff5dba5095b3a79bb489",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343178,
     "wof:name":"Ro\u015fcani",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

@@ -674,6 +674,9 @@
         "wk:page":"Chi\u0219in\u0103u"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6b7c87a90f4a95dccb17b6e348abdae",
     "wof:hierarchy":[
         {
@@ -684,7 +687,7 @@
         }
     ],
     "wof:id":101751793,
-    "wof:lastmodified":1566603058,
+    "wof:lastmodified":1582343169,
     "wof:megacity":0,
     "wof:name":"Chisinau",
     "wof:parent_id":85686391,

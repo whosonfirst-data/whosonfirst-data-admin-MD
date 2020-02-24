@@ -126,6 +126,9 @@
         "wk:page":"Gribova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4cb82790f65afec9af9926b76fce5f87",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"Gribova",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

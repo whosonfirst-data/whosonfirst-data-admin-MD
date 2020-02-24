@@ -122,6 +122,9 @@
         "wk:page":"P\u00eerli\u021ba, F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b89be5cf5640a09dc2e879fbbb2488d3",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1582343169,
     "wof:name":"P\u00eerli\u0163a",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

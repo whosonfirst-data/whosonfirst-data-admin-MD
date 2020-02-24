@@ -89,6 +89,9 @@
         "wk:page":"Condr\u0103te\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2557b6e31837043aacbe5f2c5662b1db",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Condr\u0103te\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

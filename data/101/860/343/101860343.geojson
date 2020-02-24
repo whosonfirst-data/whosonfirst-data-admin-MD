@@ -87,6 +87,9 @@
         "wk:page":"Colic\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07e7b85d48377c28650f4689edef01a7",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343165,
     "wof:name":"Colic\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wd:id":"Q615562"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c00ccc8d4abbde3fefbd7f18a6884e8",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101864767,
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"C\u0103rbuna",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Hore\u0219ti, Ialoveni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d5ac9d976a0dc7cc9d2cccbd766ceb0",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Hore\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

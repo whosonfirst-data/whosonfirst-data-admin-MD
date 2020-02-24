@@ -117,6 +117,9 @@
         "wk:page":"Baraboi, Dondu\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62db91469e21a5bedd6c151478399e11",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"Baraboi",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

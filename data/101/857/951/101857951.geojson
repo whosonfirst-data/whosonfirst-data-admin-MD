@@ -126,6 +126,9 @@
         "wk:page":"S\u00eerma"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ca5fc45e944cbdc1ee8689bd9b9463d3",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"S\u00eerma",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wd:id":"Q1991202"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eac743e36b3bc3621317b2f3e42e10b3",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Hligeni",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

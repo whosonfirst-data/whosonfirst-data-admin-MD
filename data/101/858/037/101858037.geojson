@@ -262,6 +262,9 @@
         "wd:id":"Q421350"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3946f0a444e0e5f29b6a68b84cc3fc16",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":101858037,
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Petre\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

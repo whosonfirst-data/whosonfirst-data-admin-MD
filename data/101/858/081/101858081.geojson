@@ -80,6 +80,9 @@
         "wk:page":"C\u0103lug\u0103r"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bca3725e6e296c130ed5775fca4cd978",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101858081,
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"C\u0103lug\u0103r",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

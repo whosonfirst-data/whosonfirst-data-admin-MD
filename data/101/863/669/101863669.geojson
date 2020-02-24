@@ -123,6 +123,9 @@
         "wk:page":"Ciufle\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1cca80cd6749e446d3893961851fadd6",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Ciufle\u015fti",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

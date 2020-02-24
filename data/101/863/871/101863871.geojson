@@ -77,6 +77,9 @@
         "wk:page":"Dr\u0103sliceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb19a9f9e79f227fa69d673e10e5285e",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101863871,
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Dr\u0103sliceni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

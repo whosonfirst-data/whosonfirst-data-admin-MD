@@ -122,6 +122,9 @@
         "wk:page":"Cli\u0219ova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a605429f2f95438d3572e496ca66334",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Cli\u015fova",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"Cead\u00eer"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97ac4473097babca67c7f55be39907ec",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Cead\u00eer",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

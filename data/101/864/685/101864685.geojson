@@ -123,6 +123,9 @@
         "wk:page":"Capaclia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f3168b26ae4e175f1b3fa5716c81d9a",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Capaclia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

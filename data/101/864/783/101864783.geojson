@@ -112,6 +112,9 @@
         "wk:page":"Tohatin"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"da31278c4d66fcd8443133e9994567be",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Tohatin",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

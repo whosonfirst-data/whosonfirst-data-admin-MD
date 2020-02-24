@@ -114,6 +114,9 @@
         "wk:page":"Petrunea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3ca4050d3a0909345a0b1304950ac9a",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Petrunea",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

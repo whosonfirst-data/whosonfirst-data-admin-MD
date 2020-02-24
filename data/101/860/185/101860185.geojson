@@ -119,6 +119,9 @@
         "wk:page":"Mih\u0103ileni, R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df70c0fd956d371416b3155a339243b6",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101860185,
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"Mih\u0103ileni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

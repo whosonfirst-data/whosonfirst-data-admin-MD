@@ -87,6 +87,9 @@
         "wd:id":"Q1975110"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c4d183286e49d9aa682625492752b34",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"Rujni\u0163a",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

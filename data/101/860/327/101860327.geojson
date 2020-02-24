@@ -119,6 +119,9 @@
         "wk:page":"Bulboaca, Briceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e793d56cc527e3c5abf2c5c656c864e7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Bulboaca",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

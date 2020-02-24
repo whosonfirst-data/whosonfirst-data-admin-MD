@@ -118,6 +118,9 @@
         "wk:page":"Nicoreni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65571d1f66d33990bf1b5bfde84ce4a3",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Nicoreni",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

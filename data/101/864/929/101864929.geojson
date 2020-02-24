@@ -89,6 +89,9 @@
         "wk:page":"S\u00eercova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"83f64c3aaceeda680bf8f6253f044e65",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"S\u00eercova",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

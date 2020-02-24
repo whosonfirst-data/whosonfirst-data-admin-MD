@@ -128,6 +128,9 @@
         "wk:page":"\u0218erpeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7df55cc889babecac806483104edd02b",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"\u015eerpeni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

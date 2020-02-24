@@ -91,6 +91,9 @@
         "wk:page":"Hinc\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d86c890f24084a2b3d72c69b3d14fb13",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Hinc\u0103u\u0163i",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Sc\u0103ieni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"884579643b08229e7a79aae002bd09e5",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101860413,
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"Sc\u0103ieni",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"Malinovscoe"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b04dba9b31bdd0db0e7f21ed303d7c44",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101858253,
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Malinovscoe",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

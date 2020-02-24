@@ -133,6 +133,9 @@
         "wd:id":"Q2638965"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53bdccbc0de1f137f49cc20209d5bf90",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Gaidar",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Elizaveta"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98b43279d9e911b99e774665126e08bb",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Elizaveta",
     "wof:parent_id":85686449,
     "wof:placetype":"locality",

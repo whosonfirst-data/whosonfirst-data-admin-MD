@@ -122,6 +122,9 @@
         "wk:page":"Dominteni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a13aa842d8ce4e51e1351dfc89a3adcd",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343164,
     "wof:name":"Dominteni",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -109,6 +109,9 @@
         "wd:id":"Q2445189"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eee2a567939fb845da37b6556ba32501",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101858005,
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Zberoaia",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

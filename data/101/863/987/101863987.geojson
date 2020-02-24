@@ -86,6 +86,9 @@
         "wk:page":"B\u0103ne\u0219ti, Telene\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ac9c641387cc8d22c5f31c59529a674a",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"B\u0103ne\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

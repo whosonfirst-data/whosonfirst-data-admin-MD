@@ -87,6 +87,9 @@
         "wk:page":"Br\u0103tuleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aaafa080a8ad891dce8779105dbd9962",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"Br\u0103tuleni",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

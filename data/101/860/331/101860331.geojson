@@ -121,6 +121,9 @@
         "wk:page":"Slobozia-\u0218ir\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"510d061937278262ae8c183cb810d286",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Slobozia-\u015eir\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

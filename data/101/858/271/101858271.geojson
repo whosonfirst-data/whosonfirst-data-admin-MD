@@ -125,6 +125,9 @@
         "wk:page":"Putine\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"709481a26d704f54ebeff7a14bce8dcd",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Putine\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

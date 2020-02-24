@@ -69,6 +69,9 @@
         "wd:id":"Q1240541"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0960fab7acfa228dad5548e18761095b",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101863613,
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Cioburciu",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

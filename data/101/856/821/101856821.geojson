@@ -86,6 +86,9 @@
         "wk:page":"Albota de Sus"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2646a41b16fb9968b342135178977430",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Albota de Sus",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

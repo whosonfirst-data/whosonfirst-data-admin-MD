@@ -114,6 +114,9 @@
         "wk:page":"Terebna"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f76016edabee676f12556325fbf02eaa",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343162,
     "wof:name":"Terebna",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

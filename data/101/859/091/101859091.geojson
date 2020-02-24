@@ -86,6 +86,9 @@
         "wk:page":"Cotiujenii Mici"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52ccfa6a6358542e26bc94c9be6c75a0",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"Cotiujenii Mici",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

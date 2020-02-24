@@ -122,6 +122,9 @@
         "wk:page":"Te\u021bcani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"693c35846dff1d1125712519f8b3aead",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Te\u0163cani",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

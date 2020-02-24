@@ -84,6 +84,9 @@
         "wd:id":"Q597120"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a286095f06a8bb5434e2b0aea560378",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Antone\u015fti",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wk:page":"Scumpia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"adbc2b2173dd590fe9f57ad6ccf75d1e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Scumpia",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

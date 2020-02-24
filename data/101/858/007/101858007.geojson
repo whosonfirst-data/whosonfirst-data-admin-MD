@@ -116,6 +116,9 @@
         "wk:page":"V\u00een\u0103tori, Nisporeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"523fa73958823da9a00fb77146133f73",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858007,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343166,
     "wof:name":"V\u00een\u0103tori",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

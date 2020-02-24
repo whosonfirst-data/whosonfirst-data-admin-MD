@@ -114,6 +114,9 @@
         "wk:page":"Borogani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2927b92f3012f1637671407a1a5ac77d",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Borogani",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"Bolohan"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"967493c3776a576955eaf86eda834bbc",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863977,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"Bolohan",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

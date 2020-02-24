@@ -121,6 +121,9 @@
         "wk:page":"Chetrosu, Drochia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df7338e82b6e4ee54f46d120abb9ee09",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"Chetrosu",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Cociulia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae6694fc66d916403321e69812b8c408",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Cociulia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

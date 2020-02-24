@@ -127,6 +127,9 @@
         "wk:page":"Peci\u0219te"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36fe92fbda01185a38ad352ee27d6fbe",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Peci\u015fte",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

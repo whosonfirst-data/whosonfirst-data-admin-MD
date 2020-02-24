@@ -119,6 +119,9 @@
         "wk:page":"C\u0103priana"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"541237e22640277841551727b1f6df1c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101863849,
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"C\u0103priana",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

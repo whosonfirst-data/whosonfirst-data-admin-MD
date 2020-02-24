@@ -106,6 +106,9 @@
         "wd:id":"Q298823"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9e4485e8e77ec3c93a3f75c703aba94",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1582343169,
     "wof:name":"Vii\u015foara",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

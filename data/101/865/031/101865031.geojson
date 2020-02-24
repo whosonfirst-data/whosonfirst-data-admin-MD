@@ -117,6 +117,9 @@
         "wk:page":"Harma\u021bca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46b26942ec795d94ceb0be4b0d1debfc",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101865031,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Harma\u0163ca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

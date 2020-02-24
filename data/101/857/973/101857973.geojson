@@ -186,6 +186,9 @@
         "wd:id":"Q543436"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04d730c9fc1d07a5079e65211862f362",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"One\u015fti",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Hagimus"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c91dbb2ad7e74e2b6ff36effd77739be",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Hagimus",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wk:page":"Holo\u0219ni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3dc4373b2589db7d17753d4e662f669e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Holo\u015fni\u0163a",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

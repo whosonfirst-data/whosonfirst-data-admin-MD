@@ -115,6 +115,9 @@
         "wk:page":"Copanca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"730079c09c4eed1d709c1249604514e2",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Copanca",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

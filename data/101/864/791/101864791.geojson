@@ -120,6 +120,10 @@
         "wd:id":"Q2708692"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5db8e3451bdca2b3f7d682b886767d2",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Durle\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
         "wk:page":"Rubleni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4dfd235f2217d5ae387e7bd4d8737882",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"Rubleni\u0163a",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

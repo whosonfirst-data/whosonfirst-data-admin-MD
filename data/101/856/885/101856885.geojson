@@ -168,6 +168,9 @@
         "wk:page":"Cead\u00eer-Lunga"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"16f8827f31f539f9afa4bdff665fca96",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Cead\u00eer-Lunga",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

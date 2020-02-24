@@ -121,6 +121,9 @@
         "wk:page":"Tru\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afa1b53c37461fec13e07e2c005ea4df",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Tru\u015feni",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

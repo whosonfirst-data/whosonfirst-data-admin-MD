@@ -122,6 +122,9 @@
         "wk:page":"Poj\u0103reni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8d0953c91a68a05b8c66b809ec9cc56",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101863745,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Poj\u0103reni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

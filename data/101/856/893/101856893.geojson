@@ -127,6 +127,9 @@
         "wk:page":"Be\u0219ghioz"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"12e96e7c4e0a2834711bd7835eb08fbf",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Be\u015fghioz",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

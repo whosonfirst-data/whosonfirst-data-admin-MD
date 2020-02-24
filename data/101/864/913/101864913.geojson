@@ -96,6 +96,9 @@
         "wd:id":"Q2452276"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0430ed2ac7d73d35a58f6f5b78f17d20",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Br\u00eenzenii Vechi",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

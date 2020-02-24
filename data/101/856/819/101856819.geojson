@@ -123,6 +123,9 @@
         "wk:page":"Copceac, Gagauzia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"658c56cbb9834afb614755d50b8dbcf5",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Copceac",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

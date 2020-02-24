@@ -240,6 +240,9 @@
         "wd:id":"Q4163811"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3754dd643ee5c888166970b305f7092",
     "wof:hierarchy":[
         {
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":101864777,
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Dobrogea",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

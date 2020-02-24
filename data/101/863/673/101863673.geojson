@@ -135,6 +135,9 @@
         "wd:id":"Q2006121"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc9d9e49c8ae54a89771fbf6a5738e76",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Taraclia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

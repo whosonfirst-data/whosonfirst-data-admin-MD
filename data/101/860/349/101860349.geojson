@@ -87,6 +87,9 @@
         "wk:page":"Larga, Briceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5fee48d978a57346803924928fe6a1f0",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Larga",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

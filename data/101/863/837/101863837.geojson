@@ -118,6 +118,10 @@
         "wk:page":"Scoreni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d7df7c34852dc2ded931a427fbc4c70",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343179,
     "wof:name":"Scoreni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

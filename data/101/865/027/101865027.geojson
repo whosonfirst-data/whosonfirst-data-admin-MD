@@ -114,6 +114,9 @@
         "wk:page":"V\u0103r\u0103nc\u0103u, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"580da4d8305bcfff7aac679cd340d2cb",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865027,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"V\u0103r\u0103nc\u0103u",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

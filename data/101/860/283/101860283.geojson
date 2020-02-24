@@ -116,6 +116,9 @@
         "wd:id":"Q2169114"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5778207705ef844017751bd7051a4044",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Rotunda",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

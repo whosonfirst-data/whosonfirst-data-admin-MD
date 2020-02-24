@@ -83,6 +83,9 @@
         "wk:page":"Ciobanovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e52989798cd4afe9b3d21c1fc0e15e8c",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Ciobanovca",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

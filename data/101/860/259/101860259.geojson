@@ -114,6 +114,9 @@
         "wk:page":"Lopatnic"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f741e3827064402b1cc6439faad2e7b",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Lopatnic",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

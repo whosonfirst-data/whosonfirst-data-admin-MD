@@ -118,6 +118,9 @@
         "wk:page":"Filipeni, Leova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31ac697abaeaae35aa6fcfef4a94f4f6",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Filipeni",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

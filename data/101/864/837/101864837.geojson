@@ -120,6 +120,9 @@
         "wk:page":"Hlinaia, Grigoriopol, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38dc378a9cfeec1fb4108101ad0942e8",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101864837,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Hlinaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

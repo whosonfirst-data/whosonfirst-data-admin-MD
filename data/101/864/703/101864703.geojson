@@ -86,6 +86,9 @@
         "wk:page":"Be\u0219temac"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b4ead9a590c07a1d2c35c51b45a6294",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Be\u015ftemac",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

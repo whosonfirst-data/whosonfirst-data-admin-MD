@@ -126,6 +126,9 @@
         "wk:page":"P\u00eer\u00eeta"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"04c815029f14e241d3377657d0b7eb92",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"P\u00eer\u00eeta",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

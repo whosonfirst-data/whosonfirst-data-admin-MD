@@ -127,6 +127,9 @@
         "wk:page":"Badicul Moldovenesc"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ddbf9b30568b41a70e3e25f0d2661274",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343171,
     "wof:name":"Badicul Moldovenesc",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

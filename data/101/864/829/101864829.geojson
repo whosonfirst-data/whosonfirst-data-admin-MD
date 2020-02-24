@@ -125,6 +125,9 @@
         "wk:page":"Pitu\u0219ca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef7088d97a842a351a37ba3ddbe51b26",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Pitu\u015fca",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

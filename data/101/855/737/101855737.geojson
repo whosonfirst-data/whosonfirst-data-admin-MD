@@ -282,6 +282,10 @@
         "wk:page":"Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ecf489e6692d850a5f0f7a24093c7cd0",
     "wof:hierarchy":[
         {
@@ -295,7 +299,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"Cahul",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

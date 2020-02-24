@@ -120,6 +120,9 @@
         "wk:page":"Aluni\u0219, R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e9453cf21fba4183f239b72b1b3c8f6b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Aluni\u015f",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
         "wk:page":"Hiri\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"15572e8cd2eddc62c496f8e52590c902",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101858191,
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Hiri\u015feni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

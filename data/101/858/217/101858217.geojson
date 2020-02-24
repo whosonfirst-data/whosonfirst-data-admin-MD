@@ -84,6 +84,9 @@
         "wk:page":"Dobrogea Veche"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a8f6f2c0bd65a89d06b2fbe288828f00",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Dobrogea Veche",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

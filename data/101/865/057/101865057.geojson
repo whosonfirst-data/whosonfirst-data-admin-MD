@@ -114,6 +114,9 @@
         "wk:page":"Jura, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4b7a06f18d0eb702ff06eba4ce7fb73",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865057,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Jura",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

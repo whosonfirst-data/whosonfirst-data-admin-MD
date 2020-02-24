@@ -84,6 +84,9 @@
         "wk:page":"Vasileu\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c73ade61b5cf9ab73886ebd11a0e6752",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Vasileu\u0163i",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

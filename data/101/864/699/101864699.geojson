@@ -153,6 +153,9 @@
         "wk:page":"Basarabeasca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4efe88b5e2977f4354f0b67d52616f36",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Basarabeasca",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

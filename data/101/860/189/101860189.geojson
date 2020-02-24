@@ -121,6 +121,9 @@
         "wk:page":"P\u00eerjota"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df6a7ad4a7d7555780910139b309697a",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"P\u00eerjota",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

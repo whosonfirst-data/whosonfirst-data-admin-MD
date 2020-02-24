@@ -92,6 +92,9 @@
         "wk:page":"Z\u00eerne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d3acb4f5be84093894fefd710760190b",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Z\u00eerne\u015fti",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

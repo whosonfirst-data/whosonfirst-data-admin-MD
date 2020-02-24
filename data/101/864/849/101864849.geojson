@@ -114,6 +114,9 @@
         "wk:page":"Crasnogorca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbf31f99ef94043288135bf5adc689d7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101864849,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343174,
     "wof:name":"Crasnogorca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

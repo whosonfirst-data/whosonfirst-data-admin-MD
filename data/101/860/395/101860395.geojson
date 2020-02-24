@@ -127,6 +127,9 @@
         "wk:page":"Horodi\u0219te, Dondu\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a043c179c292f7ecd2e6d2b039732663",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Horodi\u015fte",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wk:page":"Porumbrei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b875d89799d21da95f842ec3ba3a753",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Porumbrei",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

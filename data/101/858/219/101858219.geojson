@@ -81,6 +81,9 @@
         "wk:page":"Cubolta"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"22d7b01e1625142eff8c12017ac41cdf",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Cubolta",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

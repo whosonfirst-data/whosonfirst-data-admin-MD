@@ -123,6 +123,9 @@
         "wk:page":"Bu\u0219ila"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e22ea5602b5b7c13ab77d6aa323625d0",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Bu\u015fila",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

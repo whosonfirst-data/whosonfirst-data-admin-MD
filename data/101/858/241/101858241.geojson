@@ -120,6 +120,9 @@
         "wk:page":"Sturzeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fe7c9d8e4d2d744121a88f075c32717a",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603053,
+    "wof:lastmodified":1582343167,
     "wof:name":"Sturzeni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

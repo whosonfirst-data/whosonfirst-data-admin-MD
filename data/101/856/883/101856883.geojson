@@ -119,6 +119,9 @@
         "wk:page":"Ferapontievca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ffff887205ef07afce7473615a0d8d73",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Ferapontievca",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

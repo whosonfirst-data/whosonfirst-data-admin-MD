@@ -90,6 +90,9 @@
         "wk:page":"\u021aiganca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5217487f8e6b7fcac4f4b56320b99ed",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"\u0162iganca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

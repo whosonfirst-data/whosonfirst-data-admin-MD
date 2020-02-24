@@ -125,6 +125,9 @@
         "wk:page":"Vadul lui Isac"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0b7ddf958db0ef6205d453d714cdbc3",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Vadul lui Isac",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

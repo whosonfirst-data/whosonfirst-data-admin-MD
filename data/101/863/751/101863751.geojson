@@ -120,6 +120,10 @@
         "wk:page":"Sociteni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1dd96aa0aaa111fa43988526bebfdd8b",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"Sociteni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

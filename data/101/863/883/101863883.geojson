@@ -113,6 +113,9 @@
         "wk:page":"Ma\u0219c\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a0ccd7d8142a659e1ddd4eafcad5fa53",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863883,
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Ma\u015fc\u0103u\u0163i",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

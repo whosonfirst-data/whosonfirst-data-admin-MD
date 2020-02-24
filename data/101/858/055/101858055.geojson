@@ -124,6 +124,9 @@
         "wk:page":"C\u0103b\u0103ie\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"849a8b4910c74ce99aeb040ec3fd716b",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343167,
     "wof:name":"C\u0103b\u0103ie\u015fti",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

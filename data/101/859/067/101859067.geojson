@@ -116,6 +116,9 @@
         "wk:page":"Boghiceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"090915bda1be79de66bac8845a5e3f5e",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Boghiceni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

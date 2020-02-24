@@ -87,6 +87,9 @@
         "wk:page":"Pelinei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"34e51cc712685aea8177f6b539102f49",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Pelinei",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

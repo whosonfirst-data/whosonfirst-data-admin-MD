@@ -123,6 +123,10 @@
         "wk:page":"Bugeac, G\u0103g\u0103uzia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bd19181eea57c96e6f7066f47aaf8a6",
     "wof:hierarchy":[
         {
@@ -136,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Bugeac",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

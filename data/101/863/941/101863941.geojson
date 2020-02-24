@@ -83,6 +83,9 @@
         "wk:page":"Ghetlova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"76426f4ae70a75de207541fcfca75737",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343177,
     "wof:name":"Ghetlova",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

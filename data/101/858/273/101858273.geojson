@@ -116,6 +116,9 @@
         "wk:page":"Pelinia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82dd862fa71c2adef843043e1d68b941",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"Pelinia",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -146,6 +146,10 @@
         "wk:page":"\u0218old\u0103ne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a792696541355972e0661d3b0d639a37",
     "wof:hierarchy":[
         {
@@ -159,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"\u015eold\u0103ne\u015fti",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

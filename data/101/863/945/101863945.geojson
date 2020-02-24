@@ -112,6 +112,9 @@
         "wk:page":"Necul\u0103ieuca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ef730555d2e70ff2c601db4ea342966",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101863945,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Necul\u0103ieuca",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

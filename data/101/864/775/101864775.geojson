@@ -115,6 +115,9 @@
         "wk:page":"Gr\u0103tie\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2954ec53a0ffdb94090b657a04e5a5aa",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Gr\u0103tie\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

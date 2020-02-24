@@ -124,7 +124,6 @@
     "qs:type":"buffered point",
     "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg",
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
@@ -147,6 +146,9 @@
         "wk:page":"Dondu\u0219eni, Dondu\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50cf5f5e0f4fcbfe7ec700418a09d48f",
     "wof:hierarchy":[
         {
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":1175612935,
-    "wof:lastmodified":1566603018,
+    "wof:lastmodified":1582343159,
     "wof:name":"Dondu\u015feni",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wk:page":"C\u0103l\u0103ra\u0219i, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1ec2d479a1f7b2684a351383a0aaca5",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1582343169,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

@@ -156,6 +156,10 @@
         "wk:page":"Anenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c8ae85ef2b49d6ff7010cf7c39cca62",
     "wof:hierarchy":[
         {
@@ -169,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Anenii Noi",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

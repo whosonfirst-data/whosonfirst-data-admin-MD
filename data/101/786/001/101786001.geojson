@@ -150,6 +150,9 @@
         "wk:page":"Leova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69fffe7bd3d93da58955aa6906c82c6e",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603095,
+    "wof:lastmodified":1582343180,
     "wof:name":"Leova",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

@@ -131,6 +131,9 @@
         "wk:page":"T\u0103t\u0103re\u0219ti, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afe45de4f23bb915c01dbd8155c1b62d",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343179,
     "wof:name":"T\u0103t\u0103re\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

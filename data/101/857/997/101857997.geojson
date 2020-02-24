@@ -128,6 +128,10 @@
         "qs_pg:id":1091672
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9fba9b11f5be06fc30e30888f9063056",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Criste\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

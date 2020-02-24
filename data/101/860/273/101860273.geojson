@@ -92,6 +92,9 @@
         "wd:id":"Q1240060"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b77d192deb2b34a03641590a597b2497",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"Stolniceni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

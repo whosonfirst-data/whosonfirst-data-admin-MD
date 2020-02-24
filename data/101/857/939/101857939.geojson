@@ -94,6 +94,9 @@
         "wk:page":"Antone\u0219ti, Cantemir"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7d7e6db26907e62d0d518d7d5b2e801c",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Antone\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

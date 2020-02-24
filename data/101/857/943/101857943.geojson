@@ -117,6 +117,9 @@
         "wk:page":"L\u0103rgu\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b4a2e2b206eedc0b7b71e896dd4763fb",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"L\u0103rgu\u0163a",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

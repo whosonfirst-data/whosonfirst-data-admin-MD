@@ -84,6 +84,9 @@
         "wk:page":"Pohrebeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a4400c5de913f4cafe7b566f87a038ac",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603095,
+    "wof:lastmodified":1582343180,
     "wof:name":"Pohrebeni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"Alexandru Ioan Cuza, Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ca3fc236b8f739f0d1ed043e9816663",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343161,
     "wof:name":"Alexandru Ioan Cuza",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

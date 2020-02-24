@@ -136,6 +136,10 @@
         "wd:id":"Q1982983"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a78b21ea7917ab46644b495f37b5f3e3",
     "wof:hierarchy":[
         {
@@ -149,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343179,
     "wof:name":"\u015etefan Vod\u0103",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

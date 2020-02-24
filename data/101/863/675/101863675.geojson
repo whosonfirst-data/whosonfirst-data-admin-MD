@@ -91,6 +91,9 @@
         "wk:page":"C\u00eern\u0103\u021benii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cee84423e199e72ba35bd11c848519c2",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343175,
     "wof:name":"C\u00eern\u0103\u0163enii Noi",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

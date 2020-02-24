@@ -118,6 +118,9 @@
         "wk:page":"Limbenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41281e0557e52ed3b2b3c2102f2a7fa2",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"Limbenii Noi",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

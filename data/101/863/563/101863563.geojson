@@ -124,6 +124,9 @@
         "wk:page":"Dezghingea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a8dc971e82423d2198cf8229a78842a",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"Dezghingea",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

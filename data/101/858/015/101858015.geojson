@@ -89,6 +89,9 @@
         "wk:page":"\u0218i\u0219cani, Nisporeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"023a8ad24cb72cac2445899b559268b2",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"\u015ei\u015fcani",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

@@ -113,6 +113,9 @@
         "wk:page":"B\u0103lceana"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af8b2ce85e9b188e510e52bbf48ea79f",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863711,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"B\u0103lceana",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

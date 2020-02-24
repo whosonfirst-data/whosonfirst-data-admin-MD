@@ -120,6 +120,9 @@
         "wk:page":"\u021a\u00eebuleuca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a4f5f6ba14051aa1b4b28f8c8e51491",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101865035,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"\u0162\u00eebuleuca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

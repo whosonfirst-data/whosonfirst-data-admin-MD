@@ -113,6 +113,9 @@
         "wk:page":"Br\u0103viceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"390800be609ef58a503ae55a2870e254",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863929,
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Br\u0103viceni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

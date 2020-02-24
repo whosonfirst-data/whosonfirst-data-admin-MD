@@ -86,6 +86,9 @@
         "wk:page":"Molovata Nou\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10a56abbebbb4504eeae3cd33b68059f",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Molovata Nou\u0103",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

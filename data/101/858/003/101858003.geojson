@@ -128,6 +128,9 @@
         "wk:page":"Solt\u0103ne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29f5e838335dc45ce5925095b2e1b663",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Solt\u0103ne\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

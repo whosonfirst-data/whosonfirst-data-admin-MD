@@ -125,6 +125,10 @@
         "wk:page":"Iargara"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"852be27ffd222143b7f51eb66f8db4f6",
     "wof:hierarchy":[
         {
@@ -138,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Iargara",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Chirc\u0103ie\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82efc6508c7c266b3da3437d7f67d7f4",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101863697,
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343178,
     "wof:name":"Chirc\u0103ie\u015fti",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -89,6 +89,9 @@
         "wk:page":"\u0218uri"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8f26a9ac6678fc2e4abf025e3a8b3e0",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"\u015euri",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

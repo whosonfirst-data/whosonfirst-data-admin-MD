@@ -116,6 +116,9 @@
         "wk:page":"Bujor, H\u00eence\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5c5d1f13c459c130ddf9917275def5a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Bujor",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

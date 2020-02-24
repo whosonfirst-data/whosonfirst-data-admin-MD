@@ -113,6 +113,9 @@
         "wk:page":"Moara de Piatr\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6420e60edccda8e69b6a008153734526",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101859095,
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Moara de Piatr\u0103",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

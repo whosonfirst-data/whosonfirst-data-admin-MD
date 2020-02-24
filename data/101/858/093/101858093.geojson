@@ -128,6 +128,9 @@
         "wk:page":"Ilenu\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3623476acd7b6451f72d4936e0da007",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Ilenu\u0163a",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

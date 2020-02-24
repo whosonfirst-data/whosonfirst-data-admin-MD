@@ -160,6 +160,9 @@
         "wk:page":"Ocni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86a481d5567b2761a4d3c5fb2a2d3a47",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101860439,
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Ocni\u0163a",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

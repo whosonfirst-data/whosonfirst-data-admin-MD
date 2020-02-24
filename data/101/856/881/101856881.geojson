@@ -120,6 +120,9 @@
         "wk:page":"Tomai, Gagauzia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91df0668d6f18f64ca6288ed24ba8b72",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Tomai",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

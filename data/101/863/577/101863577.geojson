@@ -119,6 +119,9 @@
         "wk:page":"Ciucur-Mingir"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d359bd1bdb272336286aac13aae304d7",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Ciucur-Mingir",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

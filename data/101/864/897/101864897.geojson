@@ -85,6 +85,9 @@
         "wk:page":"Ivancea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"def9cb83462baea411044d574c2d95eb",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Ivancea",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

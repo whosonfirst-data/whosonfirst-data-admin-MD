@@ -119,6 +119,9 @@
         "wk:page":"Hirova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"762308f10f6c93ed13e9fedeb3fc60b2",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"Hirova",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

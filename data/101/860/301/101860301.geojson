@@ -89,6 +89,9 @@
         "wk:page":"Cucone\u0219tii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4050215fc514b359cc16d0d8374a6ec",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Cucone\u015ftii Noi",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

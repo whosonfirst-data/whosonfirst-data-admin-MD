@@ -121,6 +121,9 @@
         "wk:page":"Zguri\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df9af91989273bd519d692fefc6e9d80",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"Zguri\u0163a",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "wk:page":"T\u0103t\u0103re\u0219ti, Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36e7b87e24257fbfe6283dd850f33c56",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"T\u0103t\u0103re\u015fti",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
         "wk:page":"H\u00eejdieni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"630f78085eaf6e9aad6c2a70c4661f7f",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1582343169,
     "wof:name":"H\u00eejdieni",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"Nimereuca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0be6476f95ac6f4f2125803db7baec16",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101865063,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Nimereuca",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

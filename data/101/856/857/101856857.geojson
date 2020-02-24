@@ -101,6 +101,9 @@
         "wk:page":"Tvardi\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92dfd2195e6ebb83f1d6cce9fb18e44a",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Tvardi\u0163a",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

@@ -126,6 +126,9 @@
         "wk:page":"Drepc\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10f04d883bb0c801f1025f8b402fbc4e",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343162,
     "wof:name":"Drepc\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

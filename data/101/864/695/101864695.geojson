@@ -121,6 +121,9 @@
         "wd:id":"Q2639022"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45c7868239af62c1383f3a2303921b5e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Cioc-Maidan",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

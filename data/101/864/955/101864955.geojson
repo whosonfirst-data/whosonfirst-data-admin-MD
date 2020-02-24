@@ -94,6 +94,9 @@
         "wd:id":"Q417717"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f91269a37d64d02249e7f0c481ee33a",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343172,
     "wof:name":"Salcia",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

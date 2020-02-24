@@ -127,6 +127,9 @@
         "wk:page":"Mele\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2dc48992f92be5b162bd537648261823",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Mele\u015feni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

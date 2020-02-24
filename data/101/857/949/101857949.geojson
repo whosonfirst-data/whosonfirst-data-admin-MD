@@ -130,6 +130,9 @@
         "wk:page":"S\u0103rata-R\u0103ze\u0219i"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6855b17afcc823fbae350eb790348d7c",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"S\u0103rata-R\u0103ze\u015fi",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

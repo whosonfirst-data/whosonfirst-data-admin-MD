@@ -91,6 +91,10 @@
         "qs_pg:id":1064784
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7969fa8917b1a689436068da4bef59d8",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"F\u0103le\u015ftii Noi",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

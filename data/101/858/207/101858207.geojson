@@ -116,6 +116,9 @@
         "wk:page":"R\u0103doaia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"de49d224656baada6c5c4933468d3a5f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858207,
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"R\u0103doaia",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

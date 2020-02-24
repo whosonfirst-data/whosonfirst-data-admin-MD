@@ -88,6 +88,9 @@
         "wk:page":"B\u0103l\u0103\u0219e\u0219ti, S\u00eengerei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f747e06c758e53b73f6df2c87e945711",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1582343160,
     "wof:name":"B\u0103l\u0103\u015fe\u015fti",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

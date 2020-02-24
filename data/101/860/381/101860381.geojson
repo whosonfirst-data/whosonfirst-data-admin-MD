@@ -119,6 +119,9 @@
         "wk:page":"Visoca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b1ad3f1d4aec91f86bcfc580994246c2",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343165,
     "wof:name":"Visoca",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

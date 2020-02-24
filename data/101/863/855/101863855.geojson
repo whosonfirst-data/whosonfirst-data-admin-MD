@@ -152,6 +152,10 @@
         "wk:page":"Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"713fd20b1db7e2ffa7671a4809d4f140",
     "wof:hierarchy":[
         {
@@ -165,7 +169,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

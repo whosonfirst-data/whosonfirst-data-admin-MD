@@ -88,6 +88,9 @@
         "wk:page":"Mic\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62ccb68f2f06fc86926531847b313fc0",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Mic\u0103u\u0163i",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

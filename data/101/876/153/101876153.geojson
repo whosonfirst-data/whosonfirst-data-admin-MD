@@ -81,6 +81,9 @@
         "wk:page":"Chetrosu, Anenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd18ee4ed6fb0b240ff9bfc757f2fd03",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1582343169,
     "wof:name":"Chetrosu",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

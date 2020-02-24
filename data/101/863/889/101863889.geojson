@@ -125,6 +125,9 @@
         "wk:page":"R\u00ee\u0219cova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c473cb56d3a8460ead02607500124b8",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343175,
     "wof:name":"R\u00ee\u015fcova",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

@@ -150,6 +150,10 @@
         "wd:id":"Q2006112"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d4831f36005933c9096a331654b51a7",
     "wof:hierarchy":[
         {
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":101860243,
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Drochia",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

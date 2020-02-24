@@ -78,6 +78,9 @@
         "wk:page":"Lipnic"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fad77ef6222c924965f8a27ad2387204",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Lipnic",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

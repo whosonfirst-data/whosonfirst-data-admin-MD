@@ -120,6 +120,9 @@
         "wk:page":"Ga\u0219par"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"521a7a92d164639a1e07ad22f145193c",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Ga\u015fpar",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

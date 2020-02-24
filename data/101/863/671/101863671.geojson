@@ -90,6 +90,9 @@
         "wk:page":"Co\u0219calia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"554f0c32e875ff0a212a7e209c0cdac5",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Co\u015fcalia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

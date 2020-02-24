@@ -125,6 +125,9 @@
         "wk:page":"Plop-\u0218tiubei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"11e20b37ca47b352f51a4267b163fbd0",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Plop-\u015etiubei",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

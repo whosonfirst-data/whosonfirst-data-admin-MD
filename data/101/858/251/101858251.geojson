@@ -80,6 +80,9 @@
         "wk:page":"R\u0103c\u0103ria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e195a43761c24c36e8b603793b594032",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101858251,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343167,
     "wof:name":"R\u0103c\u0103ria",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

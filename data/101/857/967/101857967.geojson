@@ -85,6 +85,9 @@
         "wk:page":"Leu\u0219eni, H\u00eence\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41bdf13b5e7684af9d8ff4f7480d40da",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"Leu\u015feni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

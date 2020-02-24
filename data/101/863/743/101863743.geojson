@@ -119,6 +119,9 @@
         "wk:page":"Nimoreni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03e38a71fe9f72be1ca789c96ce3780e",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Nimoreni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

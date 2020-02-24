@@ -86,6 +86,9 @@
         "wd:id":"Q2452128"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f509f5aece97d8cc55047cbe6f2360ad",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Ciumai",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
         "wd:id":"Q400469"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e789e36c20be5987d98b8e4b241ae31",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101864761,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"F\u00eerl\u0103deni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

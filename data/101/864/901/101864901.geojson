@@ -115,6 +115,9 @@
         "wd:id":"Q4493566"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef85ca9f9b87a282c311c85c934fc472",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Furceni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

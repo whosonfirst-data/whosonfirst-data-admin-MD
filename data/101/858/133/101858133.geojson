@@ -87,6 +87,9 @@
         "wk:page":"Taxobeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afbad62e8fd981e43b0273064033b881",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"Taxobeni",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

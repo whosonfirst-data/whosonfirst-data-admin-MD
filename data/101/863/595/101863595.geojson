@@ -117,6 +117,9 @@
         "wd:id":"Q1982766"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"341bd719a2ceb3e7fe49f13dbad758ed",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Sagaidac",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

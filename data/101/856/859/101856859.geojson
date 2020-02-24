@@ -134,6 +134,9 @@
         "wd:id":"Q2452085"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e91645a0ecd538300b8bf41696fc662",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343162,
     "wof:name":"Valea Perjei",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

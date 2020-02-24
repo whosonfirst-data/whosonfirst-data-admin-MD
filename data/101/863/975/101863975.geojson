@@ -90,6 +90,9 @@
         "wk:page":"Cioc\u00eelteni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e66f491bbcf4eb82e5897da3271c9ecd",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603095,
+    "wof:lastmodified":1582343180,
     "wof:name":"Cioc\u00eelteni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

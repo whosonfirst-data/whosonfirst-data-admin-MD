@@ -88,6 +88,9 @@
         "wk:page":"Todire\u0219ti, Ungheni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d1eb29fcf46a86ad1317293ec1f560a1",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Todire\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

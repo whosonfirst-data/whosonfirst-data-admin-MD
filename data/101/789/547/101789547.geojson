@@ -147,6 +147,9 @@
         "wk:page":"Giurgiule\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48a0db687e72a6a6f6ac77f94246a0e1",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603096,
+    "wof:lastmodified":1582343180,
     "wof:name":"Giurgiule\u015fti",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

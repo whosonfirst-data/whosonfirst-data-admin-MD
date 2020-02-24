@@ -109,6 +109,9 @@
         "wd:id":"Q2022961"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49024422f658b5c73332489b172280a9",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101860249,
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Alex\u0103ndreni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

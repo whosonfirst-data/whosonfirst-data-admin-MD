@@ -171,6 +171,10 @@
         "wk:page":"Edine\u021b"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f848e721a335257599d48ef13977624",
     "wof:hierarchy":[
         {
@@ -184,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343164,
     "wof:name":"Edine\u0163",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

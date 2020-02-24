@@ -118,6 +118,9 @@
         "wk:page":"Chipe\u0219ca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dfbc98df1bbe2ca24b02a885f03b1405",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Chipe\u015fca",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

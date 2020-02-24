@@ -80,6 +80,9 @@
         "wk:page":"G\u0103v\u0103noasa"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"80bff7ea867644c268b642de773fa2e8",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101856855,
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"G\u0103v\u0103noasa",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

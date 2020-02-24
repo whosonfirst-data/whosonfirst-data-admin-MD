@@ -115,6 +115,9 @@
         "wk:page":"Peresecina"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8e33d404b99869c5eabff1b4aed97888",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Peresecina",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

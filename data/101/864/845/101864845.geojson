@@ -266,6 +266,9 @@
         "wd:id":"Q362250"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6dac66e4b0f53dc104f347ea5800399d",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":101864845,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Teiu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"S\u0103rata Veche"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ee7aa2f35b936108effc86bbd1629d9",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101858119,
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"S\u0103rata Veche",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

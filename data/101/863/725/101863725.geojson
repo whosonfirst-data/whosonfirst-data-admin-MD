@@ -117,6 +117,9 @@
         "wk:page":"Coste\u0219ti, Ialoveni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e7d8cd1e178d8ef916026f5d08665d9",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343177,
     "wof:name":"Coste\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

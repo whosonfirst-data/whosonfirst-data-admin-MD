@@ -114,6 +114,9 @@
         "wk:page":"Ciuciulea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f7ead89491c241bdad7b911fa276480a",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Ciuciulea",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

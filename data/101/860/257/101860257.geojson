@@ -85,6 +85,9 @@
         "wk:page":"Burl\u0103ne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c2709018339848c57d00116f8eddadd",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Burl\u0103ne\u015fti",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

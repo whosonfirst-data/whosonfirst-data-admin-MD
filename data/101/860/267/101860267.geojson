@@ -120,6 +120,9 @@
         "wk:page":"Hlinaia, Edine\u021b"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"710a6ce0843ef1fa6779b0a71d9f7eb5",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"Hlinaia",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

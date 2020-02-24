@@ -123,6 +123,9 @@
         "wk:page":"Aluatu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b35bafd97074fdd6de790a3c8034848",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Aluatu",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

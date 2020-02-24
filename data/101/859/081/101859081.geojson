@@ -81,6 +81,9 @@
         "wk:page":"Bahmut"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b98235223360c5e30acc0259868a8ca",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Bahmut",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Popencu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72446e8efbfdef61a23478cab8db836b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865037,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Popencu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

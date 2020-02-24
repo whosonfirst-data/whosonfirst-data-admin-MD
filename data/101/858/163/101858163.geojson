@@ -127,6 +127,9 @@
         "wk:page":"Du\u0219mani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aa27eeb73122e7f56e059389cda3be9f",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Du\u015fmani",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

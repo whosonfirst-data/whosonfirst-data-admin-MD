@@ -114,6 +114,10 @@
         "wk:page":"Maiac"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"70d19f1b30cc6509d74c720e6a57d6e1",
     "wof:hierarchy":[
         {
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":101864831,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Maiac",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

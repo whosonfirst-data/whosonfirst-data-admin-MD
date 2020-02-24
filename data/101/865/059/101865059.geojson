@@ -114,6 +114,9 @@
         "wk:page":"Butuceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b0747efd4de61fc024545f6e346a951",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865059,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Butuceni",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

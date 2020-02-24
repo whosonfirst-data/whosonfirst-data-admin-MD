@@ -85,6 +85,9 @@
         "wk:page":"B\u0103l\u0103ne\u0219ti, Nisporeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33a7f8e5c57a7b9f881e5e96c1bcde7a",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343166,
     "wof:name":"B\u0103l\u0103ne\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

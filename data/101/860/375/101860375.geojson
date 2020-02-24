@@ -91,6 +91,9 @@
         "wk:page":"Volovi\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be9d1498748657cea2d941a6d288882e",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Volovi\u0163a",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

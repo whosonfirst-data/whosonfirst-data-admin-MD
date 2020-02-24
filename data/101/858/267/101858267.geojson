@@ -77,6 +77,9 @@
         "wk:page":"Gura C\u0103inarului"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7d40926a1e0866aece803c28bf413fb2",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101858267,
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343166,
     "wof:name":"Gura C\u0103inarului",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

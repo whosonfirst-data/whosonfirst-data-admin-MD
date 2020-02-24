@@ -84,6 +84,9 @@
         "wk:page":"Pruteni, F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bc5ab0c0572c92f558f33431498ee7db",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Pruteni",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

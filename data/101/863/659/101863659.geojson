@@ -113,6 +113,9 @@
         "wk:page":"Cremenciug, C\u0103u\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"046860069b2046604de80704c9b9c205",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"Cremenciug",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

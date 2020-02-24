@@ -121,6 +121,9 @@
         "wk:page":"Ciuciuleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"341d6d2ec32bda177ababe5ca09240e1",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Ciuciuleni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

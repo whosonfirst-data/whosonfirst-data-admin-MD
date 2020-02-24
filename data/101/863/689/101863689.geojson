@@ -118,6 +118,9 @@
         "wk:page":"Opaci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b4a54229ae12570472ff0bbd079156d",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Opaci",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

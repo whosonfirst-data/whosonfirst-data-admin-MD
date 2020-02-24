@@ -116,6 +116,9 @@
         "wk:page":"Cuiz\u0103uca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2755d7e5fea06dde685e534352917ca4",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101864939,
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Cuiz\u0103uca",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

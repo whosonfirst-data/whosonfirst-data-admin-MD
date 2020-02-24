@@ -113,6 +113,9 @@
         "wk:page":"Vladimirovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13850bff19952a948a6eb6c98040ec08",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101864875,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Vladimirovca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

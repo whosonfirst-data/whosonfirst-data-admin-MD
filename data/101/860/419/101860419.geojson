@@ -86,6 +86,9 @@
         "wk:page":"Mo\u0219ana"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e9ac6f950bc9adcfafab841651498ae",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Mo\u015fana",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

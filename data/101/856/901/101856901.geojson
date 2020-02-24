@@ -119,6 +119,9 @@
         "wk:page":"Chirsova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6253767580361ebab7e3de7f0d7f0a70",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"Chirsova",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

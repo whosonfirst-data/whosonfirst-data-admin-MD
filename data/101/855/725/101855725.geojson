@@ -123,6 +123,9 @@
         "wk:page":"Baurci-Moldoveni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b0a4a5e391d8a51e765caf00c86289f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"Baurci-Moldoveni",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

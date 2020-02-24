@@ -116,6 +116,9 @@
         "wk:page":"Obileni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4c83a93c0a04f91d81f859c7ce0b1cd",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Obileni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
         "wd:id":"Q3704891"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3d066171b6a58c62da3d7473a38be49",
     "wof:hierarchy":[
         {
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101863789,
-    "wof:lastmodified":1544747186,
+    "wof:lastmodified":1582343179,
     "wof:name":"Delac\u0103u",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

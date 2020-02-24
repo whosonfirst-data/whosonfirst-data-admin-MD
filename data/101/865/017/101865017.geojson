@@ -117,6 +117,9 @@
         "wk:page":"Hru\u0219ca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aad46b340c1295683ab4e78001960f17",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101865017,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Hru\u015fca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

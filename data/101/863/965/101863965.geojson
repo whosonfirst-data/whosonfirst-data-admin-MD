@@ -112,6 +112,9 @@
         "wk:page":"Susleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4160e2e84985d652859ba365652c81b4",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Susleni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

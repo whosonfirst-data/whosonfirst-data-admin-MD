@@ -78,6 +78,9 @@
         "wk:page":"Lingura"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7622a7e1e0eb80d6e32d5fd5640f6a1b",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"Lingura",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

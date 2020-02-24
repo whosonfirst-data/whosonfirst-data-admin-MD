@@ -114,6 +114,9 @@
         "wk:page":"Tudora, \u0218tefan Vod\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c74215af79eecf402651281cc83e8e7b",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Tudora",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

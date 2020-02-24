@@ -126,6 +126,9 @@
         "wk:page":"Pope\u0219tii de Jos"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0159f65385477aec6b0ad379f1daf936",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Pope\u015ftii de Jos",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

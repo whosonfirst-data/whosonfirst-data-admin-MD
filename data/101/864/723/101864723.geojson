@@ -121,6 +121,9 @@
         "wk:page":"Bat\u00eer"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"272ebd81e40b05a91d4b56deba2ef727",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Bat\u00eer",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

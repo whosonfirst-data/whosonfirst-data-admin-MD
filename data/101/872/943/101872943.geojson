@@ -78,6 +78,9 @@
         "wk:page":"Cania"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3539f444e7b6b25a28010f8f0b95ac0",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"Cania",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

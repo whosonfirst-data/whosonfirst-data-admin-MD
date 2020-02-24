@@ -116,6 +116,9 @@
         "wk:page":"Cruze\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a625a67ff10cb3cd66322d7b35cb8ef8",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Cruze\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

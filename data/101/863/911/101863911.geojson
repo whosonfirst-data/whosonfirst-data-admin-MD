@@ -123,6 +123,9 @@
         "wd:id":"Q2453850"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"783bb39e2c84e6e42448034f24e681cf",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"V\u0103rz\u0103re\u015ftii Noi",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

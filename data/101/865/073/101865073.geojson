@@ -124,6 +124,9 @@
         "wk:page":"Trif\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cfc48ddd6d9eb873368c6cc0080c4a0",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Trif\u0103u\u0163i",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

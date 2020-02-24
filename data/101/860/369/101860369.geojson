@@ -90,6 +90,9 @@
         "wk:page":"\u0218olcani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f7242cfc7e7bc3a1111308a1887304e",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"\u015eolcani",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

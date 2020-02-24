@@ -120,6 +120,9 @@
         "wk:page":"Grigorievca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"21bfef12b8a6082c164a8ba4b89c6c5f",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Grigorievca",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

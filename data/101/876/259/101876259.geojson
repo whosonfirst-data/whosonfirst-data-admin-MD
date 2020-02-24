@@ -160,6 +160,9 @@
         "wk:page":"Flore\u0219ti, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5534c2ac0df0f2486fb832830e67f078",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603060,
+    "wof:lastmodified":1582343169,
     "wof:name":"Flore\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

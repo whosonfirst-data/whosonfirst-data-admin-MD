@@ -82,6 +82,9 @@
         "wk:page":"Japca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"489c0cfb5590f61e9c8bfb3cfffc16a4",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Japca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -86,6 +86,9 @@
         "wk:page":"Heciul Nou"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"abc734f8e6ff7ffcb2513ddeb85ca754",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Heciul Nou",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

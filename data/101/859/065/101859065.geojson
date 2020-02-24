@@ -119,6 +119,9 @@
         "wk:page":"Voinescu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ecc532d2858fd1034d3fc9182b51380",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"Voinescu",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

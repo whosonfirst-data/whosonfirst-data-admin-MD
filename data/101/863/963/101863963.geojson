@@ -118,6 +118,9 @@
         "wd:id":"Q4268804"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae957fabb2a2e6f801dcd2d5b0605f07",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Luc\u0103\u015feuca",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -128,6 +128,9 @@
         "wk:page":"Log\u0103ne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bb53a417d7d49f51924fe7f48675445",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Log\u0103ne\u015fti",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -118,6 +118,10 @@
         "wk:page":"Bardar"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4029cb456a7f936ac443aafc38989f04",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Bardar",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

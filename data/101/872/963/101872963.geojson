@@ -87,6 +87,9 @@
         "wk:page":"Cuhure\u0219tii de Sus"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e143f1ee4ebab793c6518d9a48c8cc74",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1582343160,
     "wof:name":"Cuhure\u015ftii de Sus",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

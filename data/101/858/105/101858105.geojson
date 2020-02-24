@@ -125,6 +125,9 @@
         "wk:page":"C\u0103line\u0219ti, F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a03859bb633920f2da48d044739d7246",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"C\u0103line\u015fti",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

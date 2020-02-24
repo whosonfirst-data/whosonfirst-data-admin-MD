@@ -114,6 +114,9 @@
         "wk:page":"Cajba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e9c474ce1ab3b48ef92a37d8895de71",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Cajba",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

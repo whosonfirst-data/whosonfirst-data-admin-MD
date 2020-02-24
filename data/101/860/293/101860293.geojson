@@ -93,6 +93,9 @@
         "wd:id":"Q1128021"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2bc584abd4bcb95ac174d20833b22623",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343164,
     "wof:name":"Ruseni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

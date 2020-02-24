@@ -117,6 +117,9 @@
         "wk:page":"Ta\u0219l\u00eec"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70106ff8585ab0109bed702ce495850b",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101864839,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Ta\u015fl\u00eec",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

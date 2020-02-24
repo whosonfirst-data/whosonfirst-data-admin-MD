@@ -114,6 +114,9 @@
         "wk:page":"Caterinovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5d9a3975ef01563026f8a5bdaeb579a",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101872967,
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"Caterinovca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

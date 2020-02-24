@@ -83,6 +83,9 @@
         "wk:page":"Solonceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd8ada30a8d17d0958ba4d7e441b400f",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Solonceni",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Cruglic"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"325006fb82da195ef0c5aa325c4aa8e3",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Cruglic",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

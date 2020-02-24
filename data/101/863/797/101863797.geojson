@@ -122,6 +122,9 @@
         "wk:page":"Gura B\u00eecului"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39e0cc538d2bf02ad86d70c6d105471c",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Gura B\u00eecului",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

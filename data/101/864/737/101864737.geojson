@@ -114,6 +114,9 @@
         "wk:page":"Caracui"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7537c1539447cb0b6515a35233cf9d4",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Caracui",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

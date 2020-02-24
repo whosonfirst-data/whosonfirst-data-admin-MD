@@ -115,6 +115,9 @@
         "wk:page":"Pohoarna"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e999b237e8e6bd74bdf787b07341f83b",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Pohoarna",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

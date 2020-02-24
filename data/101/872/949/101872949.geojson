@@ -81,6 +81,9 @@
         "wk:page":"C\u0103rpineni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69aa611ffc3d817db04ab764c599527b",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"C\u0103rpineni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

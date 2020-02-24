@@ -113,6 +113,9 @@
         "wk:page":"Maximovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5216b90f79c42566dfe4c1591a51a9c9",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863801,
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Maximovca",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

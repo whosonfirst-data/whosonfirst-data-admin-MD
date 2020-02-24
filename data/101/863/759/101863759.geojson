@@ -119,6 +119,9 @@
         "wk:page":"Ulmu, Ialoveni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c13cd75925ab0c15a8286617cba8a1b",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Ulmu",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

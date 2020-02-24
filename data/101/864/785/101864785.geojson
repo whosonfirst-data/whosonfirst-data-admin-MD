@@ -110,6 +110,9 @@
         "wk:page":"Bubuieci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17414324f9dd5bb1e9bb0dd5db0e498c",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Bubuieci",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

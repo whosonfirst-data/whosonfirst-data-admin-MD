@@ -112,6 +112,9 @@
         "wd:id":"Q1985430"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df1ebb3bbb5622f1864e8f123105a4ed",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Sofia",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

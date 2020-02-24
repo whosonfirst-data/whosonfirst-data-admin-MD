@@ -121,6 +121,9 @@
         "wk:page":"Ca\u0219unca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6de8e6368d1b02b218cb023efd2d815c",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Ca\u015funca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

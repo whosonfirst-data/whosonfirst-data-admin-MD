@@ -128,6 +128,9 @@
         "wk:page":"Sire\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb5ee90fe945253f6bb3560fe59aaeeb",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Sire\u0163i",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

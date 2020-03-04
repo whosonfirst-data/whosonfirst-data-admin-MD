@@ -81,6 +81,9 @@
         "wk:page":"Baimaclia, C\u0103u\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58f3b12d91d1a4e597a9acd0012efd1f",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343179,
     "wof:name":"Baimaclia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

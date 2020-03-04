@@ -423,6 +423,9 @@
         "wk:page":"Tiraspol"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8884b89c283a4f2ad85c3923f167d54",
     "wof:hierarchy":[
         {
@@ -441,7 +444,7 @@
         }
     ],
     "wof:id":101751797,
-    "wof:lastmodified":1566603058,
+    "wof:lastmodified":1582343169,
     "wof:name":"Tiraspol",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

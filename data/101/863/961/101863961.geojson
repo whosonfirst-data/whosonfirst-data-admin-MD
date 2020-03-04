@@ -86,6 +86,9 @@
         "wk:page":"Seli\u0219te, Orhei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"942dea8db627d259fdbfb9d4262d817b",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Seli\u015fte",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

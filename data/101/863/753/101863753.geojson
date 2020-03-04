@@ -118,6 +118,9 @@
         "wk:page":"Suruceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b20de56850a60b0e07ec316b4ecdd52",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Suruceni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

@@ -270,6 +270,9 @@
         "wk:page":"Dub\u0103sari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c879fbb4b68ba62aeec66605f5013077",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":101864893,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Dub\u0103sari",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

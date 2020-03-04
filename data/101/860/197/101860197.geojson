@@ -89,6 +89,9 @@
         "wd:id":"Q441420"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d3f8b8d2ed1cce399df3e25943a11a6",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Frumu\u015fica",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

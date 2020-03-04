@@ -116,6 +116,9 @@
         "wk:page":"S\u0103rata Nou\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a14bcff7d204807573f109bde948d1b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101864715,
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"S\u0103rata Nou\u0103",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

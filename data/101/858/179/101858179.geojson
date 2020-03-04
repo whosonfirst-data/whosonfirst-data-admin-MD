@@ -116,6 +116,9 @@
         "wk:page":"Sadovoe"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf5a0f2c9528974f7c5930e49e24c25d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858179,
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Sadovoe",
     "wof:parent_id":85686449,
     "wof:placetype":"locality",

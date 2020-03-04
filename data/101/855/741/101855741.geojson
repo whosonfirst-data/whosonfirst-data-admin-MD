@@ -120,6 +120,9 @@
         "wk:page":"Huluboaia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ed974e87152b8be27ca855d0626a9ac",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343171,
     "wof:name":"Huluboaia",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

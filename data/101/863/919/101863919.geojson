@@ -117,6 +117,9 @@
         "wk:page":"Molovata"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4967daa171f4a75e404e4c36d8a3e17a",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101863919,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Molovata",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

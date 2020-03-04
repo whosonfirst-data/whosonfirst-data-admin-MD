@@ -113,6 +113,9 @@
         "wk:page":"Puh\u0103ceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b62e33ec400941eb3bdc15e839d1d233",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863805,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"Puh\u0103ceni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

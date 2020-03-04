@@ -123,6 +123,9 @@
         "wk:page":"Balatina"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"414aa1d9453eaf482099fe3597afe09f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Balatina",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

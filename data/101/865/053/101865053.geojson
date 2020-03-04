@@ -147,6 +147,10 @@
         "wk:page":"Camenca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"14efc7266418e046cc5c12456f2335ac",
     "wof:hierarchy":[
         {
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":101865053,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Camenca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

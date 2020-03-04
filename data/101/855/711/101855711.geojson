@@ -125,6 +125,9 @@
         "wk:page":"Ro\u0219u, Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ddc2b9b58050911f72b9f9e564f70b24",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Ro\u015fu",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Ciulucani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"16f3046e1b0392d6d8803461f1f10fc3",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Ciulucani",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

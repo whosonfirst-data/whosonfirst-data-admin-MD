@@ -114,6 +114,9 @@
         "wk:page":"Blijnii Hutor"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0b25801b96a8fbb29abd72cdb37daf3a",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101864861,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Blijnii Hutor",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

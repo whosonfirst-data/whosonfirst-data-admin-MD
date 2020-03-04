@@ -116,6 +116,9 @@
         "wk:page":"M\u0103r\u0103ndeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a50fac29f45f2a5be792da44effeeffc",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858115,
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"M\u0103r\u0103ndeni",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

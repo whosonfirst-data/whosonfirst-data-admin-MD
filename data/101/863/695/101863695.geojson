@@ -131,6 +131,9 @@
         "wk:page":"C\u00eern\u0103\u021beni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48b50b9b2e7adb589fffde65d0afe8b1",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"C\u00eern\u0103\u0163eni",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

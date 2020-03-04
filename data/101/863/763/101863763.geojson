@@ -91,6 +91,9 @@
         "wk:page":"Z\u00eembreni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f8f2481c928e2dd7a66b1bcea7f98a4",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Z\u00eembreni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

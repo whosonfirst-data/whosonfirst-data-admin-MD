@@ -122,6 +122,9 @@
         "wk:page":"Ro\u0219cani, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"83c2866ce56b534ef5ecdc77ae3355d1",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Ro\u015fcani",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

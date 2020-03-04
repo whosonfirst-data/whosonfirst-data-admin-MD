@@ -76,6 +76,9 @@
         "wk:page":"Burl\u0103ceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bcb58327021e016b526b7c02b92c7b70",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101856851,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Burl\u0103ceni",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

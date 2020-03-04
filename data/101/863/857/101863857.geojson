@@ -124,6 +124,9 @@
         "wk:page":"Coju\u0219na"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61a69302bed290a9d84155db6aa8041a",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Coju\u015fna",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

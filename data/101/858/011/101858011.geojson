@@ -120,6 +120,9 @@
         "wk:page":"Mile\u0219ti, Nisporeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c1a9f8d9b36e96c338d37287c6e643f",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603053,
+    "wof:lastmodified":1582343168,
     "wof:name":"Mile\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

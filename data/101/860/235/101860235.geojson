@@ -127,6 +127,9 @@
         "wk:page":"M\u00eend\u00eec"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"152f0101ebc860755a6545aa8e9a7e35",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"M\u00eend\u00eec",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wk:page":"Rom\u0103ne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"085bc5033e7443da884646aff3968052",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101864815,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343174,
     "wof:name":"Rom\u0103ne\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

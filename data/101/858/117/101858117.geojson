@@ -114,6 +114,9 @@
         "wk:page":"Glinjeni, F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d926546e997791f7aaaac8fc184722f",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Glinjeni",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

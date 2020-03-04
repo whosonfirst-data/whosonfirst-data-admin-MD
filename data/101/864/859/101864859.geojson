@@ -83,6 +83,9 @@
         "wd:id":"Q362617"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bdd537ad0f1089efebde878dc4ab1edc",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101864859,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"M\u0103l\u0103ie\u015fti",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

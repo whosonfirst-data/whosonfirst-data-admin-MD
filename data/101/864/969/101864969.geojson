@@ -90,6 +90,9 @@
         "wk:page":"Cotiujenii Mari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b94f9450c72a0acc25efb933f027d8c",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Cotiujenii Mari",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

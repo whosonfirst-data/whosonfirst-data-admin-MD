@@ -89,6 +89,9 @@
         "wk:page":"Prod\u0103ne\u0219ti, Flore\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77cff0555ae7d9cd6d90e071156025d1",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Prod\u0103ne\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

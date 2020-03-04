@@ -121,6 +121,9 @@
         "wk:page":"\u021aibirica"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0f2cf7c97cdd3d166f786a514760ba4",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"\u0162ibirica",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

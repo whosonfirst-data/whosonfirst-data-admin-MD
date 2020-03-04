@@ -120,6 +120,9 @@
         "wk:page":"Mere\u0219euca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"875bd1f8cb9910c6bd3d97569311fb19",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"Mere\u015feuca",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

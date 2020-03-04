@@ -89,6 +89,9 @@
         "wk:page":"Ghiliceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78ba2c3567b35b20e46ebd2f9f870596",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"Ghiliceni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

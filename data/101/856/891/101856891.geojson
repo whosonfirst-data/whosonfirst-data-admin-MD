@@ -123,6 +123,9 @@
         "wk:page":"Be\u0219alma"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"11803e24ccb4cb6302dca8a62179da6f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Be\u015falma",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

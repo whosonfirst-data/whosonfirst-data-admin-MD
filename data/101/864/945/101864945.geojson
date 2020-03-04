@@ -84,6 +84,9 @@
         "wk:page":"Lalova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fffb1fce40bcd629c763c09a6e6c2a2f",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Lalova",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

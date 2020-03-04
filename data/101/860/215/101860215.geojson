@@ -127,6 +127,9 @@
         "wk:page":"Miciurin"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c4f19a6d78dec6579ca5cfe65aa15e3",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Miciurin",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

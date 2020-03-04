@@ -86,6 +86,9 @@
         "wk:page":"Corest\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c74593629bac978ed239695ac407f300",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"Corest\u0103u\u0163i",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

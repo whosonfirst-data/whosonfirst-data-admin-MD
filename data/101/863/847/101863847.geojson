@@ -90,6 +90,9 @@
         "wk:page":"Lozova, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1b36b5006b6a5cca849f14d64cb8410e",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Lozova",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

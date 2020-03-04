@@ -81,6 +81,9 @@
         "wk:page":"Mingir"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0fed81a17d6f48b816e88e2fcdf58998",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"Mingir",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

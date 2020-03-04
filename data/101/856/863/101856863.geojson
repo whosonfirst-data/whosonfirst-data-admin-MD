@@ -85,6 +85,9 @@
         "wk:page":"Chioselia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e9cf98d732ec393319b86d02fe03641",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Chioselia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

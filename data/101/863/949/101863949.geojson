@@ -114,6 +114,9 @@
         "wk:page":"Mitoc, Orhei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dd31cc915cde1ce13bfea13585c14ee",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Mitoc",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

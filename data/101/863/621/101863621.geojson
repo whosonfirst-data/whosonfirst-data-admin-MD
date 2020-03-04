@@ -120,6 +120,9 @@
         "wk:page":"Fe\u0219teli\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a876e7d830865cc0251fbfdce981d349",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343176,
     "wof:name":"Fe\u015fteli\u0163a",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

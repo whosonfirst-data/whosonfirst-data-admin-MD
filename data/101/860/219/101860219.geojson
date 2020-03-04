@@ -116,6 +116,9 @@
         "wk:page":"Ochiul Alb"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4bf25bb9d2fb4784d5dfd37f88c3e5e4",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Ochiul Alb",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

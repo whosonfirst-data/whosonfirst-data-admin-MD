@@ -125,6 +125,9 @@
         "wk:page":"B\u0103l\u0103ure\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad4c8a183b1291d077e2573bc272db7e",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"B\u0103l\u0103ure\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

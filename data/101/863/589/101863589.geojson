@@ -81,6 +81,9 @@
         "wk:page":"Javgur"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ffa02134397750ad309d8e314b2c9ef",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Javgur",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

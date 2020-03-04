@@ -114,6 +114,9 @@
         "wk:page":"Corotna"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a617cc7cb3bdc38c666b73dac38fca58",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101864887,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Corotna",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

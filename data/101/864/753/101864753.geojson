@@ -85,6 +85,9 @@
         "wk:page":"S\u0103rata-Galben\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8d512f99d221eb842e96dc40253b3cd",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"S\u0103rata Galben\u0103",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

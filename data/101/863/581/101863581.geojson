@@ -93,6 +93,9 @@
         "wk:page":"Gradi\u0219te"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e1fba7e5d1e3fc44097fff6fa6a13e7",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343177,
     "wof:name":"Gradi\u015fte",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

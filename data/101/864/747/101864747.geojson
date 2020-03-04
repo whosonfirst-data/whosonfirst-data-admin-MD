@@ -85,6 +85,9 @@
         "wk:page":"Mere\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"904a90ac2f58ff887018b726d3292799",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Mere\u015feni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

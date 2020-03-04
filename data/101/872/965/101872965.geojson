@@ -133,6 +133,9 @@
         "wk:page":"H\u0103sn\u0103\u0219enii Mari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"83168faf57bc637e309d0b70d3dd0e2a",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603027,
+    "wof:lastmodified":1582343160,
     "wof:name":"H\u0103sn\u0103\u015fenii Mari",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

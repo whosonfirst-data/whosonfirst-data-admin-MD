@@ -88,6 +88,9 @@
         "wk:page":"Co\u0219codeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66cd7dd40667722575045aebaf461097",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Co\u015fcodeni",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

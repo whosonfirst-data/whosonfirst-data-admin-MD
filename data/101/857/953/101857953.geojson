@@ -117,6 +117,9 @@
         "wk:page":"Tomai, Leova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"88c8f177d3b26e24c3aea0d100a616b2",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Tomai",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

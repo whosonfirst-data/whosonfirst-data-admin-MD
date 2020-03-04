@@ -114,6 +114,9 @@
         "wk:page":"Orac, Leova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"063f447a264ab24d98ea77cefcc8e0fe",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Orac",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

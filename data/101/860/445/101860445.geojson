@@ -85,6 +85,9 @@
         "wk:page":"D\u00eengeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"084254dec39055684de39996a06b877e",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"D\u00eengeni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

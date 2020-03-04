@@ -135,6 +135,10 @@
         "wk:page":"Dnestrovsc"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd2daf28b98163c996c3b17bcf03b14c",
     "wof:hierarchy":[
         {
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":101864883,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Dnestrovsc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

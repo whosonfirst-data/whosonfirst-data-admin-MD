@@ -79,6 +79,9 @@
         "wk:page":"Sad\u00eec"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0db9ad30ae0c73258a0df7773a8c5cba",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101856867,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Sad\u00eec",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

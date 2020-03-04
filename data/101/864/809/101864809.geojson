@@ -115,6 +115,9 @@
         "wk:page":"Recea, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6869a4ed5173c22931434603210a5af",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Recea",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "wk:page":"Bud\u0103i, Telene\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"640f39a2c6f097af79c8147f84fecf3f",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101858185,
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1582343169,
     "wof:name":"Bud\u0103i",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

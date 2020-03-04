@@ -121,6 +121,9 @@
         "wk:page":"Colibabovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d37420a87c64e2e8e619b132a2f9507f",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Colibabovca",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

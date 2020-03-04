@@ -90,6 +90,9 @@
         "wk:page":"Marc\u0103u\u021bi, Briceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86fbc769ae4053f1d73c8c484171df3e",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"M\u0103rc\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"L\u0103pu\u0219na, H\u00eence\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4c93a5603381d2a69891dba5bc3e9aa",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"L\u0103pu\u015fna",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

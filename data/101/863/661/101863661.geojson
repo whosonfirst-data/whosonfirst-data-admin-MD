@@ -109,6 +109,9 @@
         "wk:page":"C\u0103inari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2f117b2793a4742dac3aab35b0a8272",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"C\u0103inari",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

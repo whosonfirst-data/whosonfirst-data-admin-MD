@@ -122,6 +122,9 @@
         "wk:page":"B\u00eernova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4736fbac8de55108b522b1866e0ca361",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"B\u00eernova",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

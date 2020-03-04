@@ -295,6 +295,9 @@
         "wk:page":"Bender, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fde22e52ea86f6179276411ae64a22e",
     "wof:hierarchy":[
         {
@@ -308,7 +311,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603058,
+    "wof:lastmodified":1582343169,
     "wof:name":"Bender",
     "wof:parent_id":85686369,
     "wof:placetype":"locality",

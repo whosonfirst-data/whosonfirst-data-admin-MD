@@ -118,6 +118,9 @@
         "wd:id":"Q4459344"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0251dcaea93e9bac40dabe26519c4076",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Todire\u015fti",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

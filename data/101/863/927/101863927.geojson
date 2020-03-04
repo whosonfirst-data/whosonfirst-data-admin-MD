@@ -87,6 +87,9 @@
         "wk:page":"Berezlogi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a6bd5220601fdaddfc3003ba3600760",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Berezlogi",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

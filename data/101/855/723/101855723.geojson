@@ -122,6 +122,9 @@
         "wk:page":"Slobozia Mare"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"821fbe814014c22d475e13e46dc1c6e9",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343171,
     "wof:name":"Slobozia Mare",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

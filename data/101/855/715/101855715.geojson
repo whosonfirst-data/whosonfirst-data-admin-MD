@@ -110,6 +110,9 @@
         "wd:id":"Q4477294"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"435b48071e740660ff7a8deb833c95e7",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343171,
     "wof:name":"Ursoaia",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

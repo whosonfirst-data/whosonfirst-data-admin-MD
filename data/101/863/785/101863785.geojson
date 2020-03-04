@@ -113,6 +113,9 @@
         "wk:page":"Cobusca Nou\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57ad8057eaae0cd77e1c59a42edb045e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863785,
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Cobusca Nou\u0103",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

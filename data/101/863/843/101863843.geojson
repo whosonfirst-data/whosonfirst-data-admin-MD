@@ -117,6 +117,9 @@
         "wk:page":"Vorniceni, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52ad56c535da4f586b2a4066142de5b9",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Vorniceni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

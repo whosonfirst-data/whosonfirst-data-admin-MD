@@ -91,6 +91,9 @@
         "wk:page":"R\u0103sc\u0103ie\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79c9074dd9b1c919aabead02db54a6ff",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"R\u0103sc\u0103ie\u0163i",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

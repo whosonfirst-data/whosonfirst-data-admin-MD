@@ -82,6 +82,9 @@
         "wk:page":"Piatra, Orhei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7c4be99f165b1413ba9f3ac50211318",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Piatra",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
         "wk:page":"Baccealia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00e6261e238053bd2df9b30b38bdc793",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343175,
     "wof:name":"Baccealia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

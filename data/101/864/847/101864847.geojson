@@ -116,6 +116,9 @@
         "wd:id":"Q1994786"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"783f62d162738901cf76bff1c7ad329a",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101864847,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Tocmagiu",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

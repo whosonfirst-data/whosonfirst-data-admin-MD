@@ -80,6 +80,9 @@
         "wk:page":"S\u0103seni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d898ce7b696f56865d60e014ab3a224",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101863903,
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"S\u0103seni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

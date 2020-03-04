@@ -124,6 +124,9 @@
         "wd:id":"Q2437130"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c496c28105875a9cbab8c1b94c8d85ff",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Trebis\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

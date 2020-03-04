@@ -114,6 +114,9 @@
         "wk:page":"Cuzmin"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8bbe3e085e92a85cf352d080b7bbdbb6",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865041,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1582343169,
     "wof:name":"Cuzmin",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

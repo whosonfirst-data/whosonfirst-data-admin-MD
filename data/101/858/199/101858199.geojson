@@ -90,6 +90,9 @@
         "wk:page":"Dumbr\u0103vi\u021ba, S\u00eengerei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d317659f535d52b9814061cfe66180d",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Dumbr\u0103vi\u0163a",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

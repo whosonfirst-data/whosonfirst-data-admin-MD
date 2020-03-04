@@ -118,6 +118,9 @@
         "wk:page":"Cotiujeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e87bbc28a64ae8c37aa3e3e1737c38a",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Cotiujeni",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

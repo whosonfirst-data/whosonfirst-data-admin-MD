@@ -125,6 +125,9 @@
         "wk:page":"Cimi\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8768af6a9b18ee09a5cd0bc9357f2146",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343175,
     "wof:name":"Cimi\u015feni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

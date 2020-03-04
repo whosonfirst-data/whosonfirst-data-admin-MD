@@ -79,6 +79,9 @@
         "wk:page":"Alexeevca, Ungheni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0155862c5a6257a8a3862c3eeed7f0e1",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101858021,
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Alexeevca",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

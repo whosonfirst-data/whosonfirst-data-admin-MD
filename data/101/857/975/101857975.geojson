@@ -126,6 +126,9 @@
         "wk:page":"C\u0103\u021beleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ca973df06d7658ff13a59e62b653ce9",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"C\u0103\u0163eleni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

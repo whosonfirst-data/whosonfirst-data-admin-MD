@@ -129,6 +129,9 @@
         "wk:page":"H\u00eerbov\u0103\u021b"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"37ed54c08a9b3f6d81ab4fe6496ec97d",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"H\u00eerbov\u0103\u0163",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

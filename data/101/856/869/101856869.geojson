@@ -77,6 +77,9 @@
         "wd:id":"Q1776387"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b566399a14a02c0fff0611f0aa42fd26",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Baimaclia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

@@ -88,6 +88,9 @@
         "wk:page":"Cuhure\u0219tii de Jos"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"264a81a523602c9fddaa69d7e6180a8c",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"Cuhure\u015ftii de Jos",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

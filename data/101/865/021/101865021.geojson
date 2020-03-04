@@ -120,6 +120,9 @@
         "wd:id":"Q1994835"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86ff9298f00861b7db94174c4ca52b28",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101865021,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Plopi",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

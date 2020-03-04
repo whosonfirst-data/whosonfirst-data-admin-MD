@@ -85,6 +85,9 @@
         "wk:page":"Chetri\u0219"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"48256caf2e54133e24a79230c4fd7f9b",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343166,
     "wof:name":"Chetri\u015f",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

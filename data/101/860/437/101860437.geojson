@@ -121,6 +121,9 @@
         "wk:page":"Naslavcea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1e9cc3f9c4d3333aadbab3a701ceb131",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"Naslavcea",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

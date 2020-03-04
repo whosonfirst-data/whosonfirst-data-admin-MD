@@ -82,6 +82,9 @@
         "wk:page":"Bulboci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"804d30cb7b78cacdb3e33693e0678838",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Bulboci",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

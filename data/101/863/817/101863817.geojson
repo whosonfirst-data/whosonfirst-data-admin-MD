@@ -85,6 +85,9 @@
         "wk:page":"Teli\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ad3b456e7769577da1193c5ecb3a80c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Teli\u0163a",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

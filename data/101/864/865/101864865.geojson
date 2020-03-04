@@ -116,6 +116,9 @@
         "wd:id":"Q266957"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"86db583d32b9e809bee490ec3f679df2",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101864865,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"T\u00eernauca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

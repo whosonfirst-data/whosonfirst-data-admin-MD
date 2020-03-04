@@ -96,6 +96,9 @@
         "wk:page":"Codreanca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c46705b072c08d1b8d552e7cbbac2675",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Codreanca",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

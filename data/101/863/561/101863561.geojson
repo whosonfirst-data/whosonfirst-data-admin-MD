@@ -73,6 +73,9 @@
         "wk:page":"Congazcicul de Sus"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77aa132ba386f47a5a8a5a3bb437de36",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101863561,
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Congazcicul de Sus",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

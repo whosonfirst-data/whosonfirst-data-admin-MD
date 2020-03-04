@@ -132,6 +132,9 @@
         "wk:page":"R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"01686fbed54ee56ada75b2e00cf58a47",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1582343169,
     "wof:name":"R\u00ee\u015fcani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

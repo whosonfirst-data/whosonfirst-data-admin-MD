@@ -115,6 +115,9 @@
         "wk:page":"Isacova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3fab062e98ca3f301c7a32bf785272b4",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343180,
     "wof:name":"Isacova",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

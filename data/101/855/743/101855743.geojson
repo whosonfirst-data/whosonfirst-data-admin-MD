@@ -134,6 +134,10 @@
         "wk:page":"Cantemir, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"5a533ad892793ca0e329752c3a8f22f2",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Cantemir",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

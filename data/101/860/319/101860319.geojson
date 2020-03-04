@@ -115,6 +115,9 @@
         "wk:page":"Balasine\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"788358d774847891c575af4f7e0dbc78",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101860319,
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Balasine\u015fti",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

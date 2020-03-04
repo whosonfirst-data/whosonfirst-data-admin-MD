@@ -121,6 +121,9 @@
         "wk:page":"\u0218amalia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70358dc424779a328b1b6755ceb43e0d",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"\u015eamalia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

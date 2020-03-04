@@ -121,6 +121,9 @@
         "wk:page":"Popeasca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ac4ed9b2df518a4d9137e85af3644e3",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343175,
     "wof:name":"Popeasca",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

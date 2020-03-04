@@ -114,6 +114,9 @@
         "wk:page":"Satul Nou"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ad5df243abe319c69feeeb8c4e69f24",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"Satul Nou",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

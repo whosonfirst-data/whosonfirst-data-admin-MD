@@ -120,6 +120,9 @@
         "wk:page":"Sadaclia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61096c588686fac252402e5481d41cc4",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Sadaclia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

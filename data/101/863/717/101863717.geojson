@@ -133,6 +133,9 @@
         "wk:page":"Cig\u00eerleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa32f83b5a872375743a2349b256c022",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Cig\u00eerleni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

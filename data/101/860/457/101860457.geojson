@@ -125,6 +125,9 @@
         "wk:page":"G\u00eerbova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f2054fdfe256b2be98ba01b37e9b44cc",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"G\u00eerbova",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

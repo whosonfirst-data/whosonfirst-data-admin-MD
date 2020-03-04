@@ -113,6 +113,9 @@
         "wk:page":"Nuc\u0103reni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9eccc93f8d6c1fef2f941b4a910affd2",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863995,
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Nuc\u0103reni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

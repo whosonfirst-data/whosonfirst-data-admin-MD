@@ -136,6 +136,10 @@
         "wk:page":"Slobozia, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4e8536d4711810c648812a3868486df",
     "wof:hierarchy":[
         {
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":101864833,
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Slobozia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

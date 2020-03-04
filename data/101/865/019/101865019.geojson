@@ -114,6 +114,9 @@
         "wk:page":"Ghidirim"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bd2828203581de797116c926d7e9a18",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865019,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Ghidirim",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

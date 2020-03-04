@@ -90,6 +90,9 @@
         "wk:page":"V\u0103sc\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8a694b0cd24b4c3c6b60e01ae5ddf87",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"V\u0103sc\u0103u\u0163i",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -114,6 +114,9 @@
         "wk:page":"Malcoci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81c11be46e36c3ea3470bd27e2e1d3b7",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343178,
     "wof:name":"Malcoci",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

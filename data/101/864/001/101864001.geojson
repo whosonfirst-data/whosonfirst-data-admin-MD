@@ -122,6 +122,9 @@
         "wk:page":"Verejeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"816a3b8036d34b41a651029ada672f05",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Verejeni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

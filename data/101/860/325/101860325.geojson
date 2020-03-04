@@ -128,6 +128,9 @@
         "wk:page":"Caracu\u0219enii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4a6f8ea0023bad6faedc56335f0310aa",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Caracu\u015fenii Vechi",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "wd:id":"Q4516842"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a50b26aa4d002374c3b43316198d090",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343177,
     "wof:name":"Ci\u015fmea",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

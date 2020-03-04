@@ -116,6 +116,9 @@
         "wk:page":"Bumb\u0103ta"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be8e369deea27ff437c96a8a13fe7537",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858023,
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"Bumb\u0103ta",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

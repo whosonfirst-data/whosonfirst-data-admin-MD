@@ -88,6 +88,9 @@
         "wk:page":"Bie\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7d9bd0cdbc5367dc612a9a96fa2c5db",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"Bie\u015fti",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

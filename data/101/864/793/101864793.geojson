@@ -110,6 +110,10 @@
         "wk:page":"Vatra, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"76b9a47b8b4a18d75e842702aa621129",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Vatra",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
         "wd:id":"Q4095818"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"512472c1284482ae49cded62498fe083",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101864899,
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Br\u0103ne\u015fti",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "wk:page":"Ci\u0219michioi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8e1402cb90cc41ee8f5a269f903fad6",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Ci\u015fmichioi",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

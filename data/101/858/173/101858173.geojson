@@ -78,6 +78,9 @@
         "wk:page":"Iabloana"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdad7017872d73a1698eb79777afb761",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Iabloana",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

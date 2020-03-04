@@ -123,6 +123,9 @@
         "wk:page":"Ofatin\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a70c49e958803d2e8c782aecd7e1d81e",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":101865045,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Ofatin\u0163i",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

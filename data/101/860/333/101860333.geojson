@@ -118,6 +118,9 @@
         "wk:page":"Tabani, Briceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b10fc1c10f89f38681ce0ee02b97207",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"Tabani",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

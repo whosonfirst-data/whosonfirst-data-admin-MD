@@ -116,6 +116,9 @@
         "wk:page":"Chirileni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29b90df01407943d170924cb882ee90c",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858027,
-    "wof:lastmodified":1566603053,
+    "wof:lastmodified":1582343168,
     "wof:name":"Chirileni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

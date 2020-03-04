@@ -128,6 +128,9 @@
         "wk:page":"\u021aarigrad"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7b7731e8a5d708b38ac68e94d4d8f5a1",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"\u0162arigrad",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

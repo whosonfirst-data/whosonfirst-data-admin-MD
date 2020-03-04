@@ -124,6 +124,9 @@
         "wk:page":"Corjova, Criuleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71cd92bd8f8f51e1c9793a98d6c1af85",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Corjova",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

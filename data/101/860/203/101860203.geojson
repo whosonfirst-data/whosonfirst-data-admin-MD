@@ -118,6 +118,9 @@
         "wk:page":"Sofia, Drochia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"345a7ef6be603a9ccf69ef9661876f0d",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"Sofia",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

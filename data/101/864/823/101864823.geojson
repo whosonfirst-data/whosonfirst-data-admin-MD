@@ -126,6 +126,9 @@
         "wk:page":"Negre\u0219ti, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38b3688f51e13b437129e73e10df818e",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Negre\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

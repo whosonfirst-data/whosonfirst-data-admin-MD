@@ -121,6 +121,9 @@
         "wk:page":"Chetro\u0219ica Nou\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c93b9f26599121b364850839646d83fe",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Chetro\u015fica Nou\u0103",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

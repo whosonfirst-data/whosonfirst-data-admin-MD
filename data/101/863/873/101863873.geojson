@@ -78,6 +78,9 @@
         "wd:id":"Q2452776"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f9855178155e19a17aebf8f0030b40f",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101863873,
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343176,
     "wof:name":"Ratu\u015f",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

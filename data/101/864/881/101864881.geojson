@@ -114,6 +114,9 @@
         "wk:page":"Hlinaia, Slobozia, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ef193e32b10bcc771c1bcbcdca3d083",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101864881,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Hlinaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

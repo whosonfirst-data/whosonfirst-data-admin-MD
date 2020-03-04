@@ -122,6 +122,9 @@
         "wk:page":"Mole\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9901cebf0c6d6ed63eae9694e587f724",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Mole\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

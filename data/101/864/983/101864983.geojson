@@ -112,6 +112,9 @@
         "wk:page":"Ciripc\u0103u"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"916e5ff5b0be6c78676b69b597732092",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":101864983,
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Ciripc\u0103u",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

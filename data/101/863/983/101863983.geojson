@@ -84,6 +84,9 @@
         "wk:page":"Step-Soci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4a8c96a1b66bbf5541549c2077cd8e9",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"Step-Soci",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

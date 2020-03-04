@@ -88,6 +88,9 @@
         "wk:page":"Bursuceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d1a48f890adecfa2ef11c5dac23cc04b",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Bursuceni",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

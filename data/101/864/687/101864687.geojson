@@ -129,6 +129,10 @@
         "wk:page":"Vi\u0219niovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"40c7548a4d08458e26cabcf50e234d37",
     "wof:hierarchy":[
         {
@@ -142,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Vi\u015fniovca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

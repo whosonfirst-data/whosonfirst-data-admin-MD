@@ -119,6 +119,9 @@
         "wk:page":"Peticeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc15d724b69e34d199ad4fa6469d7b9d",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Peticeni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

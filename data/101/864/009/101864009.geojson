@@ -122,6 +122,9 @@
         "wk:page":"Leu\u0219eni, Telene\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1289c9c672d6cf9f0c9954cd503eb7b0",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Leu\u015feni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

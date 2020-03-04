@@ -120,6 +120,9 @@
         "wk:page":"Cu\u0219mirca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bcf2c13b0b3df0dc051f50300045a54a",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Cu\u015fmirca",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

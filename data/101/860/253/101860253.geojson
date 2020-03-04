@@ -122,6 +122,9 @@
         "wd:id":"Q1983964"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"81d81cdc6c0a3991d217f80fcae9c0d9",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"Br\u00eenzeni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

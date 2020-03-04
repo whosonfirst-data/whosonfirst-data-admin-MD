@@ -89,6 +89,9 @@
         "wk:page":"Vadul-Ra\u0219cov"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f3d195d537fca5d5adf56e84defbbbf",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"Vadul-Ra\u015fcov",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

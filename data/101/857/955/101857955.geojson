@@ -116,6 +116,9 @@
         "wk:page":"Tochile-R\u0103ducani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5eed5656438fcb52b1757da8d0f56def",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101857955,
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Tochile-R\u0103ducani",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

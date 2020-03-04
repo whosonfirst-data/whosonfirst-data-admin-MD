@@ -92,6 +92,9 @@
         "wk:page":"P\u00eerli\u021ba, Ungheni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"480efb5bdfe2f17808a97f614b70d9c2",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"P\u00eerli\u0163a",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "wk:page":"Alexanderfeld, Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"213ac64f9ec9392392cf89a92745de80",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Alexanderfeld",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

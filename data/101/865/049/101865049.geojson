@@ -113,6 +113,9 @@
         "wd:id":"Q11166454"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1f8d846d4a8e2a636b7a07b8276c1b9",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":101865049,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Podoimi\u0163a",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

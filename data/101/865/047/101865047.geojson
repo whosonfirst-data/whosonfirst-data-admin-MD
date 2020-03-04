@@ -114,6 +114,9 @@
         "wk:page":"Podoima"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"242b6535f65e44f54a5c677acc9bfe32",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865047,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Podoima",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

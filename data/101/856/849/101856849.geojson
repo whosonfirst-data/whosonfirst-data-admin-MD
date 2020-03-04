@@ -116,6 +116,9 @@
         "wk:page":"Borceag"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45b9f506527789f8a37e3b2b557494ec",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101856849,
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Borceag",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

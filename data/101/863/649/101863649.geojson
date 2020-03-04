@@ -113,6 +113,9 @@
         "wk:page":"Proteagailovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e1e9838f8b15494887bc891f9b5da139",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101863649,
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Proteagailovca",
     "wof:parent_id":85686369,
     "wof:placetype":"locality",

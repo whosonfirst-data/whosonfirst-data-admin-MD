@@ -115,6 +115,9 @@
         "wk:page":"S\u0103n\u0103t\u0103uca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ae857b65efd047b0a2616bbad85a509",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101865009,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"S\u0103n\u0103t\u0103uca",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -122,6 +122,9 @@
         "wk:page":"\u0218eptelici"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a10f99719e2af9dc18e4c0a0dbeae00",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603043,
+    "wof:lastmodified":1582343164,
     "wof:name":"\u015eeptelici",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

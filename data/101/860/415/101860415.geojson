@@ -126,6 +126,9 @@
         "wk:page":"\u021aaul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36f06fab84656b57472f1428c070ff7b",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"\u0162aul",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

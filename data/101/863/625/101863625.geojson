@@ -82,6 +82,9 @@
         "wk:page":"Purcari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"30b5d04b4d4c124b3064000590e3dd7f",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"Purcari",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

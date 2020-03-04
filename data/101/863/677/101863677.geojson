@@ -135,6 +135,10 @@
         "wk:page":"Chi\u021bcani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41ce7cca1e1aa428af2f8b8a99f89711",
     "wof:hierarchy":[
         {
@@ -148,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Chi\u0163cani",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

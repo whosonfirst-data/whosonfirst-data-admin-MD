@@ -84,6 +84,9 @@
         "wk:page":"Dereneu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6763a35efe8baa88f1981c1d949f46dc",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Dereneu",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

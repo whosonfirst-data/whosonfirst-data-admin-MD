@@ -133,6 +133,10 @@
         "wk:page":"Glodeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c6438d9846a2bdbcee08b4b41ab661f",
     "wof:hierarchy":[
         {
@@ -146,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603053,
+    "wof:lastmodified":1582343167,
     "wof:name":"Glodeni",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

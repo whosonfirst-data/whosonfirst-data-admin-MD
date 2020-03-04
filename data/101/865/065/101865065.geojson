@@ -121,6 +121,9 @@
         "wk:page":"Racov\u0103\u021b"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02751edc1c149d07a11a3584e3d1ea82",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Racov\u0103\u0163",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

@@ -95,6 +95,9 @@
         "wk:page":"Svetl\u00eei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b008ce165867471d18a3104d4da3adf6",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Svetl\u00eei",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

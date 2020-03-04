@@ -130,6 +130,9 @@
         "wk:page":"H\u0103d\u0103r\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bba5a5cd54f9a1013a3b5c85d55ec5ac",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"H\u0103d\u0103r\u0103u\u0163i",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

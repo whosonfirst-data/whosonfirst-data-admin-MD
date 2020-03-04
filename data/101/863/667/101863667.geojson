@@ -93,6 +93,9 @@
         "wk:page":"Chirc\u0103ie\u0219tii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6d8bcd6442b4e89d763a37b6e38221f",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Chirc\u0103ie\u015ftii Noi",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

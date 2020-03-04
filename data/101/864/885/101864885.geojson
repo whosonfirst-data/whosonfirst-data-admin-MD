@@ -110,6 +110,10 @@
         "wk:page":"Crasnoe"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eaa136317a504ea09c31e651a0171550",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":101864885,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Crasnoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

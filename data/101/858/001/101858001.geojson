@@ -83,6 +83,9 @@
         "wk:page":"Marinici, Nisporeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7eb6c832afe8a084f69ca91cf8cb24b4",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Marinici",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

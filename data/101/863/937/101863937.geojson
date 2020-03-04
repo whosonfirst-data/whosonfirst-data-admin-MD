@@ -116,6 +116,9 @@
         "wd:id":"Q4125911"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bd1197cbf1778a060e5e35e7d1af317",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Vorote\u0163",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -120,6 +120,9 @@
         "wd:id":"Q2449154"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c30dc3f0f46359651a3ccbf311ec03fc",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"\u015eaptebani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

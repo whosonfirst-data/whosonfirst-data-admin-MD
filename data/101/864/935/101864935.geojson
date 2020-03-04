@@ -99,6 +99,9 @@
         "wk:page":"\u021aareuca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b9a07404ccc4774e0fc3db0456b0f4f",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"\u0162areuca",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

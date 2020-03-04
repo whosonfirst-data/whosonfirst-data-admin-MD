@@ -91,6 +91,9 @@
         "wk:page":"Hiliu\u021bi, F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"767eb11c7573dae09a051b4452785a00",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Hiliu\u0163i",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

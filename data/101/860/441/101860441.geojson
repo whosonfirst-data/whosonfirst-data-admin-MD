@@ -129,6 +129,9 @@
         "wk:page":"Clocu\u0219na"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"92a60711adbf7260520b919d0a526b24",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Clocu\u015fna",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

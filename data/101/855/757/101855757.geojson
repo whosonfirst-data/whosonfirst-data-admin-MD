@@ -85,6 +85,9 @@
         "wk:page":"Gote\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d67af296781a0a41c5625cadf39b42d5",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Gote\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

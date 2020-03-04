@@ -136,6 +136,9 @@
         "wk:page":"Grigoriopol"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e56ccd5e6fa6193ae7daa3438887ab4b",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101876189,
-    "wof:lastmodified":1566603061,
+    "wof:lastmodified":1582343169,
     "wof:name":"Grigoriopol",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

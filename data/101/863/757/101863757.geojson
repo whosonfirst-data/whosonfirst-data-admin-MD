@@ -82,6 +82,9 @@
         "wd:id":"Q2442467"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aaac4303cccf3cac25b882fcd28ddd16",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101863757,
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"\u0162ipala",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

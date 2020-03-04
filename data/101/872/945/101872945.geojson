@@ -251,6 +251,10 @@
         "wk:page":"Comrat"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"37f52efe8802177712f1a756a03c14e3",
     "wof:hierarchy":[
         {
@@ -264,7 +268,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"Comrat",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

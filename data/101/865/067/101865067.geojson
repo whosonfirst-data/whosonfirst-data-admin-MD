@@ -79,6 +79,9 @@
         "wd:id":"Q1240605"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f4d74169715f849c8bcf85f5b70f536",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101865067,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"V\u0103r\u0103nc\u0103u",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

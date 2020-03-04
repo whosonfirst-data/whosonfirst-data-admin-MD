@@ -126,6 +126,9 @@
         "wk:page":"Bul\u0103ie\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f67b6c50c531eb6e18bd5dd9d2096f43",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Bul\u0103ie\u015fti",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

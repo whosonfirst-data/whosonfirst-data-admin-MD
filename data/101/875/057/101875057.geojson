@@ -158,6 +158,9 @@
         "wd:id":"Q858713"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e41ea3bb465caccfe585417c222fc169",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101875057,
-    "wof:lastmodified":1566603029,
+    "wof:lastmodified":1582343160,
     "wof:name":"Ungheni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

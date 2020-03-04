@@ -82,6 +82,9 @@
         "wk:page":"Taraclia de Salcie"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9195a9dfe234a626477ee06e1107f59b",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Taraclia de Salcie",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

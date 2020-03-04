@@ -77,6 +77,9 @@
         "wk:page":"Doina, Cahul"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"178ac85d7db8d18deb43dcfc31af5c94",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101855735,
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Doina",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

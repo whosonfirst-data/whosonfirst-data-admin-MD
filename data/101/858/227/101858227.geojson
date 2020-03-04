@@ -82,6 +82,9 @@
         "wd:id":"Q2447777"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"687d44ee054cce3eb663dabe3f3197b1",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101858227,
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"M\u00eendre\u015ftii Noi",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

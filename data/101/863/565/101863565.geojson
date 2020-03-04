@@ -121,6 +121,9 @@
         "wk:page":"Abaclia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"520d3d38dff5ffa252d7098af1ed33cc",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Abaclia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

@@ -66,6 +66,9 @@
         "wd:id":"Q7575757"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"32ee80f71c7f4ab4f4cf31be93dffdd7",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101864843,
-    "wof:lastmodified":1544747735,
+    "wof:lastmodified":1582343172,
     "wof:name":"Speia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

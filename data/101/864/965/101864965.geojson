@@ -113,6 +113,9 @@
         "wk:page":"R\u0103spopeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e305dd2f884b265a50531f9f3022ac44",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101864965,
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"R\u0103spopeni",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

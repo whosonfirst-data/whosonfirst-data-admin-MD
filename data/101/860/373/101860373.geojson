@@ -81,6 +81,9 @@
         "wd:id":"Q1990653"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14eb4db89083bd802a31bfe2a177bdaa",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"V\u0103deni",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

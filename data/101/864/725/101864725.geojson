@@ -115,6 +115,9 @@
         "wd:id":"Q1982805"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c12a12f0fc79d93f74ef9746c158e000",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Mihailovca",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

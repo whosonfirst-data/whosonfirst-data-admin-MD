@@ -88,6 +88,9 @@
         "wk:page":"Ciolacu Nou"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f6dedf350b7869fc8540f56ec0effe08",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Ciolacu Nou",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

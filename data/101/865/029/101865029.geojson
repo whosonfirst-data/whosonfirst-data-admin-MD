@@ -114,6 +114,9 @@
         "wk:page":"Mocra"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01477f61f958a52d7d908b0b6909cd6f",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865029,
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"Mocra",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

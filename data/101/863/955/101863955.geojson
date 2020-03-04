@@ -73,6 +73,9 @@
         "wd:id":"Q1987872"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2b178b04008e928693bd91ba877a434",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101863955,
-    "wof:lastmodified":1566603082,
+    "wof:lastmodified":1582343175,
     "wof:name":"Pelivan",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

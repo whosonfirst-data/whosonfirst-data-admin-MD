@@ -77,6 +77,9 @@
         "wk:page":"Z\u0103briceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"890c3872edabb29c423d8e6e9541e940",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101860271,
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Z\u0103briceni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"Ecaterinovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af9375dab2578b2be6c6fdf2f0ab83d6",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Ecaterinovca",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

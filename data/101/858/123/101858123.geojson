@@ -121,6 +121,9 @@
         "wk:page":"Mustea\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"089ef08bdaea80a7af39d6fc3c7b97a5",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Mustea\u0163a",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

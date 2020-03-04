@@ -125,6 +125,9 @@
         "wk:page":"Scor\u021beni, Telene\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"702b3f9c6cc3569b948dce65ccf505fe",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Scor\u0163eni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
         "wk:page":"Bu\u0219\u0103uca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7aacb82a284fd0c1276a3a8377e11057",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603073,
+    "wof:lastmodified":1582343172,
     "wof:name":"Bu\u015feuca",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

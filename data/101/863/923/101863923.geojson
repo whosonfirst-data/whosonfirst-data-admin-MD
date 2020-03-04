@@ -115,6 +115,9 @@
         "wk:page":"Oxentea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7af0e70b008882aadded60171024ad5",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Oxentea",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

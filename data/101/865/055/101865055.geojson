@@ -118,6 +118,9 @@
         "wk:page":"Molochi\u0219ul Mare"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"97a83a193102986a89535e05de643eda",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":101865055,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Molochi\u015ful Mare",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

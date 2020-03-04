@@ -116,6 +116,9 @@
         "wk:page":"Cupcui"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60ee841dc07779463192806dc0f7bfa0",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603028,
+    "wof:lastmodified":1582343160,
     "wof:name":"Cupcui",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

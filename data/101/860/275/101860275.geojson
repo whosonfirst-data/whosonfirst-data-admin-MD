@@ -124,6 +124,9 @@
         "wk:page":"\u0218ofr\u00eencani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2281f42f7087d2e4aa2cc4bfaf7d48c1",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"\u015eofr\u00eencani",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

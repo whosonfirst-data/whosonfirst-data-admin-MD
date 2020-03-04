@@ -79,6 +79,9 @@
         "wk:page":"Medveja, Moldova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a44891fcd0efbc0a970e00609a4c331e",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Medveja",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

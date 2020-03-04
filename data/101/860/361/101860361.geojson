@@ -78,6 +78,9 @@
         "wk:page":"Ocolina"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1803c556e772dc6e1ce437e2c11e50f4",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Ocolina",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

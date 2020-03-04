@@ -115,6 +115,9 @@
         "wk:page":"V\u0103sieni, Ialoveni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb04c1d7b113f9f7fe64ac25280b4743",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":101863761,
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"V\u0103sieni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

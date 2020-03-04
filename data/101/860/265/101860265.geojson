@@ -91,6 +91,9 @@
         "wd:id":"Q537805"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c43aa5297a71380fbee60e632087d144",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"T\u00eernova",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

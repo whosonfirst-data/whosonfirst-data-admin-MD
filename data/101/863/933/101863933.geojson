@@ -81,6 +81,9 @@
         "wk:page":"Chiperceni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb042290195fe2f9c3abb02f29065b7b",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Chiperceni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

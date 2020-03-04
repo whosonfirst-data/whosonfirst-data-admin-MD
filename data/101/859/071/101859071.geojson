@@ -81,6 +81,9 @@
         "wk:page":"Valea Mare, Ungheni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0c00747c62e5a7a21a14132dc2e80d3",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"Valea Mare",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

@@ -117,6 +117,9 @@
         "wk:page":"Negrea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ffcce760489e66d223f57fa6162bcf5",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"Negrea",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

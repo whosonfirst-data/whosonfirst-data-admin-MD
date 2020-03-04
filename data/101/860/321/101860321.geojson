@@ -82,6 +82,9 @@
         "wk:page":"Halahora de Sus"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"801d952babb4793b5fbf3258ced63de6",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Halahora de Sus",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"S\u0103r\u0103tenii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79d3238c37bd7dec60db9e573ed47c47",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101864003,
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"S\u0103r\u0103tenii Vechi",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

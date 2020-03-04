@@ -92,6 +92,9 @@
         "wk:page":"B\u0103l\u0103b\u0103ne\u0219ti, Criuleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aa337d5c86ea81a530a9c71a090142b0",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"B\u0103l\u0103b\u0103ne\u015fti",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

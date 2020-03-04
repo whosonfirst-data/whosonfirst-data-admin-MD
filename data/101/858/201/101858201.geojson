@@ -82,6 +82,9 @@
         "wk:page":"Prepeli\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a21884b4b3f8933eeedb6451924d58d",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Prepeli\u0163a",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

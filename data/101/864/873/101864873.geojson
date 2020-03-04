@@ -117,6 +117,9 @@
         "wk:page":"Caraga\u0219"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4d3cba1342fb39ccbcb58100d56a1d52",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101864873,
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"Caraga\u015f",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

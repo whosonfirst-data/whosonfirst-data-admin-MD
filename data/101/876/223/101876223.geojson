@@ -119,6 +119,9 @@
         "wk:page":"Biruin\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2185872edd7f0b964f36deef53a0513f",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603062,
+    "wof:lastmodified":1582343169,
     "wof:name":"Biruin\u0163a",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Doro\u021bcaia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cb6b0853eb43ee1416c73f99e08d64d4",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603093,
+    "wof:lastmodified":1582343179,
     "wof:name":"Doro\u0163caia",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

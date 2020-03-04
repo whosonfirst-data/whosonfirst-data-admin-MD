@@ -119,6 +119,9 @@
         "wk:page":"Izvoare, F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d8d13f60fc19ed5cabcbb516dc72378a",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Izvoare",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

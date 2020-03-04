@@ -116,6 +116,9 @@
         "wk:page":"V\u0103sieni, Telene\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c2b4c5f34c07c717620f0a3ab0727a2",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101863999,
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"V\u0103sieni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

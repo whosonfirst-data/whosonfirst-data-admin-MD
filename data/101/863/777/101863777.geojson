@@ -120,6 +120,9 @@
         "wk:page":"Bulboaca, Anenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07fbe0732d7b5fdf5abc4dd6620ab16b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Bulboaca",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

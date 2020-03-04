@@ -262,6 +262,9 @@
         "wd:id":"Q371994"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"17898b0a4bf03d4924c9f1b166aed9ba",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Hulboaca",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wk:page":"Morozeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36036e21e2711eeee369a398274ad186",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Morozeni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

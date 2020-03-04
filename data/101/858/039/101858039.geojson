@@ -119,6 +119,9 @@
         "wk:page":"R\u0103denii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8cf38d16111c12e2df66e49076a2dcb9",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101858039,
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"R\u0103denii Vechi",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

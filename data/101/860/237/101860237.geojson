@@ -113,6 +113,9 @@
         "wk:page":"Maramonovca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a23d4f4b07cdc36d9d073df97c166b68",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101860237,
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Maramonovca",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

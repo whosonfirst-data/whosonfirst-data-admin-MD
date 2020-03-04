@@ -93,6 +93,9 @@
         "wk:page":"Ucrainca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8cdaf1a2bcd5f0165c97a04e006b353c",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Ucrainca",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

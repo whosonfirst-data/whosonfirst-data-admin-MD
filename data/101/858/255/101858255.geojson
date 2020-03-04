@@ -115,6 +115,9 @@
         "wk:page":"Singureni, R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c57dc8a3ca121c642db5583c49c976e3",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Singureni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

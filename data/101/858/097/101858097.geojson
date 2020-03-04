@@ -128,6 +128,9 @@
         "wk:page":"N\u0103v\u00eerne\u021b"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b54734f4d73f109d1830724cdbae6f8",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343167,
     "wof:name":"N\u0103v\u00eerne\u0163",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

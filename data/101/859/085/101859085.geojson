@@ -124,6 +124,9 @@
         "wk:page":"Bocani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a9b280dc75534aa42fee6a0011b020a8",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"Bocani",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

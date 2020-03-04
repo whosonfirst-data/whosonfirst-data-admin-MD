@@ -118,6 +118,9 @@
         "wk:page":"Voinova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"399b3c7d18aa3d9fa4d8ba2d7bc82b69",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Voinova",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

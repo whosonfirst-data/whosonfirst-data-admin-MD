@@ -116,6 +116,9 @@
         "wk:page":"Hristici"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"65bd67c7f7ff475d2e86c054ed2ce73a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Hristici",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

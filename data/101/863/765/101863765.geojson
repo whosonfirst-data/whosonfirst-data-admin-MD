@@ -115,6 +115,10 @@
         "wk:page":"Bude\u0219ti, Chi\u0219in\u0103u"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5318521aa85a8a4862e012acb29bc9da",
     "wof:hierarchy":[
         {
@@ -128,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"Bude\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

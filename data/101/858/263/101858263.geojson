@@ -116,6 +116,9 @@
         "wk:page":"V\u0103ratic, R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bf6728d538f1835ed51095be959a41c3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101858263,
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"V\u0103ratic",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

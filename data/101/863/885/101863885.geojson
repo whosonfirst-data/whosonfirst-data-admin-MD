@@ -83,6 +83,9 @@
         "wk:page":"Micle\u0219ti, Criuleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cafd80887068e29c021281be231c2329",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Micle\u015fti",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

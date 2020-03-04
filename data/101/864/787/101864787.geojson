@@ -116,6 +116,9 @@
         "wk:page":"Ghidighici"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1aa951dc0609bdf80fb24c6117a42f99",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Ghidighici",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

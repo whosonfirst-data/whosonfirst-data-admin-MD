@@ -122,6 +122,9 @@
         "wd:id":"Q2454345"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1287abd670f7402c9dc887dfaee09691",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Sadova",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

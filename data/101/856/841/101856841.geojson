@@ -79,6 +79,9 @@
         "wk:page":"Moscovei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50c0d5153d12334b2c95700c6a2566a3",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Moscovei",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Cocieri"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"40d0d761dfbceb42346f3de9f1bf1362",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Cocieri",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

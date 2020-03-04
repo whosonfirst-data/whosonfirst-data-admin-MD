@@ -74,6 +74,10 @@
         "qs_pg:id":299621
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61e191332f7ef577cde581241d93cf63",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566602988,
+    "wof:lastmodified":1582343159,
     "wof:name":"Novyye Chekany",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

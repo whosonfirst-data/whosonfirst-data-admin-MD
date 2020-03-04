@@ -120,6 +120,9 @@
         "wk:page":"Parcani, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5dbcdf4725f20457c9c37b23a1594eaa",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101864867,
-    "wof:lastmodified":1566603072,
+    "wof:lastmodified":1582343172,
     "wof:name":"Parcani",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
         "wd:id":"Q1240756"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4142044629ade69a4af14a4a31476bd",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101858233,
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"M\u0103rine\u015fti",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

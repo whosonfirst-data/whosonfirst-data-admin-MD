@@ -119,6 +119,9 @@
         "wk:page":"Mereni, Anenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1befef7b33658a74295c2a9b2484f468",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Mereni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

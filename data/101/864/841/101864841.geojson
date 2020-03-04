@@ -111,6 +111,9 @@
         "wk:page":"Butor, Transnistria"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"003c8cda35c4c29843d6835cd15fe45e",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101864841,
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Butor",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

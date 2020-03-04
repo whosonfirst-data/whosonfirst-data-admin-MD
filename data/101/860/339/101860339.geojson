@@ -121,6 +121,9 @@
         "wk:page":"Grim\u0103nc\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4638ed5a88def7e7834ac243679a90c9",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Grim\u0103nc\u0103u\u0163i",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

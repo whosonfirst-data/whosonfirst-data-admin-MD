@@ -116,6 +116,9 @@
         "wk:page":"T\u0103n\u0103tari"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"025f862d5c58b74b9ee8c5e1475aa57b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101863691,
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343179,
     "wof:name":"T\u0103n\u0103tari",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -83,6 +83,9 @@
         "wk:page":"Danu, Glodeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5d076bf9dde3ce009a17a56d213a9c8",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603057,
+    "wof:lastmodified":1582343169,
     "wof:name":"Danu",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

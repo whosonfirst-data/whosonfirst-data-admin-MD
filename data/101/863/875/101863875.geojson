@@ -123,6 +123,9 @@
         "wd:id":"Q4153198"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55b6eac266d51bfed2163cfbc308a0ca",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"H\u00eertopul Mic",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

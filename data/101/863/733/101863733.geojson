@@ -109,6 +109,9 @@
         "wd:id":"Q768278"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3e23495bd8cb8aaa224607e3d1edc55",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101863733,
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Horodca",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

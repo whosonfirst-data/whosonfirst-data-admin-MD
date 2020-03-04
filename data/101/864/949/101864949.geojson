@@ -127,6 +127,9 @@
         "wk:page":"Cob\u00eelea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9655636fbabe35ddfbe9ce5f289e3cd3",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Cob\u00eelea",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

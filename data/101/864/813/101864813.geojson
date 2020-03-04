@@ -89,6 +89,9 @@
         "wd:id":"Q2449770"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b81d2d5bc1bb81deb547e2220ef3e51e",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Zamciogi",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

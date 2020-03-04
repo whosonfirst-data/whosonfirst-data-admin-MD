@@ -116,6 +116,9 @@
         "wd:id":"Q1147711"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a468189d555295c5c095f3b2d7b2183",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343176,
     "wof:name":"Co\u015ferni\u0163a",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

@@ -123,6 +123,9 @@
         "wd:id":"Q1991175"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6ee8618704ad8f8381ef82a0b3530323",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"\u015eestaci",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

@@ -117,6 +117,9 @@
         "wk:page":"Palanca, \u0218tefan Vod\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1384d578d57b746abd11ab1d416cc55b",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Palanca",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

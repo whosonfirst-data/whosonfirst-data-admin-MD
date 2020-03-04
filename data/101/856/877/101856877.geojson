@@ -121,6 +121,9 @@
         "wk:page":"Joltai"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"11a37985cb8166939862d05463161061",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603035,
+    "wof:lastmodified":1582343162,
     "wof:name":"Joltai",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

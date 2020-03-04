@@ -82,6 +82,9 @@
         "wd:id":"Q1990887"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7382bdf775786f1bea80a6728440fd62",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101865071,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1582343170,
     "wof:name":"Slobozia-Cremene",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

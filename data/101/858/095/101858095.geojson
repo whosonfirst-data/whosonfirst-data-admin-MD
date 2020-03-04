@@ -85,6 +85,9 @@
         "wk:page":"Obreja Veche"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"26e57c1d3d991975531f48015bcaaff3",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Obreja Veche",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

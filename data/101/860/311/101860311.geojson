@@ -77,6 +77,9 @@
         "wk:page":"Coteala"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c8bc3dc34ee327376c376b24a447e0c",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603046,
+    "wof:lastmodified":1582343165,
     "wof:name":"Coteala",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

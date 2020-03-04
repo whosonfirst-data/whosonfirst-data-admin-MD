@@ -111,6 +111,9 @@
         "wk:page":"Selemet"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"358a6585b74a12c618cb787e0e53561a",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"Selemet",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

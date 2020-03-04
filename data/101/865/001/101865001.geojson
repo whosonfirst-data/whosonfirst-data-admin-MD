@@ -126,6 +126,9 @@
         "wd:id":"Q1984394"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7a4d18f26672815a3547c0891ed192b",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Temeleu\u0163i",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wd:id":"Q12131783"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59bba1419a54a679c83fcf1347b736f7",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343168,
     "wof:name":"Mih\u0103la\u015fa",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

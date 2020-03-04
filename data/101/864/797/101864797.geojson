@@ -113,6 +113,9 @@
         "wk:page":"Ciorescu"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7edb27ed2ad35c930312174c4b2042c6",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Ciorescu",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

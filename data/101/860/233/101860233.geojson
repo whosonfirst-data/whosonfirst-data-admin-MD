@@ -92,6 +92,9 @@
         "wk:page":"F\u00eent\u00eeni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be201bf117ab6d1ea6fd6021055aff1a",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"F\u00eent\u00eeni\u0163a",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Hristovaia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"529a85355515137671bbcace9a00a784",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":101865039,
-    "wof:lastmodified":1566603065,
+    "wof:lastmodified":1582343170,
     "wof:name":"Hristovaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

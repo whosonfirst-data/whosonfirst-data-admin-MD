@@ -150,6 +150,10 @@
         "qs_pg:id":215316
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26c82d0886ad7ae7c653e760f75cf168",
     "wof:hierarchy":[
         {
@@ -163,7 +167,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Briceni",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

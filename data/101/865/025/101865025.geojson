@@ -120,6 +120,9 @@
         "wk:page":"Cobasna"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ccd6c5b2048f8df26a13803fc0ceb12",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":101865025,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1582343169,
     "wof:name":"Cobasna",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

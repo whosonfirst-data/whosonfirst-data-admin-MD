@@ -123,6 +123,9 @@
         "wk:page":"Gura Galbenei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c4603ddc51bc0bd40074288fe2cf07f",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Gura Galbenei",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

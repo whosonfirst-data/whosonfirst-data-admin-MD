@@ -116,6 +116,9 @@
         "wk:page":"Cioara, H\u00eence\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"806d3b3b52e73e7f70e1977900bf8e2b",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Cioara",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

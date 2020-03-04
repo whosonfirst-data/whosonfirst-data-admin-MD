@@ -117,6 +117,9 @@
         "wk:page":"Sucleia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0de819777474f8547fc75cc10869974c",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101864863,
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Sucleia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -121,6 +121,9 @@
         "wk:page":"P\u0103ule\u0219ti, C\u0103l\u0103ra\u0219i"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f4065873a866a3d087c32755c8fa7b34",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603080,
+    "wof:lastmodified":1582343175,
     "wof:name":"P\u0103ule\u015fti",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

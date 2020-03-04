@@ -106,6 +106,9 @@
         "wd:id":"Q4165117"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b84fa5553486b4065cfa3cc44514928d",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101858127,
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Doltu",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

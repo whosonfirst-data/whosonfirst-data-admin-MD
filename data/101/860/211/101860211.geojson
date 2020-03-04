@@ -86,6 +86,9 @@
         "wk:page":"Cotova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"68e40719c7ba5ec0151fe4cd6710f8d5",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603038,
+    "wof:lastmodified":1582343163,
     "wof:name":"Cotova",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

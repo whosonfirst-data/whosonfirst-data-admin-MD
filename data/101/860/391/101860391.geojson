@@ -124,6 +124,9 @@
         "wk:page":"Clim\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2edc312497d41da262a33fa3df09f69f",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603037,
+    "wof:lastmodified":1582343163,
     "wof:name":"Clim\u0103u\u0163i",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

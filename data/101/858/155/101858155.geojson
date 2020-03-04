@@ -129,6 +129,9 @@
         "wk:page":"Fundurii Vechi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3a3e92510f82e3b450d44c145514cf5",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Fundurii Vechi",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

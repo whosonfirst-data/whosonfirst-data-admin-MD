@@ -85,6 +85,9 @@
         "wk:page":"Mih\u0103l\u0103\u0219eni, Ocni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7dc7a151b2bc0ff309425ab38c791e27",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Mih\u0103l\u0103\u015feni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

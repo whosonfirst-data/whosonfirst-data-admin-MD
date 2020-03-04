@@ -90,6 +90,9 @@
         "wk:page":"Oni\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"569554ac1170e6bcf577af627ae7d3ab",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343167,
     "wof:name":"Oni\u015fcani",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

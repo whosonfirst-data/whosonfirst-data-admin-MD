@@ -123,6 +123,9 @@
         "wk:page":"Cernoleuca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2109c45cbd0f81486e1db2430b175cb9",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343164,
     "wof:name":"Cernoleuca",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

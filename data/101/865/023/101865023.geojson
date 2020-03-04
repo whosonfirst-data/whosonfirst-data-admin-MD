@@ -114,6 +114,9 @@
         "wk:page":"Crasnencoe"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a76bb6b0468d56ad55abd811b06950cf",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101865023,
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1582343169,
     "wof:name":"Crasnencoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

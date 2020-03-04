@@ -91,6 +91,9 @@
         "wk:page":"Crasnoarmeiscoe"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8c8e1c6379958c68a6aaca49a5cf44e7",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343161,
     "wof:name":"Crasnoarmeiscoe",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "wd:id":"Q2451634"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"659c7b8ba5e82d82a09c901e53b8a89c",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101856827,
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"Bud\u0103i",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

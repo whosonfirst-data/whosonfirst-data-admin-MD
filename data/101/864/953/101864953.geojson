@@ -122,6 +122,9 @@
         "wk:page":"Oli\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29bcec05c02816a41a64cef3cb0d3f4a",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Oli\u015fcani",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

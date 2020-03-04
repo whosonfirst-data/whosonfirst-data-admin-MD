@@ -114,6 +114,9 @@
         "wk:page":"Trinca, Edine\u021b"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"178c50e3c8953382034fffce87bffed9",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"Trinca",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

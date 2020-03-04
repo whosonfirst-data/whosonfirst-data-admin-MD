@@ -123,6 +123,9 @@
         "wd:id":"Q1984511"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"080ee511e831d56c9bad6863f1c6bb0c",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343175,
     "wof:name":"Cerni\u0163a",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

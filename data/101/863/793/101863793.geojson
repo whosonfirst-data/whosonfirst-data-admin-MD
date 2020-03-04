@@ -120,6 +120,9 @@
         "wk:page":"Floreni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d4acf2cb3eda5f5d2d77bb6d5918b24",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"Floreni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

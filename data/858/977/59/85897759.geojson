@@ -67,6 +67,10 @@
         "qs_pg:id":337546
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae2a2dd3f8841214eb8296dc4cf6bdb4",
     "wof:hierarchy":[
         {
@@ -81,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566602988,
+    "wof:lastmodified":1582343159,
     "wof:name":"Ryshkanovka",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

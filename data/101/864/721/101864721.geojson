@@ -88,6 +88,9 @@
         "wk:page":"B\u0103iu\u0219"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bbbdcae34a8aa751af241fe46cc3203f",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"B\u0103iu\u015f",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

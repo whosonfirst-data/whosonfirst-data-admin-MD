@@ -126,6 +126,9 @@
         "wk:page":"Volintiri"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db8330d1e068813b91759754fde63aad",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"Volintiri",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

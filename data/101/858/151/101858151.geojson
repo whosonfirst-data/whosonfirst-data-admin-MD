@@ -89,6 +89,9 @@
         "wk:page":"Cuhne\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91edfe141cd73d9047718a28abcdb0b8",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603047,
+    "wof:lastmodified":1582343166,
     "wof:name":"Cuhne\u015fti",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

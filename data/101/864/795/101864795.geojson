@@ -120,6 +120,10 @@
         "wk:page":"Cricova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26062a9e942e9e770b008153d66edade",
     "wof:hierarchy":[
         {
@@ -133,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603076,
+    "wof:lastmodified":1582343173,
     "wof:name":"Cricova",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

@@ -95,6 +95,9 @@
         "wk:page":"Micleu\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1a65a90de7f9f386a20d79b25778ce6",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603054,
+    "wof:lastmodified":1582343168,
     "wof:name":"Micleu\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

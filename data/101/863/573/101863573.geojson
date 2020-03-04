@@ -115,6 +115,9 @@
         "wk:page":"Cenac"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47f1a9057cb1e66c57579144c131ed9a",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"Cenac",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

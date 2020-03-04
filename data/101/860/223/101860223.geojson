@@ -123,6 +123,9 @@
         "wk:page":"Pope\u0219tii de Sus"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a48519f4bc4499b3eaad1d7eb29e3b6d",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603044,
+    "wof:lastmodified":1582343165,
     "wof:name":"Pope\u015ftii de Sus",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

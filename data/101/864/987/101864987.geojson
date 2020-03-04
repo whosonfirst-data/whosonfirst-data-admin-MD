@@ -124,6 +124,9 @@
         "wk:page":"Co\u0219erni\u021ba, Flore\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53021981da1ed27e80d0d8a8ccc48c7b",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603079,
+    "wof:lastmodified":1582343174,
     "wof:name":"Co\u015ferni\u0163a",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

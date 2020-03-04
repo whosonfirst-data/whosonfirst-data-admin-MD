@@ -82,6 +82,9 @@
         "wk:page":"Baroncea"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f087bff8d3a9f5646f899745fe100503",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Baroncea",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

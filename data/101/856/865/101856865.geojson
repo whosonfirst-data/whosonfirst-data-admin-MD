@@ -122,6 +122,9 @@
         "wd:id":"Q1776379"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3605c3b41d221c920a6d3287dacb611",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603036,
+    "wof:lastmodified":1582343162,
     "wof:name":"Co\u015ftangalia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

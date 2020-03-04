@@ -94,6 +94,9 @@
         "wd:id":"Q442707"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62287689aa468ec412c090ad323bbd8f",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101863713,
-    "wof:lastmodified":1566603085,
+    "wof:lastmodified":1582343177,
     "wof:name":"Dr\u0103gu\u015feni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

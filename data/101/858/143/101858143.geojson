@@ -81,6 +81,9 @@
         "wk:page":"Camenca, Glodeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"adab016185a9e6e153ad848ccb4ba67a",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603052,
+    "wof:lastmodified":1582343167,
     "wof:name":"Camenca",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

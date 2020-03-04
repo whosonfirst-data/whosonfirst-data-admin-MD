@@ -120,6 +120,9 @@
         "wk:page":"Rudi, Soroca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10e717473132a87047fe54f695156742",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603041,
+    "wof:lastmodified":1582343164,
     "wof:name":"Rudi",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

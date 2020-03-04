@@ -113,6 +113,9 @@
         "wk:page":"N\u0103padova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"448a681015f8c2c42c5b8b960f024882",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101864999,
-    "wof:lastmodified":1566603070,
+    "wof:lastmodified":1582343171,
     "wof:name":"N\u0103padova",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

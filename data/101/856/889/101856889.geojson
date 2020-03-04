@@ -120,6 +120,9 @@
         "wk:page":"Baurci"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ddc92b12a89d6a2db06c494fe7a4032f",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603034,
+    "wof:lastmodified":1582343161,
     "wof:name":"Baurci",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

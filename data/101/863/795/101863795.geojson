@@ -84,6 +84,9 @@
         "wd:id":"Q1239745"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1907c6acd45e3c8ef431b1ae50397450",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603089,
+    "wof:lastmodified":1582343178,
     "wof:name":"Geam\u0103na",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

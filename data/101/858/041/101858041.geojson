@@ -125,6 +125,9 @@
         "wk:page":"Te\u0219cureni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f9801aed9da058771346669f854c280",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603048,
+    "wof:lastmodified":1582343166,
     "wof:name":"Te\u015fcureni",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

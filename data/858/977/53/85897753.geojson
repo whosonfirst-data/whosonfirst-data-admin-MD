@@ -85,6 +85,10 @@
         "wd:id":"Q13424730"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83aa6448f3a60a6be9f791a0a97e58c3",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566602988,
+    "wof:lastmodified":1582343159,
     "wof:name":"Kozhevennaya",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

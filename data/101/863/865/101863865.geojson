@@ -85,6 +85,9 @@
         "wk:page":"Bo\u0219cana"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2917d2ab94d0d32122ffcc46ae065bd5",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603092,
+    "wof:lastmodified":1582343179,
     "wof:name":"Bo\u015fcana",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

@@ -93,6 +93,9 @@
         "wk:page":"H\u00eertopul Mare"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07aa2a255320746d8e25677be244d3cf",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603090,
+    "wof:lastmodified":1582343178,
     "wof:name":"H\u00eertopul Mare",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

@@ -128,6 +128,9 @@
         "wd:id":"Q2441241"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45e4b7ddf3c8fb98ab7dc40f40b94b71",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603066,
+    "wof:lastmodified":1582343170,
     "wof:name":"T\u00eergul-Vertiujeni",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

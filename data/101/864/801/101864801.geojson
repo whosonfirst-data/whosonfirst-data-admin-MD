@@ -131,6 +131,10 @@
         "wk:page":"Vadul lui Vod\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0db9ad0c100c99fabc100e0fb6a8a5cb",
     "wof:hierarchy":[
         {
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":101864801,
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Vadul lui Vod\u0103",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

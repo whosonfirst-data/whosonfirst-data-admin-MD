@@ -80,6 +80,9 @@
         "wk:page":"Prajila"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"569cff984addeb6d76170d4bb1561c7d",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Prajila",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

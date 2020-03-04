@@ -132,6 +132,9 @@
         "wk:page":"G\u00eesca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"657a9bac1fe7e30ad86e277cf8cc8d96",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603084,
+    "wof:lastmodified":1582343176,
     "wof:name":"G\u00eesca",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

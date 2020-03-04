@@ -81,6 +81,9 @@
         "wk:page":"Cucuruzeni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f5127b630aa1f4a9be1978190fb997d4",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Cucuruzeni",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

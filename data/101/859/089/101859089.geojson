@@ -88,6 +88,9 @@
         "wk:page":"Dr\u0103g\u0103ne\u0219ti, S\u00eengerei"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c414dede5ff330dc361a67affa76dd59",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603031,
+    "wof:lastmodified":1582343160,
     "wof:name":"Dr\u0103g\u0103ne\u015fti",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

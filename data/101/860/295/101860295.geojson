@@ -116,6 +116,9 @@
         "wk:page":"Goleni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"deb9166c003fb67c54d5be0c2894f8c8",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343163,
     "wof:name":"Goleni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

@@ -156,6 +156,9 @@
         "wk:page":"H\u00eence\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5586f2f01b54da0a6f20b17b81690151",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603081,
+    "wof:lastmodified":1582343175,
     "wof:name":"H\u00eence\u015fti",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

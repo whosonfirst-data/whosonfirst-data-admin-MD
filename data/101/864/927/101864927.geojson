@@ -124,6 +124,9 @@
         "wd:id":"Q1988241"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a4c9910c19fc10ae25c3737d386a389",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Gordine\u015fti",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

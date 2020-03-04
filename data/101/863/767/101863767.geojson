@@ -110,6 +110,9 @@
         "wk:page":"St\u0103uceni, Chi\u0219in\u0103u"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"63735669e32be4a55715f396481b3ece",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":101863767,
-    "wof:lastmodified":1566603087,
+    "wof:lastmodified":1582343177,
     "wof:name":"St\u0103uceni",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

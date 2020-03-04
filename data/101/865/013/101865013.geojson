@@ -125,6 +125,9 @@
         "wk:page":"Ghinde\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a44640fd2b2d6e4c3ad30768a09791b0",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603064,
+    "wof:lastmodified":1582343169,
     "wof:name":"Ghinde\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

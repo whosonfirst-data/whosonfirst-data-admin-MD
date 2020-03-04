@@ -120,6 +120,9 @@
         "wk:page":"Cobani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"884b7479a83b66db4febeac6439c1a65",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603051,
+    "wof:lastmodified":1582343167,
     "wof:name":"Cobani",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

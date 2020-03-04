@@ -115,6 +115,9 @@
         "wk:page":"Sauca, Ocni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1165ea22d76c17ab0fcea8b3f523b5dc",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603045,
+    "wof:lastmodified":1582343165,
     "wof:name":"Sauca",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

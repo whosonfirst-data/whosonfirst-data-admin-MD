@@ -85,6 +85,9 @@
         "wk:page":"D\u0103rc\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79f898a49eb803237f01fdb1da43caa4",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603042,
+    "wof:lastmodified":1582343164,
     "wof:name":"D\u0103rc\u0103u\u0163i",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

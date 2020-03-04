@@ -120,6 +120,9 @@
         "wd:id":"Q4128364"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69447e503ff6cba81510e656c78a1a90",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Vulpe\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

@@ -106,6 +106,9 @@
         "wk:page":"Frunz\u0103"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f99679829392f4599441ff1af28e98f",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603040,
+    "wof:lastmodified":1582343164,
     "wof:name":"Frunz\u0103",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

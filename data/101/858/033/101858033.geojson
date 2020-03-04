@@ -118,6 +118,9 @@
         "wk:page":"Cornova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73bdaafbf40465792ffbc42277fe5cd5",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"Cornova",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

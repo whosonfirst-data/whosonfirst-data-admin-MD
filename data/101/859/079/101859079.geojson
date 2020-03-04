@@ -82,6 +82,9 @@
         "wk:page":"Morenii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7ee9a0d0465073b77f6a1af09db6deb9",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"Morenii Noi",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

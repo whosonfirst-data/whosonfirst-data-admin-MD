@@ -124,6 +124,9 @@
         "wk:page":"Cri\u0219c\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23d6c600ca2a4b84a3675ebfd6ff597c",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603039,
+    "wof:lastmodified":1582343163,
     "wof:name":"Cri\u015fc\u0103u\u0163i",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

@@ -106,6 +106,9 @@
         "wd:id":"Q4347559"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"99cc5179a0b499f0bc207d9a8ad0794d",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101855731,
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"Pa\u015fcani",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

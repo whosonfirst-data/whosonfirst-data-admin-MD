@@ -124,6 +124,9 @@
         "wk:page":"V\u00ee\u0219c\u0103u\u021bi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd66c332597d5bb8abcbd654d8ca5e56",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"V\u00ee\u015fc\u0103u\u0163i",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

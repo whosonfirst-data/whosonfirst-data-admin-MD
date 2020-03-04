@@ -113,6 +113,9 @@
         "wd:id":"Q1992285"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c77f5422a5089386699389ff8d45ee1d",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603091,
+    "wof:lastmodified":1582343178,
     "wof:name":"Copceac",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

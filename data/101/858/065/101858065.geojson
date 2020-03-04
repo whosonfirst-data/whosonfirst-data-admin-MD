@@ -80,6 +80,9 @@
         "wk:page":"R\u0103ciula"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9a40e5e7d7ef2069177b92864ba287b",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101858065,
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"R\u0103ciula",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

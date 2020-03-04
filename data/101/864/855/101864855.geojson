@@ -111,6 +111,9 @@
         "wk:page":"Carmanova"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd0518d8e64d6870c55cfc3d004ea481",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101864855,
-    "wof:lastmodified":1566603078,
+    "wof:lastmodified":1582343174,
     "wof:name":"Carmanova",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

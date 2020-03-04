@@ -91,6 +91,9 @@
         "wk:page":"Co\u0219ni\u021ba"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"608b5e36dd684b43ddba55eac300f4a8",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603083,
+    "wof:lastmodified":1582343176,
     "wof:name":"Co\u015fni\u0163a",
     "wof:parent_id":85686427,
     "wof:placetype":"locality",

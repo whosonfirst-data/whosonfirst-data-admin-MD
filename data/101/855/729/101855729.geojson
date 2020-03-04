@@ -81,6 +81,9 @@
         "wk:page":"Cucoara"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"354689e1c545a578b947757c22e9a14f",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603069,
+    "wof:lastmodified":1582343171,
     "wof:name":"Cucoara",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

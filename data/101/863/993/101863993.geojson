@@ -131,6 +131,9 @@
         "wk:page":"Cr\u0103sn\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d6858c517c8c26de570adeb1906c0d99",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603088,
+    "wof:lastmodified":1582343177,
     "wof:name":"Cr\u0103sn\u0103\u015feni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

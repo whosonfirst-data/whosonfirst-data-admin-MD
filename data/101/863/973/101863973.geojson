@@ -108,6 +108,9 @@
         "wd:id":"Q4449289"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d96ba1173b5e112016541bc4d0a49f16",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101863973,
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Tab\u0103ra",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

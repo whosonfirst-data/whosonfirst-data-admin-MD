@@ -119,6 +119,9 @@
         "wk:page":"Andru\u0219ul de Jos"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58d29b99ef235e8efcf1296e29443b53",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"Andru\u015ful de Jos",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

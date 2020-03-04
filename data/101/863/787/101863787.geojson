@@ -83,6 +83,9 @@
         "wk:page":"Cobusca Veche"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1b6b5986a991fa2b3968351e350b9af",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343179,
     "wof:name":"Cobusca Veche",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

@@ -123,6 +123,9 @@
         "wk:page":"Ba\u0219calia"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c130abab688a1b008a4d8bf145f66500",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603077,
+    "wof:lastmodified":1582343174,
     "wof:name":"Ba\u015fcalia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

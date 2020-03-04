@@ -122,6 +122,9 @@
         "wk:page":"Crihana Veche"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9dec7c490bcea74def8e0fced12a2f89",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603067,
+    "wof:lastmodified":1582343170,
     "wof:name":"Crihana Veche",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

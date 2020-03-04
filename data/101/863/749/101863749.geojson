@@ -98,6 +98,9 @@
         "wk:page":"Ruse\u0219tii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38f9055837142c8ff1fc5660baabe546",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603086,
+    "wof:lastmodified":1582343177,
     "wof:name":"Ruse\u015ftii Noi",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

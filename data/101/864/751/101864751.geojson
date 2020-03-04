@@ -112,6 +112,9 @@
         "wd:id":"Q4350692"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24be1f923c8efedc95604d99c3ad566e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603075,
+    "wof:lastmodified":1582343173,
     "wof:name":"Pereni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

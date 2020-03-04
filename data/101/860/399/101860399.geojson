@@ -87,6 +87,10 @@
         "wk:page":"Dondu\u0219eni, Dondu\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50cf5f5e0f4fcbfe7ec700418a09d48f",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":101860399,
-    "wof:lastmodified":1544745417,
+    "wof:lastmodified":1582343163,
     "wof:name":"Dondu\u015feni",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

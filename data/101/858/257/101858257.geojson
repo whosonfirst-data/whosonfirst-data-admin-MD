@@ -81,6 +81,9 @@
         "wk:page":"Recea, R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"77e69f7298384cac8a0c2ceab75f2a7e",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603049,
+    "wof:lastmodified":1582343166,
     "wof:name":"Recea",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

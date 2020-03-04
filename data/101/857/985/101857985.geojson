@@ -121,6 +121,9 @@
         "wk:page":"Bol\u021bun"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f8d1819d8d42a90cd2ff1bf3a1828b2c",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603032,
+    "wof:lastmodified":1582343161,
     "wof:name":"Bol\u0163un",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

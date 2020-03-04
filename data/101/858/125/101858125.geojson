@@ -92,6 +92,9 @@
         "wk:page":"I\u0219c\u0103l\u0103u"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45319110e4689527077414bac2ec25ba",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603056,
+    "wof:lastmodified":1582343169,
     "wof:name":"I\u015fc\u0103l\u0103u",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

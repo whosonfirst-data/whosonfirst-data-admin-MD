@@ -152,6 +152,9 @@
         "wk:page":"F\u0103le\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ea66058201eea99bda1ccb062198b8d",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603030,
+    "wof:lastmodified":1582343160,
     "wof:name":"F\u0103le\u015fti",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

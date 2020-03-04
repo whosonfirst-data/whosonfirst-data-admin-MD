@@ -92,6 +92,9 @@
         "wk:page":"G\u0103le\u0219ti, Str\u0103\u0219eni"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7be46b0d719bae13c9a079d4880162c",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603071,
+    "wof:lastmodified":1582343172,
     "wof:name":"G\u0103le\u015fti",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

@@ -121,6 +121,10 @@
         "wk:page":"Bursuc"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"144c8c3e2df68bb16a42046c64e7ba62",
     "wof:hierarchy":[
         {
@@ -134,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603033,
+    "wof:lastmodified":1582343161,
     "wof:name":"Bursuc",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

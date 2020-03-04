@@ -114,6 +114,9 @@
         "wd:id":"Q2608314"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25f8107137f5ce725d80157ae440a903",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101876257,
-    "wof:lastmodified":1566603060,
+    "wof:lastmodified":1582343169,
     "wof:name":"M\u0103rcule\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

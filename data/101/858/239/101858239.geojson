@@ -86,6 +86,9 @@
         "wk:page":"G\u0103l\u0103\u0219eni, R\u00ee\u0219cani"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a22f9c30073188ff26c9842eb01a542",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603055,
+    "wof:lastmodified":1582343168,
     "wof:name":"G\u0103l\u0103\u015feni",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

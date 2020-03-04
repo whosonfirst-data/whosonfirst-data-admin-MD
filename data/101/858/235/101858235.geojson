@@ -93,6 +93,9 @@
         "wk:page":"S\u00eengereii Noi"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6a7da9f3f966adad9705554d0cc05b1",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603050,
+    "wof:lastmodified":1582343166,
     "wof:name":"S\u00eengereii Noi",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

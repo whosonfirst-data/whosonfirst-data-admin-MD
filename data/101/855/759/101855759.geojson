@@ -125,6 +125,9 @@
         "wk:page":"C\u00eerpe\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"820ecc697b9b90366bce6c734fb82237",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603068,
+    "wof:lastmodified":1582343171,
     "wof:name":"C\u00eerpe\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

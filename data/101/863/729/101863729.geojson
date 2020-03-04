@@ -124,6 +124,9 @@
         "wk:page":"Hansca"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dcc04aab2da0f75cef0b84eb1682573",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603094,
+    "wof:lastmodified":1582343180,
     "wof:name":"Hansca",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

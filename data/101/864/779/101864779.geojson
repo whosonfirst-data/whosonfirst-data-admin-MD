@@ -114,6 +114,10 @@
         "wk:page":"S\u00eengera"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39c524bfaa474ef90e915c28758efb58",
     "wof:hierarchy":[
         {
@@ -127,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"S\u00eengera",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

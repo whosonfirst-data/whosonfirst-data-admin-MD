@@ -101,6 +101,9 @@
         "wk:page":"Ciutule\u0219ti"
     },
     "wof:country":"MD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7ed02d968c54c9222cb446091b84531",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566603074,
+    "wof:lastmodified":1582343173,
     "wof:name":"Ciutule\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

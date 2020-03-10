@@ -1136,9 +1136,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Moldova",
-        "digitalenvoy:country_code":[
-            498
-        ],
+        "digitalenvoy:country_code":498,
         "fb:id":"en.moldova",
         "fifa:id":"MDA",
         "fips:code":"MD",
@@ -1182,7 +1180,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1583529177,
+    "wof:lastmodified":1583797384,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

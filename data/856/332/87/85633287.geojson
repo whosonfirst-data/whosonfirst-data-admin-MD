@@ -761,6 +761,9 @@
     "name:roh_x_preferred":[
         "Moldavia"
     ],
+    "name:rom_x_preferred":[
+        "Moldova"
+    ],
     "name:ron_x_preferred":[
         "Republica Moldova"
     ],
@@ -1180,7 +1183,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1583797384,
+    "wof:lastmodified":1614895310,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

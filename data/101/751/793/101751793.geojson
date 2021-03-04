@@ -395,6 +395,9 @@
     "name:roh_x_variant":[
         "Chi\u0219in\u0103u"
     ],
+    "name:rom_x_preferred":[
+        "Chi\u0219in\u0103u"
+    ],
     "name:ron_x_preferred":[
         "Chi\u0219in\u0103u"
     ],
@@ -689,7 +692,7 @@
         }
     ],
     "wof:id":101751793,
-    "wof:lastmodified":1607390890,
+    "wof:lastmodified":1614895313,
     "wof:megacity":0,
     "wof:name":"Chisinau",
     "wof:parent_id":85686391,

@@ -1172,7 +1172,8 @@
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "quattroshapes",
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
@@ -1232,7 +1233,8 @@
     "wof:geom_alt":[
         "quattroshapes",
         "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"ae2758184480f3aaf8e05e290650b794",
     "wof:hierarchy":[
@@ -1248,7 +1250,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1617828273,
+    "wof:lastmodified":1618362671,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -35,6 +35,9 @@
         "Bender Municipality",
         "Bender"
     ],
+    "name:fra_x_preferred":[
+        "Bender"
+    ],
     "name:rom_x_preferred":[
         "Bender"
     ],
@@ -156,7 +159,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1627522350,
     "wof:name":"mun.Bender",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

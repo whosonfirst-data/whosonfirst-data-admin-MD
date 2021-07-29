@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Transnistria"
     ],
+    "name:fra_x_preferred":[
+        "UAT din St\u00eenga Nistrului"
+    ],
     "name:rom_x_preferred":[
         "Transnistria"
     ],
@@ -98,7 +101,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895311,
+    "wof:lastmodified":1627522350,
     "wof:name":"UAT din St\u00eenga Nistrului",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",

@@ -61,6 +61,9 @@
     "name:eng_x_variant":[
         "Leova District"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0626\u0648\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Leovan kaupunginosa"
     ],
@@ -73,8 +76,14 @@
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a93\u0ab5\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u0913\u0935\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Leova"
     ],
     "name:ind_x_preferred":[
         "Raionul Leova"
@@ -301,7 +310,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895313,
+    "wof:lastmodified":1636499991,
     "wof:name":"Leova",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

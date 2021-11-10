@@ -47,7 +47,13 @@
     "name:fra_x_preferred":[
         "Taraclia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d0\u05e7\u05dc\u05d9\u05d4"
+    ],
     "name:hsb_x_preferred":[
+        "Taraclia"
+    ],
+    "name:hun_x_preferred":[
         "Taraclia"
     ],
     "name:hye_x_preferred":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1259915569,
-    "wof:lastmodified":1566603109,
+    "wof:lastmodified":1636499997,
     "wof:name":"Taraclia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

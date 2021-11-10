@@ -67,12 +67,21 @@
         "Kahul"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d4\u05d5\u05dc"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d0\u05d7\u05d5\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0939\u0941\u0932"
     ],
     "name:hrv_x_preferred":[
         "Cahul"
     ],
     "name:hsb_x_preferred":[
+        "Cahul"
+    ],
+    "name:ind_x_preferred":[
         "Cahul"
     ],
     "name:ita_x_preferred":[
@@ -133,6 +142,9 @@
         "\u041a\u0430\u0445\u0443\u043b"
     ],
     "name:swe_x_preferred":[
+        "Cahul"
+    ],
+    "name:tur_x_preferred":[
         "Cahul"
     ],
     "name:ukr_x_preferred":[
@@ -299,7 +311,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1636499994,
     "wof:name":"Cahul",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

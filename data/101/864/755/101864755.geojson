@@ -69,6 +69,9 @@
         "Comuna Solonceni"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0443\u0444\u0438\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u043e\u0444\u0438\u044f"
     ],
     "name:spa_x_preferred":[
@@ -77,8 +80,23 @@
     "name:swe_x_preferred":[
         "Sofia"
     ],
+    "name:tur_x_preferred":[
+        "Sofia"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0444\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0641\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Sofia"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7d22\u975e\u4e9a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d22\u83f2\u4e9e"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*H\u00eence\u015fti",
@@ -128,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343171,
+    "wof:lastmodified":1636499995,
     "wof:name":"Sofia",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -48,7 +48,13 @@
     "name:fra_x_preferred":[
         "Drochia"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05d5\u05e6'\u05d9\u05d4"
+    ],
     "name:hsb_x_preferred":[
+        "Drochia"
+    ],
+    "name:hun_x_preferred":[
         "Drochia"
     ],
     "name:hye_x_preferred":[
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":101860243,
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1636499992,
     "wof:name":"Drochia",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

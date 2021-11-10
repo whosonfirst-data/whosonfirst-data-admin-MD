@@ -45,11 +45,17 @@
     "name:est_x_preferred":[
         "Anenii Noi"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0650\u0646\u06cc \u0646\u0648\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Anenii Noi"
     ],
     "name:fra_x_preferred":[
         "Anenii Noi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e0\u05d9 \u05e0\u05d5\u05d9"
     ],
     "name:hsb_x_preferred":[
         "Anenii Noi"
@@ -173,7 +179,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1636499996,
     "wof:name":"Anenii Noi",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

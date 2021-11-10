@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "Cantemir"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d8\u05de\u05d9\u05e8"
+    ],
     "name:hsb_x_preferred":[
         "Cantemir"
     ],
@@ -151,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343171,
+    "wof:lastmodified":1636499995,
     "wof:name":"Cantemir",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

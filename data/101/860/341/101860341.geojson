@@ -46,6 +46,9 @@
         "Briceni"
     ],
     "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d9\u05e1\u05e0\u05d9"
+    ],
+    "name:heb_x_variant":[
         "\u05d1\u05e8\u05d9\u05e6'\u05d1\u05d4"
     ],
     "name:hsb_x_preferred":[
@@ -167,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1636499993,
     "wof:name":"Briceni",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

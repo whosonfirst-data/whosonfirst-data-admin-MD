@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Manta"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d8\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Manta"
     ],
@@ -97,7 +100,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343171,
+    "wof:lastmodified":1636499995,
     "wof:name":"Manta",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

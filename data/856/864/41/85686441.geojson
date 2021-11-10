@@ -77,8 +77,14 @@
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ab9\u0ac7\u0a87 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d4\u05d9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0914\u0930\u0939\u0947\u0908 \u091c\u093c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Orhei"
     ],
     "name:ind_x_preferred":[
         "Raionul Orhei"
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1636499989,
     "wof:name":"Orhei",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

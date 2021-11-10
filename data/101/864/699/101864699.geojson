@@ -50,11 +50,17 @@
     "name:est_x_preferred":[
         "Basarabeasca"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u0627\u0631\u0627\u0628\u06cc\u0633\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Basarabeasca"
     ],
     "name:fra_x_preferred":[
         "Basarabeasca"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e1\u05d0\u05e8\u05d0\u05d1\u05e1\u05e7\u05d4"
     ],
     "name:hsb_x_preferred":[
         "Basarabeasca"
@@ -169,7 +175,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1636499995,
     "wof:name":"Basarabeasca",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

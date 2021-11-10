@@ -171,6 +171,9 @@
         "\u0e40\u0e02\u0e15\u0e01\u0e32\u0e2e\u0e38\u0e25"
     ],
     "name:tur_x_preferred":[
+        "Cahul"
+    ],
+    "name:tur_x_variant":[
         "Cahul District"
     ],
     "name:ukr_x_preferred":[
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1636499990,
     "wof:name":"Cahul",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

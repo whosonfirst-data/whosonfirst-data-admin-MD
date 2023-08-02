@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0435\u043d\u0438"
+    ],
     "name:deu_x_preferred":[
         "Lipoveni"
     ],
@@ -31,6 +34,9 @@
         "Lipoveni"
     ],
     "name:fra_x_preferred":[
+        "Lipoveni"
+    ],
+    "name:gle_x_preferred":[
         "Lipoveni"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +56,12 @@
     ],
     "name:rus_x_variant":[
         "\u041b\u0438\u043f\u043e\u0432\u0435\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Lipoveni"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043f\u043e\u0432\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043f\u043e\u0432\u0435\u043d\u044c"
@@ -104,7 +116,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939304,
     "wof:name":"Lipoveni",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

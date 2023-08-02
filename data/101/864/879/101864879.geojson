@@ -32,11 +32,20 @@
     "name:eng_x_preferred":[
         "Nezavertailovca"
     ],
+    "name:eng_x_variant":[
+        "Nezavertaylovka"
+    ],
     "name:eus_x_preferred":[
         "Nezavertailovca"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0632\u0627\u0648\u0631\u062a\u0627\u0627\u06cc\u0644\u06cc\u0648\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Nezavertailovca"
+    ],
+    "name:gle_x_preferred":[
+        "Nezavertaylovka"
     ],
     "name:ita_x_preferred":[
         "Nezavertailovca"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":101864879,
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939267,
     "wof:name":"Nezavertailovca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

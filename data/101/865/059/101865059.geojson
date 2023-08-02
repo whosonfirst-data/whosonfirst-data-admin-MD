@@ -35,7 +35,13 @@
     "name:eus_x_preferred":[
         "Butuceni"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0633\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Butuceni"
+    ],
+    "name:gle_x_preferred":[
         "Butuceni"
     ],
     "name:ita_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":101865059,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939239,
     "wof:name":"Butuceni",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

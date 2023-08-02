@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u067e\u064a\u062a\u0631\u0648\u0646\u064a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Petrunea"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0443\u043d\u044f"
     ],
     "name:dan_x_preferred":[
         "Petrunea"
@@ -39,6 +45,9 @@
         "Petrunea"
     ],
     "name:fra_x_preferred":[
+        "Petrunea"
+    ],
+    "name:gle_x_preferred":[
         "Petrunea"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +82,9 @@
     ],
     "name:swe_x_preferred":[
         "Petrunea"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0443\u043d\u0435\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0443\u043d\u044f"
@@ -130,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343167,
+    "wof:lastmodified":1690939201,
     "wof:name":"Petrunea",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

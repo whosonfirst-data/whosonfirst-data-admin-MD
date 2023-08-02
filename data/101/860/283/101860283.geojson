@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Rotunda"
     ],
+    "name:eus_x_preferred":[
+        "Rotunda"
+    ],
     "name:fra_x_preferred":[
         "Rotunda"
     ],
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939179,
     "wof:name":"Rotunda",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

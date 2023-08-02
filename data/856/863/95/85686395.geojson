@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0646\u064a\u0646\u064a \u0646\u0648\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Novoannen rayonu"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09c7\u09a8\u09bf \u09a8\u09cb\u0987 \u099c\u09c7\u09b2\u09be"
     ],
@@ -107,6 +110,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub124\ub2c8\ub178\uc774 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub124\ub2c8\ub178\uc774\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Aneni Nojas rajons"
     ],
@@ -115,6 +121,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0905\u0928\u0928\u0940 \u0928\u094b\u0908 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u0438 \u0410\u043d\u0435\u043d\u0438"
     ],
     "name:msa_x_preferred":[
         "Anenii Noi District"
@@ -170,6 +179,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0ba9\u0bc7\u0ba8\u0bc0  \u0ba8\u0bbe\u0baf\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b85\u0ba9\u0bc7\u0ba8\u0bc0 \u0ba8\u0bbe\u0baf\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c46\u0c28\u0c40 \u0c28\u0c4b\u0c2f\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -314,7 +326,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499990,
+    "wof:lastmodified":1690939133,
     "wof:name":"Anenii Noi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

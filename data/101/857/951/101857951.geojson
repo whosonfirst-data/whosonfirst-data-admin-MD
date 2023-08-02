@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0631\u0645\u0627"
+    ],
     "name:ceb_x_preferred":[
         "S\u00eerma"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u044b\u0440\u043c\u0430"
     ],
     "name:dan_x_preferred":[
         "S\u00eerma"
@@ -40,6 +46,9 @@
         "S\u00eerma"
     ],
     "name:fra_x_preferred":[
+        "S\u00eerma"
+    ],
+    "name:gle_x_preferred":[
         "S\u00eerma"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +86,9 @@
     ],
     "name:swe_x_preferred":[
         "S\u00eerma"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u044b\u0440\u043c\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0438\u0440\u043c\u0430"
@@ -142,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343161,
+    "wof:lastmodified":1690939152,
     "wof:name":"S\u00eerma",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

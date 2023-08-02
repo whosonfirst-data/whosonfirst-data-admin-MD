@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u067e\u0648\u062a\u064a\u0646\u064a\u0634\u062a\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Putine\u0219ti"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0443\u0442\u0438\u043d\u0435\u0448\u0442\u0438"
     ],
     "name:dan_x_preferred":[
         "Putine\u0219ti"
@@ -41,6 +47,9 @@
         "Putine\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "Putine\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Putine\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Putine\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0443\u0442\u0438\u043d\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0456\u043d\u0435\u0448\u0442\u044c"
@@ -141,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343168,
+    "wof:lastmodified":1690939207,
     "wof:name":"Putine\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

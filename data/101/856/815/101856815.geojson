@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0415\u0442\u0443\u043b\u0438\u044f"
     ],
+    "name:che_x_preferred":[
+        "\u0415\u0442\u0443\u043b\u0438\u0430"
+    ],
     "name:eng_x_preferred":[
         "Etuliya"
     ],
@@ -39,8 +42,14 @@
     "name:gag_x_preferred":[
         "T\u00fcl\u00fck\u00fc\u00fc"
     ],
+    "name:gle_x_preferred":[
+        "Etulia"
+    ],
     "name:ita_x_preferred":[
         "Etulia"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u0442\u0443\u043b\u0438\u044f"
     ],
     "name:nld_x_preferred":[
         "Etulia"
@@ -104,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343162,
+    "wof:lastmodified":1690939159,
     "wof:name":"Etulia",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

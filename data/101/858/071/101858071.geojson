@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0421\u0438\u043f\u043e\u0442\u0435\u043d\u044c"
+    ],
     "name:eng_x_preferred":[
         "Sipoteny"
     ],
@@ -30,6 +33,9 @@
         "Sipoteni"
     ],
     "name:fra_x_preferred":[
+        "Sipoteni"
+    ],
+    "name:gle_x_preferred":[
         "Sipoteni"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Sipoteni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043f\u043e\u0442\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043f\u043e\u0442\u0435\u043d\u044c"
@@ -109,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343166,
+    "wof:lastmodified":1690939194,
     "wof:name":"Sipoteni",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

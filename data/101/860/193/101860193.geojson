@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0633\u064a\u0646\u0649 \u0646\u0648\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Borosenii Noi"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0441\u0435\u043d\u0438\u0439 \u041d\u043e\u0439"
     ],
     "name:dan_x_preferred":[
         "Borosenii Noi"
@@ -45,6 +51,9 @@
         "Borosenii Noi"
     ],
     "name:fra_x_preferred":[
+        "Borosenii Noi"
+    ],
+    "name:gle_x_preferred":[
         "Borosenii Noi"
     ],
     "name:ita_x_preferred":[
@@ -85,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "Borosenii Noi"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0441\u0435\u043d\u0438\u0439 \u041d\u043e\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0441\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
@@ -142,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939164,
     "wof:name":"Borosenii Noi",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

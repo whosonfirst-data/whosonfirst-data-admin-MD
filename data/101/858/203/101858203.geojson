@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "\u021aiplete\u0219ti"
     ],
+    "name:che_x_preferred":[
+        "\u0426\u0438\u043f\u043b\u0435\u0442\u0435\u0448\u0442\u0438"
+    ],
     "name:dan_x_preferred":[
         "\u021aiplete\u0219ti"
     ],
@@ -36,6 +39,9 @@
         "\u021aiplete\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "\u021aiplete\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "\u021aiplete\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "\u021aiplete\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0438\u043f\u043b\u0435\u0442\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0438\u043f\u043b\u0435\u0442\u0435\u0448\u0442\u044c"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":101858203,
-    "wof:lastmodified":1582343166,
+    "wof:lastmodified":1690939196,
     "wof:name":"\u0162iplete\u015fti",
     "wof:parent_id":85686459,
     "wof:placetype":"locality",

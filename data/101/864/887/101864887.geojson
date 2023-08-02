@@ -32,11 +32,20 @@
     "name:eng_x_preferred":[
         "Corotna"
     ],
+    "name:eng_x_variant":[
+        "Korotnoye"
+    ],
     "name:eus_x_preferred":[
         "Corotna"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0648\u062a\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Corotna"
+    ],
+    "name:gle_x_preferred":[
+        "Korotnoye"
     ],
     "name:ita_x_preferred":[
         "Corotna"
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":101864887,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939251,
     "wof:name":"Corotna",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

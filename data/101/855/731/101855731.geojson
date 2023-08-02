@@ -24,6 +24,9 @@
     "name:ceb_x_preferred":[
         "Pa\u0219cani"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u044c"
+    ],
     "name:dan_x_preferred":[
         "Pa\u0219cani"
     ],
@@ -37,6 +40,9 @@
         "Pa\u0219cani"
     ],
     "name:fra_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:gle_x_preferred":[
         "Pa\u0219cani"
     ],
     "name:ita_x_preferred":[
@@ -71,6 +77,9 @@
     ],
     "name:swe_x_preferred":[
         "Pa\u0219cani"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101855731,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939241,
     "wof:name":"Pa\u015fcani",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

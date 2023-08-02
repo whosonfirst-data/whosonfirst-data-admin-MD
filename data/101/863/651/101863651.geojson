@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "G\u00eesca"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u044b\u0441\u043a\u0430"
+    ],
     "name:dan_x_preferred":[
         "G\u00eesca"
     ],
@@ -35,13 +38,17 @@
     "name:eng_x_variant":[
         "Geyska",
         "Predmest'ye Giska",
-        "G\u00eesca"
+        "G\u00eesca",
+        "Giska"
     ],
     "name:eus_x_preferred":[
         "G\u00eesca"
     ],
     "name:fra_x_preferred":[
         "G\u00eesca"
+    ],
+    "name:gle_x_preferred":[
+        "Giska"
     ],
     "name:ita_x_preferred":[
         "G\u00eesca"
@@ -78,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "G\u00eesca"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u044b\u0441\u043a\u0430"
     ],
     "name:tur_x_preferred":[
         "G\u00eesca"
@@ -148,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343176,
+    "wof:lastmodified":1690939289,
     "wof:name":"G\u00eesca",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

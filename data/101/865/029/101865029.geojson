@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Mocra"
     ],
+    "name:gle_x_preferred":[
+        "Mocra"
+    ],
     "name:ita_x_preferred":[
         "Mocra"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101865029,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939237,
     "wof:name":"Mocra",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:ceb_x_preferred":[
         "Raionul Str\u0103\u0219eni"
     ],
+    "name:ces_x_preferred":[
+        "Okres Str\u0103\u0219eni"
+    ],
     "name:dan_x_preferred":[
         "Str\u0103\u0219eni District"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud2b8\ub7ec\uc170\ub2c8 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud2b8\ub7ec\uc170\ub2c8\uad6c"
     ],
     "name:lav_x_preferred":[
         "Stre\u0161enu rajons"
@@ -310,7 +316,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895311,
+    "wof:lastmodified":1690939129,
     "wof:name":"Str\u0103\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

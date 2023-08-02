@@ -39,6 +39,9 @@
     "name:fra_x_preferred":[
         "Ciorescu"
     ],
+    "name:gle_x_preferred":[
+        "Ciorescu"
+    ],
     "name:ita_x_preferred":[
         "Ciorescu"
     ],
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343171,
+    "wof:lastmodified":1690939246,
     "wof:name":"Ciorescu",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

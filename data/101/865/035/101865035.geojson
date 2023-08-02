@@ -35,7 +35,13 @@
     "name:eus_x_preferred":[
         "\u021a\u00eebuleuca"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0628\u0648\u0644\u0648\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
+        "\u021a\u00eebuleuca"
+    ],
+    "name:gle_x_preferred":[
         "\u021a\u00eebuleuca"
     ],
     "name:ita_x_preferred":[
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":101865035,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939239,
     "wof:name":"\u0162\u00eebuleuca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

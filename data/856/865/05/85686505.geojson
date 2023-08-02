@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0646\u062f\u0648\u0633\u064a\u0646\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Dond\u00fc\u015fan rayonu"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u0430\u043d\u0434\u0437\u044e\u0448\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Dondu\u0219eni"
+    ],
+    "name:ces_x_preferred":[
+        "Okres Dondu\u0219eni"
     ],
     "name:dan_x_preferred":[
         "Dondu\u0219eni District"
@@ -97,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3c8\ub450\uc170\ub2c8 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c8\ub450\uc170\ub2c8\uad6c"
     ],
     "name:lav_x_preferred":[
         "Dondu\u0161enu rajons"
@@ -314,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895310,
+    "wof:lastmodified":1690939127,
     "wof:name":"Dondu\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

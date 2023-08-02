@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0645\u0648\u0643\u0644\u064a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Ermoclia"
+    ],
+    "name:che_x_preferred":[
+        "\u0415\u0440\u043c\u043e\u043a\u043b\u0438\u0430"
     ],
     "name:dan_x_preferred":[
         "Ermoclia"
@@ -40,6 +46,9 @@
         "Ermoclia"
     ],
     "name:fra_x_preferred":[
+        "Ermoclia"
+    ],
+    "name:gle_x_preferred":[
         "Ermoclia"
     ],
     "name:ita_x_preferred":[
@@ -74,6 +83,9 @@
     ],
     "name:swe_x_preferred":[
         "Ermoclia"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u0440\u043c\u043e\u043a\u043b\u0438\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u0440\u043c\u043e\u043a\u043b\u0456\u044f"
@@ -131,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343176,
+    "wof:lastmodified":1690939285,
     "wof:name":"Ermoclia",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

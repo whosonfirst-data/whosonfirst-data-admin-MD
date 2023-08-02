@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
+    ],
     "name:eng_x_preferred":[
         "Gradishche"
     ],
@@ -29,6 +32,9 @@
         "Gradishte",
         "Gradishtya",
         "Gredishtya",
+        "Gradi\u0219te"
+    ],
+    "name:gle_x_preferred":[
         "Gradi\u0219te"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,12 @@
     ],
     "name:rus_x_variant":[
         "\u0413\u0440\u0430\u0434\u0438\u0449\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Gradi\u015fte"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0438\u0448\u0442\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0456\u0448\u0442\u0435"
@@ -109,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343177,
+    "wof:lastmodified":1690939294,
     "wof:name":"Gradi\u015fte",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

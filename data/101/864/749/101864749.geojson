@@ -32,11 +32,23 @@
     "name:azb_x_preferred":[
         "\u067e\u0634\u06a9\u0646 \u060c"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0430\u043d\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Pa\u0219cani"
+    ],
     "name:ceb_x_preferred":[
         "Municipiul Pa\u0219cani"
+    ],
+    "name:ces_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:dan_x_preferred":[
+        "Pa\u0219cani"
     ],
     "name:deu_x_preferred":[
         "Pa\u0219cani"
@@ -48,10 +60,16 @@
         "Pashkany",
         "Pa\u0219cani"
     ],
+    "name:est_x_preferred":[
+        "Pa\u0219cani"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0634\u06a9\u0646"
     ],
     "name:fra_x_preferred":[
+        "Pa\u0219cani"
+    ],
+    "name:gle_x_preferred":[
         "Pa\u0219cani"
     ],
     "name:heb_x_preferred":[
@@ -99,11 +117,17 @@
     "name:rus_x_variant":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
     ],
+    "name:slk_x_preferred":[
+        "Pa\u0219cani"
+    ],
     "name:spa_x_preferred":[
         "Pa\u0219cani"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Pa\u0219cani"
     ],
     "name:tgk_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0430\u043d\u0438"
@@ -172,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939258,
     "wof:name":"Pa\u015fcani",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

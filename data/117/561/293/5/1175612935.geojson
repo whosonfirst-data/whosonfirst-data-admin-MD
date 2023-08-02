@@ -21,8 +21,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0646\u062f\u0648\u0634\u064a\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Dondu\u0219eni"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043d\u0434\u0443\u0448\u0435\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Dondu\u0219eni"
@@ -44,6 +50,9 @@
         "Dondu\u0219eni"
     ],
     "name:fra_x_preferred":[
+        "Dondu\u0219eni"
+    ],
+    "name:gle_x_preferred":[
         "Dondu\u0219eni"
     ],
     "name:ind_x_preferred":[
@@ -96,6 +105,9 @@
     ],
     "name:swe_x_preferred":[
         "Dondu\u0219eni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043d\u0434\u0443\u0448\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d\u0434\u0443\u0448\u0435\u043d\u044c"
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":1175612935,
-    "wof:lastmodified":1582343159,
+    "wof:lastmodified":1690939138,
     "wof:name":"Dondu\u015feni",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

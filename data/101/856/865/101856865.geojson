@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Co\u0219tangalia"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0448\u0442\u0430\u043d\u0433\u0430\u043b\u0438\u0430"
+    ],
     "name:dan_x_preferred":[
         "Co\u0219tangalia"
     ],
@@ -41,6 +44,9 @@
         "Co\u0219tangalia"
     ],
     "name:fra_x_preferred":[
+        "Co\u0219tangalia"
+    ],
+    "name:gle_x_preferred":[
         "Co\u0219tangalia"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Co\u0219tangalia"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0448\u0442\u0430\u043d\u0433\u0430\u043b\u0438\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0448\u0442\u0430\u043d\u0433\u0430\u043b\u0456\u044f"
@@ -138,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343162,
+    "wof:lastmodified":1690939161,
     "wof:name":"Co\u015ftangalia",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

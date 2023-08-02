@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0633\u0644\u0627\u06a4\u0633\u064a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Naslavcea"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u0441\u043b\u0430\u0432\u0447\u0435\u0430"
     ],
     "name:dan_x_preferred":[
         "Naslavcea"
@@ -36,10 +42,16 @@
         "Nashlavcha",
         "Naslavcea"
     ],
+    "name:est_x_preferred":[
+        "Naslavcea"
+    ],
     "name:eus_x_preferred":[
         "Naslavcea"
     ],
     "name:fra_x_preferred":[
+        "Naslavcea"
+    ],
+    "name:gle_x_preferred":[
         "Naslavcea"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +89,9 @@
     ],
     "name:swe_x_preferred":[
         "Naslavcea"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0430\u0441\u043b\u0430\u0432\u0447\u0435\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0441\u043b\u0430\u0432\u0447\u0430"
@@ -137,7 +152,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939169,
     "wof:name":"Naslavcea",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

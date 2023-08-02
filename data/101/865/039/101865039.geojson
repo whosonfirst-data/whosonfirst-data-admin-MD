@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Hristovaia"
     ],
+    "name:gle_x_preferred":[
+        "Hristovaia"
+    ],
     "name:ita_x_preferred":[
         "Hristovaia"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101865039,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939236,
     "wof:name":"Hristovaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

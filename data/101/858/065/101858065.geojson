@@ -20,7 +20,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0420\u044d\u0447\u0443\u043b\u0430"
+    ],
     "name:eng_x_preferred":[
+        "R\u0103ciula"
+    ],
+    "name:gle_x_preferred":[
         "R\u0103ciula"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +46,12 @@
     ],
     "name:rus_x_variant":[
         "\u0420\u0435\u0447\u0443\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "R\u0103ciula"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u044b\u0447\u0438\u0443\u043b\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0447\u0443\u043b\u0430"
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":101858065,
-    "wof:lastmodified":1582343166,
+    "wof:lastmodified":1690939194,
     "wof:name":"R\u0103ciula",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

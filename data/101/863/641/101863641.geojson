@@ -39,6 +39,9 @@
     "name:epo_x_preferred":[
         "\u0218tef\u0103ne\u0219ti"
     ],
+    "name:eus_x_preferred":[
+        "\u0218tef\u0103ne\u0219ti"
+    ],
     "name:fra_x_preferred":[
         "\u0218tef\u0103ne\u0219ti"
     ],
@@ -51,7 +54,13 @@
     "name:ita_x_preferred":[
         "\u0218tef\u0103ne\u0219ti"
     ],
+    "name:nds_x_preferred":[
+        "\u0218tef\u0103ne\u0219ti"
+    ],
     "name:nld_x_preferred":[
+        "\u0218tef\u0103ne\u0219ti"
+    ],
+    "name:nno_x_preferred":[
         "\u0218tef\u0103ne\u0219ti"
     ],
     "name:ron_x_preferred":[
@@ -121,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939308,
     "wof:name":"\u015etef\u0103ne\u015fti",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

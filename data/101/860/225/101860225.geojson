@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0428\u0443\u0440\u044c"
+    ],
     "name:eng_x_preferred":[
         "Shury"
     ],
@@ -27,6 +30,12 @@
         "Shurel'",
         "Shureli",
         "\u0218uri"
+    ],
+    "name:gle_x_preferred":[
+        "\u0218uri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e8\u05d9"
     ],
     "name:ita_x_preferred":[
         "\u0218uri"
@@ -48,6 +57,12 @@
     ],
     "name:rus_x_variant":[
         "\u0428\u0443\u0440\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "\u015euri"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0443\u0440\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0443\u0440\u0456"
@@ -105,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343165,
+    "wof:lastmodified":1690939182,
     "wof:name":"\u015euri",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

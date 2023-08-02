@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u067e\u0644\u0648\u067e"
+    ],
     "name:ceb_x_preferred":[
         "Plop"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043b\u043e\u043f"
     ],
     "name:dan_x_preferred":[
         "Plop"
@@ -40,6 +46,9 @@
         "Plop"
     ],
     "name:fra_x_preferred":[
+        "Plop"
+    ],
+    "name:gle_x_preferred":[
         "Plop"
     ],
     "name:ita_x_preferred":[
@@ -74,6 +83,9 @@
     ],
     "name:swe_x_preferred":[
         "Plop"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u043b\u043e\u043f"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u043b\u043e\u043f"
@@ -131,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343165,
+    "wof:lastmodified":1690939186,
     "wof:name":"Plop",
     "wof:parent_id":85686505,
     "wof:placetype":"locality",

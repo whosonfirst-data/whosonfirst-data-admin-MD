@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Carmanova"
     ],
+    "name:gle_x_preferred":[
+        "Carmanova"
+    ],
     "name:ita_x_preferred":[
         "Carmanova"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101864855,
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1690939272,
     "wof:name":"Carmanova",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

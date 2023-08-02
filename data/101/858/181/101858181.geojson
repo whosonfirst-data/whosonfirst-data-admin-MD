@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u064a\u0632\u0627\u06a4\u064a\u062a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Elizaveta"
     ],
@@ -36,6 +39,9 @@
         "Elizaveta"
     ],
     "name:fra_x_preferred":[
+        "Elizaveta"
+    ],
+    "name:gle_x_preferred":[
         "Elizaveta"
     ],
     "name:ita_x_preferred":[
@@ -134,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343167,
+    "wof:lastmodified":1690939201,
     "wof:name":"Elizaveta",
     "wof:parent_id":85686449,
     "wof:placetype":"locality",

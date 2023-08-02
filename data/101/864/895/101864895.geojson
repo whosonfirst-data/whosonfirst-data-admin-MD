@@ -35,7 +35,13 @@
     "name:eus_x_preferred":[
         "Lunga"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646\u06af\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Lunga"
+    ],
+    "name:gle_x_preferred":[
         "Lunga"
     ],
     "name:ita_x_preferred":[
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":101864895,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939253,
     "wof:name":"Lunga",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

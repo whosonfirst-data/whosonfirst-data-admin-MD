@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
     "name:bul_x_preferred":[
         "\u0429\u0435\u0444\u0430\u043d \u0412\u043e\u0434\u044a"
     ],
     "name:ceb_x_preferred":[
         "\u015etefan Vod\u0103"
+    ],
+    "name:crh_x_preferred":[
+        "\u015etefan Vode"
     ],
     "name:deu_x_preferred":[
         "\u0218tefan Vod\u0103"
@@ -39,6 +45,9 @@
     "name:eng_x_variant":[
         "\u0218tefan Vod\u0103"
     ],
+    "name:eus_x_preferred":[
+        "\u0218tefan Vod\u0103"
+    ],
     "name:fin_x_preferred":[
         "\u0218tefan Vod\u0103"
     ],
@@ -50,6 +59,9 @@
     ],
     "name:ita_x_preferred":[
         "\u015etefan Vod\u0103"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30c6\u30d5\u30a1\u30f3\u30fb\u30dc\u30fc\u30c0"
     ],
     "name:kor_x_preferred":[
         "\uc288\ud14c\ud310\ubcf4\ub354"
@@ -65,6 +77,9 @@
     ],
     "name:pol_x_preferred":[
         "\u015etefan Vod\u0103"
+    ],
+    "name:pol_x_variant":[
+        "\u0218tefan Vod\u0103"
     ],
     "name:ron_x_preferred":[
         "\u0218tefan Vod\u0103"
@@ -86,6 +101,12 @@
     ],
     "name:swe_x_preferred":[
         "\u015etefan Vod\u0103"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e40\u0e15\u0e1f\u0e31\u0e19\u0e27\u0e2d\u0e40\u0e14\u0e2d"
+    ],
+    "name:tur_x_preferred":[
+        "\u0218tefan Vod\u0103"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0442\u0435\u0444\u0430\u043d-\u0412\u043e\u0434\u0435"
@@ -153,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939312,
     "wof:name":"\u015etefan Vod\u0103",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

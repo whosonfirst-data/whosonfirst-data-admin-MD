@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Doltu"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u0442\u0443"
+    ],
     "name:dan_x_preferred":[
         "Doltu"
     ],
@@ -36,6 +39,9 @@
         "Doltu"
     ],
     "name:fra_x_preferred":[
+        "Doltu"
+    ],
+    "name:gle_x_preferred":[
         "Doltu"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Doltu"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b\u0442\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0442\u0443"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":101858127,
-    "wof:lastmodified":1582343167,
+    "wof:lastmodified":1690939200,
     "wof:name":"Doltu",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

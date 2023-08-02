@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u064a\u0631\u0627\u0643\u0644\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Cairaclia"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0438\u0430"
     ],
     "name:dan_x_preferred":[
         "Cairaclia"
@@ -44,6 +50,9 @@
         "Cairaclia"
     ],
     "name:fra_x_preferred":[
+        "Cairaclia"
+    ],
+    "name:gle_x_preferred":[
         "Cairaclia"
     ],
     "name:ita_x_preferred":[
@@ -78,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Cairaclia"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0438\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0440\u0430\u043a\u043b\u0456\u044f"
@@ -135,7 +147,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343161,
+    "wof:lastmodified":1690939154,
     "wof:name":"Cairaclia",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

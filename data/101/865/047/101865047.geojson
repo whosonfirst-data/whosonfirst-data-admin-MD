@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Podoima"
     ],
+    "name:gle_x_preferred":[
+        "Podoima"
+    ],
     "name:ita_x_preferred":[
         "Podoima"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101865047,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939234,
     "wof:name":"Podoima",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

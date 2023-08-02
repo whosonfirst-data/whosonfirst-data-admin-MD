@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043a\u044b\u0440\u0435\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
+        "Sec\u0103reni"
+    ],
+    "name:gle_x_preferred":[
         "Sec\u0103reni"
     ],
     "name:ita_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043a\u0430\u0440\u0435\u043d\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043a\u044b\u0440\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043a\u0435\u0440\u0435\u043d\u044c"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125806297,
-    "wof:lastmodified":1566603098,
+    "wof:lastmodified":1690939323,
     "wof:name":"Sec\u00e6reni",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

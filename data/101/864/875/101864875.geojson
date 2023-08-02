@@ -32,11 +32,17 @@
     "name:eng_x_preferred":[
         "Vladimirovca"
     ],
+    "name:eng_x_variant":[
+        "Vladimirovka"
+    ],
     "name:eus_x_preferred":[
         "Vladimirovca"
     ],
     "name:fra_x_preferred":[
         "Vladimirovca"
+    ],
+    "name:gle_x_preferred":[
+        "Vladimirovka"
     ],
     "name:ita_x_preferred":[
         "Vladimirovca"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":101864875,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939253,
     "wof:name":"Vladimirovca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

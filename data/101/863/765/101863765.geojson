@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Bude\u0219ti"
     ],
+    "name:gle_x_preferred":[
+        "Bude\u0219ti"
+    ],
     "name:ita_x_preferred":[
         "Bude\u0219ti"
     ],
@@ -132,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939281,
     "wof:name":"Bude\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

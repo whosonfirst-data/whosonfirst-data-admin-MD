@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0418\u0448\u043a\u044b\u043b\u044b\u0443"
+    ],
     "name:eng_x_preferred":[
         "Ishkalev"
     ],
     "name:eng_x_variant":[
         "Iskaleu",
+        "I\u0219c\u0103l\u0103u"
+    ],
+    "name:gle_x_preferred":[
         "I\u0219c\u0103l\u0103u"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +53,12 @@
     ],
     "name:rus_x_variant":[
         "\u0418\u0448\u043a\u0430\u043b\u0435\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "I\u015fc\u0103l\u0103u"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0448\u043a\u044b\u043b\u044b\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0448\u043a\u0435\u043b\u0435\u0443"
@@ -108,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343169,
+    "wof:lastmodified":1690939215,
     "wof:name":"I\u015fc\u0103l\u0103u",
     "wof:parent_id":85686437,
     "wof:placetype":"locality",

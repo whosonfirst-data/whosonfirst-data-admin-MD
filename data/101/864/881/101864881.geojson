@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Hlinaia"
     ],
+    "name:gle_x_preferred":[
+        "Hlinaia"
+    ],
     "name:ita_x_preferred":[
         "Hlinaia"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101864881,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939252,
     "wof:name":"Hlinaia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0646\u064a\u0643\u0648\u0644\u0627\u064a\u0648\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Necul\u0103ieuca"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0435\u043a\u0443\u043b\u044b\u0435\u0443\u043a\u0430"
     ],
     "name:dan_x_preferred":[
         "Necul\u0103ieuca"
@@ -36,6 +42,9 @@
         "Necul\u0103ieuca"
     ],
     "name:fra_x_preferred":[
+        "Necul\u0103ieuca"
+    ],
+    "name:gle_x_preferred":[
         "Necul\u0103ieuca"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Necul\u0103ieuca"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u043a\u0443\u043b\u044b\u0435\u0443\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u043a\u0443\u043b\u0435\u0454\u0443\u043a\u0430"
@@ -125,7 +137,7 @@
         }
     ],
     "wof:id":101863945,
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939318,
     "wof:name":"Necul\u0103ieuca",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

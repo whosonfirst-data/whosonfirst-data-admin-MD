@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Balatina"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
     "name:cos_x_preferred":[
         "Balatina"
     ],
@@ -41,10 +44,16 @@
     "name:deu_x_preferred":[
         "Balatina"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bb\u03ac\u03c4\u03b9\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Balatina"
     ],
     "name:fra_x_preferred":[
+        "Balatina"
+    ],
+    "name:gle_x_preferred":[
         "Balatina"
     ],
     "name:ind_x_preferred":[
@@ -82,6 +91,9 @@
     ],
     "name:tah_x_preferred":[
         "Balatina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0442\u0438\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0442\u0456\u043d\u0430"
@@ -139,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343168,
+    "wof:lastmodified":1690939215,
     "wof:name":"Balatina",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

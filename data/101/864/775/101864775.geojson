@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "Gr\u0103tie\u0219ti"
     ],
+    "name:gle_x_preferred":[
+        "Gr\u0103tie\u0219ti"
+    ],
     "name:ita_x_preferred":[
         "Gr\u0103tie\u0219ti"
     ],
@@ -131,7 +134,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1690939273,
     "wof:name":"Gr\u0103tie\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

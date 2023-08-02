@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0645\u0628\u064a\u0646\u0649 \u06a4\u064a\u062a\u0634\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Limbenii Vechi"
+    ],
+    "name:che_x_preferred":[
+        "\u041b\u0438\u043c\u0431\u0435\u043d\u0438\u0439 \u0412\u0435\u043a\u0438"
     ],
     "name:dan_x_preferred":[
         "Limbenii Vechi"
@@ -41,6 +47,9 @@
         "Limbenii Vechi"
     ],
     "name:fra_x_preferred":[
+        "Limbenii Vechi"
+    ],
+    "name:gle_x_preferred":[
         "Limbenii Vechi"
     ],
     "name:ita_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Limbenii Vechi"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0438\u043c\u0431\u0435\u043d\u0438\u0439 \u0412\u0435\u043a\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043c\u0431\u0435\u043d\u0456\u0439 \u0412\u0435\u043a\u044c"
@@ -138,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343166,
+    "wof:lastmodified":1690939190,
     "wof:name":"Limbenii Vechi",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

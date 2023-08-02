@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Ruseni"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0438"
+    ],
     "name:dan_x_preferred":[
         "Ruseni"
     ],
@@ -36,6 +39,9 @@
         "Ruseni"
     ],
     "name:fra_x_preferred":[
+        "Ruseni"
+    ],
+    "name:gle_x_preferred":[
         "Ruseni"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Ruseni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u0435\u043d\u044c"
@@ -129,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939284,
     "wof:name":"Ruseni",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

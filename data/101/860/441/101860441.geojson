@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0644\u0648\u0643\u0648\u0634\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043b\u043e\u043a\u0443\u0448\u043d\u0430"
     ],
     "name:ceb_x_preferred":[
         "Clocu\u0219na"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043b\u043e\u043a\u0443\u0448\u043d\u0430"
     ],
     "name:dan_x_preferred":[
         "Clocu\u0219na"
@@ -42,6 +48,9 @@
         "Clocu\u0219na"
     ],
     "name:fra_x_preferred":[
+        "Clocu\u0219na"
+    ],
+    "name:gle_x_preferred":[
         "Clocu\u0219na"
     ],
     "name:ita_x_preferred":[
@@ -145,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939167,
     "wof:name":"Clocu\u015fna",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

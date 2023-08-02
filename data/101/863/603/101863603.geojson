@@ -33,6 +33,9 @@
     "name:ita_x_preferred":[
         "Antone\u0219ti"
     ],
+    "name:nds_x_preferred":[
+        "Antone\u0219ti"
+    ],
     "name:nld_x_preferred":[
         "Antone\u015fti"
     ],
@@ -100,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343176,
+    "wof:lastmodified":1690939291,
     "wof:name":"Antone\u015fti",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

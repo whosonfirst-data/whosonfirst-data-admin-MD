@@ -32,11 +32,17 @@
     "name:eng_x_preferred":[
         "Podoimi\u021ba"
     ],
+    "name:eng_x_variant":[
+        "Podoymista"
+    ],
     "name:eus_x_preferred":[
         "Podoimi\u021ba"
     ],
     "name:fra_x_preferred":[
         "Podoimi\u021ba"
+    ],
+    "name:gle_x_preferred":[
+        "Podoymista"
     ],
     "name:ita_x_preferred":[
         "Podoimi\u021ba"
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":101865049,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939234,
     "wof:name":"Podoimi\u0163a",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

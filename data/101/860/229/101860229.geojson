@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u0627\u0631\u064a\u062c\u0631\u0627\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
     ],
     "name:ceb_x_preferred":[
         "\u021aarigrad"
+    ],
+    "name:che_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
     ],
     "name:dan_x_preferred":[
         "\u021aarigrad"
@@ -44,6 +50,9 @@
         "\u021aarigrad"
     ],
     "name:fra_x_preferred":[
+        "\u021aarigrad"
+    ],
+    "name:gle_x_preferred":[
         "\u021aarigrad"
     ],
     "name:ita_x_preferred":[
@@ -87,6 +96,9 @@
     ],
     "name:swe_x_preferred":[
         "\u021aarigrad"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0433\u0440\u0430\u0434"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0440\u0456\u0433\u0440\u0430\u0434"
@@ -144,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939165,
     "wof:name":"\u0162arigrad",
     "wof:parent_id":85686481,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:ceb_x_preferred":[
         "Nisporeni"
     ],
+    "name:ces_x_preferred":[
+        "Okres Nisporeni"
+    ],
     "name:dan_x_preferred":[
         "Nisporeni District"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:eng_x_variant":[
         "Nisporeni District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u06cc\u0633\u067e\u0648\u0631\u0646\u06cc"
     ],
     "name:fin_x_preferred":[
         "Nisporenin kaupunginosa"
@@ -96,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2c8\uc2a4\ud3ec\ub808\ub2c8 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub2c8\uc2a4\ud3ec\ub808\ub2c8\uad6c"
     ],
     "name:lav_x_preferred":[
         "Nisperonu rajons"
@@ -304,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499990,
+    "wof:lastmodified":1690939135,
     "wof:name":"Nisporeni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

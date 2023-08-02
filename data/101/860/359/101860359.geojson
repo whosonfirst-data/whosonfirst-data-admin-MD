@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0425\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u0430"
+    ],
     "name:eng_x_preferred":[
         "Galoshnitsa"
     ],
     "name:eng_x_variant":[
         "Goloshnitsa",
+        "Holo\u0219ni\u021ba"
+    ],
+    "name:gle_x_preferred":[
         "Holo\u0219ni\u021ba"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +50,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0448\u043d\u0438\u0446\u044f"
@@ -101,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939176,
     "wof:name":"Holo\u015fni\u0163a",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

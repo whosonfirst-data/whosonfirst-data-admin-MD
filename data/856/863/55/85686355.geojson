@@ -103,6 +103,9 @@
     "name:kor_x_preferred":[
         "\ub808\uc624\ubc14 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub808\uc624\ubc14\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Leovas rajons"
     ],
@@ -310,7 +313,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499991,
+    "wof:lastmodified":1690939136,
     "wof:name":"Leova",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

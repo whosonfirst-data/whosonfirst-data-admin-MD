@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u0448\u0442\u0438\u0439 \u041d\u043e\u0439"
+    ],
     "name:eng_x_preferred":[
         "Novyye Ruseshty"
     ],
     "name:eng_x_variant":[
         "Ruseshti Nouy",
+        "Ruse\u0219tii Noi"
+    ],
+    "name:gle_x_preferred":[
         "Ruse\u0219tii Noi"
     ],
     "name:ita_x_preferred":[
@@ -53,6 +59,9 @@
     ],
     "name:spa_x_preferred":[
         "Ruse\u0219tii Noi"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u0448\u0442\u0438\u0439 \u041d\u043e\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u0435\u0448\u0442\u0456\u0439-\u041d\u043e\u0439"
@@ -114,7 +123,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343177,
+    "wof:lastmodified":1690939295,
     "wof:name":"Ruse\u015ftii Noi",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

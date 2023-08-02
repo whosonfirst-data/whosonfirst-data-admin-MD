@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u067e\u0627\u0646\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Copanca"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u043a\u0430"
     ],
     "name:dan_x_preferred":[
         "Copanca"
@@ -41,6 +47,9 @@
     ],
     "name:fra_x_preferred":[
         "Copanca"
+    ],
+    "name:gle_x_preferred":[
+        "Kopanka"
     ],
     "name:ita_x_preferred":[
         "Copanca"
@@ -74,6 +83,9 @@
     ],
     "name:swe_x_preferred":[
         "Copanca"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043f\u0430\u043d\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043f\u0430\u043d\u043a\u0430"
@@ -131,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939261,
     "wof:name":"Copanca",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

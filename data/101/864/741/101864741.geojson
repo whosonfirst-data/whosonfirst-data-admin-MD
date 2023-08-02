@@ -23,6 +23,12 @@
     "name:ces_x_preferred":[
         "L\u0103pu\u0219na"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044b\u043f\u0443\u0448\u043d\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "L\u0103pu\u0219na"
+    ],
     "name:deu_x_preferred":[
         "L\u0103pu\u0219na"
     ],
@@ -34,6 +40,9 @@
         "L\u0103pu\u0219na"
     ],
     "name:fra_x_preferred":[
+        "L\u0103pu\u0219na"
+    ],
+    "name:gle_x_preferred":[
         "L\u0103pu\u0219na"
     ],
     "name:ita_x_preferred":[
@@ -71,6 +80,9 @@
     ],
     "name:swe_x_preferred":[
         "L\u0103pu\u0219na"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u044b\u043f\u0443\u0448\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043f\u0443\u0448\u043d\u0430"
@@ -137,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939260,
     "wof:name":"L\u0103pu\u015fna",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

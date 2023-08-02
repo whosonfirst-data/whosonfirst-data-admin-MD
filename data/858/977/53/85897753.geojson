@@ -26,12 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:cat_x_preferred":[
+        "l\u00ednia"
+    ],
     "name:eng_x_preferred":[
         "Slobozia Cojevena"
     ],
     "name:eng_x_variant":[
         "Slodoba Kozhevennaya",
-        "Slobozia Cojevena"
+        "Line"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043d\u0438\u044f"
@@ -103,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343159,
+    "wof:lastmodified":1690939137,
     "wof:name":"Kozhevennaya",
     "wof:parent_id":101751793,
     "wof:placetype":"neighbourhood",

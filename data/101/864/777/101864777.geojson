@@ -83,6 +83,9 @@
     "name:fra_x_variant":[
         "Dobrogea"
     ],
+    "name:gle_x_preferred":[
+        "Dobrogea"
+    ],
     "name:glg_x_preferred":[
         "Dobruia"
     ],
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":101864777,
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939260,
     "wof:name":"Dobrogea",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

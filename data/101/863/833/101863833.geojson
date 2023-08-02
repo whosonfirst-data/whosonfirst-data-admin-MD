@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Bucov\u0103\u021b"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0430\u0446"
     ],
@@ -31,6 +34,12 @@
         "Bykovets"
     ],
     "name:eng_x_variant":[
+        "Bucov\u0103\u021b"
+    ],
+    "name:est_x_preferred":[
+        "Bucov\u0103\u021b"
+    ],
+    "name:eus_x_preferred":[
         "Bucov\u0103\u021b"
     ],
     "name:fra_x_preferred":[
@@ -47,6 +56,9 @@
     ],
     "name:ita_x_variant":[
         "Bucov\u0103\u0163"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30b3\u30f4\u30a1\u30c4"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10d9\u10dd\u10d5\u10d4\u10ea\u10d8"
@@ -142,7 +154,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343176,
+    "wof:lastmodified":1690939292,
     "wof:name":"Bucov\u0103\u0163",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

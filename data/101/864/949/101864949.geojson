@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0628\u064a\u0644\u064a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Cob\u00eelea"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0431\u044b\u043b\u0435\u0430"
     ],
     "name:dan_x_preferred":[
         "Cob\u00eelea"
@@ -44,6 +50,9 @@
         "Cob\u00eelea"
     ],
     "name:fra_x_preferred":[
+        "Cob\u00eelea"
+    ],
+    "name:gle_x_preferred":[
         "Cob\u00eelea"
     ],
     "name:ita_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Cob\u00eelea"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0431\u044b\u043b\u0435\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0438\u043b\u044f"
@@ -143,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939259,
     "wof:name":"Cob\u00eelea",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043a\u0447\u0435\u0430\u043b\u0438\u0430"
+    ],
     "name:eng_x_preferred":[
         "Bakchaliya"
     ],
     "name:eng_x_variant":[
         "Bakchealya",
+        "Baccealia"
+    ],
+    "name:gle_x_preferred":[
         "Baccealia"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +50,12 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0430\u0447\u043a\u0430\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Baccealia"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043a\u0447\u0435\u0430\u043b\u0438\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0447\u0430\u043b\u0456\u044f"
@@ -98,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939283,
     "wof:name":"Baccealia",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Crasnencoe"
     ],
+    "name:gle_x_preferred":[
+        "Crasnencoe"
+    ],
     "name:ita_x_preferred":[
         "Crasnencoe"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101865023,
-    "wof:lastmodified":1582343169,
+    "wof:lastmodified":1690939233,
     "wof:name":"Crasnencoe",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

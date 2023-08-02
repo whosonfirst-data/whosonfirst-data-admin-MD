@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0645\u064a\u0634\u064a\u0646\u0649"
+    ],
     "name:cat_x_preferred":[
         "Cimi\u0219eni"
     ],
     "name:ceb_x_preferred":[
         "Cimi\u0219eni"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u043c\u0438\u0448\u0435\u043d\u044c"
     ],
     "name:dan_x_preferred":[
         "Cimi\u0219eni"
@@ -44,6 +50,9 @@
         "Cimi\u0219eni"
     ],
     "name:fra_x_preferred":[
+        "Cimi\u0219eni"
+    ],
+    "name:gle_x_preferred":[
         "Cimi\u0219eni"
     ],
     "name:ita_x_preferred":[
@@ -84,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Cimi\u0219eni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u043c\u0438\u0448\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043c\u0456\u0448\u0435\u043d\u044c"
@@ -141,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939283,
     "wof:name":"Cimi\u015feni",
     "wof:parent_id":85686413,
     "wof:placetype":"locality",

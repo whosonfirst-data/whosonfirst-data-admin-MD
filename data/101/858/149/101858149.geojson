@@ -37,6 +37,9 @@
     "name:epo_x_preferred":[
         "Vii\u0219oara"
     ],
+    "name:eus_x_preferred":[
+        "Vii\u0219oara"
+    ],
     "name:fra_x_preferred":[
         "Vii\u0219oara"
     ],
@@ -49,7 +52,19 @@
     "name:ita_x_preferred":[
         "Vii\u0219oara"
     ],
+    "name:nds_x_preferred":[
+        "Vii\u0219oara"
+    ],
     "name:nld_x_preferred":[
+        "Vii\u0219oara"
+    ],
+    "name:nno_x_preferred":[
+        "Vii\u0219oara"
+    ],
+    "name:pol_x_preferred":[
+        "Vii\u0219oara"
+    ],
+    "name:por_x_preferred":[
         "Vii\u0219oara"
     ],
     "name:ron_x_preferred":[
@@ -122,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343169,
+    "wof:lastmodified":1690939216,
     "wof:name":"Vii\u015foara",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

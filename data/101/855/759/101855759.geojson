@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0631\u067e\u064a\u0634\u062a\u0649"
+    ],
+    "name:cat_x_preferred":[
+        "C\u00eerpe\u0219ti"
+    ],
     "name:ceb_x_preferred":[
         "C\u00eerpe\u0219ti"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u044b\u0440\u043f\u0435\u0448\u0442\u044c"
     ],
     "name:dan_x_preferred":[
         "C\u00eerpe\u0219ti"
@@ -42,6 +51,9 @@
         "C\u00eerpe\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "C\u00eerpe\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "C\u00eerpe\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -79,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "C\u00eerpe\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u0440\u043f\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u043f\u0435\u0448\u0442\u044c"
@@ -141,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343171,
+    "wof:lastmodified":1690939244,
     "wof:name":"C\u00eerpe\u015fti",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

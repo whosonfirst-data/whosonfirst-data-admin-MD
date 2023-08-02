@@ -62,6 +62,9 @@
         "Raionul Soroca",
         "Soroca District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0648\u0631\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sorocan kaupunginosa"
     ],
@@ -104,6 +107,9 @@
     "name:kor_x_preferred":[
         "\uc18c\ub85c\uce74 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc18c\ub85c\uce74\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sorokas rajons"
     ],
@@ -112,6 +118,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u0930\u0915\u094b\u0906 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u043a\u0430"
     ],
     "name:msa_x_preferred":[
         "Soroca District"
@@ -308,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499988,
+    "wof:lastmodified":1690939128,
     "wof:name":"Soroca",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

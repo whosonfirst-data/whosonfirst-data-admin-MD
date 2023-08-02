@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u062a\u0631\u0648\u0634\u064a\u0643\u0627 \u0646\u0648\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Chetro\u0219ica Nou\u0103"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0435\u0442\u0440\u043e\u0448\u0438\u043a\u0430 \u041d\u043e\u0443\u0430"
     ],
     "name:dan_x_preferred":[
         "Chetro\u0219ica Nou\u0103"
@@ -40,6 +46,9 @@
         "Chetro\u0219ica Nou\u0103"
     ],
     "name:fra_x_preferred":[
+        "Chetro\u0219ica Nou\u0103"
+    ],
+    "name:gle_x_preferred":[
         "Chetro\u0219ica Nou\u0103"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +86,9 @@
     ],
     "name:swe_x_preferred":[
         "Chetro\u0219ica Nou\u0103"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0435\u0442\u0440\u043e\u0448\u0438\u043a\u0430 \u041d\u043e\u0443\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0442\u0440\u043e\u0448\u0456\u043a\u0430-\u041d\u043e\u0443\u0435"
@@ -137,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939167,
     "wof:name":"Chetro\u015fica Nou\u0103",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

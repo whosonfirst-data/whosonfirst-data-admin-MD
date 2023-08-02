@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "St\u0103uceni"
     ],
+    "name:gle_x_preferred":[
+        "St\u0103uceni"
+    ],
     "name:ita_x_preferred":[
         "St\u0103uceni"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1125800443,
-    "wof:lastmodified":1566603098,
+    "wof:lastmodified":1690939324,
     "wof:name":"St\u00e6uceni",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

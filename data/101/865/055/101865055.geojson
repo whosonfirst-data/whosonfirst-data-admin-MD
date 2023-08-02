@@ -35,7 +35,13 @@
     "name:eus_x_preferred":[
         "Molochi\u0219ul Mare"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0648\u0686\u06cc\u0633\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Molochi\u0219ul Mare"
+    ],
+    "name:gle_x_preferred":[
         "Molochi\u0219ul Mare"
     ],
     "name:ita_x_preferred":[
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":101865055,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939235,
     "wof:name":"Molochi\u015ful Mare",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

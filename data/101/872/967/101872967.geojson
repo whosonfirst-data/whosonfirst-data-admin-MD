@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Caterinovca"
     ],
+    "name:gle_x_preferred":[
+        "Caterinovca"
+    ],
     "name:ita_x_preferred":[
         "Caterinovca"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101872967,
-    "wof:lastmodified":1582343160,
+    "wof:lastmodified":1690939140,
     "wof:name":"Caterinovca",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

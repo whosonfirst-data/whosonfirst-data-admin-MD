@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Glodeni"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u043b\u043e\u0434\u0435\u043d\u0438"
     ],
     "name:ceb_x_preferred":[
         "Glodeni"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bb\u03bf\u03bd\u03c4\u03ad\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Malyye Glodyany"
@@ -36,6 +42,9 @@
         "Glodeni"
     ],
     "name:est_x_preferred":[
+        "Glodeni"
+    ],
+    "name:eus_x_preferred":[
         "Glodeni"
     ],
     "name:fin_x_preferred":[
@@ -55,6 +64,9 @@
     ],
     "name:ita_x_preferred":[
         "Glodeni"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30ed\u30c7\u30cb"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10da\u10dd\u10d3\u10d4\u10dc\u10d8"
@@ -91,6 +103,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0413\u043b\u043e\u0434\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e25\u0e2d\u0e40\u0e14\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043b\u043e\u0434\u044f\u043d\u0438"
@@ -156,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636499993,
+    "wof:lastmodified":1690939204,
     "wof:name":"Glodeni",
     "wof:parent_id":85686445,
     "wof:placetype":"locality",

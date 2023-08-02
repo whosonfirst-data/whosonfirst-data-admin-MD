@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "F\u0103ure\u0219ti"
     ],
+    "name:gle_x_preferred":[
+        "F\u0103ure\u0219ti"
+    ],
     "name:ita_x_preferred":[
         "F\u0103ure\u0219ti"
     ],
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1126000821,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1690939325,
     "wof:name":"F\u0103ure\u015fti",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Butor"
     ],
+    "name:gle_x_preferred":[
+        "Butor"
+    ],
     "name:ita_x_preferred":[
         "Butor"
     ],
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":101864841,
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939267,
     "wof:name":"Butor",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

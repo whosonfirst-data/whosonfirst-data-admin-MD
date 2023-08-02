@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0631\u064a\u0634\u062a\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Hore\u0219ti"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u043e\u0440\u0435\u0448\u0442\u0438"
     ],
     "name:dan_x_preferred":[
         "Hore\u0219ti"
@@ -40,6 +46,9 @@
         "Hore\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "Hore\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Hore\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -77,6 +86,9 @@
     ],
     "name:swe_x_preferred":[
         "Hore\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u043e\u0440\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0435\u0448\u0442\u044c"
@@ -141,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939282,
     "wof:name":"Hore\u015fti",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

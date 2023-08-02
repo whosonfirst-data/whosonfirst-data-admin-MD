@@ -21,11 +21,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Taraclia"
+    ],
+    "name:aze_x_preferred":[
+        "Daraql\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043a\u043b\u0456\u044f"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043a\u043b\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Taraclia"
+    ],
+    "name:ces_x_preferred":[
+        "Taraclia"
+    ],
+    "name:crh_x_preferred":[
+        "Tarakliya"
     ],
     "name:deu_x_preferred":[
         "Taraclia"
@@ -69,6 +84,9 @@
     "name:nld_x_preferred":[
         "Taraclia"
     ],
+    "name:nob_x_preferred":[
+        "Taraclia"
+    ],
     "name:pnb_x_preferred":[
         "\u062a\u0631\u0627\u06a9\u0644\u06cc\u0627"
     ],
@@ -95,6 +113,9 @@
     ],
     "name:swe_x_preferred":[
         "Taraclia"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e32\u0e23\u0e32\u0e01\u0e25\u0e35\u0e22\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430\u043a\u043b\u0456\u044f"
@@ -161,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636499992,
+    "wof:lastmodified":1690939162,
     "wof:name":"Taraclia",
     "wof:parent_id":85686331,
     "wof:placetype":"locality",

@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u062a\u0633\u0643\u0627\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Te\u021bcani"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0446\u043a\u0430\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Te\u021bcani"
@@ -41,6 +47,9 @@
         "Te\u021bcani"
     ],
     "name:fra_x_preferred":[
+        "Te\u021bcani"
+    ],
+    "name:gle_x_preferred":[
         "Te\u021bcani"
     ],
     "name:ita_x_preferred":[
@@ -78,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Te\u021bcani"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u0446\u043a\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0446\u043a\u0430\u043d\u0438"
@@ -138,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939174,
     "wof:name":"Te\u0163cani",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0633\u064a\u0646\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Kau\u015fanski rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u045e\u0448\u0430\u043d\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09c7\u09b0\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "Raionul C\u0103u\u0219eni"
+    ],
+    "name:ces_x_preferred":[
+        "Okres C\u0103u\u0219eni"
     ],
     "name:dan_x_preferred":[
         "C\u0103u\u0219eni District"
@@ -99,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucee4\uc6b0\uc170\ub2c8 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ucee4\uc6b0\uc170\ub2c8\uad6c"
     ],
     "name:lav_x_preferred":[
         "Keu\u0161enu rajons"
@@ -176,7 +188,8 @@
         "\u0e40\u0e02\u0e15\u0e04\u0e31\u0e27\u0e0b\u0e34\u0e19\u0e35"
     ],
     "name:tha_x_variant":[
-        "\u0e40\u0e02\u0e15\u0e40\u0e01\u0e2d\u0e2d\u0e39\u0e40\u0e0a\u0e19"
+        "\u0e40\u0e02\u0e15\u0e40\u0e01\u0e2d\u0e2d\u0e39\u0e40\u0e0a\u0e19",
+        "\u0e40\u0e02\u0e15\u0e40\u0e01\u0e2d\u0e27\u0e39\u0e40\u0e0a\u0e19"
     ],
     "name:tur_x_preferred":[
         "Causeni Distict"
@@ -312,7 +325,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1690939134,
     "wof:name":"C\u0103u\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

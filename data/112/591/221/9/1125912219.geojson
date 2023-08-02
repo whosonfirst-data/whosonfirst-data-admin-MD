@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0628\u0627\u0633\u0627\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0628\u0627\u0633\u0627\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Dub\u0103sari"
+    ],
     "name:aze_x_preferred":[
         "Dub\u0131sari"
     ],
@@ -124,6 +130,9 @@
     "name:swe_x_preferred":[
         "Dub\u0103sari"
     ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e39\u0e40\u0e1a\u0e2d\u0e0b\u0e32\u0e23\u0e4c"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0431\u043e\u0441\u0441\u0430\u0440\u0438"
     ],
@@ -194,7 +203,7 @@
         }
     ],
     "wof:id":1125912219,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1690939324,
     "wof:name":"Dub\u00e6sari",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

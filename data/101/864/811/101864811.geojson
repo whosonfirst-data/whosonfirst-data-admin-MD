@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Dr\u0103gu\u015feni"
     ],
+    "name:eus_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
     "name:fra_x_preferred":[
         "Dr\u0103gu\u015feni"
     ],
@@ -38,7 +41,13 @@
     "name:ita_x_preferred":[
         "Dr\u0103gu\u0219eni"
     ],
+    "name:nds_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
     "name:nld_x_preferred":[
+        "Dr\u0103gu\u0219eni"
+    ],
+    "name:pol_x_preferred":[
         "Dr\u0103gu\u0219eni"
     ],
     "name:ron_x_preferred":[
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":101864811,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939251,
     "wof:name":"Dr\u0103gu\u015feni",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

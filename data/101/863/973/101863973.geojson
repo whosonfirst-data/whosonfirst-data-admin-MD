@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Tab\u0103ra"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0431\u044b\u0440\u0430"
+    ],
     "name:dan_x_preferred":[
         "Tab\u0103ra"
     ],
@@ -36,6 +39,9 @@
         "Tab\u0103ra"
     ],
     "name:fra_x_preferred":[
+        "Tab\u0103ra"
+    ],
+    "name:gle_x_preferred":[
         "Tab\u0103ra"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Tab\u0103ra"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0431\u044b\u0440\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0435\u0440\u0430"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":101863973,
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939318,
     "wof:name":"Tab\u0103ra",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

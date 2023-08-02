@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0627\u0644\u064a\u0633\u062a\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Fale\u015ft rayonu"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09be\u09b2\u09c7\u09b8\u09cd\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud384\ub808\uc288\ud2f0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud384\ub808\uc288\ud2f0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Fele\u0161tu rajons"
@@ -316,7 +322,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895311,
+    "wof:lastmodified":1690939131,
     "wof:name":"F\u0103le\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

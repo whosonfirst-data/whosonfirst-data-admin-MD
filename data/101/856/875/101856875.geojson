@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u064a\u062f\u0627\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u0439\u0434\u0430\u0440"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:ces_x_preferred":[
         "Gajdar"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u0439\u0434\u0430\u0440"
     ],
     "name:dan_x_preferred":[
         "Gaidar"
@@ -57,6 +63,9 @@
     ],
     "name:gag_x_preferred":[
         "Haydar"
+    ],
+    "name:gle_x_preferred":[
+        "Gaidar"
     ],
     "name:ita_x_preferred":[
         "Gaidar"
@@ -149,7 +158,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343162,
+    "wof:lastmodified":1690939156,
     "wof:name":"Gaidar",
     "wof:parent_id":85686349,
     "wof:placetype":"locality",

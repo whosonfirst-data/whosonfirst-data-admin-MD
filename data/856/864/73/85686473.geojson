@@ -83,6 +83,9 @@
     "name:hin_x_preferred":[
         "\u0938\u094b\u0932\u094d\u0921\u093e\u0928\u0947\u0938\u094d\u0924\u0940 \u091c\u093f\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "\u0218old\u0103ne\u0219ti j\u00e1r\u00e1s"
+    ],
     "name:ind_x_preferred":[
         "Raionul \u015eold\u0103ne\u015fti"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc204\ub354\ub124\uc288\ud2f0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc204\ub354\ub124\uc288\ud2f0\uad6c"
     ],
     "name:lav_x_preferred":[
         "\u0160oldene\u0161tu rajons"
@@ -323,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895311,
+    "wof:lastmodified":1690939129,
     "wof:name":"Sold\u0103ne\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

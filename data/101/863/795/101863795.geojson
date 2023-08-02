@@ -35,7 +35,13 @@
     "name:ind_x_preferred":[
         "Geam\u0103na"
     ],
+    "name:nds_x_preferred":[
+        "Geam\u0103na"
+    ],
     "name:nld_x_preferred":[
+        "Geam\u0103na"
+    ],
+    "name:pol_x_preferred":[
         "Geam\u0103na"
     ],
     "name:ron_x_preferred":[
@@ -100,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939304,
     "wof:name":"Geam\u0103na",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

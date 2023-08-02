@@ -32,11 +32,17 @@
     "name:eng_x_preferred":[
         "H\u00eerj\u0103u"
     ],
+    "name:eng_x_variant":[
+        "Yerzhovo"
+    ],
     "name:eus_x_preferred":[
         "H\u00eerj\u0103u"
     ],
     "name:fra_x_preferred":[
         "H\u00eerj\u0103u"
+    ],
+    "name:gle_x_preferred":[
+        "Yerzhovo"
     ],
     "name:ita_x_preferred":[
         "H\u00eerj\u0103u"
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":101865043,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939237,
     "wof:name":"H\u00eerj\u0103u",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

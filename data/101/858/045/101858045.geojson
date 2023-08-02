@@ -29,10 +29,16 @@
     "name:eng_x_preferred":[
         "Sine\u0219ti"
     ],
+    "name:eus_x_preferred":[
+        "Sine\u0219ti"
+    ],
     "name:fra_x_preferred":[
         "Sine\u015fti"
     ],
     "name:ita_x_preferred":[
+        "Sine\u0219ti"
+    ],
+    "name:nds_x_preferred":[
         "Sine\u0219ti"
     ],
     "name:nld_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:nld_x_variant":[
         "Sine\u015fti"
+    ],
+    "name:pol_x_preferred":[
+        "Sine\u0219ti"
     ],
     "name:ron_x_preferred":[
         "Sine\u0219ti"
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":101858045,
-    "wof:lastmodified":1582343167,
+    "wof:lastmodified":1690939204,
     "wof:name":"Sine\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

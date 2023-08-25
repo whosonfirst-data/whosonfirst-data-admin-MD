@@ -32,11 +32,20 @@
     "name:eng_x_preferred":[
         "Ta\u0219l\u00eec"
     ],
+    "name:eng_x_variant":[
+        "Tashlyk"
+    ],
     "name:eus_x_preferred":[
         "Ta\u0219l\u00eec"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0633\u0644\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Ta\u0219l\u00eec"
+    ],
+    "name:gle_x_preferred":[
+        "Tashlyk"
     ],
     "name:ita_x_preferred":[
         "Ta\u0219l\u00eec"
@@ -55,6 +64,9 @@
     ],
     "name:pol_x_preferred":[
         "Ta\u0219l\u00eec"
+    ],
+    "name:pol_x_variant":[
+        "Ta\u015fl\u00eec"
     ],
     "name:por_x_preferred":[
         "Ta\u0219l\u00eec"
@@ -138,7 +150,7 @@
         }
     ],
     "wof:id":101864839,
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1690939272,
     "wof:name":"Ta\u015fl\u00eec",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

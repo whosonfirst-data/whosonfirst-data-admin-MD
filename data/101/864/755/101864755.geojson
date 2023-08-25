@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Sofia"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u0430"
+    ],
     "name:dan_x_preferred":[
         "Sofia"
     ],
@@ -39,6 +42,9 @@
         "Sofia"
     ],
     "name:fra_x_preferred":[
+        "Sofia"
+    ],
+    "name:gle_x_preferred":[
         "Sofia"
     ],
     "name:ita_x_preferred":[
@@ -79,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Sofia"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u0430"
     ],
     "name:tur_x_preferred":[
         "Sofia"
@@ -146,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636499995,
+    "wof:lastmodified":1690939246,
     "wof:name":"Sofia",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Bubuieci"
     ],
+    "name:gle_x_preferred":[
+        "Bubuieci"
+    ],
     "name:ita_x_preferred":[
         "Bubuieci"
     ],
@@ -126,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939257,
     "wof:name":"Bubuieci",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

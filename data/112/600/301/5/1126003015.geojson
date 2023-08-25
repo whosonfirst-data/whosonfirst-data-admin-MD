@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Telene\u0219ti"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043d\u0435\u0449\u0438"
     ],
@@ -29,6 +32,12 @@
         "Telene\u015fti"
     ],
     "name:eng_x_preferred":[
+        "Telene\u0219ti"
+    ],
+    "name:epo_x_preferred":[
+        "Telene\u0219ti"
+    ],
+    "name:est_x_preferred":[
         "Telene\u0219ti"
     ],
     "name:fin_x_preferred":[
@@ -70,17 +79,32 @@
     "name:pol_x_preferred":[
         "Telene\u015fti"
     ],
+    "name:pol_x_variant":[
+        "Telene\u0219ti"
+    ],
     "name:ron_x_preferred":[
         "Telene\u0219ti"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Telene\u0219ti"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u0438"
     ],
     "name:swe_x_preferred":[
         "Telene\u015fti"
+    ],
+    "name:swe_x_variant":[
+        "Telene\u0219ti"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e15\u0e40\u0e25\u0e40\u0e19\u0e0a\u0e15\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0435\u043d\u0435\u0448\u0442\u0438"
@@ -138,7 +162,7 @@
         }
     ],
     "wof:id":1126003015,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1690939324,
     "wof:name":"Telene\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

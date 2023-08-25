@@ -21,6 +21,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Orhei"
+    ],
+    "name:aze_x_preferred":[
+        "Orhey"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0440\u0445\u0435\u0439"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0445\u0435\u0439"
     ],
@@ -49,8 +58,14 @@
         "Orkhey",
         "Orhei"
     ],
+    "name:epo_x_preferred":[
+        "Orhei"
+    ],
     "name:est_x_preferred":[
         "Orhei"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0647\u0626\u06cc"
     ],
     "name:fin_x_preferred":[
         "Orhei"
@@ -84,6 +99,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10e0\u10f0\u10d4\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u0445\u0435\u0439"
     ],
     "name:kor_x_preferred":[
         "\uc624\ub974\ud5e4\uc774"
@@ -141,6 +159,12 @@
     ],
     "name:swe_x_preferred":[
         "Orhei"
+    ],
+    "name:szl_x_preferred":[
+        "Orhei"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e23\u0e4c\u0e40\u0e2e\u0e22\u0e4c"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0433\u0456\u0457\u0432"
@@ -208,7 +232,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636499995,
+    "wof:lastmodified":1690939266,
     "wof:name":"Orhei",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

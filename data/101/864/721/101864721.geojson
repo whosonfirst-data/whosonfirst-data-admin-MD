@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0411\u044b\u044e\u0448"
+    ],
     "name:eng_x_preferred":[
         "Bayush"
     ],
     "name:eng_x_variant":[
         "Bayusha",
+        "B\u0103iu\u0219"
+    ],
+    "name:gle_x_preferred":[
         "B\u0103iu\u0219"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +53,9 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0430\u044e\u0448"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u044b\u044e\u0448"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u044e\u0448"
@@ -104,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1690939274,
     "wof:name":"B\u0103iu\u015f",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

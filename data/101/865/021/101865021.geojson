@@ -32,14 +32,23 @@
     "name:eng_x_preferred":[
         "Plopi"
     ],
+    "name:eng_x_variant":[
+        "Plot"
+    ],
     "name:epo_x_preferred":[
         "Plopi"
     ],
     "name:eus_x_preferred":[
         "Plopi"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0648\u067e\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Plopi"
+    ],
+    "name:gle_x_preferred":[
+        "Plot"
     ],
     "name:ita_x_preferred":[
         "Plopi"
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":101865021,
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939238,
     "wof:name":"Plopi",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

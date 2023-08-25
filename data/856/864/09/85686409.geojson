@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0648\u0646\u063a\u064a\u0646\u064a"
     ],
+    "name:ast_x_preferred":[
+        "distritu d'Ungheni"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u0997\u09c7\u09a8\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -89,6 +92,9 @@
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e0\u05d2\u05e0\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d0\u05d5\u05e0\u05d2\u05e0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0909\u0902\u0917\u0947\u0928\u0940 \u091c\u093f\u0932\u093e"
     ],
@@ -112,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b4\uac8c\ub2c8 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b4\uac8c\ub2c8\uad6c"
     ],
     "name:lav_x_preferred":[
         "Ungenu rajons"
@@ -184,7 +193,8 @@
         "\u0e2d\u0e39\u0e19\u0e40\u0e01\u0e19\u0e35"
     ],
     "name:tha_x_variant":[
-        "\u0e40\u0e02\u0e15\u0e2d\u0e38\u0e07\u0e40\u0e01\u0e19"
+        "\u0e40\u0e02\u0e15\u0e2d\u0e38\u0e07\u0e40\u0e01\u0e19",
+        "\u0e40\u0e02\u0e15\u0e2d\u0e38\u0e07\u0e01\u0e35\u0e40\u0e22\u0e19"
     ],
     "name:tur_x_preferred":[
         "Ungheni District"
@@ -320,7 +330,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499989,
+    "wof:lastmodified":1690939130,
     "wof:name":"Ungheni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

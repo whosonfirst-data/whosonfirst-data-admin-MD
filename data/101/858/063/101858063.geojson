@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041e\u043d\u0438\u0448\u043a\u0430\u043d\u044c"
+    ],
     "name:eng_x_preferred":[
         "Onishkani"
     ],
@@ -27,6 +30,9 @@
         "Oneshkany",
         "Onishkan'",
         "Onishkany",
+        "Oni\u0219cani"
+    ],
+    "name:gle_x_preferred":[
         "Oni\u0219cani"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +55,12 @@
     ],
     "name:rus_x_variant":[
         "\u041e\u043d\u0438\u0448\u043a\u0430\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Oni\u015fcani"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u043d\u0438\u0448\u043a\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043d\u0456\u0448\u043a\u0430\u043d\u044c"
@@ -106,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343167,
+    "wof:lastmodified":1690939197,
     "wof:name":"Oni\u015fcani",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0633\u0643\u0648\u0631\u062a\u0633\u064a\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Scor\u021beni"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0446\u0435\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Scor\u021beni"
@@ -41,6 +47,9 @@
         "Scor\u021beni"
     ],
     "name:fra_x_preferred":[
+        "Scor\u021beni"
+    ],
+    "name:gle_x_preferred":[
         "Scor\u021beni"
     ],
     "name:ita_x_preferred":[
@@ -81,6 +90,9 @@
     ],
     "name:swe_x_preferred":[
         "Scor\u021beni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043a\u043e\u0440\u0446\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043a\u043e\u0440\u0446\u0435\u043d\u044c"
@@ -141,7 +153,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939257,
     "wof:name":"Scor\u0163eni",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

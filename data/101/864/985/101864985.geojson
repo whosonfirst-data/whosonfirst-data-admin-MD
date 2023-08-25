@@ -23,12 +23,18 @@
     "name:bel_x_preferred":[
         "\u0427\u0443\u0442\u0443\u043b\u0435\u0448\u0442\u044b"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u0443\u0442\u0443\u043b\u0435\u0448\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Chutuleshty"
     ],
     "name:eng_x_variant":[
         "Chutulesht'",
         "Chutuleshti",
+        "Ciutule\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Ciutule\u0219ti"
     ],
     "name:heb_x_preferred":[
@@ -57,6 +63,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0443\u0442\u0443\u043b\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Ciutule\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u0443\u0442\u0443\u043b\u0435\u0448\u0442\u0438"
     ],
     "name:tgk_x_preferred":[
         "\u0427\u0443\u0442\u0443\u043b\u0435\u0448\u0442\u0438"
@@ -117,7 +129,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939259,
     "wof:name":"Ciutule\u015fti",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

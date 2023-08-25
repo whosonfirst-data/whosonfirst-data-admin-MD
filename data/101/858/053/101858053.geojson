@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u062f\u0648\u06a4\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Sadova"
     ],
     "name:ces_x_preferred":[
         "Sadova"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0434\u043e\u0432\u0430"
     ],
     "name:dan_x_preferred":[
         "Sadova"
@@ -42,6 +48,9 @@
         "Sadova"
     ],
     "name:fra_x_preferred":[
+        "Sadova"
+    ],
+    "name:gle_x_preferred":[
         "Sadova"
     ],
     "name:heb_x_preferred":[
@@ -82,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "Sadova"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0434\u043e\u0432\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0434\u043e\u0432\u0430"
@@ -138,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343166,
+    "wof:lastmodified":1690939195,
     "wof:name":"Sadova",
     "wof:parent_id":85686423,
     "wof:placetype":"locality",

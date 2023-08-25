@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Saharna"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0445\u0430\u0440\u043d\u0430"
+    ],
     "name:dan_x_preferred":[
         "Saharna"
     ],
@@ -38,6 +41,9 @@
         "Saharna"
     ],
     "name:fra_x_preferred":[
+        "Saharna"
+    ],
+    "name:gle_x_preferred":[
         "Saharna"
     ],
     "name:ita_x_preferred":[
@@ -72,6 +78,9 @@
     ],
     "name:swe_x_preferred":[
         "Saharna"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0445\u0430\u0440\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0445\u0430\u0440\u043d\u0430"
@@ -131,7 +140,7 @@
         }
     ],
     "wof:id":1125874457,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1690939324,
     "wof:name":"Saharna",
     "wof:parent_id":85686467,
     "wof:placetype":"locality",

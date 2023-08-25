@@ -21,6 +21,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Dnestrovsc"
+    ],
+    "name:aze_x_preferred":[
+        "Dnestrovsk"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u043d\u044f\u0441\u0442\u0440\u043e\u045e\u0441\u043a"
     ],
@@ -42,6 +48,9 @@
     "name:deu_x_preferred":[
         "Dnestrovsc"
     ],
+    "name:deu_x_variant":[
+        "Dnestrowsk"
+    ],
     "name:eng_x_preferred":[
         "Dnestrovsc"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:ita_x_preferred":[
         "Dnestrovsc"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30cd\u30b9\u30c8\u30ed\u30d5\u30b9\u30af"
     ],
     "name:lit_x_preferred":[
         "Dnestrovskas"
@@ -157,7 +169,7 @@
         }
     ],
     "wof:id":101864883,
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939267,
     "wof:name":"Dnestrovsc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

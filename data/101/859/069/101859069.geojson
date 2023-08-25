@@ -20,12 +20,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u0440\u044b\u0442\u0435\u0448\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Kondreteshti"
     ],
     "name:eng_x_variant":[
         "Kondrateshti",
         "Kondrateshty",
+        "Condr\u0103te\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Condr\u0103te\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:rus_x_variant":[
         "\u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u0448\u0442\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043d\u0434\u0440\u044b\u0442\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0434\u0440\u0435\u0442\u0435\u0448\u0442\u044c"
@@ -105,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343161,
+    "wof:lastmodified":1690939148,
     "wof:name":"Condr\u0103te\u015fti",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

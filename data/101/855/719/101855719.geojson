@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0417\u044b\u0440\u043d\u0435\u0448\u0442\u044c"
+    ],
     "name:eng_x_preferred":[
         "Zerneshty"
     ],
@@ -27,6 +30,9 @@
         "Zerneshti",
         "Zirneshty",
         "Zyrneshty",
+        "Z\u00eerne\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Z\u00eerne\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:rus_x_variant":[
         "\u0417\u044b\u0440\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Z\u00eerne\u015fti"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0438\u0440\u043d\u0435\u0448\u0442\u0438"
@@ -108,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343171,
+    "wof:lastmodified":1690939245,
     "wof:name":"Z\u00eerne\u015fti",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

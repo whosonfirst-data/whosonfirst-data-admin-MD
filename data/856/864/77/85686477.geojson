@@ -71,6 +71,9 @@
     "name:epo_x_preferred":[
         "Flore\u0219ti"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0641\u0644\u0648\u0631\u0634\u062a\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Flore\u0219tin kaupunginosa"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub85c\ub808\uc288\ud2f0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud50c\ub85c\ub808\uc288\ud2f0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Flore\u0161tu rajons"
@@ -340,7 +346,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1690939132,
     "wof:name":"Flore\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

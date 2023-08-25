@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u064a\u062a\u0633\u0643\u0627\u0646\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u044f\u043b\u043e \u041a\u0456\u0446\u043a\u0430\u043d\u044b"
     ],
     "name:ceb_x_preferred":[
         "Chi\u021bcani"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0446\u043a\u0430\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Chi\u021bcani"
@@ -46,6 +52,9 @@
     ],
     "name:fra_x_preferred":[
         "Chi\u021bcani"
+    ],
+    "name:gle_x_preferred":[
+        "Kitskany"
     ],
     "name:ita_x_preferred":[
         "Chi\u021bcani"
@@ -85,6 +94,9 @@
     ],
     "name:swe_x_preferred":[
         "Chi\u021bcani"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0446\u043a\u0430\u043d\u0438"
     ],
     "name:tur_x_preferred":[
         "Chi\u021bcani"
@@ -152,7 +164,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939309,
     "wof:name":"Chi\u0163cani",
     "wof:parent_id":85686373,
     "wof:placetype":"locality",

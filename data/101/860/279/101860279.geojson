@@ -20,6 +20,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0443\u0448\u0430\u043d\u044b"
+    ],
+    "name:cat_x_preferred":[
+        "Br\u0103tu\u0219eni"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u044d\u0442\u0443\u0448\u0435\u043d\u044c"
+    ],
     "name:eng_x_preferred":[
         "Bretusheniy-Vek'"
     ],
@@ -27,6 +36,12 @@
         "Bratushany",
         "Bratushen'",
         "Staryye Bratushany",
+        "Br\u0103tu\u0219eni"
+    ],
+    "name:fra_x_preferred":[
+        "Br\u0103tu\u0219eni"
+    ],
+    "name:gle_x_preferred":[
         "Br\u0103tu\u0219eni"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +61,9 @@
     ],
     "name:spa_x_preferred":[
         "Br\u0103tu\u0219eni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u044b\u0442\u0443\u0448\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0443\u0448\u0430\u043d\u0438"
@@ -103,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939180,
     "wof:name":"Br\u0103tu\u015feni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

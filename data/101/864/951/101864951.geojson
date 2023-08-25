@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0648\u0632\u064a\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "G\u0103uzeni"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u044b\u0443\u0437\u0435\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "G\u0103uzeni"
@@ -36,6 +42,9 @@
         "G\u0103uzeni"
     ],
     "name:fra_x_preferred":[
+        "G\u0103uzeni"
+    ],
+    "name:gle_x_preferred":[
         "G\u0103uzeni"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "G\u0103uzeni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u044b\u0443\u0437\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0443\u0437\u0435\u043d\u044c"
@@ -123,7 +135,7 @@
         }
     ],
     "wof:id":101864951,
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939265,
     "wof:name":"G\u0103uzeni",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

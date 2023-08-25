@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041b\u0435\u043d\u043a\u044b\u0443\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Lenkautsy"
     ],
     "name:eng_x_variant":[
         "Mereshovka",
+        "Lenc\u0103u\u021bi"
+    ],
+    "name:gle_x_preferred":[
         "Lenc\u0103u\u021bi"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u043a\u0430\u0443\u0446\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u043d\u043a\u044b\u0443\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043d\u043a\u0456\u0432\u0446\u0456"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343165,
+    "wof:lastmodified":1690939181,
     "wof:name":"Lenc\u0103u\u0163i",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

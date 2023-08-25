@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Ci\u0219mea"
     ],
+    "name:che_x_preferred":[
+        "\u0427\u0438\u0448\u043c\u0435\u0430"
+    ],
     "name:dan_x_preferred":[
         "Ci\u0219mea"
     ],
@@ -42,6 +45,9 @@
         "Ci\u0219mea"
     ],
     "name:fra_x_preferred":[
+        "Ci\u0219mea"
+    ],
+    "name:gle_x_preferred":[
         "Ci\u0219mea"
     ],
     "name:ita_x_preferred":[
@@ -73,6 +79,9 @@
     ],
     "name:swe_x_preferred":[
         "Ci\u0219mea"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u0448\u043c\u0435\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0448\u043c\u044f"
@@ -135,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343177,
+    "wof:lastmodified":1690939293,
     "wof:name":"Ci\u015fmea",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

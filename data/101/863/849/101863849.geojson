@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u067e\u0631\u064a\u0627\u0646\u0627"
+    ],
     "name:ceb_x_preferred":[
         "C\u0103priana"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u044b\u043f\u0440\u0438\u0430\u043d\u0430"
     ],
     "name:dan_x_preferred":[
         "C\u0103priana"
@@ -36,6 +42,9 @@
         "C\u0103priana"
     ],
     "name:fra_x_preferred":[
+        "C\u0103priana"
+    ],
+    "name:gle_x_preferred":[
         "C\u0103priana"
     ],
     "name:ita_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "C\u0103priana"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u043f\u0440\u0438\u0430\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043f\u0440\u0456\u0430\u043d\u0430"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":101863849,
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939307,
     "wof:name":"C\u0103priana",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

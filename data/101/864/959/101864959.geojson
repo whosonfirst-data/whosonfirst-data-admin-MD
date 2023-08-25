@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "\u0218estaci"
     ],
+    "name:che_x_preferred":[
+        "\u0428\u0435\u0441\u0442\u0430\u0447\u0438"
+    ],
     "name:dan_x_preferred":[
         "\u0218estaci"
     ],
@@ -40,6 +43,9 @@
         "\u0218estaci"
     ],
     "name:fra_x_preferred":[
+        "\u0218estaci"
+    ],
+    "name:gle_x_preferred":[
         "\u0218estaci"
     ],
     "name:ita_x_preferred":[
@@ -80,6 +86,9 @@
     ],
     "name:swe_x_preferred":[
         "\u0218estaci"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0435\u0441\u0442\u0430\u0447\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0441\u0442\u0430\u0447"
@@ -139,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939261,
     "wof:name":"\u015eestaci",
     "wof:parent_id":85686473,
     "wof:placetype":"locality",

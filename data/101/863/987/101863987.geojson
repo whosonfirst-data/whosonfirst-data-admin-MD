@@ -20,12 +20,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0411\u044b\u043d\u0435\u0448\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Vaneshty"
     ],
     "name:eng_x_variant":[
         "Baneshti",
         "Baneshty",
+        "B\u0103ne\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "B\u0103ne\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +51,12 @@
     ],
     "name:rus_x_variant":[
         "\u0411\u0430\u043d\u0435\u0448\u0442\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "B\u0103ne\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u044b\u043d\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0435\u0448\u0442\u044c"
@@ -102,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939317,
     "wof:name":"B\u0103ne\u015fti",
     "wof:parent_id":85686455,
     "wof:placetype":"locality",

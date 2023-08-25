@@ -33,6 +33,12 @@
         "Gyrtop",
         "H\u00e2rtop"
     ],
+    "name:eus_x_preferred":[
+        "H\u00e2rtop"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00e2rtop"
+    ],
     "name:ron_x_preferred":[
         "H\u00e2rtop"
     ],
@@ -101,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939277,
     "wof:name":"H\u00eertop",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "B\u00eecioc"
     ],
+    "name:gle_x_preferred":[
+        "B\u00eecioc"
+    ],
     "name:ita_x_preferred":[
         "B\u00eecioc"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101864851,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939254,
     "wof:name":"B\u00eecioc",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

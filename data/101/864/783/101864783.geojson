@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "Tohatin"
     ],
+    "name:gle_x_preferred":[
+        "Tohatin"
+    ],
     "name:ita_x_preferred":[
         "Tohatin"
     ],
@@ -128,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343173,
+    "wof:lastmodified":1690939259,
     "wof:name":"Tohatin",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

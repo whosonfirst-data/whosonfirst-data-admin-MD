@@ -46,6 +46,9 @@
     "name:ceb_x_preferred":[
         "Telene\u0219ti"
     ],
+    "name:ces_x_preferred":[
+        "Okres Telene\u0219ti"
+    ],
     "name:dan_x_preferred":[
         "Telene\u0219ti District"
     ],
@@ -109,7 +112,8 @@
         "\ud154\ub808\ub124\uc288\ud2f0"
     ],
     "name:kor_x_variant":[
-        "\ud154\ub808\ub124\uc288\ud2f0 \uad6c"
+        "\ud154\ub808\ub124\uc288\ud2f0 \uad6c",
+        "\ud154\ub808\ub124\uc288\ud2f0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Telene\u0161tu rajons"
@@ -335,7 +339,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1690939131,
     "wof:name":"Telene\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

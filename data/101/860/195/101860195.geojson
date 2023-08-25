@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0632\u0627\u064a\u0643\u0627\u0646\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Z\u0103icani"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u044b\u0439\u043a\u0430\u043d\u0438"
     ],
     "name:dan_x_preferred":[
         "Z\u0103icani"
@@ -36,6 +42,9 @@
         "Z\u0103icani"
     ],
     "name:fra_x_preferred":[
+        "Z\u0103icani"
+    ],
+    "name:gle_x_preferred":[
         "Z\u0103icani"
     ],
     "name:ita_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Z\u0103icani"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u044b\u0439\u043a\u0430\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0439\u043a\u0430\u043d\u044c"
@@ -129,7 +141,7 @@
         }
     ],
     "wof:id":101860195,
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939164,
     "wof:name":"Z\u0103icani",
     "wof:parent_id":85686463,
     "wof:placetype":"locality",

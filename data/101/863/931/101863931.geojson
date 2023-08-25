@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0411\u0438\u0435\u0448\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Biyesht'"
     ],
     "name:eng_x_variant":[
         "Biyeshty",
+        "Bie\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Bie\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +50,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0435\u0448\u0442\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0438\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0454\u0448\u0442\u044c"
@@ -104,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939278,
     "wof:name":"Bie\u015fti",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

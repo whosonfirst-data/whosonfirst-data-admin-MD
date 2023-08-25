@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Temeleu\u021bi"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u043c\u0435\u043b\u0435\u0443\u0446\u0438"
+    ],
     "name:dan_x_preferred":[
         "Temeleu\u021bi"
     ],
@@ -40,6 +43,9 @@
         "Temeleu\u021bi"
     ],
     "name:fra_x_preferred":[
+        "Temeleu\u021bi"
+    ],
+    "name:gle_x_preferred":[
         "Temeleu\u021bi"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +89,9 @@
     ],
     "name:swe_x_preferred":[
         "Temeleu\u021bi"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0435\u043c\u0435\u043b\u0435\u0443\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043c\u0435\u043b\u0435\u0443\u0446\u044c"
@@ -142,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939236,
     "wof:name":"Temeleu\u0163i",
     "wof:parent_id":85686477,
     "wof:placetype":"locality",

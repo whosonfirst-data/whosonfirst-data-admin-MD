@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Alex\u0103ndreni"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u044d\u043d\u0434\u0440\u0435\u043d\u044c"
+    ],
     "name:dan_x_preferred":[
         "Alex\u0103ndreni"
     ],
@@ -36,6 +39,9 @@
         "Alex\u0103ndreni"
     ],
     "name:fra_x_preferred":[
+        "Alex\u0103ndreni"
+    ],
+    "name:gle_x_preferred":[
         "Alex\u0103ndreni"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Alex\u0103ndreni"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u044b\u043d\u0434\u0440\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u043d\u0434\u0440\u0435\u043d\u044c"
@@ -122,7 +131,7 @@
         }
     ],
     "wof:id":101860249,
-    "wof:lastmodified":1582343165,
+    "wof:lastmodified":1690939181,
     "wof:name":"Alex\u0103ndreni",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

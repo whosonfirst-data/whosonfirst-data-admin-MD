@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0431\u0443\u0441\u043a\u0430 \u0412\u0435\u043a\u0435"
+    ],
     "name:eng_x_preferred":[
         "Staraya Kobusska"
     ],
@@ -29,6 +32,9 @@
         "Cobusca Veche"
     ],
     "name:fra_x_preferred":[
+        "Cobusca Veche"
+    ],
+    "name:gle_x_preferred":[
         "Cobusca Veche"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +51,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u044f \u041a\u043e\u0431\u0443\u0441\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Cobusca Veche"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0431\u0443\u0441\u043a\u0430 \u0412\u0435\u043a\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0443\u0441\u043a\u0430-\u0412\u0435\u043a\u0435"
@@ -99,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939319,
     "wof:name":"Cobusca Veche",
     "wof:parent_id":85686395,
     "wof:placetype":"locality",

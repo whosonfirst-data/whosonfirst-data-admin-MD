@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u062a\u0631\u064a\u0646\u0643\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Trinca"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u043a\u0430"
     ],
     "name:dan_x_preferred":[
         "Trinca"
@@ -39,6 +45,9 @@
         "Trinca"
     ],
     "name:fra_x_preferred":[
+        "Trinca"
+    ],
+    "name:gle_x_preferred":[
         "Trinca"
     ],
     "name:ita_x_preferred":[
@@ -76,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Trinca"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u0438\u043d\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0456\u043d\u043a\u0430"
@@ -130,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939176,
     "wof:name":"Trinca",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

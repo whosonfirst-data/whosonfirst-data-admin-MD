@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043b\u043e\u0434\u0436\u0438"
+    ],
     "name:eng_x_preferred":[
         "Berezlozh"
     ],
@@ -27,6 +30,9 @@
         "Berezlodzh'",
         "Berezlodzhi",
         "Berezlozhi",
+        "Berezlogi"
+    ],
+    "name:gle_x_preferred":[
         "Berezlogi"
     ],
     "name:hye_x_preferred":[
@@ -46,6 +52,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u043b\u043e\u0436\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0440\u0435\u0437\u043b\u043e\u0434\u0497\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0437\u043b\u043e\u0434\u0436\u0456"
@@ -103,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939317,
     "wof:name":"Berezlogi",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

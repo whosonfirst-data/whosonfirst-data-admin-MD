@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0628\u0627\u0643\u0644\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0431\u0430\u043a\u043b\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Abaclia"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0431\u0430\u043a\u043b\u0438\u0430"
     ],
     "name:dan_x_preferred":[
         "Abaclia"
@@ -49,6 +55,9 @@
         "\u0622\u0628\u0627\u06a9\u0644\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
+        "Abaclia"
+    ],
+    "name:gle_x_preferred":[
         "Abaclia"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +92,9 @@
     ],
     "name:swe_x_preferred":[
         "Abaclia"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0431\u0430\u043a\u043b\u0438\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0430\u043a\u043b\u0456\u044f"
@@ -137,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939303,
     "wof:name":"Abaclia",
     "wof:parent_id":85686351,
     "wof:placetype":"locality",

@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u0438\u0439 \u041d\u043e\u0439"
+    ],
     "name:eng_x_preferred":[
         "Mareni-Nouy"
     ],
     "name:eng_x_variant":[
         "Novyye Moreny",
+        "Morenii Noi"
+    ],
+    "name:gle_x_preferred":[
         "Morenii Noi"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +50,9 @@
     ],
     "name:rus_x_variant":[
         "\u041d\u043e\u0432\u044b\u0435 \u041c\u043e\u0440\u0435\u043d\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u043d\u0438\u0439 \u041d\u043e\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0435\u043d\u0456\u0439-\u041d\u043e\u0439"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343160,
+    "wof:lastmodified":1690939145,
     "wof:name":"Morenii Noi",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

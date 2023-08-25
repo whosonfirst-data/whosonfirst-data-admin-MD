@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u06a4\u0648\u0631\u0644\u0648\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Covurlui"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0432\u0443\u0440\u043b\u0443\u0439"
     ],
     "name:dan_x_preferred":[
         "Covurlui"
@@ -43,6 +49,9 @@
         "Covurlui"
     ],
     "name:fra_x_preferred":[
+        "Covurlui"
+    ],
+    "name:gle_x_preferred":[
         "Covurlui"
     ],
     "name:ita_x_preferred":[
@@ -83,6 +92,9 @@
     ],
     "name:swe_x_preferred":[
         "Covurlui"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0432\u0443\u0440\u043b\u0443\u0439"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0432\u0443\u0440\u043b\u0443\u0439"
@@ -137,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939277,
     "wof:name":"Covurlui",
     "wof:parent_id":85686355,
     "wof:placetype":"locality",

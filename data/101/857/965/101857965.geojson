@@ -21,8 +21,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0646\u0643\u0648"
+    ],
     "name:ceb_x_preferred":[
         "Dancu"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0430\u043d\u043a\u0443"
     ],
     "name:dan_x_preferred":[
         "Dancu"
@@ -41,6 +47,9 @@
         "Dancu"
     ],
     "name:fra_x_preferred":[
+        "Dancu"
+    ],
+    "name:gle_x_preferred":[
         "Dancu"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +84,9 @@
     ],
     "name:swe_x_preferred":[
         "Dancu"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0430\u043d\u043a\u0443"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043d\u043a\u0443"
@@ -133,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343161,
+    "wof:lastmodified":1690939148,
     "wof:name":"Dancu",
     "wof:parent_id":85686377,
     "wof:placetype":"locality",

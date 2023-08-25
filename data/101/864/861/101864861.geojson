@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Blijnii Hutor"
     ],
+    "name:gle_x_preferred":[
+        "Blijnii Hutor"
+    ],
     "name:ita_x_preferred":[
         "Blijnii Hutor"
     ],
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101864861,
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939253,
     "wof:name":"Blijnii Hutor",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

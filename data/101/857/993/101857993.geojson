@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0427\u0438\u043e\u0440\u0435\u0448\u0442\u0438"
+    ],
     "name:eng_x_preferred":[
         "Choresht'"
     ],
     "name:eng_x_variant":[
         "Choreshty",
+        "Ciore\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Ciore\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +50,9 @@
     ],
     "name:rus_x_variant":[
         "\u0427\u043e\u0440\u0435\u0448\u0442\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u043e\u0440\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0440\u0435\u0448\u0442\u044c"
@@ -101,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343161,
+    "wof:lastmodified":1690939151,
     "wof:name":"Ciore\u015fti",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

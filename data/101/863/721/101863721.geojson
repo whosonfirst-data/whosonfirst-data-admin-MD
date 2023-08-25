@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Ialoveni"
+    ],
     "name:bul_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0435\u043d\u0438"
     ],
@@ -61,6 +64,9 @@
     "name:ita_x_preferred":[
         "Ialoveni"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30ed\u30d9\u30cb"
+    ],
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10da\u10dd\u10d5\u10d4\u10dc\u10d8"
     ],
@@ -99,6 +105,9 @@
     ],
     "name:tat_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e22\u0e32\u0e25\u0e2d\u0e40\u0e27\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0435\u043d\u0438"
@@ -164,7 +173,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1636499996,
+    "wof:lastmodified":1690939318,
     "wof:name":"Ialoveni",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",

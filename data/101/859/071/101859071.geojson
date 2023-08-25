@@ -20,10 +20,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0430 \u041c\u0430\u0440\u0435"
+    ],
     "name:eng_x_preferred":[
         "Valya-Mare"
     ],
     "name:eng_x_variant":[
+        "Valea Mare"
+    ],
+    "name:gle_x_preferred":[
         "Valea Mare"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:rus_x_variant":[
         "\u0412\u0430\u043b\u044f-\u041c\u0430\u0440\u0435"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u0435\u0430 \u041c\u0430\u0440\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044f-\u041c\u0430\u0440\u0435"
@@ -97,7 +106,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343160,
+    "wof:lastmodified":1690939145,
     "wof:name":"Valea Mare",
     "wof:parent_id":85686409,
     "wof:placetype":"locality",

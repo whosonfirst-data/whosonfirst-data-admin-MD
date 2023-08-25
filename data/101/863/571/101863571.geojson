@@ -24,6 +24,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u064a\u0634\u0644\u064a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0645\u064a\u0634\u0644\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Cimi\u0219lia"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u044b\u043c\u0456\u0448\u043b\u0456\u044f"
     ],
@@ -35,6 +41,9 @@
     ],
     "name:ces_x_preferred":[
         "Cimi\u015flia"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7imi\u015fliya"
     ],
     "name:dan_x_preferred":[
         "Cimi\u0219lia"
@@ -75,6 +84,9 @@
     "name:lit_x_preferred":[
         "\u010cimi\u0161lija"
     ],
+    "name:mdf_x_preferred":[
+        "\u0427\u0438\u043c\u0438\u0448\u043b\u0438\u044f"
+    ],
     "name:nld_x_preferred":[
         "Cimi\u0219lia"
     ],
@@ -83,6 +95,9 @@
     ],
     "name:pol_x_preferred":[
         "Cimi\u015flia"
+    ],
+    "name:pol_x_variant":[
+        "Cimi\u0219lia"
     ],
     "name:por_x_preferred":[
         "Cimi\u015flia"
@@ -104,6 +119,12 @@
     ],
     "name:swe_x_preferred":[
         "Cimi\u015flia"
+    ],
+    "name:swe_x_variant":[
+        "Cimi\u0219lia"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e35\u0e21\u0e34\u0e0a\u0e25\u0e35\u0e22\u0e32"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043c\u0456\u0448\u043b\u0456\u044f"
@@ -175,7 +196,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343179,
+    "wof:lastmodified":1690939316,
     "wof:name":"Cimi\u015flia",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

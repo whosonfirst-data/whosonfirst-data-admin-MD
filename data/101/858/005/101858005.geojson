@@ -21,8 +21,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0632\u0628\u064a\u0631\u0648\u0627\u064a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Zberoaia"
+    ],
+    "name:che_x_preferred":[
+        "\u0417\u0431\u0435\u0440\u043e\u0430\u044f"
     ],
     "name:dan_x_preferred":[
         "Zberoaia"
@@ -37,6 +43,9 @@
         "Zberoaia"
     ],
     "name:fra_x_preferred":[
+        "Zberoaia"
+    ],
+    "name:gle_x_preferred":[
         "Zberoaia"
     ],
     "name:ita_x_preferred":[
@@ -74,6 +83,9 @@
     ],
     "name:swe_x_preferred":[
         "Zberoaia"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u0431\u0435\u0440\u043e\u0430\u044f"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0431\u0435\u0440\u043e\u0430\u044f"
@@ -122,7 +134,7 @@
         }
     ],
     "wof:id":101858005,
-    "wof:lastmodified":1582343168,
+    "wof:lastmodified":1690939211,
     "wof:name":"Zberoaia",
     "wof:parent_id":85686387,
     "wof:placetype":"locality",

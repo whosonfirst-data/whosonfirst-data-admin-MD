@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Luc\u0103\u0219euca"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0443\u043a\u044b\u0448\u0435\u0443\u043a\u0430"
+    ],
     "name:dan_x_preferred":[
         "Luc\u0103\u0219euca"
     ],
@@ -39,6 +42,9 @@
         "Luc\u0103\u0219euca"
     ],
     "name:fra_x_preferred":[
+        "Luc\u0103\u0219euca"
+    ],
+    "name:gle_x_preferred":[
         "Luc\u0103\u0219euca"
     ],
     "name:ita_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Luc\u0103\u0219euca"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0443\u043a\u044b\u0448\u0435\u0443\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043a\u0435\u0448\u0435\u0443\u043a\u0430"
@@ -134,7 +143,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343175,
+    "wof:lastmodified":1690939282,
     "wof:name":"Luc\u0103\u015feuca",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u0426\u044b\u0433\u0430\u043d\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Tsiganka"
     ],
@@ -27,6 +30,9 @@
         "Novaya Stoyanovka",
         "Novaya Tsiganka",
         "Tsyganka",
+        "\u021aiganca"
+    ],
+    "name:gle_x_preferred":[
         "\u021aiganca"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +55,12 @@
     ],
     "name:rus_x_variant":[
         "\u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "\u0162iganca"
+    ],
+    "name:tat_x_preferred":[
+        "\u0426\u0438\u0433\u0430\u043d\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0438\u0433\u0430\u043d\u043a\u0430"
@@ -106,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939242,
     "wof:name":"\u0162iganca",
     "wof:parent_id":85686343,
     "wof:placetype":"locality",

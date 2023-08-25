@@ -43,6 +43,9 @@
     "name:ceb_x_preferred":[
         "Rezina"
     ],
+    "name:ces_x_preferred":[
+        "Okres Rezina"
+    ],
     "name:dan_x_preferred":[
         "Rezina District"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:eng_x_variant":[
         "Rezina District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0631\u0632\u06cc\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Rezinan kaupunginosa"
@@ -90,6 +96,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub808\uc9c0\ub098 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub808\uc9c0\ub098\uad6c"
     ],
     "name:lav_x_preferred":[
         "Rezinas rajons"
@@ -231,7 +240,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499988,
+    "wof:lastmodified":1690939128,
     "wof:name":"Rezina",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

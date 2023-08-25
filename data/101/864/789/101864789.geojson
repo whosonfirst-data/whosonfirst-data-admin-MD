@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ast_x_preferred":[
+        "Codru"
+    ],
     "name:bel_x_variant":[
         "\u041a\u043e\u0434\u0440\u0443"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:hsb_x_preferred":[
         "Codru"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0564\u0580\u0578\u0582"
     ],
     "name:ita_x_preferred":[
         "Codru"
@@ -131,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1690939276,
     "wof:name":"Codru",
     "wof:parent_id":85686391,
     "wof:placetype":"locality",

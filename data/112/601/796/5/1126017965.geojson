@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0646\u062f\u0631\u064a\u062a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0646\u062f\u0631\u064a\u062a\u0633\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Condri\u021ba"
     ],
@@ -38,6 +44,9 @@
         "Condri\u021ba"
     ],
     "name:fra_x_preferred":[
+        "Condri\u021ba"
+    ],
+    "name:gle_x_preferred":[
         "Condri\u021ba"
     ],
     "name:ita_x_preferred":[
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1126017965,
-    "wof:lastmodified":1566603099,
+    "wof:lastmodified":1690939324,
     "wof:name":"Condri\u0163a",
     "wof:parent_id":85686405,
     "wof:placetype":"locality",

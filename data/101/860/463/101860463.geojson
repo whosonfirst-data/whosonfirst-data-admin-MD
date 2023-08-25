@@ -21,6 +21,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u062a\u0627\u0633\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Otaci"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0442\u0430\u0447"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:ita_x_preferred":[
         "Otaci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30bf\u30c1"
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10e2\u10d0\u10e9\u10d8"
@@ -146,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939170,
     "wof:name":"Otaci",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

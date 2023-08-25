@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0445\u044b\u043b\u044b\u0448\u0435\u043d\u0438"
+    ],
     "name:eng_x_preferred":[
         "Mikhalashany"
     ],
     "name:eng_x_variant":[
         "Mikhalashen'",
+        "Mih\u0103l\u0103\u0219eni"
+    ],
+    "name:gle_x_preferred":[
         "Mih\u0103l\u0103\u0219eni"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u043b\u0430\u0448\u0430\u043d\u044b"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0445\u044b\u043b\u044b\u0448\u0435\u043d\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0445\u0430\u043b\u0430\u0448\u0435\u043d\u044c"
@@ -101,7 +110,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939172,
     "wof:name":"Mih\u0103l\u0103\u015feni",
     "wof:parent_id":85686511,
     "wof:placetype":"locality",

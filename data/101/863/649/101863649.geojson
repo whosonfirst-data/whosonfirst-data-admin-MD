@@ -32,11 +32,17 @@
     "name:eng_x_preferred":[
         "Proteagailovca"
     ],
+    "name:eng_x_variant":[
+        "Protiagaylovka"
+    ],
     "name:eus_x_preferred":[
         "Proteagailovca"
     ],
     "name:fra_x_preferred":[
         "Proteagailovca"
+    ],
+    "name:gle_x_preferred":[
+        "Protiagaylovka"
     ],
     "name:ita_x_preferred":[
         "Proteagailovca"
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":101863649,
-    "wof:lastmodified":1582343178,
+    "wof:lastmodified":1690939306,
     "wof:name":"Proteagailovca",
     "wof:parent_id":85686369,
     "wof:placetype":"locality",

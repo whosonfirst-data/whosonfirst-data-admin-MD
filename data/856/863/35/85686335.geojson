@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0647\u0648\u0644"
     ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u0445\u0443\u043b\u044c\u0441\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b9\u09cb\u09b2 \u099c\u09c7\u09b2\u09be"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ud6cc \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ud6cc\uad6c"
     ],
     "name:lav_x_preferred":[
         "Kahulas rajons"
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1636499990,
+    "wof:lastmodified":1690939134,
     "wof:name":"Cahul",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

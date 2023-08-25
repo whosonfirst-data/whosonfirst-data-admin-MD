@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "New Tiraspol"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0441\u0451\u043b\u0430\u043a \u041d\u043e\u0432\u0430\u0446\u0456\u0440\u0430\u0441\u043f\u0430\u043b\u044c\u0441\u043a\u0456"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:eng_x_preferred":[
         "Tiraspolul Nou"
+    ],
+    "name:eng_x_variant":[
+        "New Tiraspol"
     ],
     "name:fra_x_preferred":[
         "Tiraspolul Nou"
@@ -71,6 +77,9 @@
     ],
     "name:und_x_variant":[
         "Zakrepostnaya Slobodka"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8482\u62c9\u65af\u6ce2\u5c14"
     ],
     "qs:a0":"Moldova",
     "qs:a1":"*UAT din St\u00eenga Nistrului",
@@ -133,7 +142,7 @@
         }
     ],
     "wof:id":101864891,
-    "wof:lastmodified":1582343174,
+    "wof:lastmodified":1690939271,
     "wof:name":"Tiraspolul Nou",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

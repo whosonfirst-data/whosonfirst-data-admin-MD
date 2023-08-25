@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Mihailovca"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
+    ],
     "name:dan_x_preferred":[
         "Mihailovca"
     ],
@@ -41,6 +44,9 @@
         "Mihailovca"
     ],
     "name:fra_x_preferred":[
+        "Mihailovca"
+    ],
+    "name:gle_x_preferred":[
         "Mihailovca"
     ],
     "name:ita_x_preferred":[
@@ -75,6 +81,9 @@
     ],
     "name:swe_x_preferred":[
         "Mihailovca"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u0456\u0432\u043a\u0430"
@@ -131,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343172,
+    "wof:lastmodified":1690939256,
     "wof:name":"Mihailovca",
     "wof:parent_id":85686359,
     "wof:placetype":"locality",

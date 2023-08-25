@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Gordine\u0219ti"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u0434\u0438\u043d\u0435\u0448\u0442\u044c"
+    ],
     "name:dan_x_preferred":[
         "Gordine\u0219ti"
     ],
@@ -40,6 +43,9 @@
         "Gordine\u0219ti"
     ],
     "name:fra_x_preferred":[
+        "Gordine\u0219ti"
+    ],
+    "name:gle_x_preferred":[
         "Gordine\u0219ti"
     ],
     "name:ita_x_preferred":[
@@ -74,6 +80,9 @@
     ],
     "name:swe_x_preferred":[
         "Gordine\u0219ti"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u0434\u0438\u043d\u0435\u0448\u0442\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0434\u0456\u043d\u0435\u0448\u0442\u044c"
@@ -133,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343163,
+    "wof:lastmodified":1690939169,
     "wof:name":"Gordine\u015fti",
     "wof:parent_id":85686485,
     "wof:placetype":"locality",

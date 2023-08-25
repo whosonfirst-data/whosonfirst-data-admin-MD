@@ -44,6 +44,9 @@
     "name:ces_x_preferred":[
         "Cotihana"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0442\u0438\u0445\u0430\u043d\u0430"
+    ],
     "name:cos_x_preferred":[
         "Cotihana"
     ],
@@ -209,6 +212,9 @@
     "name:swe_x_preferred":[
         "Cotihana"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0442\u0438\u0445\u0430\u043d\u0430"
+    ],
     "name:tur_x_preferred":[
         "Cotihana"
     ],
@@ -290,7 +296,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939242,
     "wof:name":"Cotihana",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

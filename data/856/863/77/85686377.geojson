@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u064a\u0646\u0633\u064a\u0633\u062a\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Hin\u00e7esti rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u044b\u043d\u0447\u044d\u0448\u0446\u043a\u0456 \u0440\u0430\u0451\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u09a8\u0995\u09c7\u09b8\u09cd\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:ceb_x_preferred":[
         "H\u00eence\u0219ti"
+    ],
+    "name:ces_x_preferred":[
+        "Okres H\u00eence\u0219ti"
     ],
     "name:dan_x_preferred":[
         "H\u00eence\u0219ti District"
@@ -97,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud754\uccb4\uc288\ud2f0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud754\uccb4\uc288\ud2f0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Hin\u010de\u0161tu rajons"
@@ -309,7 +321,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895313,
+    "wof:lastmodified":1690939136,
     "wof:name":"H\u00eence\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

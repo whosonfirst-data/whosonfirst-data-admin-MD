@@ -20,6 +20,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u0627\u0646\u0643\u0627 \u062f\u0649 \u0686\u0648\u0633"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0430\u043d\u043a\u0430 \u0434\u0435 \u0416\u043e\u0441"
+    ],
     "name:dan_x_preferred":[
         "Marianca de Jos"
     ],
@@ -77,6 +83,9 @@
     "name:swe_x_preferred":[
         "Marianca de Jos"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0430\u043d\u043a\u0430 \u0434\u0435 \u0416\u043e\u0441"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440'\u044f\u043d\u043a\u0430-\u0434\u0435-\u0416\u043e\u0441"
     ],
@@ -133,7 +142,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343176,
+    "wof:lastmodified":1690939285,
     "wof:name":"Marianca de Jos",
     "wof:parent_id":85686365,
     "wof:placetype":"locality",

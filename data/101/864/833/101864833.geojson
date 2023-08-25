@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
+    "name:ast_x_preferred":[
+        "Slobozia"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u043b\u0430\u0431\u0430\u0434\u0437\u0435\u044f"
     ],
@@ -47,6 +50,9 @@
         "Slobozia"
     ],
     "name:eng_x_preferred":[
+        "Slobozia"
+    ],
+    "name:est_x_preferred":[
         "Slobozia"
     ],
     "name:fin_x_preferred":[
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":101864833,
-    "wof:lastmodified":1636499995,
+    "wof:lastmodified":1690939255,
     "wof:name":"Slobozia",
     "wof:parent_id":85686431,
     "wof:placetype":"locality",

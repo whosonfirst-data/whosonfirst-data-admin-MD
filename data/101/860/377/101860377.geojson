@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0647\u0631\u064a\u0633\u062a\u064a\u0633\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Hristici"
+    ],
+    "name:che_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u0447\u0438"
     ],
     "name:dan_x_preferred":[
         "Hristici"
@@ -41,6 +47,9 @@
         "Hristici"
     ],
     "name:fra_x_preferred":[
+        "Hristici"
+    ],
+    "name:gle_x_preferred":[
         "Hristici"
     ],
     "name:ita_x_preferred":[
@@ -78,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Hristici"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u0447\u0438"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0440\u0438\u0441\u0442\u0438\u0447\u044c"
@@ -132,7 +144,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939174,
     "wof:name":"Hristici",
     "wof:parent_id":85686501,
     "wof:placetype":"locality",

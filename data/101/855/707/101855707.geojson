@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u064a\u0647\u0627\u0646\u0627 \u06a4\u064a\u062a\u0634\u0649"
+    ],
     "name:ceb_x_preferred":[
         "Crihana Veche"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0438\u0445\u0430\u043d\u0430 \u0412\u0435\u043a\u0435"
     ],
     "name:dan_x_preferred":[
         "Crihana Veche"
@@ -41,6 +47,9 @@
         "Crihana Veche"
     ],
     "name:fra_x_preferred":[
+        "Crihana Veche"
+    ],
+    "name:gle_x_preferred":[
         "Crihana Veche"
     ],
     "name:ita_x_preferred":[
@@ -84,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Crihana Veche"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0438\u0445\u0430\u043d\u0430 \u0412\u0435\u043a\u0435"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0456\u0433\u0430\u043d\u0430-\u0412\u0435\u043a\u0435"
@@ -138,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343170,
+    "wof:lastmodified":1690939241,
     "wof:name":"Crihana Veche",
     "wof:parent_id":85686335,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:ceb_x_preferred":[
         "Raionul C\u0103l\u0103ra\u0219i"
     ],
+    "name:ces_x_preferred":[
+        "Okres C\u0103l\u0103ra\u0219i"
+    ],
     "name:dan_x_preferred":[
         "Calarasi District"
     ],
@@ -76,6 +79,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab2\u0abe\u0ab0\u0abe\u0ab8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d0\u05e8\u05d0\u05e9\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0932\u093e\u0930\u093e\u0938\u0940 \u091c\u093f\u0932\u093e"
     ],
@@ -105,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\uceec\ub7ec\ub77c\uc2dc \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uceec\ub7ec\ub77c\uc2dc\uad6c"
     ],
     "name:lav_x_preferred":[
         "Kelerasu rajons"
@@ -313,7 +322,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1690939132,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
+    ],
     "name:eng_x_preferred":[
         "Medvezha"
     ],
     "name:eng_x_variant":[
         "Medvezha-Mare",
+        "Medveja"
+    ],
+    "name:gle_x_preferred":[
         "Medveja"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +46,12 @@
         "Medveja"
     ],
     "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Medveja"
+    ],
+    "name:tat_x_preferred":[
         "\u041c\u0435\u0434\u0432\u0435\u0436\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -95,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582343164,
+    "wof:lastmodified":1690939175,
     "wof:name":"Medveja",
     "wof:parent_id":85686497,
     "wof:placetype":"locality",

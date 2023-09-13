@@ -1283,7 +1283,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"373",
     "statoids:ds":"MD",
     "statoids:fifa":"MDA",
@@ -1356,7 +1356,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1694492179,
+    "wof:lastmodified":1694639630,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

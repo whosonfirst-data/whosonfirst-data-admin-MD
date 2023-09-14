@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.015189,
-    "geom:area_square_m":33729327513.795422,
+    "geom:area_square_m":33729339304.300888,
     "geom:bbox":"26.622804,45.466312,30.163524,48.491952",
     "geom:latitude":47.202086,
     "geom:longitude":28.464954,
@@ -13,6 +13,9 @@
     "iso:country":"MD",
     "itu:country_code":[
         "373"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "MD"
@@ -1279,7 +1282,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"373",
     "statoids:ds":"MD",
     "statoids:fifa":"MDA",
@@ -1338,7 +1342,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"ae2758184480f3aaf8e05e290650b794",
+    "wof:geomhash":"1e493a1d3f83bbf82a1abc4cf31f87c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1352,12 +1356,12 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939127,
+    "wof:lastmodified":1694639630,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":4324000,
-    "wof:population_rank":12,
+    "wof:population":2657637,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-md",
     "wof:shortcode":"MD",
     "wof:superseded_by":[],

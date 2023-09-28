@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214934,
-    "geom:area_square_m":1843601638.726331,
+    "geom:area_square_m":1843602903.301687,
     "geom:bbox":"28.291314,45.485073,29.002199,46.471705",
     "geom:latitude":46.077067,
     "geom:longitude":28.651033,
@@ -360,11 +360,17 @@
         "gn:id":858895,
         "gp:id":20069881,
         "hasc:id":"MD.GA",
+        "iso:code":"MD-GA",
         "iso:id":"MD-GA",
+        "qs:local_id":"33",
         "wd:id":"Q164819"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"ba8a9c25a0e9011221b6214cc5736fff",
+    "wof:geomhash":"f23c4ae7d66f0501e363e374023ae35c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -379,7 +385,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895313,
+    "wof:lastmodified":1695884534,
     "wof:name":"Unitatea Teritotrial\u0103 Autonom\u0103 G\u0103g\u0103uzia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

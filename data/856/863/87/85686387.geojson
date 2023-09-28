@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074465,
-    "geom:area_square_m":626930819.832163,
+    "geom:area_square_m":626931174.847805,
     "geom:bbox":"27.944627,46.905701,28.328882,47.259777",
     "geom:latitude":47.087835,
     "geom:longitude":28.133977,
@@ -293,12 +293,18 @@
         "gn:id":617754,
         "gp:id":55948194,
         "hasc:id":"MD.NI",
+        "iso:code":"MD-NI",
         "iso:id":"MD-NI",
+        "qs:local_id":"20",
         "unlc:id":"MD-NI",
         "wd:id":"Q878266"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"37d01128f5ea0145acf816953c0102da",
+    "wof:geomhash":"a205db6f7540901ad0d2d6f34509fbe5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939135,
+    "wof:lastmodified":1695884857,
     "wof:name":"Nisporeni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

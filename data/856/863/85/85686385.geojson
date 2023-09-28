@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.092345,
-    "geom:area_square_m":780974118.161619,
+    "geom:area_square_m":780974118.161521,
     "geom:bbox":"28.464126,46.656346,29.102995,47.07572",
     "geom:latitude":46.846969,
     "geom:longitude":28.821906,
@@ -296,12 +296,18 @@
         "gn:id":617991,
         "gp:id":55948192,
         "hasc:id":"MD.IA",
+        "iso:code":"MD-IA",
         "iso:id":"MD-IA",
+        "qs:local_id":"18",
         "unlc:id":"MD-IA",
         "wd:id":"Q2128964"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"72e7ae73ba8cebef1c140478088e1d90",
+    "wof:geomhash":"26387ee76dc5ddc7641fda025661b934",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +322,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939136,
+    "wof:lastmodified":1695884857,
     "wof:name":"Ialoveni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

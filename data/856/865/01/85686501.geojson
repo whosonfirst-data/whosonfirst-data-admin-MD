@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125642,
-    "geom:area_square_m":1036759974.476107,
+    "geom:area_square_m":1036758305.843231,
     "geom:bbox":"27.816707,47.975261,28.635361,48.353981",
     "geom:latitude":48.138687,
     "geom:longitude":28.193914,
@@ -297,12 +297,18 @@
         "gn:id":617366,
         "gp:id":20069872,
         "hasc:id":"MD.SO",
+        "iso:code":"MD-SO",
         "iso:id":"MD-SO",
+        "qs:local_id":"26",
         "unlc:id":"MD-SO",
         "wd:id":"Q2129022"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"b748364cc15f7861fed2a145cf00ffac",
+    "wof:geomhash":"c6404b182d02053710801777ceaa3bf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -317,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939128,
+    "wof:lastmodified":1695884856,
     "wof:name":"Soroca",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

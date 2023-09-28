@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07808,
-    "geom:area_square_m":643011662.642616,
+    "geom:area_square_m":643011646.427345,
     "geom:bbox":"27.486895,48.046945,27.95406,48.386489",
     "geom:latitude":48.240418,
     "geom:longitude":27.669458,
@@ -303,12 +303,18 @@
         "gn:id":618381,
         "gp:id":55948186,
         "hasc:id":"MD.DO",
+        "iso:code":"MD-DO",
         "iso:id":"MD-DO",
+        "qs:local_id":"10",
         "unlc:id":"MD-DO",
         "wd:id":"Q1061128"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"9307078fd80b9ce93e6ef381064abe5e",
+    "wof:geomhash":"5c7be12570ff20b0302fae8f5544022f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939127,
+    "wof:lastmodified":1695884534,
     "wof:name":"Dondu\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

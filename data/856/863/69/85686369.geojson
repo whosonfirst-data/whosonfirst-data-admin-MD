@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004495,
-    "geom:area_square_m":38032055.563962,
+    "geom:area_square_m":38031953.275223,
     "geom:bbox":"29.395008,46.781215,29.510378,46.863503",
     "geom:latitude":46.827222,
     "geom:longitude":29.454532,
@@ -141,10 +141,16 @@
         "gn:id":861487,
         "gp:id":20069877,
         "hasc:id":"MD.BD",
-        "iso:id":"MD-BD"
+        "iso:code":"MD-BD",
+        "iso:id":"MD-BD",
+        "qs:local_id":"37"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"714092480f6185f52c73cd3e84241d79",
+    "wof:geomhash":"5e1e66c877b60ab96bb34e9ef6b91e67",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +165,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1627522350,
+    "wof:lastmodified":1695884755,
     "wof:name":"mun.Bender",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

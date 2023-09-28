@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090657,
-    "geom:area_square_m":753854801.270446,
+    "geom:area_square_m":753855466.231102,
     "geom:bbox":"27.249904,47.584247,27.804586,47.870067",
     "geom:latitude":47.740244,
     "geom:longitude":27.507621,
@@ -293,12 +293,18 @@
         "gn:id":618260,
         "gp:id":55948190,
         "hasc:id":"MD.GL",
+        "iso:code":"MD-GL",
         "iso:id":"MD-GL",
+        "qs:local_id":"16",
         "unlc:id":"MD-GL",
         "wd:id":"Q860716"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"7ebc7c072b46a4758efddb5051eee96d",
+    "wof:geomhash":"570e2f3794c18ac439002404ea51c374",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939129,
+    "wof:lastmodified":1695884856,
     "wof:name":"Glodeni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

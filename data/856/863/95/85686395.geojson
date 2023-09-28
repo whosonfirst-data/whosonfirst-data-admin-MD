@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10481,
-    "geom:area_square_m":885376790.005802,
+    "geom:area_square_m":885376794.14215,
     "geom:bbox":"28.949737,46.707797,29.489288,47.139215",
     "geom:latitude":46.908346,
     "geom:longitude":29.227842,
@@ -306,12 +306,18 @@
         "gn:id":617715,
         "gp:id":55948205,
         "hasc:id":"MD.AN",
+        "iso:code":"MD-AN",
         "iso:id":"MD-AN",
+        "qs:local_id":"01",
         "unlc:id":"MD-AN",
         "wd:id":"Q769224"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"217ef3e342979c3ae905c04edceb88ea",
+    "wof:geomhash":"a8416bcd4b054b3bd1fcb52b0e7e1b17",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -326,7 +332,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939133,
+    "wof:lastmodified":1695884857,
     "wof:name":"Anenii Noi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

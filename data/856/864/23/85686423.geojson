@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089499,
-    "geom:area_square_m":750493688.3539,
+    "geom:area_square_m":750493688.353984,
     "geom:bbox":"28.046794,47.159029,28.564425,47.446533",
     "geom:latitude":47.300505,
     "geom:longitude":28.30589,
@@ -302,12 +302,18 @@
         "gn:id":618162,
         "gp:id":55948181,
         "hasc:id":"MD.CA",
+        "iso:code":"MD-CL",
         "iso:id":"MD-CL",
+        "qs:local_id":"06",
         "unlc:id":"MD-CL",
         "wd:id":"Q2128868"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"a913d77c4534a3b351cb96454a7bc35a",
+    "wof:geomhash":"6832d94ee0c8dd362446c8b3fd2059dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939132,
+    "wof:lastmodified":1695884534,
     "wof:name":"C\u0103l\u0103ra\u015fi",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

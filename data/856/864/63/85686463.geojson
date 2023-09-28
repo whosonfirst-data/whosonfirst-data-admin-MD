@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112808,
-    "geom:area_square_m":934871537.219326,
+    "geom:area_square_m":934872195.254236,
     "geom:bbox":"27.150465,47.754951,27.919883,48.092983",
     "geom:latitude":47.916709,
     "geom:longitude":27.492542,
@@ -305,11 +305,17 @@
         "gn:id":617483,
         "gp:id":55948197,
         "hasc:id":"MD.RS",
+        "iso:code":"MD-RI",
         "iso:id":"MD-RI",
+        "qs:local_id":"24",
         "wd:id":"Q611656"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"f9a2cfe5ca58073545d9b928ee2294c2",
+    "wof:geomhash":"273822fef24d05795c0d409a13b114b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,7 +330,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939131,
+    "wof:lastmodified":1695884534,
     "wof:name":"R\u00ee\u015fcani",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

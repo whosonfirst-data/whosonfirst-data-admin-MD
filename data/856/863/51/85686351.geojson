@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034553,
-    "geom:area_square_m":294725058.134275,
+    "geom:area_square_m":294724798.458614,
     "geom:bbox":"28.727732,46.259514,29.025537,46.537432",
     "geom:latitude":46.38475,
     "geom:longitude":28.895359,
@@ -302,12 +302,18 @@
         "gn:id":618565,
         "gp:id":55948179,
         "hasc:id":"MD.BA",
+        "iso:code":"MD-BS",
         "iso:id":"MD-BS",
+        "qs:local_id":"02",
         "unlc:id":"MD-BS",
         "wd:id":"Q1980044"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"9367d9e74ae1446a0191d67e213f83f0",
+    "wof:geomhash":"651a6ff58ff4753495c20a1541ee7be2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939134,
+    "wof:lastmodified":1695884857,
     "wof:name":"Basarabeasca",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

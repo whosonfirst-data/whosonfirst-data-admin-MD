@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.17355,
-    "geom:area_square_m":1467983818.504549,
+    "geom:area_square_m":1467984682.486657,
     "geom:bbox":"28.083038,46.604465,28.742723,47.089652",
     "geom:latitude":46.838032,
     "geom:longitude":28.406649,
@@ -302,11 +302,17 @@
         "gn:id":858803,
         "gp:id":55948191,
         "hasc:id":"MD.HI",
+        "iso:code":"MD-HI",
         "iso:id":"MD-HI",
+        "qs:local_id":"17",
         "wd:id":"Q878297"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"5a58c1ce1cc3b0d73426e889a9f8bc68",
+    "wof:geomhash":"492bc30c581c243344700bb949c7874a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -321,7 +327,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939136,
+    "wof:lastmodified":1695884534,
     "wof:name":"H\u00eence\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

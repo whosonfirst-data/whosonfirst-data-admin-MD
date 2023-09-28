@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128899,
-    "geom:area_square_m":1080654056.770517,
+    "geom:area_square_m":1080655749.315426,
     "geom:bbox":"27.573679,47.022938,28.195952,47.490891",
     "geom:latitude":47.311421,
     "geom:longitude":27.905918,
@@ -310,12 +310,18 @@
         "gn:id":617181,
         "gp:id":20069874,
         "hasc:id":"MD.UG",
+        "iso:code":"MD-UN",
         "iso:id":"MD-UN",
+        "qs:local_id":"32",
         "unlc:id":"MD-UN",
         "wd:id":"Q854443"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"d91f67cc6ce318cdcdd8b680624b707f",
+    "wof:geomhash":"e34ece3cc04925090c06f263a954f7e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -330,7 +336,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939130,
+    "wof:lastmodified":1695884856,
     "wof:name":"Ungheni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067465,
-    "geom:area_square_m":568754512.275121,
+    "geom:area_square_m":568754512.275114,
     "geom:bbox":"28.630944,46.85811,29.123422,47.15633",
     "geom:latitude":47.016574,
     "geom:longitude":28.871173,
@@ -156,12 +156,18 @@
         "gn:id":618069,
         "gp:id":20069878,
         "hasc:id":"MD.CV",
+        "iso:code":"MD-CU",
         "iso:id":"MD-CU",
+        "qs:local_id":"35",
         "unlc:id":"MD-CU",
         "wd:id":"Q5341085"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"8b8134cc69ef0e076e5def392cfc5666",
+    "wof:geomhash":"ca121d6b8f7e8d6413f22ab25fda1dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,7 +182,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1627522350,
+    "wof:lastmodified":1695884755,
     "wof:name":"mun.Chi\u015fin\u0103u",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

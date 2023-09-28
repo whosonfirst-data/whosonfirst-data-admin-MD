@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128173,
-    "geom:area_square_m":1069248430.643663,
+    "geom:area_square_m":1069249223.98127,
     "geom:bbox":"27.401783,47.373825,28.003247,47.777435",
     "geom:latitude":47.572369,
     "geom:longitude":27.720079,
@@ -302,12 +302,18 @@
         "gn:id":618345,
         "gp:id":55948188,
         "hasc:id":"MD.FA",
+        "iso:code":"MD-FA",
         "iso:id":"MD-FA",
+        "qs:local_id":"14",
         "unlc:id":"MD-FA",
         "wd:id":"Q878375"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"00aee9cb4a2ecb76b187bf7e2dae19b0",
+    "wof:geomhash":"2665499b6e57356a1efa81d4cf4d042e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -322,7 +328,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939131,
+    "wof:lastmodified":1695884534,
     "wof:name":"F\u0103le\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

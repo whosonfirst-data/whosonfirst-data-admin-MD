@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108323,
-    "geom:area_square_m":920598904.442786,
+    "geom:area_square_m":920599000.607817,
     "geom:bbox":"28.549448,46.412439,29.063154,46.771857",
     "geom:latitude":46.582947,
     "geom:longitude":28.776325,
@@ -304,12 +304,18 @@
         "gn:id":618430,
         "gp:id":55948184,
         "hasc:id":"MD.CS",
+        "iso:code":"MD-CM",
         "iso:id":"MD-CM",
+        "qs:local_id":"08",
         "unlc:id":"MD-CM",
         "wd:id":"Q286646"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"df190e6d566a1b07515ea44ce0a05c74",
+    "wof:geomhash":"d0aaac9296973d8e90caddf8fd4e04f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -324,7 +330,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939134,
+    "wof:lastmodified":1695884534,
     "wof:name":"Cimi\u015flia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

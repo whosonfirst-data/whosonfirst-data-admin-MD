@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.179072,
-    "geom:area_square_m":1542355916.416871,
+    "geom:area_square_m":1542357056.385875,
     "geom:bbox":"28.085516,45.466312,28.563922,46.15385",
     "geom:latitude":45.848342,
     "geom:longitude":28.288904,
@@ -292,11 +292,17 @@
         "gn:id":618164,
         "gp:id":20069882,
         "hasc:id":"MD.CH",
+        "iso:code":"MD-CA",
         "iso:id":"MD-CA",
+        "qs:local_id":"04",
         "wd:id":"Q2128882"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"4dd36b27ebe15282281884fe7fc14b1d",
+    "wof:geomhash":"f6f1b48b5dd778d6e1dfb25285274fa3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939134,
+    "wof:lastmodified":1695884857,
     "wof:name":"Cahul",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

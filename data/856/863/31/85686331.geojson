@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078138,
-    "geom:area_square_m":671701726.748632,
+    "geom:area_square_m":671701979.733698,
     "geom:bbox":"28.386345,45.725807,29.06705,46.231728",
     "geom:latitude":45.956409,
     "geom:longitude":28.680884,
@@ -211,10 +211,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55948203,
+        "iso:code":"MD-TA",
+        "qs:local_id":"30",
         "wd:id":"Q865884"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"41196c8e0627a5d4774cd7663e956eb9",
+    "wof:geomhash":"bf293f1e07cdd9bb07f0c8cb66f69fb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -229,7 +235,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939135,
+    "wof:lastmodified":1695884857,
     "wof:name":"Taraclia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

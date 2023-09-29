@@ -1320,6 +1320,7 @@
         "hasc:id":"MD",
         "icao:code":"ER",
         "ioc:id":"MDA",
+        "iso:code":"MD",
         "itu:id":"MDA",
         "loc:id":"n90720192",
         "m49:code":"498",
@@ -1334,6 +1335,7 @@
         "wk:page":"Moldova",
         "wmo:id":"RM"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MD",
     "wof:country_alpha3":"MDA",
     "wof:geom_alt":[
@@ -1356,7 +1358,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1694639630,
+    "wof:lastmodified":1695881292,
     "wof:name":"Moldova",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

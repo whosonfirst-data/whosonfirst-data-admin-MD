@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101351,
-    "geom:area_square_m":866697891.259773,
+    "geom:area_square_m":866698127.574003,
     "geom:bbox":"28.106409,46.07906,28.55607,46.420714",
     "geom:latitude":46.24511,
     "geom:longitude":28.334369,
@@ -318,12 +318,18 @@
         "gn:id":618142,
         "gp:id":55948182,
         "hasc:id":"MD.CN",
+        "iso:code":"MD-CT",
         "iso:id":"MD-CT",
+        "qs:local_id":"05",
         "unlc:id":"MD-CT",
         "wd:id":"Q684183"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"25d9c0fa1a5f29b535de280704014ad9",
+    "wof:geomhash":"34b4215e70df07aa56343d7e63beacab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -338,7 +344,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939135,
+    "wof:lastmodified":1695884857,
     "wof:name":"Cantemir",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

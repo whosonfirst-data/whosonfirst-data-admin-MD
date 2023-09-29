@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10139,
-    "geom:area_square_m":846111769.959167,
+    "geom:area_square_m":846111769.959144,
     "geom:bbox":"28.141771,47.394889,28.704946,47.73796",
     "geom:latitude":47.554285,
     "geom:longitude":28.439682,
@@ -319,12 +319,18 @@
         "gn:id":617255,
         "gp:id":55948204,
         "hasc:id":"MD.TE",
+        "iso:code":"MD-TE",
         "iso:id":"MD-TE",
+        "qs:local_id":"31",
         "unlc:id":"MD-TE",
         "wd:id":"Q2129025"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"51befca7ea34a358f9a62aee1e72d6f6",
+    "wof:geomhash":"f7c05506f6ec6af25e72754b4675ad7d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -339,7 +345,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939131,
+    "wof:lastmodified":1695884534,
     "wof:name":"Telene\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

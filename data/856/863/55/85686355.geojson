@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089669,
-    "geom:area_square_m":762916087.187796,
+    "geom:area_square_m":762916519.732989,
     "geom:bbox":"28.209364,46.336619,28.580234,46.70682",
     "geom:latitude":46.522181,
     "geom:longitude":28.411905,
@@ -293,12 +293,18 @@
         "gn:id":617903,
         "gp:id":55948193,
         "hasc:id":"MD.LE",
+        "iso:code":"MD-LE",
         "iso:id":"MD-LE",
+        "qs:local_id":"19",
         "unlc:id":"MD-LE",
         "wd:id":"Q1826662"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"541bc09b5768e777fad9b989d87d8c59",
+    "wof:geomhash":"12e9367028543cb1df0850edb548a0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939136,
+    "wof:lastmodified":1695884857,
     "wof:name":"Leova",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

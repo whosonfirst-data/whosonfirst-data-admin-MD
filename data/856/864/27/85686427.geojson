@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038848,
-    "geom:area_square_m":325971508.215986,
+    "geom:area_square_m":325971499.352635,
     "geom:bbox":"28.990795,47.075169,29.363381,47.414763",
     "geom:latitude":47.266714,
     "geom:longitude":29.15557,
@@ -217,11 +217,17 @@
     "wof:concordances":{
         "fips:code":"MD72",
         "hasc:id":"MD.DB",
+        "iso:code":"MD-DU",
         "iso:id":"MD-DU",
+        "qs:local_id":"12",
         "wd:id":"Q878278"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"06c4385785f5d3a3bd77e91ad0b4687d",
+    "wof:geomhash":"dc1478c35d698c5684226567d32f5f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -243,7 +249,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939129,
+    "wof:lastmodified":1695884534,
     "wof:name":"Dub\u0103sari",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",

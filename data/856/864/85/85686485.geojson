@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112704,
-    "geom:area_square_m":930088570.232746,
+    "geom:area_square_m":930089279.098313,
     "geom:bbox":"27.021826,47.940238,27.541902,48.349075",
     "geom:latitude":48.133556,
     "geom:longitude":27.277475,
@@ -303,12 +303,18 @@
         "gn:id":617077,
         "gp:id":20069871,
         "hasc:id":"MD.ED",
+        "iso:code":"MD-ED",
         "iso:id":"MD-ED",
+        "qs:local_id":"13",
         "unlc:id":"MD-ED",
         "wd:id":"Q878290"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"6cffd25db2a8fa36b9c5d8f328b102bf",
+    "wof:geomhash":"fe04eac96877afd0ccf4aa9099e0e41a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -323,7 +329,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939133,
+    "wof:lastmodified":1695884534,
     "wof:name":"Edine\u0163",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

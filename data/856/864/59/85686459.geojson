@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123736,
-    "geom:area_square_m":1030477469.453386,
+    "geom:area_square_m":1030477469.453461,
     "geom:bbox":"27.886259,47.434357,28.406934,47.910257",
     "geom:latitude":47.661502,
     "geom:longitude":28.118454,
@@ -289,12 +289,18 @@
         "gn:id":617913,
         "gp:id":55948198,
         "hasc:id":"MD.SI",
+        "iso:code":"MD-SI",
         "iso:id":"MD-SI",
+        "qs:local_id":"25",
         "unlc:id":"MD-SI",
         "wd:id":"Q1796621"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"35e047677728a16ac5fe0367bf935c61",
+    "wof:geomhash":"ce9aa3c98bdeb9813aeee577d62cd13a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939128,
+    "wof:lastmodified":1695884534,
     "wof:name":"S\u00eengerei",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09894,
-    "geom:area_square_m":813921141.015712,
+    "geom:area_square_m":813921075.076443,
     "geom:bbox":"26.616332,48.121887,27.279233,48.434597",
     "geom:latitude":48.295461,
     "geom:longitude":26.97694,
@@ -305,12 +305,18 @@
         "gn:id":618511,
         "gp:id":55948180,
         "hasc:id":"MD.BR",
+        "iso:code":"MD-BR",
         "iso:id":"MD-BR",
+        "qs:local_id":"03",
         "unlc:id":"MD-BR",
         "wd:id":"Q753795"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"7479682c4e6c2a6fd29a4bdc1f4d8c71",
+    "wof:geomhash":"c7e1dbaddf30ebd0dd8ff488337ddd65",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -325,7 +331,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939131,
+    "wof:lastmodified":1695884857,
     "wof:name":"Briceni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

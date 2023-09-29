@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120679,
-    "geom:area_square_m":997768507.819674,
+    "geom:area_square_m":997768507.819692,
     "geom:bbox":"27.62378,47.820166,28.090558,48.240592",
     "geom:latitude":48.037179,
     "geom:longitude":27.857902,
@@ -298,12 +298,18 @@
         "gn:id":618369,
         "gp:id":55948187,
         "hasc:id":"MD.DR",
+        "iso:code":"MD-DR",
         "iso:id":"MD-DR",
+        "qs:local_id":"11",
         "unlc:id":"MD-DR",
         "wd:id":"Q865594"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"82f52be4283eee6841a96607eed70680",
+    "wof:geomhash":"70847380eae41512b0df71f80c7330a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +324,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939130,
+    "wof:lastmodified":1695884534,
     "wof:name":"Drocia",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

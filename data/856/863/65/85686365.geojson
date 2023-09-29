@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117121,
-    "geom:area_square_m":996822935.021719,
+    "geom:area_square_m":996824310.413804,
     "geom:bbox":"29.396099,46.352474,30.163524,46.678984",
     "geom:latitude":46.503676,
     "geom:longitude":29.716802,
@@ -315,12 +315,18 @@
         "gn:id":617283,
         "gp:id":55948200,
         "hasc:id":"MD.SV",
+        "iso:code":"MD-SV",
         "iso:id":"MD-SV",
+        "qs:local_id":"29",
         "unlc:id":"MD-SV",
         "wd:id":"Q2129061"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"00374ecf756dc5bb4f3f0ea3c20f93f8",
+    "wof:geomhash":"dd21ae3ae262fe821b1cbda53af7b624",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -335,7 +341,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939136,
+    "wof:lastmodified":1695884534,
     "wof:name":"\u015etefan Vod\u0103",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

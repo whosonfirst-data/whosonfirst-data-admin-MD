@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074394,
-    "geom:area_square_m":619186782.778898,
+    "geom:area_square_m":619186766.585876,
     "geom:bbox":"28.595144,47.524892,29.027752,47.884392",
     "geom:latitude":47.693014,
     "geom:longitude":28.853812,
@@ -220,12 +220,18 @@
     "wof:concordances":{
         "fips:code":"MD83",
         "hasc:id":"MD.RZ",
+        "iso:code":"MD-RE",
         "iso:id":"MD-RE",
+        "qs:local_id":"23",
         "unlc:id":"MD-RE",
         "wd:id":"Q878317"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"4ec5bbed7ba6c54eff1ebb5bffc41ff1",
+    "wof:geomhash":"d11dc744f10df1721b2480a25ff44fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -240,7 +246,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939128,
+    "wof:lastmodified":1695884856,
     "wof:name":"Rezina",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

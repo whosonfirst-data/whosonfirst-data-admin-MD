@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39832,
-    "geom:area_square_m":3337293583.416382,
+    "geom:area_square_m":3337288764.813304,
     "geom:bbox":"28.491888,46.546673,29.979357,48.182144",
     "geom:latitude":47.343386,
     "geom:longitude":29.326008,
@@ -76,10 +76,16 @@
         "fips:code":"MD58",
         "gp:id":55948201,
         "hasc:id":"MD.DU",
-        "iso:id":"MD-SN"
+        "iso:code":"MD-SN",
+        "iso:id":"MD-SN",
+        "qs:local_id":"34"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"7514de712fea9c60fbea0cec4e1fefcd",
+    "wof:geomhash":"d0e6cdd282146f83cf2078f1d2983feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -101,7 +107,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1627522350,
+    "wof:lastmodified":1695884755,
     "wof:name":"UAT din St\u00eenga Nistrului",
     "wof:parent_id":1159339529,
     "wof:placetype":"region",

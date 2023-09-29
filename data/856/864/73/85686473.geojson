@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07168,
-    "geom:area_square_m":594972868.440249,
+    "geom:area_square_m":594972868.440273,
     "geom:bbox":"28.403025,47.703208,28.975684,47.987119",
     "geom:latitude":47.834991,
     "geom:longitude":28.683393,
@@ -309,12 +309,18 @@
         "gn:id":858808,
         "gp:id":55948199,
         "hasc:id":"MD.SD",
+        "iso:code":"MD-SD",
         "iso:id":"MD-SD",
+        "qs:local_id":"28",
         "unlc:id":"MD-SD",
         "wd:id":"Q865639"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"7d085a9db24325656bb511b76d4e8760",
+    "wof:geomhash":"3ca6c893adb5929669cbed0dbcbb4594",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -329,7 +335,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939129,
+    "wof:lastmodified":1695884534,
     "wof:name":"Sold\u0103ne\u015fti",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

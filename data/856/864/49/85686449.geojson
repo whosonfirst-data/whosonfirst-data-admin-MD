@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009299,
-    "geom:area_square_m":77273267.58313,
+    "geom:area_square_m":77273267.583123,
     "geom:bbox":"27.783484,47.728639,28.050791,47.824823",
     "geom:latitude":47.774082,
     "geom:longitude":27.931201,
@@ -374,12 +374,18 @@
         "gn:id":873909,
         "gp:id":20069873,
         "hasc:id":"MD.BT",
+        "iso:code":"MD-BA",
         "iso:id":"MD-BA",
+        "qs:local_id":"36",
         "unlc:id":"MD-BA",
         "wd:id":"Q4484005"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"ac1738db3897363740d27fdd5794042a",
+    "wof:geomhash":"f19e5369ce10cc1720a2aec226fab9b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -394,7 +400,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1614895312,
+    "wof:lastmodified":1695884534,
     "wof:name":"mun.B\u0103l\u0163i",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.154516,
-    "geom:area_square_m":1311572488.979802,
+    "geom:area_square_m":1311573256.116873,
     "geom:bbox":"28.923125,46.376175,29.694597,46.834303",
     "geom:latitude":46.649092,
     "geom:longitude":29.324223,
@@ -305,12 +305,18 @@
         "gn:id":618119,
         "gp:id":55948183,
         "hasc:id":"MD.CU",
+        "iso:code":"MD-CS",
         "iso:id":"MD-CS",
+        "qs:local_id":"07",
         "unlc:id":"MD-CS",
         "wd:id":"Q2128869"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"MD",
-    "wof:geomhash":"cfe85fa114e93b604887d21476a3c418",
+    "wof:geomhash":"84dd5bdb9f57e7ee3ad1d044d8a37684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -325,7 +331,7 @@
     "wof:lang_x_spoken":[
         "ron"
     ],
-    "wof:lastmodified":1690939134,
+    "wof:lastmodified":1695884534,
     "wof:name":"C\u0103u\u015feni",
     "wof:parent_id":85633287,
     "wof:placetype":"region",

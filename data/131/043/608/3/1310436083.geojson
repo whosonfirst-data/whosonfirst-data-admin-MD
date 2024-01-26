@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"28.48958,47.04577,28.48958,47.04577",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Horodca"
@@ -62,7 +64,7 @@
         "wk:page":"Horodca"
     },
     "wof:country":"MD",
-    "wof:geomhash":"f5ece2a16392092aa2a4eeb7f91b9e31",
+    "wof:geomhash":"b58ed642db04b0768a37a0a79f7034cc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,20 +74,22 @@
         }
     ],
     "wof:id":1310436083,
-    "wof:lastmodified":1566603022,
+    "wof:lastmodified":1706240350,
     "wof:name":"Horodca",
     "wof:parent_id":85686385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-md",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        101863733
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     28.48958,
-    47.04577000000001,
+    47.04577,
     28.48958,
-    47.04577000000001
+    47.04577
 ],
-  "geometry": {"coordinates":[28.48958,47.04577000000001],"type":"Point"}
+  "geometry": {"coordinates":[28.48958,47.04577],"type":"Point"}
 }

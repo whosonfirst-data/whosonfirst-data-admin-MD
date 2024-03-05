@@ -9,7 +9,20 @@
     "geom:bbox":"28.775524,47.406654,28.775524,47.406654",
     "geom:latitude":47.406654,
     "geom:longitude":28.775524,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Pelivan",
+    "gn:country_code":"MD",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":617883,
     "gn:id":"617883,831025",
+    "gn:latitude":47.4078,
+    "gn:longitude":28.7786,
+    "gn:modification_date":"2018-04-14",
+    "gn:name":"Pelivan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Chisinau",
     "iso:country":"MD",
     "lbl:bbox":"28.755524,47.386654,28.795524,47.426654",
     "lbl:latitude":47.406654,
@@ -41,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "Pelivan"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Pelivan"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043b\u0438\u0432\u0430\u043d"
@@ -77,6 +93,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":617883,
         "gp:id":480330,
         "qs_pg:id":1,
         "wd:id":"Q1987872"
@@ -95,13 +112,15 @@
         }
     ],
     "wof:id":101863955,
-    "wof:lastmodified":1690939283,
+    "wof:lastmodified":1706240350,
     "wof:name":"Pelivan",
     "wof:parent_id":85686441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-md",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343394787
+    ],
     "wof:tags":[]
 },
   "bbox": [
